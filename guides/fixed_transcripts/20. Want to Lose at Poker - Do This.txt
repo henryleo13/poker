@@ -1,0 +1,601 @@
+if you want to be a losing poker player
+and never make money here's exactly what
+to do this is why even if I gave away
+every poker secret for free it wouldn't
+matter 99% of players would still suck
+I've made over seven figures in cash
+games and I'll show you exactly why most
+players lose so you don't end up like
+them let's jump in reason number one
+most poker players lose they memorize
+instead of finding the why so they
+memorize some concept they've heard
+regurgitated somewhere else like don't
+see bet on boards that are bad for our
+range so let me show you an example all
+right so we open pocket Jacks from the
+lowjack and the big blind is going to
+defend and the Flop comes 653 when the
+big blind checks it over a lot of bad
+poker players are like well they have a
+range Advantage here and this board is
+not good for my range so I'm not going
+to be SE betting and if you look at the
+spot in equilibrium they are right low
+Jack versus big blind in the spot we're
+only supposed to be SE betting about
+16.5% of the time here but we are
+playing live poker we are not playing in
+equilibrium so what if this player is
+just defending Too Much from the big
+blind what if they are calling too many
+weak hands to a small seab what if they
+are raising their strong hands at too
+high of a frequency on the Flop we're
+going to see here I just make one
+adjustment I have our opponent fast play
+Just 10% more when they have strong
+hands like sixes fives threes 6 five on
+this board and when they have
+unintuitive Bluffs like two overs and a
+back door I have them check rais just
+about 10% less and look at this with
+these two tiny adjustments I'm still
+having our opponent play perfectly pre-
+flap by the way we are now betting 99.5%
+of the time so with just a couple of
+tiny adjustments we are now range
+betting on this board bad poker players
+have also memorized Concepts like don't
+Barrel without Equity so once again
+playing 25 we're going to open on a
+button with seven six of diamonds
+opponent is going to defend in the big
+line flop comes Queen 94 just learned
+that range betting is probably pretty
+good with the mistakes that our
+opponents are making in life poker so we
+are going to range B and now our
+opponent is going to call we go to the
+turn which brings in the front door
+flush and we pick up a gut shot but
+we've really got very very little Equity
+here so a lot of poker players would
+just check back and give up in the spot
+but what if we make a couple of
+assumptions here nothing wild just
+assuming that on the Flop our opponent's
+going to fast play hands like Queen n
+pocket 99's pocket fours Queen for
+suited at a relatively high frequency
+and then assumption number two that if
+we get to this turn and we bet quite
+small on the turn when the front door
+flesh comes in our opponent is going to
+fast play their flushes at a relatively
+high frequency again not all the time
+sometimes they'll trap here when they
+have the nut flush but when they do have
+a flush on this turn they're just going
+to raise greater than 50% of the time if
+we bet small well look at that sweet
+baby there with just these two
+assumptions we are now barreling on the
+turn 86% of the time and we see here
+when we have seven6 of diamonds
+specifically a hand with just very very
+low Equity we are betting the turn now
+all of the time just going to be higher
+Eevee to bet the turn than the check
+back by just making a couple of
+assumptions losing poker players have
+also memorized Concepts like don't Bluff
+with bad blockers so we're going to open
+Queen 10 of Spades here on the button
+and what do you know the Flop comes Jack
+n Deuce so we flop a combo draw straight
+flush draw here we are going to cette
+our opponent is going to call we are
+going to Barrel large on the turn our
+opponent's going to call again we get to
+the river and we brick and so many poker
+players in the spot are like well you
+know I unblock all my opponent's fold so
+I'm probably just going to give up here
+and we see here in equilibrium this is
+the correct assumption Queen 10 of
+Spades is just going to be giving up
+100% of the time on this River but again
+what if our opponent is fast playing too
+much on the Flop they're fast playing
+their Jack n their pocket NES their
+pocket Deuces at a higher frequency than
+equili which means they just don't
+arrive to the river with nearly as many
+traps with nearly as many strong hands
+what this means in reality the best hand
+our opponent has getting to the river is
+going to be a hand like Ace Jack or King
+Jack and we see here when we give the
+solver these assumptions Queen 10 of
+Spades even with the [ __ ] blockers is
+just always bluffing on the river
+usually for the big boy all in size and
+you know what if you're not a fan of
+solvers throw the solvers out the window
+okay let's just look at this from a
+practical perspective if our opponent
+flipped over a hand like Ace Jack or
+King Jack here the best hand they're
+going to have getting to this River 99%
+of the time right and we had a hand like
+pocket kings what size would we bet on
+this River if we had pocket kings to get
+a hand like Ace Jack or kingj Jack to
+call and if our answer is less than $800
+if our answer is we're going to bet $300
+or 400 or even $500 on this River with
+pocket kings because we want Ace Jack to
+call why are we not betting 800 because
+we think Ace Jack or King Jack are going
+to fold well now we have a pretty easy
+decision when we have Queen tennis
+Spades if we think Ace Jack or King Jack
+are going to fold if we put in all the
+money the blockers don't matter we're
+just thinking about the wrong things
+right if we assume that Ace Jack or King
+Jack are folding on this River when we
+put in $800 well we know what to do when
+we have Queen 10 of Spades the blocking
+or unblocking properties of our hand are
+nearly Irrelevant in live poker where we
+just have so much information about our
+opponent's Tendencies and what they are
+doing don't get too zoomed in on the
+leaves on the trees and miss the entire
+Forest here if our opponents are getting
+to the river with a capped crippled rain
+and on this River if we had pocket kings
+or pocket Queens we would never be going
+all in we know exactly what to do when
+we are bluffing another concept I've
+heard losing poker players say and now
+I'm going to turn this back on myself
+I've heard things like well the Hungry
+Horse strategy is just going big with
+Bluffs small with value that seems
+really easy right again this is not true
+they are just trying to memorize a
+concept instead of looking for the
+reasons behind it so we see here exact
+same situation with Queen tennis Spades
+except in this one we start the hand 500
+effective instead of a th000 effective
+so should we be going big on this River
+to to Bluff our opponent off Ace Jack or
+King Jack well no we've only got $300
+behind our opponent is not going to fold
+top pair in a million years so this big
+with Bluff small with value again it's
+just memorizing a concept that can be
+very very easily misapplied and is in
+fact not factual another example we open
+with 87 of diamonds same flop we C BET
+our opponent calls we're going to double
+barrel on the turn our opponent calls we
+get to the river and the river is a jack
+and again the big with Bluff small with
+value does not work does not apply in
+the situation memorize in is not the way
+to go so on this River what is our
+opponent's range well they're going to
+have a lot of trips Ace Jack King Jack
+Queen Jack Jack 10 trips are never
+folding on this River even if we bet 2x
+pot so on this River going big with a
+bluff just not going to be a profitable
+play instead if we had a hand like
+pocket nines or pocket Deuces would
+probably just be jamming going all in I
+don't think our opponent is ever folding
+trip Jacks and if we have a bluff here
+like eight High maybe the play here is
+just to go very very small try to get
+our opponents to fold their Ace High
+flesh draws their King High flesh draws
+their Queen High straight draws so
+memorizing is not the way to go the
+thing is when players try to memorize
+Concepts without understanding the Why
+without understanding the reasoning
+behind the concept as soon as the meta
+of a game changes they are completely
+lost so in 2016 The Meta of live poker
+was let's just bet fold let's bet very
+thinly for Value because our opponents
+are calling too much maybe the meta in
+2025 is let's Bluff all the time because
+our opponents are getting to rivers with
+wide ranges and and they are over
+folding and let's just fold every time
+our opponent puts in a ton of money and
+fights fire with fire because they are
+under bluffing but what if the meta
+changes what if all a sudden in 3 years
+The Meta and live poker is everybody is
+over bluffing and everybody is calling
+too much because the entire pool is just
+Bluff Happy Well now all of the stuff
+you memorized does not apply so this is
+why it's so important because if you can
+reverse engineer Solutions if you
+understand the reasons why why these
+rules exist you can adapt you can adjust
+the most profitable players understand
+the why the losing players memorize the
+second reason most poker players lose is
+because they chase shiny objects instead
+of doing the boring work so they say
+stuff like I want to learn how to beat
+up good players but they still don't
+know how to beat up fish so real quickly
+let me break down how I think about
+exploiting fish when we are the pre-f
+flap caller and a fishy player is the
+pre-f flap aggressor and they are
+barreling the fish tendency basically in
+this spot is that fish are going to
+under Bluff so let me show you in
+example so we open the cut off with
+pocket sixes a fish on the button three
+bets and we are going to call flop comes
+10 for deuce and now the fish SE bets
+for a very large size 130 into 157 so we
+know that the fish tendency is to under
+Bluff fish exploit number one we are
+going to overfolded to large seab bets
+particularly in three bet pots because
+they just have too many strong hands
+when they take this huge size they are
+just completely unbalanced they are
+giving us a wide open clue so we are
+going to exploit them by just folding
+when they take these ridiculously large
+seabat sizes all right same spot but
+this time we flop a set and a fish is
+going to seab bet here again and we are
+going to put in a check raise right away
+why we want to put in more money for
+fish when we have a strong hand because
+they are going to under double barrel
+and triple barrel as a bluff and they
+just aren't going to bet thinly enough
+for value on turns and rivers so when we
+have a strong hand we just want to put
+in more money for them all right example
+number three this one the Flop is back
+to 10 for Deuce a fish seab bets half
+pot we're going to call with pocket
+sixes here turn is now a three we check
+and they double barrel well we are just
+going to be folding in a spot even if we
+pick up a shred of equity here we want
+to massively over fold when fish double
+barrel and triple barrel in three bet
+pots because in these nodes they are
+massively under bluffing so this is how
+I'm thinking about exploiting fish and
+as we see here it looks relatively
+simple looks relatively straightforward
+but until we get this down we should not
+even be thinking about I want to learn
+how to beat good players because
+learning how to beat good players is
+going to be a lot more nuanced so we
+want to get the boring basic stuff down
+first how do we beat up fish for the
+most amount of money so if we're going
+to talk about beating up good players or
+Rags we just see there's a lot more
+Nuance to it for example Rags under
+Bluff in tight configurations on Ace
+High boards in forb pots and when the
+money goes in but they over Bluff in
+wide configurations probably on double
+Broadway boards in single raise pots or
+when the pot isn't huge if we flash back
+to fish here fish just under Bluff live
+Rags or Pros are much more nuanced when
+they under Bluff and when they over
+Bluff it's not as simple as fish so
+until we've learned to tackle step one
+how to exploit fish we shouldn't be
+moving on to learning how to beat up
+good players so this time we're playing
+against a pro we're going to open pocket
+9es a pro is going to three bet from the
+hijack so an early versus early
+configuration flop comes 863 we check it
+over the pro is going to C bet and
+actually I think we could maybe just
+think about folding right now pocket 9es
+here because this spot early versus
+early they're just going to have a very
+strong range and we just have a lot
+stronger hands in our range early vers
+early in the spot we've got Queens we've
+we got Jacks we've got tens we've got
+nut flush draws but we're going to call
+here on the Flop we go to a turn they
+are going to double barrel and we are
+going to fold so we see here rag exploit
+number one we're going to over fold in
+tight configurations just like we just
+showed in early versus early 3 by pot on
+a high boards in four bet pots or when
+all the money goes in because this is
+when Rags are under bluffing it's hard
+to find Bluffs when most of our range
+looks like value conversely in this spot
+here a rag is going to open on the
+button we defend in the big blind with
+King six of diamonds we check it over
+they see bet going to call with middle
+pair turn is a four they're going to go
+with a big bet we call again we get to
+the river which is a queen they're going
+to triple barrel we are going to call it
+off here with a pair of sixes and we are
+going to be good so we see here against
+RS we want to overall in wide
+configurations button versus big blind
+that applies maybe on double Broadway
+boards and single rais pots when the pot
+isn't huge this is when Rags can find
+the Bluffs some other possible rag
+exploits maybe fast playing spots where
+they under Bluff and have a strong range
+maybe we should be under bluffing in
+spots where they are supposed to fold
+strong hands maybe we should be trapping
+in spots where they overbluff and have a
+wide range and maybe we should be over
+bluffing in spots where they're supposed
+to call with some weak hands so we see
+here already how much more difficult
+this is to apply how much more nuanced
+it is if we flash back to how we're
+exploiting fish here look at this we're
+just over folding the large seab bets
+over folding the double barrels putting
+money in for them right this is very
+very easy compared to the exploits we
+would make against Rags I don't want to
+go too deep into this this is beyond the
+scope of the video but just showing the
+difference in Nuance between how to beat
+up fish and how to beat up Rags if we
+can't beat up up fish we're never going
+to be able to beat up good players
+because the mistakes made by good
+players are generally smaller and way
+way way less reliable as Lil Wayne once
+said if we too simple y'all don't get
+the basics and beating up fish is the
+basics but it is the bread and butter
+it's where the win rate comes from and
+that skill needs to be mastered first
+beating up Rags beating up pros this is
+a shiny object it's something that makes
+us feel good but until we get down the
+basics we shouldn't be moving on to the
+advanced stuff so many players want more
+they want new they want a secret but if
+you want to know the real secret there
+is no secret to getting good at poker
+you just have to do the boring work the
+third mistake losing poker players make
+is they demand answers instead of asking
+better questions for example they ask
+stuff like should I call here and
+they'll give you a hand history like
+this where we open Ace Jack we get three
+bet by the button and they flop we flop
+top pair we're going to check it over
+the villain is going to see bet we call
+we get to a turn the villain's going to
+double barrel We call we get to a river
+which pairs the board we check it over
+and the villain is going to bet once
+more on this River and all too often I
+see in the spot poker players just
+asking well should I have called here
+what should I have done this doesn't
+help us we're never going to play this
+hand against this opponent in this
+configuration at this table ever again
+instead to be more productive we should
+be coming up with a list of better
+questions to ask in the spot so in the
+future we're better prepared to make a
+better decision the answer almost
+doesn't matter it's how we we get to
+that answer so instead of asking should
+I call I'd be asking questions from our
+Bluff catching checklist like do we beat
+any value is this player capable did we
+give them rope is the size significant
+and do they have non-sh Showdown value
+and these type of questions being able
+to go through and forcing ourselves to
+ask these questions in the moment and
+practicing so this becomes part of our
+subconscious while we're playing this is
+going to allow us to get to a better
+answer instead of just asking should I
+call and you don't need a solver for
+this you don't need any fancy tools you
+just need your brain but if you are a
+bit of a solver nerd like me we can also
+use a solver to ask good questions as
+well and while looking at a solver these
+are the questions I'd be asking what
+hands are they supposed to be bluffing
+are the Bluffs intuitive or unintuitive
+how thin are they supposed to be going
+here too many players just open up the
+solver hover over to Ace Jack of Spades
+and see Ace Jack of Spades is supposed
+to be a fold how does this help us this
+does not teach us anything it does not
+make us a better poker player sure we
+have an answer we have that Curiosity
+itch that just got scratched but we are
+no better off for it so instead I'd be
+looking at my opponent's range in
+equilibrium that's supposed to be
+bluffing on this River we see hands like
+Queen Jack Queen 10 Queen n King n King
+10 a lot of these hands are supposed to
+be triple barrels here even the combos
+with diamonds on this River why because
+it's hard to find Bluffs in a three bet
+pot on an ace high board so I'd be
+asking well is our opponent bluffing
+with hands like Queen jack of diamonds
+or queen Jack of Spades are these hands
+triple barreling on this board and if my
+answer is no in this spot well no these
+Bluffs are not quite intuitive maybe
+they find the diamond Bluffs some of the
+time but they don't find the triple
+barrels with hands like Queen Jack of
+Spades with no back door that just start
+betting off on the Flop so by looking at
+where the Bluffs are supposed to be
+coming from we can think well no my
+opponent probably isn't finding these
+Bluffs so they're under bluffing so
+whether we use the solver or don't use
+the solver it's irrelevant the point is
+we should be asking better questions
+instead of just trying to come to an
+answer that does not matter next example
+losing players will often ask stuff like
+should I forb bet here so we open pocket
+Queens on the button now the small blind
+is going to three bet and back to us and
+again instead of looking for an answer
+we should be asking better questions
+here questions like how deep am I with
+my opponent what range is he three
+betting is he playing three bet or fold
+from the small blind is his range too
+strong or too weak will he Barrel post
+flop or will he play fit or fold how
+will he respond if I forbit will he call
+too much will he fold too much these are
+questions we can ask to help us to a
+better decision and if you want an
+answer in equilibrium here is an
+approximate range we're supposed to be
+four betting on the button versus a
+small blind three bet when 200 big
+blinds deep right we're supposed to be
+going relatively polar what does that
+mean well it means we forb bet the very
+very top of our range the aces the Kings
+the Ace King suited sometimes the queens
+and the Ace King off and then we're just
+doing a lot of calling with the upper
+middle portion of our range the Jacks 10
+nines Ace Queen suited because we're
+going to be in position we're going to
+be deep we're going to have a positional
+advantage and then the hands that are
+forb bluffing are some of the acex and
+kingx suited hands that are going to
+have some playability post flop if our
+opponent calls right the ace8 A7 A6
+king9 suited these type of hands so this
+is the solution in equilibrium but if we
+ask better questions we can come to a
+better answer for example what if our
+opponent just has too strong of a three
+bet range and they're just going to be
+calling our four bet way too much well
+then we may want to go linear right we
+may want to go linear we may want to
+eliminate the 4bet Bluffs and just go
+thinner and wider for Value here if our
+opponent is going to be calling too much
+another question that losing players
+often ask that always gets me is will
+this play work so they'll post a hand
+history like well we open Jack nine of
+spades on the button and the villain
+calls we see backat the Flop they call
+we double barrel the turn they call we
+get to the river and should I Bluff here
+will this work instead we should be
+asking questions to help us inform our
+decision instead of just trying to come
+to an answer what is their range are
+they capped do they have in elastic
+hands if I was value betting in the spot
+instead of bluffing what size would I
+bet to get called losing players demand
+answers great players ask better
+questions the fourth thing I see losing
+poker players do is they glorify freedom
+without falling in love with the process
+so they'll say things like I want to use
+poker to be free then they don't even
+work as hard at poker as they would at a
+real job the truth is poker is hard and
+if you're not obsessed with the process
+of getting better if you're not thinking
+about it every minute if you're not
+putting in five times more work on poker
+than the 9 to-5 job that you're
+currently phoning it in at you will
+never find find the freedom you want
+from poker so many poker players are
+obsessed with optimizing routines
+instead of doing actual work right
+before I study I'm going to meditate I'm
+going to do yoga I'm going to do a cold
+plunge I'm going to do this I'm going to
+do that and then I'm going to study they
+put barriers they put obstacles in front
+of themselves before they actually do
+the hard boring work and this often
+comes in the form of excuses as well
+right like how do I generate hands to
+practice should I play small Stakes
+online well I can't get money on there
+do I need to play to go get more hands
+to review all of this is [ __ ] the
+routines we come up with before we
+actually start working the excuses we
+make on why we can't study all of these
+are just barriers we put up to prevent
+ourselves from doing the actual work so
+bad players they glorify the freedom
+that poker will give them and great
+players they fall in love with the
+process of actually doing the work and
+getting better every single day and this
+is why when players ask me Mark why do
+you give away all this stuff for free on
+you YouTube aren't you scared about
+ruing the game no it just it doesn't
+really matter it doesn't move the needle
+because 99% of players just aren't
+willing to do the work and if it was
+easy it wouldn't be worth doing
+hopefully this video helps and shows you
+guys what not to do so you can take the
+steps to become a great player thank you
+guys and have a gentle day

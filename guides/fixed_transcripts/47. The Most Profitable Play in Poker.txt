@@ -1,0 +1,526 @@
+I want to talk about maybe the most
+profitable line in all of live poker if
+you're not doing this three four five
+times a session well let's add a couple
+big blinds an hour to your win rate
+today let's talk about the seabat Flop
+checkback turn Bluff catch river line
+and why it is so so so good all right so
+we are playing 25 1K effective with the
+villain here villain's going to open up
+the cut off and as you know I like to
+play three better fold when recreational
+players open the only time I'm really
+flatting in live poker is when a very
+strong Pro opens and there's fish behind
+or when I'm in the big blind closing the
+action so I'm going to put in a three
+bet here and the villain is going to
+call we're going to a flop Jack n Deuce
+with a couple of Spades very special
+flop a very special flop in my heart
+villain is going to check it over and in
+three bet pots in single race pots in
+any heads up pot I am range betting in
+position because this is where Live
+players make the most mistakes when
+you're in position and you range bet
+going to be very very hard to play
+against and in general I like to choose
+a size where they raise off their strong
+[ __ ] and still call with their weak [ __ ]
+so in single pots usually around half
+pot gets that job done in three bet pots
+I like to go a little bit smaller
+because the absolute size of the pot is
+a little bit bigger so usually around 30
+to 40% pot with my entire range here
+that's what I do I go 50 into 147 and
+villain calls we go to a turn which is a
+four of Hearts he checks it over at this
+point I think we've got plenty of
+Showdown value here our hand is probably
+too thin to bet for three streets so I
+am going to check it back now the river
+is the innocuous three of clubs and I'm
+going to show you three different
+scenarios on the river number one when
+villain comes out and Bets half pot here
+number two when villain comes out and
+Bets full pot here and finally number
+three when villain checks on this River
+so three different scenarios let's talk
+about how to play all three right now
+and I'm going to show you why this line
+is so so so profitable all right first
+let's talk about when villain comes out
+and Bets half pot on this River number
+one when we three bet pre- flop do you
+think villains call too much or fold too
+much well in live poker they probably
+call a little bit too much they get to
+the Flop a little bit too wide now when
+we see bet small on the Flop do you
+think they raise off too much of their
+strong stuff or do you think they trap
+too much I would say when we choose a
+small size on the flap particularly on a
+wet Dynamic board such as this one
+villains in general are going to raise
+off too much of their strong stuff when
+they just call on the Flop now the turn
+goes check check they're calling too
+wide pre- flap they're calling too much
+of their weak stuff on the Flop they're
+raising too much of their strong stuff
+on the Flop they just have too much air
+they have too many draws at bricked the
+nice thing is when they get to this
+River you've heard me talk about this
+before fear and greed drives Live
+players decisions so much and when they
+get to this River with a very strong
+hand like Ace Jack or pocket queens or
+something like that they're just going
+to come out and choose a bigger size
+when villain bets half pot on the river
+this is supposed to be our continue
+range as you see here Ace 9 is just
+going to be a pure continue we're
+calling with Ace 9 of Hearts any Ace 9
+actually 100% of the time here on this
+River but now I want to go through and
+as we like to do I like to make a few
+node locks here and change villain's
+response so let's look at Ace 9 on this
+River we are winning $233 when we call
+with Ace 9 on this River so already a
+very very profitable Bluff catch but
+let's go through a node loock I'm going
+to show you why in actuality in live
+poker in the real world it's actually a
+more profitable Bluff catch than an
+equilibrium so let's go through and
+let's start with the Flop here and this
+is supposed to be villain's response
+when we bet $50 into 147 on the Flop if
+we lock ourselves to be range betting
+they're supposed to be raising quite a
+bit right they're supposed to be raising
+like 20% of hands I would argue this
+doesn't happen so let's go through and
+let's make a few adjustments so we will
+go to set strategy and Nod loock let's
+go through and let's look how villain's
+playing their range first of all let's
+go through and look how they're playing
+their flush draws I would argue that
+they are not playing flush draws this
+aggressively so we'll have them play
+flush draws just a little bit more
+passively now let's look at the openend
+straight draws here and let's see how
+aggressively they're playing these again
+I would argue they're not going to play
+these this aggressively let's go through
+and look at the four out straight draws
+again there's just no way they're
+playing four out straight draws this
+aggressively so let's turn that down
+let's look at combo draws this actually
+looks good so they're going to be
+playing combo draws pretty aggressively
+I think we can agree that is realistic
+let's at the sets and I would argue that
+sets probably play just a little bit
+more aggressively here so let's just be
+conservative let's turn this up just a
+little bit and then finally let's look
+at two pair how they're playing two pair
+here and actually I would argue that two
+pair maybe traps a little bit more than
+this they're still going to play two
+pair very aggressively maybe raising 80%
+of the time but I would argue sometimes
+they just call with a hand like Jack n
+suited or something like that finally
+let's look at these pocket pairs down
+here these fours these threes these
+hands are just never raising in a three
+bet pot and let's look at these Ace King
+off Ace Queen off hands again these
+hands are just never raising all we
+really did here is we turned down their
+frequency of bluff raising on the Flop
+and overall their two pair and sets are
+still fast playing at about the same
+amount in equilibrium so those are all
+the changes we made here on the Flop
+let's go through and we are going to
+lock this and save and close we will go
+back to our post flop tree Builder and
+we will click go and we will wait for
+this to solve all right if you remember
+before in equilibrium our Ace 9 of
+Hearts was printing
+$233 48 here you can see right here by
+calling on this River in equilibrium we
+are winning $233 48 so now let's see
+just by locking their flop response and
+having them play a little bit less
+aggressively with their draws on the
+Flop now let's see how much we're
+winning with ace9 of hearts on this
+River look at that sweet baby there we
+are winning over $60 more on this River
+just by having them play their draws a
+little bit more passively on the flap
+because when they get to this River now
+they just have too many draws right they
+just have too many draws that bricked
+they just have too many floats that
+bricked which forces them to Bluff more
+and when they get to this River with a
+lot of their busted draw s when they get
+here with air when they get here with
+nothing they're just not going to be
+using the big size all the time they're
+going to be much more weighted towards a
+small size and when they get here with
+very strong hands I would argue they're
+probably going to be a little bit more
+weighted to the big size so let's go
+through and let's nod loock and see how
+this affects our Bluff catching
+profitability on this River all right so
+here is what they are supposed to do on
+equilibrium on the river getting here
+with this range that we locked on the
+Flop they're supposed to be using this
+big size on the river this pot size
+about 21% and this small size about 19 %
+so let's go through and lock this let's
+see how they're playing let's make a few
+tiny tweaks so we will go to set
+strategy and node lock here if they did
+just call with a set on the Flop like
+pocket jacks or pocket nines which they
+are doing sometimes maybe 20% of the
+time what size are they using on this
+River well I would argue this is not
+accurate they're not going to check the
+river again they're not going to use a
+small size on the river with a set once
+the turn goes check check in a three bet
+pot I would argue players just get a
+little bit more greedy they're going to
+use the big size just a little bit more
+so let's shift that over to the big size
+a little bit more let's look at two pair
+here two pair again I would argue the
+big size is just going to be used more
+than the small size now let's look what
+happens when they get here with nothing
+when they get here with a brick draw and
+I would argue that the small size is
+probably going to be used a little bit
+more than the big size here when they
+get here with a bricked draw the
+co-founder of Hungry Horse poker my good
+friend Guth and Jacobs high stakes
+online Crusher for a long long time he
+said if he just folded every single time
+a recreational player bet greater than
+3/4 pot on the river he would have so so
+so much more money today because in enal
+when they use the big size they just
+don't have enough Bluffs in the big size
+so you see we haven't gone crazy here
+we've just made sure that when they have
+nothing going to the river they just use
+the small size a little bit more and
+when they have two PA and sets going to
+the river they use the big size a little
+bit more finally let's check out what
+they're doing with a hand like top pair
+they're using the big size more than the
+small size which I think is fine here
+and let's go through and lock this River
+we will save and close go back to our
+post flop tree Builder we will click go
+and then we will show you the results
+all right so here is equilibrium as you
+remember when they bet half pot on this
+River we are calling about 45% of the
+time and ace9 of Hearts is winning
+$233 on this River by calling and here
+is our strategy after doing just a
+little bit of node locking look at this
+we are now calling nearly 60% of the
+time ace9 of Hearts is now winning
+$320 by calling on the river so almost
+$90 more do than we were winning in
+equilibrium as you can see we're just
+not folding here we're folding 8% of our
+range on this River when they bet half
+pot you can see things are starting to
+get a little bit wonky here it's
+starting to raise Ace 9 and turn it into
+a bluff sometimes I would not
+necessarily recommend that we have not
+locked their response for when we raise
+I would argue when we raise this River
+they're probably going to be massively
+underfolding if they do occasionally
+have a top pair two pair if you don't
+believe that nolock strategy necessarily
+applies in your game well still it
+doesn't matter we were already printing
+on this River by calling when they bet
+half pot now we are printing even more
+all right next I very quickly want to
+take a look at what happen happens when
+they come out and bet pot on this River
+what should we be doing with our Bluff
+catchers when they bet full pot on this
+River after the turn goes check check we
+see here in equilibrium when they bet
+pot on the River of course we're doing a
+lot more folding which makes sense ace9
+still a profitable Bluff catcher here on
+this River we are winning $15 by calling
+on this River so it's closer to break
+even but we're still printing by calling
+with a hand like Ace n of hearts in
+equilibrium on this River let's look at
+the node loock solution now and see if
+Ace 9 of Hearts is still a profitable
+Bluff catch when they bet pop here is
+the nolock solution when they come out
+and bet pot on this River and as you can
+see we are folding 84% of the time we're
+just almost never calling getting to
+this River and Ace n of Hearts is
+actually losing $32 when they bet pot I
+would put my life savings on it that
+live players in general as a pool when
+they bet pot on the river they are under
+bluffing the larger the size you're
+betting the more Bluffs you need to have
+and I would argue that it's actually the
+opposite for Live players when they
+choose the smaller size they just have
+too many Bluffs and when they choose the
+bigger size they actually have less
+Bluffs as a proportion of their range
+even though they're actually supposed to
+have more if someone is under bluffing
+every Bluff catcher is more profitable
+as a fold than as a call all right
+finally and what do we do on this River
+when they check to us when we have Ace
+nine of Hearts we see here here's our
+strategy in equilibrium a nine of Hearts
+is just a very profitable 2/3 pop siiz
+bet here on this River when we bet 163
+we're winning the most money we're
+winning about $215 by betting on this
+River once our opponent checks over to
+us and here is the nod loock strategy
+Ace n of Hearts now winning
+$236 when we bet 2/3 pot on this River
+and I would argue because we haven't
+even lock this yet I would argue that
+it's going to be more profitable so
+let's see what they're supposed to do
+here when we bet 2/3 pot on this River
+and let's go through set strategy and
+lock node let's look at their range here
+when we bet 2/3 pot so let's see what
+are they doing with top pair top pair is
+not going to be raising on this River
+these guys are just checking to check
+call I would argue they're calling it
+100% frequency let's look what they're
+doing with second pair here and second
+pair calling it 100% that seems good now
+they have some of these Bluff raises
+like pocket fives here on this River I
+would argue this hand just does not get
+Bluff raised let's just turn this
+frequency all the way down to zero and
+they're probably just calling more here
+on this River when they get here with
+pocket fives all right so just a couple
+of tiny tweaks we're going to lock this
+save and close back to our post flop
+tree Builder we will click go it should
+solve very very quickly here and now we
+see when they check here on this River
+by betting 2/3 pot with Ace n of hearts
+we are winning nearly
+$259 here on this River the turn goes
+check check and they come out and bet
+half pot on the river we just
+essentially call with our entire range
+when the turn goes check check and they
+come out and bet pot on the river we
+just essentially fold our entire range
+and when the turn goes check check and
+they come out and check the river well
+now we just get to Value bet quite
+thinly on this River because we know in
+general if they had top pair if they had
+an over pair if they had a set they
+would just most likely come out and bet
+the river so now we just get the value
+bet with impunity so no matter what
+happens we have a very easy easy easy
+profitable decision hey guys I'm Maron
+I've won over seven figures playing
+poker wow wow and I make these videos to
+help you guys win more so you can climb
+past low stakes and hopefully one day
+join us at Hungry Horse where we can
+help you crush mid to high stakes and
+Beyond so if you're enjoying the video
+if you're getting value out of this all
+I ask please hit that subscribe button
+thank you guys have a gentle day all
+right now I want to talk about a few
+mistakes people make in these nodes I
+was making these mistakes myself myself
+and once I patched these mistakes in my
+game I started making a lot more money
+mistake number one checking back the
+Flop with Showdown value a simplified
+strategy executed well is almost always
+going to outperform a more complex
+strategy if we have some bets and some
+checks on this flop in general we're
+just going to have a more complex
+strategy so let me talk about why that
+is not great because on this flop our
+very strong hands when we're this deep
+on a wet Dynamic board in a 3B pot all
+of our good hands want to bet if we have
+an overpair if we have Jack X if we have
+a set all of our value hands at 200 plus
+big blind steep are going to want to bet
+when we are in position if we have air
+or we have a draw all of those hands are
+also going to want to bet when we are
+this deep and we are in position so our
+value wants to bet our air wants to bet
+so it's probably just better here to
+simplify and BET our thin value and
+Showdown value as well and just have a
+very simple strategy of betting our
+entire range why is C betting our entire
+range so good against Live players they
+call too much with their weak stuff and
+raise too much with their strong stuff
+which just allows us to play very very
+profitably against them because they
+essentially play face up against range
+bets playing against range bets is very
+very hard don't overthink it don't over
+complicate your strategy just range bet
+all of your hands in a three bet pot
+heads up in position in this spot the
+second mistake people make in the spot
+is continuing to bet on the turn when
+they have a showdown value hand so when
+they have a hand like Ace 9 of Hearts
+here just continuing to Monkey bet and
+Barrel on this turn listen I'm a big fan
+of playing very very aggressively but
+one of the mistakes we saw saw with our
+horses when we first started having them
+implement the Hungry Horse strategy is
+they would just barrel and Barrel and
+Barrel without any regard for what their
+hand strength actually is so one of the
+things I'd advise on this turn is take a
+step back and actually classify your
+hand strength and if you do have a hand
+that classifies as Showdown value on
+this turn checking back is going to be
+so much more profitable than continuing
+to Barrel so if we have a hand like 89
+on this turn what happens if we continue
+to Barrel well we get called by a ton of
+hands that are just beating us right we
+get called by all the jack X we get
+called by pocket 10 we get called by
+over pairs we get called by the better
+9x and of course we're still getting
+value against the draws but we're just
+getting value owned so often but let's
+think about what happens if we check
+back this turn with our Showdown value
+well now on the river with hands that
+beat us they generally just come out and
+choose a big size so we lose zero more
+money to those hands and with their
+draws on the river what happens is they
+come out and bet the medium size or the
+small size so we end up winning two
+streets versus all of their draws and
+all of their Bluffs and we end up only
+losing one Street against their top pair
+or their over pairs or their traps on
+the Flop by checking back this turn
+mistake number three checking back the
+turn with hands that don't have shown
+value so if we do get to this turn with
+a hand like Queen 10 of clubs or
+something like that Queen High we want
+to continue barreling all the time why
+is barreling when deep in position
+against Live players so profitable well
+precisely because when we range bet the
+Flop they tend to call with too much
+weak stuff and raise too much strong
+stuff so once we have bet small on the
+Flop they're just getting to the turn
+with a range that is too weak and too
+capped and just isn't going to hang on
+for three streets so all of our air all
+of our Bluffs all of that stuff wants to
+continue betting on the turn to make
+them play for all of the money when they
+have a hand like pocket 10s or 9x even a
+hand like Jack 10 suited or queen Jack
+suited that's going to call the turn and
+then fold the river when we put in all
+the money mistake number four very
+quickly would be just calling the river
+whenever they B pot when they choose a
+size on the river remember they are
+massively under bluffing and every Bluff
+catcher is more profitable as a fold
+than as a call if they are under
+bluffing and finally mistake number five
+would be folding whenever they bet half
+pot or 60% or 40% pot on this River
+anything under 2/3 pot if we get to this
+River we should be calling remember
+because we shouldn't be getting to this
+River with any hands that don't have
+Showdown value all of our air on the
+turn all of our draws on the turn should
+just be continuing to barrel all the
+time so when we get to this River in
+this node we should probably just be
+calling nearly 100% when they bet half
+pot because we're only getting here with
+hands with Showdown value and when they
+are over bluffing every single Bluff
+catcher is more profitable as a call
+than as a fold all right guys I hope you
+enjoyed this video on maybe the most
+profitable line in all of live poker I
+hope this levels up your win rate and
+turned you into the biggest boy possible
+thank you guys and have a gentle day

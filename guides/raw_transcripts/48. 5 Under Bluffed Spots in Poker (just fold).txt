@@ -1,0 +1,571 @@
+Intro
+if you're not massively overfolded in
+these spots you're probably lighting
+money on fire I'm going to show you the
+top five most under Bluff lines in all
+of live poker using the solver to
+illustrate why these lines are so so
+under bluffed for context my name is
+Maron I played poker fulltime for over 5
+years I started at $1 $2 worked my way
+up and played as big as 200 400 and
+netted over seven figures along the way
+all right let's jump in in no particular
+order I just said the top five because
+the YouTube algorithm likes list of five
+things so the top five most under Bluff
+spots in all of live poker number five
+the turn or river check rise let's look
+The Turn
+at a hand that babyfaced me played on
+Hustler Casino Live we're playing 102040
+the $40 straddle is on in the hijack I'm
+going to open up pocket aces the second
+best hand in poker to $150 hairs here we
+are going to get called by the button
+and now the villain in the hand Mr Ben
+is going to call in the big blind here
+and note this has to be pretty pretty
+tight when he calls out of the big blind
+because he's not closing the action
+there's still going to be multiple
+players behind him remember the hijack
+straddled so he's going to be in pretty
+poor position um and he does make the
+call here going to go all the way around
+back to the hijack Mr Ronnie the
+originator of look at that sweet baby
+there he is going to come along as well
+and we are going to go 1 2 3 four five
+ways here all I flop Queen 43 here it is
+going to check over to me in the cut off
+I am going to CET here with only one
+player behind me left to act I go 300
+relatively small multi way here and now
+Ben is going to call second to act with
+still two players left to act behind him
+so this is just going to be a very very
+tight range we're going to a turn which
+is a seven of hearts and now when he
+checks over to me I think I make a
+mistake here I think I should just be
+going relatively big when he calls next
+to act he's going to be very very tight
+he's going to have a lot of King Queen
+Ace queen queen Jack hands like that of
+course he could have sets he could have
+some Straits but most of his range is
+going to be a lot of Queen X I don't
+think Queen X is folding on this turn
+and he's going to let us know if he has
+a better hand so I should probably just
+be going like 1,500 1,600 here on this
+turn just piling in money against a very
+strong range most of which I am ahead of
+but I play this pretty poorly I go 600
+here into 1380 and now Ben is going to
+think it over and you see here he's
+counting out chips for the check raise
+here and he is going to put in the check
+raise and watch how long I am in the
+tank after he check raises here look at
+that fold in about 3 seconds so I want
+to show you why I was able to come to
+that fold so quickly on the turn so here
+The Range
+is my range getting to the turn going to
+be some Queen X some over pairs some gut
+shots some straights some sets stuff
+like that going to be relatively tight
+and equity-driven when I bet on the Flop
+and here is going to be Ben's range for
+calling the Flop going to be quite a bit
+of that Queen X you notice I gave him
+less Ace Queen because I think these
+hands just three bet pre sometimes the
+king queen suited three bets pre
+sometimes he does have some of the
+straights of course I think some of
+these may be fold pre- flop some of
+these may be raise on the Flop some of
+these maybe at a small frequency three
+bet pre flop and then he does have some
+of the sets here of course some of the
+sets are going to raise off on the Flop
+and then he's got some of these wheel
+draws here that call on the Flop as well
+so here is Ben's optimal response on the
+turn once we bet 600 you see he's
+supposed to play these Queen X of Hearts
+hands super super aggressively this
+queen 10 of Hearts Queen nine of Hearts
+king queen of hearts these hands are
+just raised at a pretty high frequency
+you see also he is supposed to be
+raising these pocket fives pocket sixes
+turning these hands into a bluff at a
+high frequency along with the 54 suited
+so the pair plus straight draw hands get
+played Super aggressively the Paar plus
+flush draw hands get played Super
+aggressively and then he's also so
+supposed to take this ace deuce of
+hearts and the ace five of hearts and
+just raise these hands pure as well and
+when Ben raises here is our optimal
+response you see Aces is already pretty
+close to indifferent Aces is sometimes
+folding sometimes calling a lot of the
+aces are right around break even for
+calling so we're supposed to continue
+actually pretty pretty tight to Bend's
+check rise here on the turn so what
+happens if we just turn down some of
+these Bluffs just slight L here on the
+turn so we are going to go into set
+strategy and lock node and now let's
+just select these pocket sixes let's
+turn down the bluffing frequency here
+we'll still have him Bluff a little bit
+with these hands maybe 15% maybe 10%
+we'll do the same thing with pocket
+fives as well we will turn down this
+raising frequency we'll have him call a
+little bit more with the pair plus flush
+draw here then we're going to take this
+five4 suited as well same thing we're
+just not going to have him raise off at
+this frequency we'll take the ace deuce
+of Hearts here so see you can select ace
+deuce you can come down here and just
+unselect all the other Ace Deuces we'll
+have this hand play a little bit more
+passively as well and also if you don't
+want to select the hands you could just
+type in the hands here so we'll just
+going to type in Queen of Hearts 10 of
+Hearts Queen of Hearts Jack of Hearts
+King of Hearts Queen of Hearts so we
+have these three hands here and we'll
+just turn down the raise frequency once
+again and finally let's see the
+frequency he's raising his sets here I
+would argue these just get raised maybe
+a little bit more and the frequency he's
+raising the Straits I would argue this
+just gets raised a little bit more all
+right so we will go ahead and click lock
+all we will save and close we will go
+back to our post flop tree Builder and
+we will just hit go and we will wait for
+this to solve all right so just for
+context here was our strategy before
+when Ben was raising the turn you see
+Aces and kings were mostly called here
+sometimes folded and now let's go ahead
+and look once we just have him reduce
+his bluffing frequency just slightly you
+see Aces here are just going to be a
+pure fold calling with Aces is losing
+somewhere around around
+$230 and you see here even with pocket
+3es even with bottom set here calling
+this check raise on the turn is pretty
+much a break even proposition and
+remember we still have him semi bluffing
+we just turned down that frequency ever
+so slightly and now you can see how
+tight we should be continuing on the
+turn and this is why you can just
+massively
+overfolded turns or Rivers the last time
+someone check rais Bluff a turn George
+Washington car was President of the
+United States all right guys real quick
+if you're enjoying the video please hit
+that subscribe button I make videos
+every week based upon what the YouTube
+algorithm tells me what you like and
+there is no better way to tell me that
+you like this video than hitting
+subscribe right now thank you guys have
+a gentle day all right the number four
+Ace High
+most under Bluff spot in all of live
+poker Ace High boards let me show you
+all right so we are playing 25,000
+effective villain is going to open from
+under the gun going to fold all the way
+around to us in the big blind and from a
+tight under the gun open we are probably
+just going to be continuing with a hand
+like Ace 10 suited here this hand
+probably not quite good enough to three
+bet in under the gun open so we are
+going to call flop comes Ace 9 Deuce we
+check it over he goes half pot again
+raising doesn't really accomplish
+anything here folding way too weak we
+have top pair we are going to continue
+as a call we are going to the turn which
+brings in the queen of diamonds so now
+we've got the back door nut flush draw
+to go with top pair we check it over so
+he goes $74 so again he is repping just
+a very very strong range don't really
+need to turn our hand into a bluff we
+have top pair again our hand is just too
+good to fold especially with the back
+door not flesh draw so we are going to
+call here on this turn we go to a river
+which is a completely innocuous six of
+Hearts here we check it over and now
+villain goes 172 into 230 so what should
+we do on this River all right so here is
+our equilibrium strategy when villain
+triple barrels and you see Ace 10 is
+pretty much just almost pure folded here
+interestingly we do have quite a bit of
+Ace King off just calling 200 big blinds
+deep and Ace King off has even folded
+remember this is equilibrium we haven't
+no locked anything yet this is just an
+equilibrium under the gun open triple
+barrel on an ace high board versus a big
+blind defend at 200 big blinds and we're
+not really pure calling till we get to
+two pair plus here on this River so now
+let's look at the range that our
+opponent is supposed to bet on this
+River and where are his Bluffs coming
+from the Jack tan that see bets the Flop
+that picks up a straight draw on the
+turn the king 10 that see bets the Flop
+that picks up a gutter on the turn some
+of these Bluffs are pretty intuitive but
+what about these hands like King 8 King
+7 King 6 do we think villains are
+finding these Bluffs on the turn what
+about these hands like pocket fours
+pocket 3es do we think villains are
+finding these triple barrel Bluffs with
+small pocket Pairs and also Ace King is
+just pure checking back on this River do
+we think that's realistic so what
+happens if we eliminate some of these
+unnatural Bluffs and just have villain
+bet a little more thinly on this River
+with hands like Ace King we will set
+strategy and nolock we will take these
+small pocket pairs we will just have
+these hands give up on the river we will
+take some of these King X hands I don't
+think these hands C bet the Flop Barrel
+the turn and triple barrel the river so
+we're going to have these hands just not
+take this line nearly as often here and
+then we have all these zero Equity
+Bluffs with the 87 7665 do we think
+these hands triple barrel at 100%
+frequency I would say probably not so
+let's have these hands play aggressively
+but not quite this aggressively and then
+let's just take the Ace King and make
+sure the Ace King bets the river at a
+higher frequency so let's say something
+like 640 on this River with the Ace King
+so let us go ahead and lock this we will
+save and close we will go back to our
+post flop tree Builder and we will click
+go and wait for this to solve all right
+so once again for context here was our
+strategy in equilibrium you see we're
+mostly folding when we have these hands
+like Ace King Ace Jack Ace 10 but
+they're sometimes mixed in we are doing
+some calling with these smaller Aces
+like Ace 8 ace7 Ace 5 stuff like that
+but mixing and folding mostly with most
+of our acex hands once we nod loock here
+is our response you see Ace King is just
+a pure fold Ace Jack pure fold Ace 10
+pure fold any single pair hand is just
+pure folded on this River and you see
+the worst hand we are calling with here
+on this river is a hand like Queen n for
+two pair so you can see we're not going
+crazy here we're just having villains
+not find a few of these unnatural Bluffs
+and maybe go a little bit thinner than
+they should with top pair top kicker on
+this River and all of a sudden we're
+pretty much supposed to fold almost
+anything besides two pair Plus on this
+River Ace High boards really really hard
+to find the natural Bluffs you have to
+turn a lot of weird hands into a bluff
+and you have to plan that from the Flop
+to have enough Bluffs by the time you
+get to the river so Ace High boards when
+they triple barrel this is a spot you
+should be massively overfed in live
+poker number three
+most number three most under Bluff spot
+Three Bets
+in live poker when the big blind or the
+player closing the action three bets all
+right so once again we are playing 25
+going to open up pocket jacks on the
+button if you know the Flop is going to
+come Jack n Deuce with a couple Spades
+pocket Jacks is a pretty pretty good
+hand to play so we are going to open up
+on the button of $20 and the villain is
+going to three bet from the big blind
+here so when I get three bet and I'm the
+one in position usually I'm going to use
+a polar four bet strategy where I'm four
+betting my very very best hands so the
+hands that are just happy piling in the
+money and then the very very bottom of
+my continue range I think pocket jacks
+just function better as a call here so
+that's what we are going to do and now
+the board is going to come Ace Queen
+dece dealer what what happened that's
+not what we wanted and the villain is
+going to see bet for onethird pot here
+all right so let's pull up handy dandy
+pile solver and this is villain's
+optimal 200 big blind three bet range
+here do we think villains are finding
+the king 7even suited the queen n suited
+how often is is this stuff getting three
+bet from the big blind versus a button
+open this is our response when villain
+just range bets on this flop you see we
+actually are supposed to be continuing
+relatively wide here because big blind
+has such a wide three bet range you see
+Jacks here are going to be a pure call
+winning $40 on this flop when people
+three bet from the big blind they just
+don't do it at a high enough frequency
+because it is so tempting just to click
+that call Button closing the action so
+people are not nearly as aggressive with
+their three bets from the big blind even
+versus is a late position open so let's
+take this wide three bet range from the
+big blind here this optimal range and
+let's make it look something more like
+this which I think this is a much more
+accurate depiction of what people are
+three Bing from the big blind and this
+may even be a little bit wide right some
+people may just flat hands like Jacks
+flat these suited Broadways at a higher
+frequency a lot of people just aren't
+finding these wheel ax 3 bets from the
+big blind here they'll just call closing
+the action so I think we were even
+pretty generous here with the range we
+gave them and remember when they see
+back the Flop before this was our
+continue range we're doing a lot of
+calling a lot of raising and very little
+folding and when we lock their big blind
+range to be more accurate now here is
+our response you see Jacks here are just
+a pure fold we are now losing $ 15 plus
+dollars by calling on the Flop with
+Jacks and you notice here our raising
+range is almost nonexistent now so we
+went from almost never folding and doing
+a lot of raising to folding over half
+the time and doing almost no raising by
+just locking their big blind range and
+making it a more accurate depiction of
+what people actually three bet closing
+the action the number two most under
+Bluff spot in all of live poker when
+villains check back the Flop and then
+raise the turn let me show you all right
+so once again playing two5 villain going
+to open under the gun we're going to
+defend in the big blind with king queen
+flop comes King s Deuce very dry very
+static we're going to check it over they
+check back now the turn is the jack of
+diamonds we're going to go for some
+value here we go half pot and now
+villain is going to raise 3x here on
+this turn after checking back the Flop
+all right so let's pull up handy dandy
+pile so and this is our optimal response
+once villain raises here on this turn
+you see king queen off is just printing
+by continuing here we're winning
+somewhere around $40 we're only folding
+29% here when we get raised here on this
+turn just doing a lot of calling we are
+not folding top pair you see King 10 is
+just continued king queen is continued
+but now let's go ahead and look at the
+hands villain is supposed to raise after
+checking back the Flop are they raising
+hands like king9 suited and king8 suited
+here are they raising hands like Jack X
+here look Jack 10 suited Jack n suited
+these hands are supposed to be raised
+what if we go through here on this turn
+and once again just nod loock and have
+them not find some of these very
+uncomfortable unnatural Bluffs here on
+the turn all right so we are going to go
+to set strategy and nolock and let's
+just look at what they're doing with
+their second pair here their Jack X I
+would argue that they are not turning
+Jack X into a bluff here on the turn
+after checking back the Flop so we'll
+turn the raise frequency to that down to
+zero now let's look at some of their
+four out straight draws here and what
+are these hands doing on the turn
+they're playing very very aggressively I
+would argue that these hands again the
+type of player who's going to check back
+on the Flop with no equity is not going
+to just start saying oh my god I've got
+four outs I must Pile in the money now
+no it's just it's not happening so let's
+turn the bluffing frequency down just
+quite a bit here we also have them call
+just a little bit more as well turn this
+raise frequency down turn the call
+frequency up and then one more top pair
+here I don't think top pair is going to
+play this aggressively on the turn after
+checking back the Flop we'll turn down
+the raise frequency of top pair as well
+all right there we go that's all we did
+we are going to lock we are going to
+save and close back to our post flop
+tree Builder we are going to click go
+and we will let this handy dandy little
+boy solve all right so remember this was
+our continue range before we were just
+never folding hands like king queen here
+just a pure pure continue King 10 as
+well we're just never folding top pair
+here when we get raised on the turn in
+equilibrium play and you see here here
+is the nod loock solution before we were
+folding 29% here on the turn to the
+raise now we are folding 60% so double
+the amount of folding you look at king
+queen off here now and king queen off is
+now losing over $20 by continuing as a
+call here only King 10 of diamonds is a
+profitable call here when villains check
+back the Flop and then find a raise on
+the turn this spot is going to be
+massively under bluffed and finally the
+Triple Barrel
+number one most under Bluff spot in all
+of live poker triple Broadway boards let
+me show you all right so villain is
+going to open from under the gun we're
+going to defend in the big blind with
+pocket tens again just going to have a
+pretty pretty tight three bet range from
+the big blind closing the action when
+under the gun opens probably want to go
+relatively polar here in equilibrium
+play but this hand falls somewhere in
+the middle so we are going to call flop
+comes king queen 10 three Broadway board
+we check it over villain's going to go
+half pot just not going to have many
+raises here against good players and for
+the sake of this example working you
+want me to call with t here trust me so
+we are going to call go to the turn
+which is a blank we check it over
+villain double barrels we call again now
+the river another blank the Deuce of
+Clubs we check it over and villain
+triple barrels for 3/4 pot here so here
+is our strategy on this River versus an
+under the gun open range TS on this
+river is pretty much Break Even versus
+their triple barrel range in equilibrium
+on this board what hands are they
+supposed to triple barrel here's their
+strategy and you see the supposed to
+find these triple barrels with the ace
+five of Hearts Ace five of clubs ace
+four of Spades these type of hands that
+just essentially have really nothing
+going on for them except a naked gutshot
+on the Flop and look at this on this
+River they're supposed to check back at
+a high frequency with hands like kings
+queens and tens so let's adjust this
+let's make it more realistic let's make
+it what actually happens or closer to it
+in live poker so we're going to go into
+set strategy and Nod loock here let's
+have the Kings the queens and the 10
+just bet at a very high frequency we'll
+have them check a little bit but I think
+we can all agree these hands are just
+mostly betting now let's just not have
+them find some of these weird unnatural
+Bluffs with these A9 A7 ace5 type hands
+so these hands will either check back
+the Flop check back the turn or just
+give up the river at some frequency
+finally let's not have them find this
+triple barrel Bluff with pocket Jacks
+here I don't think people turn jack into
+a triple barrel Bluff here 55% of the
+time so let's turn this down to maybe
+20% Which is still giving them the
+benefit of the doubt finally let's have
+this top pair hand king queen suited
+just bet this River at a much higher
+frequency all right so we are going to
+go ahead we are going to click lock we
+are going to save and close back to our
+post flop tree Builder and we are going
+to click go and we will let this Sol all
+right so remember here is our strategy
+in equilibrium pocket T was indifferent
+but mostly calling king queen was
+indifferent but mostly calling we're
+doing a lot of folding on this River
+folding 43% of the time but we still
+have quite a few calls and now look at
+that sweet baby there here's our nolock
+strategy we are folding 76% of the time
+on the river and if you want to know
+what we're calling with or continuing
+with on the river it is straights and
+only Straits look at this Jack n suited
+Ace Jack those are the only hands we're
+calling with pocket 10 here on this
+river is losing $75 by calling and I
+don't think we did anything extreme on
+this River it's just really really hard
+from an early position player to find
+enough Bluffs on a triple Broadway board
+people are just massively under bluffing
+these spots all right guys hopefully you
+Outro
+enjoyed this video on the top five most
+under Bluff lines in live poker and it
+skyrockets your opponent and turns you
+into the biggest boy of all thank you
+guys and have a gentle day

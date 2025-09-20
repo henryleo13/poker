@@ -1,0 +1,419 @@
+This is the biggest skill in poker. If you can't do this, nothing else will save you. Not solvers, not bravado, not
+instincts. This is the single skill that allowed me to earn over seven figures playing live. Because every dollar I
+earned started with this question. What does my opponent actually have? What is
+their range? Today, you'll face 14 hands across six unique villains. And after
+every action, you'll be forced to build their range and make the right play based on it. You'll get 45 high-pressure
+decisions, and every mistake will expose a hole in your game. After each hand,
+I'll break down the exact range and the live process thinking behind it. If you want to win, this isn't optional. This
+is the core skill every elite player has, and almost everybody else gets wrong. Let's find out where you stand.
+All right, let's begin. Limping Larry raises under the gun here. And just a couple notes on this player. We've seen
+him limp from up front with some of his medium strength hands. We've also seen him limp raise a couple of times with
+pocket aces. So, he is going to open here. Folds around to us in the big
+blind. Quiz question number one for you guys. What is limping Larry's range when
+he opens from under the gun? Is it option A nines plus king queen suited
+plus and ace queen off plus? Option B nines through kings king queen suited plus and ace queen off plus or option C
+pocket fives through pocket kings suited broadways and ace queen off
+plus. All right, so the correct answer here is actually option B. Nines through kings, king queen suited plus and ace
+queen off. He's going to have a very very tight range from under the gun because he opened to 5x. We've seen this
+player limp with some of his medium strength or weaker holdings from up front. And he's probably not going to have aces because guys who like to limp
+raise from up front are usually going to put aces in that limp raising range. So option B. So that is the important step
+one. What is his range? Step two, now that we know his range, what do we want to do? So question number two, what
+should be our action here in the big blind with pocket kiggies? Do we A call, B raise to 100, or C raised to
+175? So in this scenario, I'd be choosing option C raised to 175 because
+number one, with pocket kings, we essentially have the nuts here. We know this guy's going to be limp raising when he has aces. And number two, he has such
+a tight strong range from under the gun. And generally when players have a tight, very very strong range, they are going
+to be underfolding because every single hand in the range looks pretty pretty good. So, we are just going to want to three bet big here. I think it'd be
+lighting money on fire if we three bet to a typical $1, $125 size here. So, I would just go big. $175 bucks just
+because we're not expecting him to fold a good percentage of that range that opens under the gun. All right, so
+second hand here. Limping Larry is going to open again. We are going to defend this time in the big line with seven six
+of spades. Would be a punt to three bet this hand with the range we talked about. Flop comes jack six deuce. We are
+going to check it over in flow. Now limping Larry goes $30 here on this flop. And once again we are going to ask
+what is his range? Option A, nines through kings, king queen suited plus and ace queen off the same range he had
+pre flop. Option B, nines and tens, diamond draws and jack x plus or option c sets jack x plus and pocket queens.
+Take 5 seconds, make your
+decision. So I would say here his range is still going to be option A. the same range that opened under the gun. Even
+recreational players, even passive players have kind of learned just to start sebetting a lot here. I don't
+think we have enough information at this particular juncture in order to start eliminating hands from his pre flop
+range, particularly when he has a very tight kind of strong range. So in this scenario, we've got middle pair. We are
+going to call. We go to a turn, which is an eight of clubs. We check and now he checks it back. So next question here
+after this action, what is his range? All right. So, is it option A, nines through kings, king, queen suit to plus,
+and ace queen off? Option B, nines through tens, some high cards, maybe some draws. Or option C, nines through
+10, Jack X, some high cards, and also maybe some draws. Take 5 seconds, make your decision. Ready, set,
+go. All right, so the correct answer here is actually going to be option B. Nines through 10, high cards, and draws.
+If this guy did have an over pair here, he would just keep betting on this turn. And if he did have a hand like ace jack
+suited or something like that here, that hand would also continue betting quite a lot of the time when the board is this
+dynamic and this wet. Could he sometimes have some draws to check back? Would those sometimes bet? Sure. But primarily
+the range is going to be a lot of hands like nines, tens, high cards like ace king, ace queen, king queen suited,
+stuff like that. He checks it back. We see an ace on the river. Don't particularly love to see this card. What should be our decision on the river?
+Should we check bet $60 for just over half pot or bet $120 here for a small
+[Music] overb? All right, so in this spot, I would actually strongly prefer to check
+because let's think about this guy's range. If he did check back the turn with a hand like ace king or ace queen,
+even if we come out and over bet here, that hand is never folding. But if we check, a lot of the times that hand is
+going to bet. Also, if he did have a hand like king queen suited or something like that, that kind of gives him the
+green light to bluff on this river as well. Really, the downside here of checking, if he does have pocket nines
+or pocket 10s, he's just going to check back and we're going to lose to that hand. But occasionally, he could check
+back a king queen suited and then we just win because we do have showdown value here. And if he bets the king
+queen suited or if he bets the ace queen, ace king, it's not the worst thing in the world for us. And we're
+going to talk about why. So, in this situation, because we do have a smidge of showdown value, I would lean towards checking on this river. So, now we
+check. Limping Larry bets 40 into 112 on this river. What is his range? Does he have a busted draws, Ace X, and two
+pair? Does he have B, busted draws, and Ace X? Or does he have C, busted draws, jackex, and AEX? Take 5 seconds, make
+your decision. Correct answer here is
+actually going to be option B, busted draws and Ace X. The reason why he doesn't have two pair plus, well, first of all, he's not opening A6 suited or
+Ace8 suited from under the gun. Remember his pre flop range. We need to be able to coherently carry that thread all the
+way from pre flop to the river. He didn't have those hands pre flop. He does not have them on the river. He doesn't have an hand like ace jack
+because that hand would just keep betting on the turn. So therefore, the best hand he's going to have getting to this river, particularly when he chooses
+this size, is going to be a hand like ace king. So what do we do on the river with 76 in a spot? Do we fold, call, or
+check raise big boy style to $400? Take 5 seconds, make your
+decision. So on this river, I would be going for the check raise to $400. A very, very big size on this river. Why?
+Because his range is weak, crippled, and capped. If we get back into a hand like A6 suited, how big would we go to try to
+get this guy to call? We couldn't go that big because we just know the very best hand he ever has here is probably
+going to be a hand like ace king. And if he flipped over ace king, we may have to check raise to 200, 250, maybe 300 if
+we're getting really greedy to make sure that hand calls. Therefore, by going very, very big on this river, we are just ensuring we get a range fold. And
+sure, sometimes he just has a hand like king queen where if he just clicked the call button here, we'd be good. But by raising on this river, we're just able
+to get a range fold in this spot because we have deduced he has no super strong hands in his range. All right, next hand
+here against limping Larry. He opens again from under the gun. We're going to defend in the big line with 10 nine of diamonds. Flop comes jack six deuce. We
+check and he is going to CB bet. We are going to call. Remember, he's got a pretty strong range here still. Even
+when he see bets, we don't think we have a lot of fold equity. So, we are just going to call. Turn is an eight of clubs. We check and he checks it back
+once again. So, remember we had his range in the last hand when he checked back the turn of maybe being some hands
+like nines, tens, maybe some high cards, maybe occasionally a draw that gets a little bit gunshy. We go to a river
+which is a four of hearts. And on this particular river, since we kind of are able to carry his range over from the
+last hand we played, what should our action be on the river? What is the most profitable play for us? Should we check
+come out and bet 60 or come out and bet $90 here on this river? Take 5 seconds. Make your decision. Ready, set,
+go. All right. So, on this particular river, the four of hearts. Remember, the best hand he's going to have here is
+going to be a hand like pocket 9ines or pocket 10. And when we have 10 nine in our hand, going to make that even a
+little bit less likely. The best play on this river, we just want to come out and get a hand like ace king, ace queen,
+king, queen suited. We want to get those hands to fold if we just come out and bet. So, we want to choose a size that
+accomplishes that. The problem why we don't want to check here is number one, he's not going to bet with ace king, ace
+queen. He's just going to take a showdown value on the river. So, if we check here, this just goes check check way too much. Whereas in the last hand,
+we think he's just going to be betting quite a lot on the ax river. And the difference here in this hand is we actually don't have showdown value. So
+if it goes check check, we just never win in the spot where sometimes in the last situation when we had 76 when it goes check check we just beat king queen
+we just win the hand. In this situation that never happens. We have 10 high. We just want to come out choose the size where he's going to fold ace king ace
+queen. I would go $90. Make sure we get that done. Make sure we get the fold. All right, guys. Hopefully, you're
+following along, keeping track of your score, because ranging, like I said, is the one core skill that every poker
+player needs to turn into an elite player. Without this, you just you just don't really have the shot to turn into
+a top tier player. If you would like to take your ranging from maybe a good level or a pretty good level into an
+elite player, check out our 7day crash course in 7 days. will give you the big
+picture overview. So, you feel like the most confident player every time you sit down at the table, like you feel like
+you can see your opponent's cards by the river and you know exactly what to do about it. If that sounds appealing to
+you, check out our 7-day crash course. The link is going to be down below. I will see you guys there. All right, next
+hand here against Limping Larry. We have pocket sixes in the big blind. We are going to call the open. Ace king six on
+the flop. We check it over. He goes $30. Okay, so we know what his range here is on this flop. We've done this a couple
+times. So, what should our action be? Should we call check raise to 120 or check raise to 240? Take 5 seconds. Make
+your decision. Ready, set,
+go. So, we are going to want to check raise big here. 240. We just don't think this guy's folding a hand like ace
+queen. Obviously, not folding a hand like ace king. He's just got a lot of strong hands on this board. If he was just monkey se betting with a hand like
+jacks or tens, that hand's folding no matter what size we go. He's not folding his ace queen, his ace jack suited,
+those type of hands to one bet here on this board when it is so wet. Let's put in the big boy check raise right here,
+right now. We go 240. He puts in the call. We go to a turn, which is a jack of diamonds. Let's ask after he calls
+that check raise on the flop, what is his range? Is it A, ace, queen, two pair and sets? B, ace queen, two pair, sets,
+and flushes. Option C, nines through kings, king queen suited plus, and ace queen off. Take 5 seconds. Make your
+decision. Ready, set,
+go. Correct answer here is going to be option A. Ace queen, two pair, and sets.
+That's basically going to be his range. He's going to have some ace king. He's going to have some ace jack. The reason here why he's not really going to have
+flushes, remember that tight range he was opening under the gun, right? We need to be able to carry that thread. He's not opening 10 nine of diamonds.
+He's limping Larry. He limps with those hands. So, he just doesn't have flushes here on this particular board. So, now
+that we've got his range, what action do we want to take here on this turn when the flush completes? Do we want to check
+that small maybe $240 or go all in on this turn for $735? Take 5 seconds, make
+your decision. All right. So, the option I
+would choose on this turn is actually going small, 240 to make sure hands like ace queen with the queen of diamonds or
+ace king or ace jack never fold here on this turn. If we start piling in the money, maybe we start losing ace queen,
+maybe we start losing even a hand like ace jack sometimes when the flush gets there on the turn. We just want to make
+sure these hands that we have drawing very very thinly are never going to fold. There's no reason to check here,
+right? He's just not going to have flushes. We have the best hand all the time. If we check, he's probably just going to check back with his range. We
+have the best hand. We want to continue having money. So, we go 240. He's going to call. River is a nine. Should we A
+check, Bet 200, or C all in for 495?
+I just be going all in. I would put in the money. The SPR is less than.5 here. He's going to have a very hard time
+getting this good a price on the river, folding a hand like ace king or ace jack. Pray that we get called. And when
+we do get called, we are going to be good. All right, next villain. We are going to play against passive ploppy
+now. Instead of limping Larry, we're going to open pocket jacks to 25. He's going to three bet us early verse early
+here. back around to us in the lowjack. And when we get three bet early versus early, let's first ask the question,
+what is passive ploppy's range? This player going to be a little bit on the tighter side. That's why we call him passive ploppy. So what is his range
+here when he three bets us? Hijjack versus lowjack. Is it going to be option A, pocket eight plus suited broadways,
+ace queen off plus, option B, jacks plus, 76 suited plus, and ace king? Or option C, jacks plus, ace queen, suited
+plus, and ace king?
+I think the answer is going to be option C. This player is passive. We're in an early versus early configuration.
+Probably just going to be a very very strong range. Jacks plus ace queen suited plus ace king. A very very tight
+range. That upper left hand corner of the hand balloon chart. So we are going to call with pocket jacks here going to
+a flop which comes 863. We check it over now. Passive floppy. He goes 120 into 207. So right here, right now on the
+flop, what is his range? Is it option A? Jacks plus ace queen suited plus and ace king. Option B jacks plus ace king of
+clubs and ace queen of clubs. Or option C eights jacks plus and ace queen of
+clubs. Answer here actually option A. Once again can't really eliminate hands
+from his pre flop range just yet. A lot of players have learned when they three bet just always see bet on the flop and
+then they start telling you what they have on the turn. So in this situation, I'd say his range is still the same tight range that three bet us pre flop.
+And pocket jacks, we are ahead of some stuff. Ace king, ace queen suited. A lot of those hands are just going to slow it down on the turn. So we are going to
+call. We go to a turn which is a deuce of spades. We check it over. And now at this point, he goes 325 on the turn into
+447. What is his range now? Option A, jacks plus, ace queen, suita plus, and ace king. Option B, jacks plus, ace king
+and ace queen of clubs. Or option C, just jacks plus.
+So on this turn, I think his range is going to be B jacks plus and then the nut flush draws only going to be a very
+very strong range here. I think if they do have like ace queen of diamonds, ace
+king of hearts. A lot of times on this turn they just either shut it down or they choose a smaller size or sometimes
+maybe they check back on the flop. So I think we can just start eliminating a lot of those hands from a player named passive ploppy. not going to be double
+barreling with the ace king and ace queen when they don't have a draw here. So in this particular situation going to
+go with option B. So with all that being said, we know his range. What should we do here on the turn? Should we A fold, B
+call, or C jam all in? Take 5 seconds to make your
+decision. And in this particular situation, looks crazy with pocket jacks, but once we talk about his range, it makes sense. I'm going to go with
+option A. going to fold pocket jacks here because yes, while we are ahead of ace king of clubs and ace queen of
+clubs, those are the only two hands in his range that we're really ahead of. And it's just two combos of those hands. And even against those hands, those
+hands are doing okay against us. They have two overcards and all the flush outs. And then against hands like
+queens, kings, aces, he's got 6, 12, 18 combos of those hands that we're just crushed by and two combos of hands that
+have a good amount of equity against us. So with that range on this turn, the play is just twofold. All right, next
+end here. We got pocket sixes. Passive floppy three bets us. We are going to call because we're silly boys and we are
+deep. Going to a flop which comes 863. We flop middle set here. We check it over. He goes 120. We talked about this
+spot. In this spot, should we fold, call, or
+raise? Pretty easy one here. We should just be raising because he is a passive player. If he does have a hand like ace
+king or ace queen with no flush draw, he's just going to be checking back on the turn. And if he does have a hand
+like jacks, queens, kings, aces, we just want to start piling in the money right now. Play a two street game against
+those hands before the board changes. Actually, maybe even an option to just check jam here on the flop and play a one street game. But we definitely want
+to be piling more money when he has a strong range and when he's a passive player, he's not going to put in more money for us with his bluffs. The type
+of players we want to trap or slow play against a little more are players who are going to put in money with their bluffs and put in money with their
+value. this type of player going to be the type who's only going to put in money with his value and he's not folding his value to a check raise anyway. So, we're not missing out on
+value from the bluffing portion of his range, which he's just going to give up with on the turn anyway. So, we may as well just pile in money against his
+value before the board turns scary for his over pairs. So, he is going to call. We go to a turn, which is the innocuous
+deuce of spades. And at this point, after he calls a check raise on the flop, again, what is his range? Option A, jacks plus, ace queen, suita plus,
+and ace king. Option B, jacks plus, ace king and ace queen of clubs. or option C just jacks
+[Music] plus. So in this scenario I think his
+range is going to be option B jacks plus ace king and ace queen of clubs. So he's just going to have over pairs here and
+some nut flush draws. So with that being said we have a pretty easy decision here on this turn. We're just going to put the money in passive flop. He's going to
+call. We go to a river. And look at that. He has pocket kings and he wins all of our money. All right. Next hand
+here. And in this one, a player is going to open from the lowjack. We're going to three bet on the button with pocket 10s.
+And now a guy named Cold Call Carl, that's a mouthful, is going to cold call in the small blind. And the under the
+gun player is actually going to fold. And he's not going to be a particularly loose player. We've seen him cold for
+bet once or twice before. Those are the pieces of information we have. So with that in mind, what is his range here
+when he cold calls our three bet? Option A, eights plus, queen jack suited plus, ace queen off plus. Option B, eights
+through queens, queen jack suited plus, and ace queen off plus. Or option C, queens plus, ace, queen suited plus, and
+ace king. Take 5 seconds, make your
+decision. So actually here I would go with option B. Ace through queens, queen, jack, suit plus, ace queen off.
+We can quibble with this a little. Maybe slightly wider, maybe slightly tighter. But what we do know, we could probably eliminate kings and aces from his range
+here. Those hands, we've seen him cold for bet. So when he does cold for bet, probably just going to be top of range,
+right? Maybe only aces. Maybe we can include kings here, but he's definitely not going to have aces in here. If we've seen him cold for bet before, we can lop
+that off. So I'm going to go with option B. We are going to a flop, which comes 95 deuce. He checks it over. We are
+going to see bet small. And now he's going to check raise to 220. So after cold calling pre flop and check raising
+on this flop, what is his range? Option A, eights through queens, queen jack suited plus and ace queen off plus.
+Option B, queens plus or option C, 10's plus and maybe some ace high flush
+draws. Take 5 seconds to make your
+decision. So in this situation, think we're going with option C. 10's plus and aex of hearts. He's not going to be
+doing this right with hands like pocket eights if he did cold call with that hand on the flop. Not going to be check
+raising. This is just going to be over pairs and ace x of hearts primarily when he does put in this check raise on the
+flop. Not going to be doing great against that range. If he does have a hand like jacks or queens, we're in really bad shape. And even he's got a
+hand like ace queen of hearts or ace jack of hearts. Not in great shape against that hand either. Got a lot of
+outs against us. So either we are crushed or he's got a lot of equity. So in this particular spot, I would just
+find the big boy exploit fold. All right. This time we got pocket 10s again. Under the gun opens. We're going to three bet. Cold call Carl. Cold calls
+again and now the underground gun player is going to come along. So three ways this time and now cold call Carl is
+going to donk for 200 into a multi-way three bet pot. Under the gun gets out of the way. Now it's to us on the button.
+So now we ask of course what is his range and is it going to be option A combo draws ace queen plus and maybe ace
+10 suited for two pair. Option B combo draws and weak ax or option C combo draws ace 10 suited and ace3 suited.
+Take 5 seconds make your decision.
+So, it's not going to be option B here because he doesn't have weak Ace X. It's
+not going to be option C because he doesn't have Ace3 suited, right? We need to carry that logical consistent thread.
+So, that leaves option A combo draws ace queen plus and ace 10 suited. One little heristic for you guys. When somebody
+does donk, multi-way in a three bet pot going to be a lot different than when somebody donates up. This is a three bet
+pot. Multi-way. He donked for a big size ace high board. This is just going to be a very strong range. Much different than
+when someone don $40 into an $80 pot heads up. Right? This guy is just saying, "I like my hand a lot. I have a
+very good hand. We know his range. What should we do? Should we A call, B, raise to 450 or C raise allin?" Take 5
+seconds. Make your
+decision. I would just be jamming. I would be going all in. We talked about he's got combo draws. He's got ace 10.
+He's got ace queen, ace king. Don't think any of those hands are folding when he comes out and dons for nearly pot. He's not planning to bet fold. So,
+let's just put the money in. He is going to call. River is a king and we lose to
+ace king. All right, next hand here. A spewy aggressive player. We're going to call him spewy Spiro opens the button to
+$20. We're in the big blind with seven six of hearts. And the first question I'd like to ask here is what is his
+range? And when we're talking about pre- flop ranges, especially wide ranges, I just kind of like to zoom out instead of picking out all the hands he has. Just
+kind of like to think of it as like a a big picture 10,000 ft view. So in this spot, what is his range? A spewy
+aggressive player opening on the button. Is it a going to be super wide, 40% plus of all hands is going to be option B,
+maybe a standard open range, 35 to 40% of hands. Or option C, a super tight range for the button, maybe 25 to 35% of
+hands. Take 5 seconds, make your decision.
+And I would say in this situation going to be super wide, 40% plus of hands here
+on Z button, especially from a spewy aggressive player. So definitely a case to be made for just three betting here.
+And against players who are going to play very very well post flop, would probably just start three betting quite a lot. But against a player who's going
+to be making a lot of mistakes, I like just calling with this hand. So we're going to call go to a flop which goes queen 96. We check it over. He goes $20.
+And after he see bets on the slop once again, what is Buy Spiro's range? Option A, is he still super wide with 40% plus
+of hands? Option B, is it maybe over pairs queen X 9x draws? Or option C,
+over pairs, queen X plus draws, and showdown
+value. All right, going to go with super wide here. Option A still. He is a spewy
+aggressive player. He's opening wide. He's probably going to be c betting wide. would not feel super comfortable just lopping off a ton of his range.
+Just saying he only has value now from a spewy player who's opening too wide on the button. 40% plus. He's still got a
+ton of hands here. A lot of players, all the hands they open, they just see back. I am not sure unless we have more information that he is checking back
+some of those hands. So, I'm just going to go 40%. He's still got a bunch of hands here. We are going to call with bottom pair. We go to a turn, which is a
+four. We check it over. And now he goes $75 here. What is his range? He opened
+the button. Cat on the flop, double barreled on the turn. What is his range here? Option A, super wide, still 40% plus a hands. Option B, sets two pair
+over pairs, queen X, draws, and maybe some air. Or option C, sets, two pair, over pairs, queen X, 9X, and
+draws. So, I'm going to go with option B here. Sets, two pairs, over pairs, queen X, draws, and air. I think we can
+eliminate the super wide range. I'm not sure he's just firing everything here on the turn, particularly for this size.
+Most players, even if they open wide, even if they see bit wide, they don't double barrel for pot with just all of their hands, right? That's not going to
+happen. And option C, the reason why I'm knocking that out, I don't think a hand like 9x, like 8 n or king 9, I don't
+think that hand chooses this big size on the turn. Sure, maybe that hand bets some of the time, maybe check some of the time, but probably doesn't choose
+this size when it bets. So, I think he's starting to be a little bit more polarized here. Maybe some top pair, maybe some two pair, maybe some sets,
+maybe he's got some draws, maybe he's still got a little bit of air in his range, but it's probably not going to be shown on value hands, right? Not going to be hands like pocket sevens. Not
+going to be hands like 9x. Not going to be hands like ace king high probably. Right. We're starting to be able to delineate chop off portions of his
+range. What should we do on this turn? Should we A fold, B call? C
+raise. And I'm going to go with call here. And the reason why I would call is he just has a ton of draws here still on
+this turn. And sure, we're behind a lot of his value, but in this wide verse wide configuration, going to be much different than the example we saw with
+passive plloppy where he has a super tight range. See, betting on the flop and then double barreling on the turn.
+This guy's got a wide range. He's spewy. We still have a pretty good bluff catcher here. So, we are going to call.
+We go to a river, which is a nine. We check it over and now he triple barrels for 150 on this river. What is his
+range? which is going to be a boats or air, b boats, trips or air, or c boats
+over pairs or air. So on this river, I'm going with C.
+Boats over pairs and air. I think when the nine pairs on the river, particularly when they got triple barrels, not sure they're going thinly
+for value all the time with queen X. Maybe some of the time, but the reason why I can eliminate option B here, he's
+not going to have 9x in his range, right? We need to be able to carry that coherent thread all the way from the turn to the river. We decided on the
+turn he's not going to be double barreling 9x. So he's not going to have trips in his range. And option A and
+option C I think are close here. But option A just boats and air. I think maybe sometimes on this river they do
+still bet kings or aces occasionally. So we'll give him credit. But if you chose
+option A here, give yourself a half a point. I think that's fine as well. As long as we didn't choose option B. So we
+know his range on this river. What should we do? Do we fold, call, or raise
+to
+450? All right, so on this river, I would be calling. I just think we have a lot of showdown value against this
+beauty player who's opening wide, sebetting wide, double barreling wide, and now on this river, he's starting to get pretty polarized. Going to have a
+lot of bluffs here. And when they start to be polarized to very, very strong hands or bluffs, I think we've got a pretty damn good bluff catcher on this
+river. So we are going to put in the call and we are good. All right, next hand against spewy Spiro. This time we
+are going to defend in the big blind with 10 eight of clubs. Flop comes queen 96. We check it over and he checks it
+back. Going to this turn. After he checks back the flop, he opened the button wide. Remember what is his range
+after checking back on the flop? Option A, queen X draws an air. Option B, showdown value or air. And option C,
+sets two pair showdown value and air. Take 5 seconds, make your decision.
+We can pretty clearly go with option B. Showdown value and air. The board is wet and dynamic. I think this guy on the
+flop is obviously he's just going to be betting his strong hands, his over pairs, his queen X, his big draws,
+right? So going to this turn when he does check back the flop, he's just going to have some showdown value. Maybe hand like pocket eights, maybe hand like
+9x, maybe hand like pocket 10, and some air, maybe a complete whiff that just didn't feel comfortable betting on the
+flop. So, I think we can pretty clearly say he's got showdown value and air going to this turn. So, the question is, what are we going to do now that we know
+his range? Do we A check, Bet 25, or C bet 60? Take 5 seconds, make your
+decision. I would actually be checking because let's think about what happens if, right? If we check here and he's got
+showdown value, a hand like 9x or pocket eights, what's he going to do on this turn? A lot of the time he's going to start betting himself, right? We check
+twice, we look weak. He's going to start betting for protection and value with a hand like 9x or pocket 10, right? And if he does have air, well, his name is
+Spewy Spiro. He's known to be spewy. We have shown weakness twice. So if we check, he's going to bet with his showdown value. He's going to bet with
+his air. So now we're just getting value from both of those portions of his range. You may be thinking, Mark, we're getting value. We have 10 high. Exactly.
+Now we can just check raise. We can apply a ton of pressure to the showdown value, which we just got to put in a bet. We get the air to fold, which we
+just got to put in a bet. Where if we come out and bet ourselves, the air just folds right now. We don't get the value from the air that we're just going to
+get to chuck raise and put in a bet. and his showdown value. If we just go bet, the reason why he checked back the flop
+with the showdown value was the plan to pot control so he could click call call. So the reason why we want to check here is by check raising we can just apply a
+ton more pressure to the showdown value portion of his range and we get the free money from the air that may just stab on
+the turn when we check twice. So we check, he goes 25, we put in the big boy check raise. Now he calls, we go to a
+river which is a deuce. And on this river after he calls the big boy check raise on the turn, what is his range? Is
+it a sets two pair and draws? Is it B, showdown value in air, or is it C, showdown
+value? So, I would say getting to this river after he calls on the turn, it's just going to be a lot of showdown value
+that may be nonbelieving. If he did have air, those hands aren't calling a check raise on the turn, right? If he did have
+sets and two pair, those hands are just betting on the flop. Getting to this river, we know his range. What should we
+do on this river? Should we check bet 250 or go all in? Take 5 seconds, make your decision.
+So on this river, I would be jamming because I'd ask myself the inverse question. What size would I bet on this river to make sure a hand like Ace9
+calls? Well, I'd probably be going relatively small, right? Maybe 250, 300. We would have to size down here to make
+sure we get called because his range is weak. And because we know his range is weak, that means he's not going to be able to call the big boy jam on this
+river. So therefore, let's put in all the money. Let's get the 9X, the pocket 10s, the pocket jacks to fold. Not all
+that worried about running into a brick wall. Sure, we can run into pocket fours occasionally. That is about it. So,
+let's pile in the money. Let's get the range fold here on this river. He folds. We get it through. We scoop the pot. All right. Next hand here. This one. We got
+the second best hand in poker. Pocket aces. We open to 25 and a cut off. Aggro. Agnes. That's a name. Agnes.
+Makes it 75 on the button. And we're going to put in the for bet to 225 against an aggro player. They're
+probably just calling too much in position. We want to start piling in money right now. So, we go 225. He puts
+in the call. And after aggro Agnes puts in the call, let's break down what is his range. Now, option A, nines plus
+suited wheel, AEX, broadways, and ace queen off plus. Option B, nines through kings, suited wheel, ASX, and broadways,
+ace queen off, plus or option C, queens plus, king, queen suited plus, and ace king
+off. So, I'm going to pretty clearly go with option B here. nines through kings suited wheel ax and broadways and then
+ace queen off plus probably don't think a super aggro player has the other pocket aces here when they just call pre flop those type of players who are super
+aggro are just much more likely to put in a five bet option B here because I just don't think he has those aces and
+option C is just way way too tight queens plus right he's going to be much wider this player is an aggro he's going
+to be three betting a lot it's a late first late configuration he may be continuing just a little bit wider than optimal because he's probably three
+betting a little bit too wider than optimal Right. So, we're going to go with option B. All right. So, we go to the flop. And on these a high flops, I
+like to bet very, very small. We're going to talk about why in just a minute or so. So, we go $50. He puts in the
+call. And after he calls here on this flop, we go to a turn, which is a four. Let's talk about his range when he three
+bets pre flop, calls our four bet, and now calls our very small ski bet on the flop. Is it option A, nines plus, suited
+wheel, AEX, ace queen off plus, and maybe some flush draws? Option B, suited wheel ax, ace queen off plus, and maybe
+some flush draws. Option C, ace queen off plus and flush
+draws. So I'm going with option A here. Nines plus suited wheel ace X's ace
+queen off plus and plus draws. And the reason why I'm going with option A when we bet 10% pot on the flop just don't think people are folding nines, tens,
+jacks, queens, kings. Those hands are not folding to a very very small baby C betat. when we have this board locked
+down. Really, really nice to get those hands to call that we have just pretty much drawing dead. We don't want that
+stuff to fold. So, with all that being said, we now know his range. What should we do on the turn? Do we check bet 150
+or bet 300? In this situation, I'd go with
+option A. I would actually check here on the turn because let's think about what happens if we check. We already know his
+range. If we check, hands like nines through kings are checking back. That's okay. Cuz if we come out and bet, if we bet 150, if we bet 300, those hands are
+folding. If we breathe on the pot, if we put in a double barrel, those hands are folding. So those hands, we're not getting any more value from on the turn
+by betting. So by them checking back, that's fine. If he does have a wheel ace X, right? If he's got the last ace in his hand, that hand's probably going to
+stab a lot. If he's got ace king, ace queen, that hand's probably going to stab a lot. So if he has an ace, we're
+getting in all the money anyway, right? That hand is just going to come out and bet and put in more money for us. And if
+he does check back, well, we now know his range is going to be kings, queens, jacks, hands like that. And we can just
+come out and bet very, very small on the river. And when we check the turn, we look a lot weaker than when we double barrel the turn. And maybe we're able to
+get one more baby streak against those hands like pocket kings or pocket queens. So I would check here on this
+turn. He goes 300. And now at this point, when he bets 300, what is his range? Is it a nines plus suited wheel
+asex ace queen off plus and flush draws? Option B, suited wheel asex, ace queen off plus, and maybe some flush draws.
+For option C, ace queen off plus and flush
+draws. So in this particular scenario, I'm actually going to go with option B, suited wheel, AEX, Ace Queen off plus,
+and flush draws. I do think we've shown weakness here. We've checked the turn. I do think if he's got like Ace5, Ace3
+suited, something like that, he's got top pair and a gut shot to go along with it. I think those hands when the board is wet, there's a flush draw out there.
+Probably put in the money a lot. If you went with option C, just ace queen off plus and a flush draw, give you a half point for that. I think that is still
+reasonable that he may check back a wheel asex some of the time here, but it's definitely not option A, right?
+Nines, tens, jacks, queens. Those hands are just not stabbing when we check. They check back here on the turn. With
+all that being said, what do we do here on the turn? Do we A fold, B call, or C go all in? Take 5 seconds. Make your
+decision. His range is strong. When they have a strong range, they're probably not going to be folding. I would just be
+putting in the money here. He's already put in 38%. I'm not good at math of a stack here. Let's just put the money in.
+He's going to call it off. River is a three and of course he shows king queen of hearts and we lose. All right, this
+time similar situation except we got king queen of diamonds. Aggro Agnes three bets us. We put in the four bet. Want to be for betting linear when we're
+out of position. Good, better, best, especially against aggro players. This hand falls into that category because an aggro player is going to be three
+betting hands like king jack suited, 10 jack suited, queen jack suited, right? Those hands probably are going to be over continued versus a for bet,
+especially when they're in position. So, we just want to be able to out pip them. This hand can do it. So, we are going to call. Go to flop ace8 deuce. Once again,
+I like on these a high boards just starting off with a really small C bet. And we are going to go $50. He puts
+in the call. Turn is a four. Just like we talked about before, I like checking this turn a lot because what's going to
+happen if he does have the ace queen, ace king, even a wheel ace, those hands are going to stab a lot. And when he
+does check back, we kind of have a pretty good idea of his range. So, I'm going to check here. He checks it back. River is a six. And after checking back
+the turn, what is his range? Is it a nines plus sudo wheel ace x ace queen off plus and flush draws? Option B, ace
+queen off, nines through kings. Or option C, nines through
+kings. Going to go with option C here. He's just got nines through kings a lot here. So, now that we know it's range,
+what do we do on this river? Do we check? Bet 150 or bet
+275. If I did have pocket aces, what size would I bet to try to get called by pocket kings? I think I'd have to go
+really, really small here. Maybe 125, 150 to get kings to call. Seems reasonable after checking back the turn.
+So if kings are going to call 150, probably not calling 250, 275. That would be my bluff size on this river. We
+go 275. He folds. We get it through. All right, our very last villain here. This is going to be trying Timmy. He is a
+trying recreational player. He is going to open. We got two big fish in the blinds here. Normally a fan of playing
+three better fold, but when we got two big fishies behind, we're going to be on the button. We got absolute position. So I'm just going to call here and we go to
+a flop, which comes queen 83. and trying. Timmy is going to see bet here for $25. Now I will ask he's open in the
+cutoff. He's cbat on this flop. What is his range? Option A sets two pairs queen X and draws. Option B maybe 25% of his
+hands just his opening range from the cutoff. Or option C sets two pairs queen X plus draws and
+air. So I'm going to go with option B here. 25% of hands just I think when players open a lot of times they just
+auto monkey see bet. This has become the meta in live poker. I don't think we can safely rule out a bunch of his range
+when he just see bets for half pot. We're going to call. We go to a turn and aha, now we get some information because
+he checks on this turn. So, does he have a showdown value and air, b 8x, queen x,
+nines through jacks and draws, or c showdown value, air, and queen x
+[Music] plus? I'm going to go with option A here. Showdown value and air. I think
+the really strong hands just keep firing here on the turn. pocket eights, queen x, over pairs, etc. Going to eliminate
+that bucket because on a wet dynamic board, I think they just keep betting. So, we're going to go to showdown value and air. Maybe hands like nines, tens,
+jacks, 8x, ace, king high, stuff like that. And then some air that's just kind of monkey bet on the flop. Maybe a hand
+like king 10 or something like that. Doesn't improve. Just kind of checks here on this turn. So, we are going to
+check back. Now, the river is a six. So, I guess occasionally he can make some trips here, some 6x. His range here on
+this river is showdown value trips and air when he bets 50 bucks. So, do we fold, call, or
+raise? My favorite line in all poker. C bet flop, check back the turn, and bluff catch the river. Well, in this spot, we were the pre flop caller, but we can
+call the flop, check back the turn, and we are going to bluff catch on the river. This line's going to be massively
+over bluffed because his range is just showdown value in air getting to the river. Doesn't have the queen X, doesn't
+have the boats, right? Doesn't have the over pairs, doesn't have those hands because those hands would bet the turn. being able to carry that thread from the
+turn to the river. So, so important. I guess there could be a case to be made for just raising on this river to fold
+nines, tens, jacks, whatever. The problem is he could have 6x here some of the time where we're going to turn showdown value into a bluff. It's going
+to have to significantly outperform just taking our showdown value. So, when we have ace8 when we call here, we're winning a percentage of the pot some of
+the time. I'm just going to put in the call. We call. We're good. We win. All right. Final hand here. Trying Timmy again. Opens. We got a eight of diamonds
+again. This looks familiar. Dja vu. We're going to call. Flop comes queen A3. He see bets. We call. turn is a six
+and now he double barrels and after opening the cutoff c betting on the flop and now double barreling on this turn
+what is his range is it a sets two pair queen x plus and draws b 25% of hands the hands he opened in the cutoff or c
+sets two pair queen x plus draws and
+air so I'm going with option a sets two pair queen x plus and draws it's not
+going to be 25% plus of hands right guys just don't especially trying players right they're not just going to double barrel barrel a bunch of air all the
+time on the turn. Normally when they open, see bet the flop and double barrel. We can start eliminating some of the trash, some of the showdown value
+from the range. We are going to call with some showdown value here on the turn. We're still beating a lot of his
+draws here. He's going to be opening relatively wide from the cutoff. We go to the river. Second to last question. Now on this river, he checks. And once
+again, what is his range on the river? We need to carry that thread and add our new assumptions here after checking. So
+what is his range? Is it going to be a boats queen x plus and air? B, Queen X plus and air. Or C, Queen X plus air and
+8X. I'm going with option B here. Queen X plus and air. I think it's just primarily going to be queen X over pairs
+in air getting to this river like his busted draws. I don't think he's going to have a lot of boats for one because
+the boats would probably just keep betting on the river a high percentage of the time if he did have a hand like
+pocket threes or queen eight. Sure. Occasionally, occasionally, occasionally could be a decent check here if he had a
+hand like pocket queens, but for the most part, I think boats are just going to keep betting on the river. Option C we can throw out because he's not really
+going to have like naked 8x that made trips on this river. That hand's not going to double barrel on the turn. We need to carry that coherent thread. We
+didn't think he had 8x on the turn. Getting to this river going to make a lot of sense for his range to be hands like ace queen, king queen, queen jack,
+pocket kings. That feels a little bit squeamish, a little bit precarious when the eight pairs on the river. There also maybe some draws that feel the same way
+that just don't feel comfortable firing the big triple barrel. So when he checks over to us on the river knowing his range, should we check, bet 200 or bet
+300? Take 5 seconds. Ready, set,
+go. So on this river, if he does have a busted draw that he's given up with, he's not calling no matter what. We could throw that stuff out the window.
+If he does have a queen x hand or a pocket kings, pocket aces, something like that, why is he checking on this
+river? Well, generally he's a little bit scared of us making trips. He wants to give us a chance to occasionally bluff.
+So, here's a fun heristic for you. When recreational players check on the river, they are generally checking with the
+plan to check call. If I was trying to bluff a guy off ace queen on this river, I think we'd have to go egregiously big,
+maybe 450, 500, something huge on this river to get that hand to fold. We go 300. He puts in the call. We are good.
+All right, guys. So, tally up your score. Post it in the comments. I would I would I would love to see it. You got a zero to 15. Go watch our short form
+content and interact with the people in that comment section. I think you'll probably get along just swimmingly. We
+got a 16 to 25. Not the worst thing in the world. Might be a little fishy boy, but not horrible. We're getting there.
+26 to 35. We'll call you trying Timmy. A trying recreational player. Moving on up the ladder. 36 to 41. You are a solid
+rake. Pretty pretty good. Good job. And a 42 to 55. You are the biggest boy
+possible. Hope you guys enjoyed this video as always and it turns you into the aforementioned biggest boy possible.

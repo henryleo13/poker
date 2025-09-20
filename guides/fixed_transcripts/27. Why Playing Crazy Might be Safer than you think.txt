@@ -1,0 +1,841 @@
+does playing High variance poker mean
+you need a bigger bank roll let's say we
+have two players player a is a Crusher
+she takes every single plus EV spot even
+if it's extremely marginal she'll risk a
+$1,000 on a bluff to win an extra dollar
+long term the second player player B is
+still a big winner but he plays it a bit
+more safe he'll take all the great spots
+but he'll pass up on a few close ones to
+try to minimize the swings so the
+question is does player a need a bigger
+Bank role to play this style will she
+have massive down swings or will the
+slight higher win rate generated from
+taking every marginal spot make up for
+the session to session swings today I'm
+going to attempt to find out let's jump
+in so when we talk about marginal or
+high variant spots let's just make sure
+we're speaking the same language we're
+talking about a close decision right
+we're risking a lot of money over a
+close decision where we win a little bit
+of money if we're right and we lose a
+lot of money if we're wrong but over the
+longterm these high variant spots we're
+going to assume if we take these spots
+and choose them correctly they're going
+to be plus EV let's look at a few
+examples and attempt to Define it so
+first example here we open 76 of
+diamonds on the button the big blind a
+recreational player is going to call
+flop comes Jack 84 we flap a belly
+Buster and we're just going to see BET
+our entire range small here to entice
+our opponent to raise off their strong
+stuff call with their weak stuff we go
+20 he calls turn is a three and when he
+checks it over at this point we assume
+our opponent is going to be raising off
+a lot of their pocket eights pocket
+fours Jack eight suited on such a wet
+Dynamic flap when we choose a small size
+and so because we think our opponent is
+capped we incentivized to use a big size
+with both our Bluffs and our value here
+we don't think our opponent is folding
+hands like flush draws straight draws
+Jack X Etc but specifically when we do
+have seven High here we do think we can
+get a lot of that stuff to fold on the
+river so we're going to choose a big
+overb size here to capture value from
+our opponent's range it's going to be in
+elastic on the turn and then is going to
+have a bunch of bols on the river so we
+go 100 and our opponent is going to call
+River is now a seven of Spades which is
+a super interesting card because
+technically we make third pair here and
+I think a lot of RS here especially if
+we flash back to our player a versus
+player B I think this is a spot where
+player B may just check back here right
+we've got third pair I guess we have a
+smidge of Showdown value so this is a
+spot that a lot of Rags would not take
+but if we dig a little bit deeper I'm
+not sure how much Showdown value we
+technically have so we always have to
+start what is our opponent's range
+here's my rough approximation of our
+opponent's range getting to the river
+it's going to be a lot of Jack X this
+Ace Jack King Jack Queen Jack both the
+suited and offit varieties it's going to
+be some Straits the 10 n and 56 and then
+it's going to be a lot of flushes as
+well we see the ace 10 of Spades King 10
+of Spades King six of Spades Etc so if
+we want to bucket our opponent's range
+and keep it really simple they're going
+to have a lot of top pair a lot of
+straits and some flushes the question
+I'm asking on this river is what happens
+if let's say we have three sizing
+options on this River maybe a small size
+for
+$150 a medium Bluff size for $300 and
+the all-in Bazooka Bluff size for $86
+nearly 3x pot here on this River all
+right so when we bet a 150 just about
+half pot on this River let's say our
+opponent is just not doing much folding
+top pair is going to call it about 95%
+of the time straights are never folding
+and flushes are mixing raising and
+folding of course the flushes are never
+folding now let's say when we bet 300 on
+this River maybe for a small overb size
+now our opponent starts folding top pair
+let's say ace Jack top pair top kicker
+calls about 40% of the time but all the
+other Jack X starts folding maybe 80 85
+90% of the time here on this River of
+course straight still never fold and
+flushes still never fold and now let's
+say when we go for the big boy bazooka
+size 860 our opponent is going to fold
+top pair 90 plus% of the time but
+flushes are never folding and Straits
+are almost always calling say straights
+maybe fold 10% of the time here or
+something like that and we see here with
+our combo 76 of diamonds the most
+profitable option here is going to be
+choosing that medium size that small
+overb size because when we bet 300 we
+just think we can get the top pair to
+fold a lot and we are risking the
+smallest amount possible both to make
+top pair fold and when we do run into a
+straight or a flush that obviously is
+not folding for any amount of money we
+are only losing 300 here instead of
+losing our entire stack we see here the
+EV is
+$18.61 so we're winning somewhere
+between three to four big blinds on this
+River by going for the bluff by taking
+this marginal spot you see by checking
+back we win $0 because we're never
+really going to win the pot we don't
+have Showdown value but we're not
+risking any more money at this decision
+point so by checking back we win $0 so
+this is a pretty marginable spot we're
+risking $300 to win an additional 18 all
+right marginal spot number two the
+villain is going to open in the cut off
+we three bet the second best handed
+poker pocket aces on the button villain
+calls flop comes 84 Deuce I just see
+betting my entire range small in three
+by pots I choose a smaller size in three
+B pots than I may choosing a single
+raise pot just because the absolute size
+of the pot is bigger and we still want
+to incentivize our opponent to raise off
+strong stuff and call with their weak
+stuff so I go $50 just about 1/3 pot now
+our opponent is going to raise here at
+this point I think our opponent could be
+doing this with some worse hands for
+Value maybe pocket 10 pocket Jacks
+pocket Queens something like that and of
+course they could still have some Bluffs
+here as well so we are going to call
+with pocket aces with the Ace of Hearts
+turn now comes a three of diamonds and
+our opponent follows up with just about
+a half pot siiz bet here and again even
+though it is rare in a three by pot for
+our opponent to be check ra bluffing and
+then following up on the turn with
+another Barrel our opponent could still
+be bluffing some of the time here so we
+are going to call with Aces now the
+river is a 10 of hearts with a papy
+947 our opponent comes out on this River
+and Bets about 30% pot $300 and now the
+first question I would ask on this river
+is what is our opponent's range I don't
+think our opponent is still doing this
+with hands like pocket jacks or pocket
+Queens I don't think this is ever worse
+for Value first of all our opponents
+aren't going to check raise over pairs
+on the flop in a three bet pot all of
+the time second of all they're not going
+to follow through and double Barrel the
+turn betting over pairs very thinly and
+third of all when the flush gets start
+on the river they're sure as hell not
+going to bet over pairs now for value on
+this River what type of hands will our
+opponent check raise on the Flop and
+then bet on the turn and then bet very
+small on the river flushes make some
+sense but not the most sense right
+number one our opponents in three backat
+pots usually in live poker aren't going
+to play Flesh draws all that
+aggressively right maybe fles draws get
+check raised on the Flop 10% of the time
+15% of the time it's still going to be a
+low percentage so yes they could have
+some flushes that check raise the Flop
+and Barrel the turn but probably not a
+ton of flush draws and then when the
+flush gets there on the river if our
+opponent is the type of aggressive
+player who's going to check raise a
+flush draw on the Flop and double barrel
+it on the turn is this the size they're
+going to choose on the river one third
+pot probably not because when the flush
+gets there usually fear and greed Drive
+our opponent's decisions and they're
+going to get a little bit more greedy
+when they have a flush on this River so
+I think we can really really really cut
+down on the flushes here what is the
+majority of our opponent's range what
+hands would almost always check raise
+the Flop almost always double barrel the
+turn and bet small on the river because
+they're a little bit nervous when the
+flush gets there sets right sets I think
+a ton of our opponent's range here is
+going to be hands like pocket eights
+pocket fours pocket Deuces it's going to
+be a lot of sets and maybe occasionally
+a sliver of fleshes so this is the range
+that I gave our opponent getting to the
+river as we can see here quite a few
+sets pocket fours pocket Deuces pocket
+eights gave them a sliver of the fleshes
+as well king queen of hearts King Jack
+of Hearts 9x of Hearts Queen Jack of
+Hearts Etc of course it's even harder
+for them to have flushes when we have
+the ace of hearts in our hand then maybe
+some of the pocket 10 here that check
+raise the Flop some of the time and then
+a hand like Ace five or 5 six suited of
+course makes a little bit of sense maybe
+a gut shot that check raised the Flop
+got there on the turn and is now slowing
+down on the river so our opponent's
+range is pretty face up on this River
+and the question I'd be asking if I got
+to this River with a hand like Ace King
+of Hearts what would I be jamming would
+I be putting all the money in expecting
+our opponent to call with a hand like
+pocket fours or pocket Deuces all of the
+time and my answer here is probably not
+because the obvious draw got there we're
+in a three bet pot we started this hand
+relatively deep and I don't think our
+opponent is going to pay us off for all
+of the money here when they have a hand
+like pocket fours or pocket Deuces now
+maybe we're up against a sticky opponent
+who overvalues hands and is just never
+folding a set well in that case when we
+have pocket aces on this River we have a
+very easy decision we should just fold
+and when we have a hand like Ace King of
+Hearts on this River we have a very easy
+decision we just Jam in all of the money
+but let's say we're up against a typical
+live player who's going to have quite a
+bit of hesitation facing a jam if they
+have a set like pocket fours or pocket
+Deuces and remember we started this hand
+400 big blinds deep so we've got three
+options on this River call fold or raise
+and I think we can eliminate one of
+those options right away I think calling
+is the worst option we are just never
+really ahead of anything here we don't
+really have Showdown value everything
+got there we can throw call out the
+window and I think a lot of even big
+winning Pros in this spot would just
+fold the hand and think nothing more of
+it because they think well our opponent
+is never bluffing let's just fold that
+is the low variance option that I think
+a lot of winning cash game players would
+find here but what about raising all in
+so I hypothesized that our opponents
+would fold their sets about 65% of the
+time here on this River maybe about 2/3
+of the time and they'd fold their
+straights maybe about 20 25 30% of the
+time here and we see here with those
+assumptions turning pocket aces with the
+ace of hearts into a bluff the ray 1530
+option we are winning about $19 so we're
+winning just about four big blinds very
+marginal High variant spot but if we
+make these assumptions it is winning
+money we see calling we're just losing
+$300 we're just never winning when we
+call when we fold once again it is zero
+EV to fold we win back $0 from the pot
+but we don't lose any more money so we
+see here that raising is the most
+profitable option but we are risking
+$1,530 for a decision that maybe Nets us
+$19 long term pretty marginal all right
+one more marginal spot in this one we
+are playing $510 $1,000 effective so a
+100 big blinds in this one a pro on the
+button is going to raise to $30 we're
+going to three bet with Ace jack of
+diamonds in the small blind 120 bucks
+the pro on the button is going to call
+very very quickly and maybe that
+sometimes allows us to eliminate some
+hands from the top of range maybe we can
+eliminate some of the Ace King the
+pocket queens that type of stuff because
+those hands would maybe at least
+consider for betting when they call so
+we're going to a flop here king96 with a
+couple of hearts and against
+recreational players I'm just checking
+my entire range out of position because
+recreational players tend to over stab
+Telegraph their hand strring with their
+bed sizing and they do not protect their
+checkback range those things are not
+generally true against Pros specifically
+the over stabbing and telegraphing their
+hand strength those things aren't going
+to happen so against Pros generally I'm
+just going to range bet on boards that
+are slightly better for me I'm going to
+range check on boards that are maybe
+slightly better for them generally I'm
+just going to play the node where I
+think they make the most mistakes here
+King High board three bet pot against
+the pro I'm probably just going to range
+B small so I go $80 and the pro calls
+turn is now a four of diamonds and at
+this point think well maybe we've got a
+little bit of Showdown value small blind
+versus button with Ace Jack high no real
+reason to really turn this specific hand
+into a bluff we'd want to be bluffing
+here if we had hands like Queen 10
+suited Jack 10 suited 78 suited heart
+draws Etc this hand Ace Jack High
+specifically small blind versus button
+we've got a bit of Showdown value here
+so we're actually just going to check
+and try to get this to Showdown we check
+and now our opponent goes 200 and now at
+this point I'm going to get a little bit
+sticky because I do think especially in
+a wide vers wide configuration our
+opponent can have a lot of hands here
+that we're actually beating Queen 10
+suited Jack 10 suited 108 suited 78
+suited all of his heart draws Etc and
+yeah of course he's got some value here
+but I think at least specifically a hand
+like King Jack suited or King 10 suited
+May check back this turn some of the
+time Ace King at least Ace King suited
+is almost always going to forb bet and I
+think pocket sixes pocket 9es king n
+suited those hands are going to raise
+off at some percentage when the Flop is
+this wet and connected so I think our
+opponent actually has probably a lot of
+Bluffs here and not a ton of value so
+I'm going to call here on this turn
+River the innocuous dece of diamonds we
+check it over and our opponent now jams
+600 into 8810 once again a pretty
+marginal spot the population tends to
+under Bluff in three by pots when all
+the goes in they tend to be under
+bluffing but there's a couple things
+going on here that we touched on on the
+turn here's the range I gave our
+opponent getting into the river I was
+generous and gave them nines and sixes
+their sets and their King n suited maybe
+75% of the time just saying that they
+would raise the Flop maybe a quarter of
+the time I think it actually happens
+probably higher than that and then I
+gave them a bunch of these Queen Jack
+Queen 10 Jack 10 78 taipans the combo
+draws with hearts I had them raise on
+the Flop at a little bit higher
+frequency of course they got some of the
+108 here as well and then of course
+they've got some of these Ace High flush
+draws Ace 8 ace7 Ace 3 Ace D I thought
+maybe the ace 5 and Ace 4 would
+sometimes forb bet and then some of
+these higher acex of Hearts hands the
+ace Jack Ace 10 Ace Queen of Hearts
+maybe these hands don't Bluff all the
+time just because he figures he's got
+some Showdown value and then for Value
+here the king queen suited pure maybe
+the king Jack suited pure although I
+would challenge that maybe this checks
+back on the turn some of the time and
+then the king 10 Suited let's say he's
+got 75% of that because that checks back
+the turn maybe a quarter of the time
+king queen off I was generous and gave
+this to him maybe half the time maybe
+this hand sometimes four bets pre maybe
+it sometimes folds pre and then we have
+the Ace King off I gave that to him
+again half the time I think that's
+pretty generous because I think the
+speed with which he called pre flop
+maybe eliminate some of these combos I
+think this hand would at least consider
+for betting maybe take a beat to
+consider four betting so we gave him
+half of the Ace King on this River so
+with that being his range here we see
+Ace is winning about
+$28 we lose zero further dollars by just
+throwing our cars into the muck I think
+folding here either on the turn or on
+the river is what a lot of winning low
+variance Pros might do but I would posit
+on this river that there might be a
+higher EV all bite I'll I'll be it I'll
+bite I'll bite a higher EV option okay
+so we went through a few examples of
+high variance marginal spots but how
+much are these spots adding to our win
+rate well let's attempt to do some rough
+back of the napkin m and try to quantify
+it so let's say live we're playing
+somewhere between 30 to 35 hands an hour
+we have a vpip of somewhere around 20%
+so that would mean we're playing just
+about 7even hands per hour and let's say
+10% of the hands we play a high variant
+spot comes up again this is going to be
+really rough just back of the envelope
+math just trying to come up with an
+estimate here so let's say each High
+variant spot like the ones we just
+looked at add somewhere between 3 to six
+big blinds in EV that means if 10% of
+the hands we play have an an option to
+take this High variance line we're
+adding about three big blinds per hour
+to our win rate all right so going back
+to our player comparison at the very
+start we have player a the huge winner
+who plays very very high variance and
+player B the big winner who plays it
+safer and has lower variance so what I
+did to approximate these two player
+Styles is I took a bunch of data so for
+player a our high variance Crusher I
+took a bunch of data from players who
+have taken the Hungry Horse Boot Camp or
+Hungry Horse poker coaches these players
+self-described High variant nut jobs and
+we have just about a 7,000 hour sample
+these players are winning about 13 big
+blinds per hour so very very high win
+rate and the average big blind they
+played was 7.9 so they were playing
+somewhere between 25 and 510 and for the
+other side of our data set I took
+players Data before taking the Hungry
+Horse boot camp I specifically asked for
+players that were self-described tag
+nits so tight aggressive nits winning
+players who weren't necessarily taking
+every spot who were playing a little bit
+more low variance we had about 15,800
+hours for our sample these players were
+still big Winners but winning a lot less
+they were winning about six big blinds
+per hour and their average big blind
+played so the average Stakes they played
+was about 4.5 so they were playing on
+average 25 or a little bit smaller so
+you may be wondering the reason why I
+took these two data sets is because when
+we go to a variance calculator we need
+to plug in the win rate and we need to
+plug in the standard deviation well win
+rate is easy right if we just jump back
+to our little chart before we assumed by
+taking these high variant spots we're
+adding maybe somewhere around three big
+blinds per hour to our win rate so why
+did I take all this data from both post
+boot campers and pre-boot campers well
+we need to come up with a standard
+deviation for live poker and I would
+guess I would hypothesize here that our
+pre-boot campers are going to have a
+lower standard deviation meaning they're
+going to have lower swings in their
+stack hour to hour but we don't know
+what that standard deviation is if we
+check Prime dope a variance calculator
+we see here for No Limit full ring it's
+around 60 to 80 big blinds per 100 or
+six Max it's around 75 to 120 big blinds
+per 100 but the problem is this is for
+online poker at 100 big blind stacks
+these standard deviations are not going
+to be accurate for live poker so I
+needed a bunch of data so that's why I
+grabbed all this data and now we need to
+figure out the standard deviation all
+right so to help us answer how we
+calculate standard deviation we are
+bringing in an actual mathematics
+professor Dr Daniel Jones Daniel can you
+help us figure out this problem how do
+we calculate standard DV
+as a as a starting point here so I think
+one of the issues we have is that we
+hear a lot of these words like variance
+and standard deviation and there's a
+little bit confusion between the two
+things standard deviation is the thing
+we actually want to know this kind of
+measures the spread of data or the
+volatility in our data variance is just
+what you get when you square that number
+now for this particular problem there's
+a few difficulties with calculating that
+standard deviation the first thing is
+that we have all these different
+sessions full of data from the horses
+and and we have thousands of hours of
+data but all of these sessions are
+different lengths so the first thing we
+need to consider is we need to do
+something called weighted standard
+deviation where we make sure that those
+extra long sessions and extra short
+sessions don't kind of
+disproportionately affect the answers
+the other issue we have is that I think
+we looked at thousands of hours of data
+and we found that the average session
+length was about 5 hours maybe 5 to 6
+hours something like that and what you
+actually get is if you imagine that you
+have a 8 Hour session for example and
+you were 100 big blinds in that 8 Hour
+session well what you'd actually get if
+you graph that is you would have at time
+well when the session starts at this
+time and when the session ends at this
+time your uh bank roll would grow by 100
+big blinds and it would just be this
+straight smooth line however if you had
+instead um tracked your bank roll each
+1H hour interval within that session
+what you would actually find is not a
+smooth linear progression up to that 100
+big blinds it would go up and down at
+some different points and there would be
+this thing that we we sometimes call
+variance or standard deviation yeah cuz
+for example like I'll have sessions
+where you know during the challenge like
+I ended up $1,000 but I started the
+session down to Grand but if you just
+looked at this the session data it said
+I want $1,000 right but that's not
+actually what happened during the
+session so you're trying to model for
+this type of problem while finding
+standard deviation based on that exact
+session yeah exactly it looks like you
+won $1,000 but actually you lost ,000
+then you WN some then you lost some then
+you won some and it's there's a lot more
+volatility and variance that it first
+appears so what we did was we looked at
+grouping all the data into these
+increasing average session lengths and
+what we found was kind of our conjecture
+was kind of correct that as we increase
+the average session length the estimated
+standard deviation starts to go down so
+what we can then do with that data
+because what really interested in is
+going in the opposite direction ction
+what happens to our standard deviation
+as we start to look at 4H hour average
+session lengths 3 Hour 2 Hour 1 hour or
+less so once we've got those longer
+average session length data we can plot
+those on a graph then we can do
+something called extrapolation where we
+kind of follow the natural line of that
+curve but in the opposite direction to
+see where it would naturally finish if
+we took it all the way back to a 1 hour
+average session length and when we do
+that we can see that actually the
+standard deviation goes up quite
+dramatically because before we did that
+it looked like kind of high variance and
+low variance players they seemed from
+the data to have very similar standard
+deviations which intuitively doesn't
+seem correct but once we did this kind
+of we did this thing and we extrapolated
+we actually saw that yes the the horses
+do actually have this higher variance
+style of Po Okay cool so what you found
+essentially is that for our high
+variance kind of post boot camp horses
+and Crushers the standard deviation was
+114 14.15 per hour and for the pre-boot
+campers the guys who are playing this
+kind of tag style the standard deviation
+was
+105.6 per hour online the standard
+deviation which is usually expressed in
+terms of per 100 hands is usually about
+60 to 80 per 100 hands we see a standard
+deviation for six Max online right now
+we're seeing standard deviation these
+numbers of over 100 per hour for both
+our high variance and low variance
+sample why is the standard deviation for
+live poker do you think so much higher
+for online and we're talking about these
+are per hour so obviously these would be
+much higher per 100 because we're only
+seeing you know 30 35 hands an hour yeah
+I mean you said it's well over 100 but
+it's yeah like you said it's even more
+extreme than that because if we're
+assuming that there are 33 hands per
+hour then uh 3 hours for 100 hands you'd
+actually take that standard deviation we
+found for live poker you'd actually
+multiply it by the square root of three
+I won't go into the details but it's
+probably closer to 200 big blinds prow
+that standard deviation a couple other
+reasons why I could possibly think of
+let me know if these have any validity
+at all is number one the open sizes the
+three bet sizes Etc in life poker are
+much larger relative to the blind level
+so we're just playing much bigger pots
+relative to the stake whereas online at
+25 we may be opening to 2X or 2.2x live
+we're opening four or 5x so the pots are
+just much bigger we're going to have
+bigger swings there and then the stack
+depth as well we're live we're often
+playing 200 plus big blinds deep or
+online we just rarely rarely see that
+live you're a little bit more enca in
+how how much you can win in any single
+hand but also similarly how much you
+could lose in any one single hand you
+know people ask a lot about bank roll
+which I think is kind of a nebulous
+concern but people people want to know
+over a 10,000 hour sample what would be
+like the biggest downswing that we would
+run into for both our high variance
+Crushers and the pre-boot campers so
+yeah this is the really interesting
+thing so for our high variance crushes
+the biggest downswing you could expect
+over a 10,000 hour sample is about just
+under 5,000 big blinds 4,898 big blinds
+or about
+$24,400 and if we compare that to the
+lower variant pre-boot campers they can
+actually expect a downswing of around $
+8,023 big blinds or about
+$4,150 and the real lesson here is that
+even though the variance is higher for
+the Post boot campus the massive
+increase in hourly win rate just
+completely offsets that higher variance
+the magnitude of your down swings you
+would expect that with a higher variance
+you're going to have bigger downswings
+but if your hourly win rate grows enough
+relative to that actually that's not the
+case your maximum downswings you can
+expect those to be much lower and when
+we say a 5,000 big blind downswing for
+the Post boot campers that is happening
+with a 1% probability so be like worst
+case worst case yeah that's right
+Absolut worst case scenario like if you
+took 100 boot campers made them Play
+10,000 hours you would expect one of
+them to have a downswing of this
+magnitude and that's about it okay so
+let's make this a more apples to apples
+comparison right because the pre-boot
+campers were only winning five to six
+big blinds per hour and the post boot
+campers were winning 13 and we
+determined that the Gap here we see the
+Gap was only about three big blinds per
+hour if we're taking every High variant
+spot so let's do an apples apples
+comparison and let's pretend we have our
+high variant scratchers we're still
+winning 13 bigs an hour at the 114 per
+hour standard deviation and now let's
+give the low variance pre-boot campers
+let's bump their win rate up to 10 big
+blinds per hour but keep their standard
+deviation low right let's keep it a
+little bit lower let's just assume that
+they find maybe some better value bet
+spots they're a little bit better pre-
+flop but they're still not taking the
+high variant spots so we keep the
+standard deviation low now what's the
+difference between the biggest down
+swings now the biggest down swings so
+pre-boot campers once we bump them up to
+a slightly higher win rate they're
+expecting a downswing of about 5,23 8
+big blinds or about
+$2,115 um over that 10K sample and again
+remember this is only happening with a
+1% probability so this maximum down
+swing now is more comparable to the post
+boot campus but it's a kind of a similar
+maximum downswing but it's with a low
+win rate and a lower variance worst case
+scenario is going to be about the same
+here for the the high variance Crushers
+and the low variance winners but the
+high variance Crushers are just winning
+a lot more money so if you have High
+variant you have bigger swings maybe
+this is a little bit of a myth yeah I
+think so because you could take those 10
+big blind per hour kind of pre-boot
+campers and they're kind of doing a few
+things better but they're still avoiding
+those marginal spots and you could you
+could imagine one of them saying well I
+don't want to take these kind of really
+marginal High variant Spots I'm happy
+with my 10 big blinds per hour I don't
+want to take that extra risk but what
+we're kind of seeing from this data is
+actually is there an extra risk doesn't
+seem to be the case um all that's really
+happening is your win rate is going up
+by taking those marginal spots your
+actual down swings they're not really
+changing all that much okay so let's
+take this to the most extreme example
+now let's just say the data is off let's
+say the variance is much higher so let's
+say that the high variance Crushers
+let's say their standard deviation is
+actually 1.5x the pre-boot camp kind of
+tight taggy players and compare it to
+the low variance guys who were still
+winning 10 big blinds an hour now how
+does the downswing compare now the
+downswing seems to be about 8,8 162 big
+blinds or about
+$443 so way way higher so this is the
+this is the greatest of all the down
+swings we've looked at so far so we'd
+have to assume that the standard
+deviation is just much much higher than
+the numbers are telling us to get to a
+point where the down swings are much
+higher for the the guys with the higher
+win rate yeah so even for these post
+boot campers with this High win rate the
+only way they could possibly have these
+really high down swings of like 8 ,000
+big blinds they uh standard deviation
+would have to be so much higher than
+we're actually estimating it to be let's
+assume that the standard deviation is
+1.5x right and assume the high variance
+increases a standard deviation by 50%
+you need maybe an extra $20,000 in your
+bank roll to make an extra 22.5k per
+year so even like worst case scenario
+that our data sets we off and the
+standard deviation is 50% higher we're
+still talking about adding those three
+big blinds per hour is still going to
+increase your win rate so much that even
+with the extra Wild Ride it's still
+maybe worth it because you're making so
+much more money per year yeah I think
+that's true and another thing to think
+about with these downswings is really
+when you're asking about these down
+swings it's really like a short-term
+consideration after enough time passes
+and after you've played enough hours of
+hands your bank roll has grown enough
+that you you do reach a point where
+you're just no longer scared of going
+broke you're just no longer scared of
+risk of Ruin maybe it's scary for the
+first one year if you're playing a
+really high variance and if we've
+underestimated but even then these kind
+of down swings like we said are only
+happening 1% of the time all right guys
+so my conclusion from all of this is
+that high variance is a myth it is
+actually safer for your bankroll to take
+every single marginal spot long term
+because you'll just win so much more
+money that the chances of you enduring a
+super big downswing are less because
+your win rate will just be that much
+higher hopefully you guys enjoyed this
+video and it turned you into the biggest
+boy possible thank you guys and have a
+gentle day

@@ -1,0 +1,316 @@
+this is going to be good I'm going to expose the most common misunderstandings about poker strategy and to do this I'm
+going to take comments posted by viewers of this channel you guys and highlight the misconceptions and fallacies holding
+poker players back if you want to win more money or you just want to see me get real riled up this video is for you
+let's jump in all right misconception number one you have to call with this hand all right so we're playing 55 the
+straddle is on holder manager is not capable of putting a straddle on so we're just going to make this five 10 for ease here we open to $40 from under
+the gun with pocket five is going to fold all the way around to the small blind who is going to call flop comes
+Jack 65 you guys know my M Mo in position choose a size where they raise off their strong [ __ ] and call with their weak [ __ ] usually about half pot
+so that's where we go all of these hands by the way taken from the low stakes challenge Vlog which you can find on our Channel turn is a nine I do think our
+opponent can have the nuts here occasionally with 78 but most of his range is going to be Jack X flush draws
+pair plus straight draws and I think a lot of that range is going to call a very big size here on this turn and
+probably not going to be willing to put in more money for us so I am just going to go very big here I go 200 he is going to call now the river is a three of
+hearts and our opponent donks or leads out for a big bet on this River 350 into
+590 which is a big bet for the size of the game and here was a comment on this
+video from Steven MacArthur 8490 and he said I can't believe you folded the 55 set on the second hand that was an easy
+call let's go through the action and let's talk about this guy's range getting to the river here's the range I gave him remember he called from the
+small blind here so he's going to have a little bit of a tighter range he's going to have some of those ace high fleshes he's going to have some King High Queen
+High fleshes maybe some 10 high and nine High fleshes here then he's going to have a lot of Jack X so Ace Jack suited
+King jack off King Jack suited so lots of Jack X and lots of flushes if we want to simplify here so on this River when
+he leads what does he have he just doesn't have a bluff here what hand in
+particular is this guy turning into a bluff Ace Jack with the Ace of Hearts let's say is let's assume he's always
+turning Ace Jack with the ace of hearts on this River into a bluff which I highly doubt but we're going to give him the benefit of the doubt here so let's
+say on this River he comes out and leads with all of his flushes here but he also leads every single time he has Ace Jack
+with the Ace of Hearts so he does have some Bluffs here on this River so with pocket fives here on this River if that
+is his strategy we are losing nearly $86 by calling well maybe this player just called on the turn with Jack n because
+we bet so big on the turn that he didn't raise Maybe he's leading a hand that is worse for value on this River so let's
+give him 50% of Jack n on the river let's say he leads with Jack n half the time if we're going to be logically
+consistent if he's leading with some of the Jack n maybe he also has slivers of the 87 of the straight on the turn and
+maybe he leads with those as well if he's leading with two pair he's probably leading with the few partials of straits
+that didn't jam on the turn as well and would you look at that sweet baby there we're losing $75 by calling to make this call
+profitable on the river with pocket five you would have to assume that this player is turning hands like King Jack with the king of hearts into a bluff all
+the time or he's just turning random top pair into a bluff at a high frequency like every time he has Queen Jack or
+Jack 10 or something like that he's just randomly turning those hands into a bluff and I would just say no that is not something that is happening in this
+spot look we gave the guy the benefit of the doubt we said that he was turning Ace Jack with the ace of hearts into a bluff on this River even if we give him
+King Jack with the King of Hearts and turn that into a bluff we still don't have a profitable call one of the things I want to talk about well you have an
+easy call you have to call no you don't have to do anything if a player is under
+bluffing and not overvaluing worse value hands well if they're under bluffing we have a bluff catcher in the spot and if
+a player is massively under bluffing every Bluff catcher is more profitable as a fold than as a call so trust your
+assumptions make the highest EV play if the rest of the player pool thinks you're a complete idiot for making a big
+fold or a big call in a spot where they would do the opposite who cares the goal here is to win the most amount of money
+misconception number two the solver would bet small here so we're playing straight 5 five we open Ace 9 of
+Spades in the cut off the button and the big blind are going to call flop comes 983 checks to us with one player in
+position one player out of position not expecting this board to get stabbed here so we're just going to start betting off our good hands ourselves so we go small
+here $30 and only the big blind is going to call turn is now a deuce of Spades and the villain is going to check in
+this spot and I actually decided to go large here I decided to go 160 and we
+had a comment here from Daniel Henry 6 777 he said with the Ace 9 hand like the
+first hand you played the solver like always goes for medium siiz bet or small bet on the turn maybe playing deeper you
+were supposed to go for a larger bet I don't know I was just surprised to see you over bet the turn once again take
+this supposed to and throw it out the window my only goal here is to win the most amount of money so let's look at
+this spot this is the range I gave the villain in this spot on the turn I said he's going to have a lot of top pair so
+a lot of 9x type hands and then he could have some gut shots here like Queen 10
+and he's going to have some open and straight draws like Jack 10 and 76 and he's also going to have some second pair some 8X some bottom end of the straight
+draw some 76 and then he's going to have some stiff Ace of Hearts hands and maybe
+some stiff King of Hearts hands here so like Ace 10 with the ace of hearts or King Jack with the King of Hearts I went
+into the solver and I gave it two bet sizing options for us here on this turn option number one was to bet $45 here
+and option number two was the big boy overb which I chose in game1 $60 here I said when we bet $45 on this turn that
+this player is going to continue wide right he's never folding 8X he's never folding 9x he's never folding gut shots
+like Queen 10 with the 10 of Hearts he's never folding open in straight draws even without a heart like Jack 10 or 76
+so when we go small here he is just continuing very wide so here is his range when we bet 45 he is just
+continuing almost all of the time calling 81% of the time now when we bet 160 on this turn I said this player
+would start folding gut shots if he didn't have a heart to go along with it he's folding a lot of the 8X and he
+could even be folding some of the weaker 9x so here is the player strategy when we bet 160 you see he's folding a lot
+more here now 45% of the time as opposed to around 17 I have him folding some of
+the 9x all of the 8X folds but he is continuing with all of these stiff Ace of Hearts hands and some of the King of
+Hearts hands are going to call and with those assumptions here is the EV for our strategy as you can see here betting 160
+is going to significantly outperform betting 40 five here on the turn so for this misconception here just remember
+solvers don't generate sizes you give it one size or multiple size and then the solver tells you what hands it would put
+into those buckets the solver is assuming that opponents are playing equilibrium I promise you when you are playing live poker opponents are not
+playing anywhere near equilibrium just because you've seen some Sim in a Doug poke video that says the solver here
+would go small does not mean you should be going small against big gy in seat 8 who is on his sixth Corona quick
+announcement I want to be completely transparent here we announced we were ending our 28 day boot camps in October but so many of you reached out and said
+you wanted to be part of it so we listened we reconsidered and we are shifting gears here's what we are going
+to do going forward in November and every month going forward we are going to run one 128 day boot camp and this is
+only for players who are winning at 25 plus and playing more than 50 hours per month for players who aren't quite as
+advanced or can't make such a big time commitment we also have a program coming for you very very soon just be patient
+it's coming I promise if you want in on the November boot camp before it sells out we are booking today 12 spots only
+that's it click the link below we have sold out every month so if you want to lock up your seat sign up today and I
+will see you guys there all right misconception number three you went too big with your bluff that was inefficient
+let me show you here we've got 87 of Spades and again the straddle on but holder manager can't do straddles so
+we're just making it 510 we open to $40 going to fold all the way around to the straddle who is going to call flop Queen
+Jack Deuce we are going to see half pot here he is going to call remember we choose the size where a raise or strong
+[ __ ] call with their weak [ __ ] turn is now an ace of clubs and on this turn we do think he can have some fleshes so we
+want to go small here to incentivize him to raise off his fleshes here when we bet small on this turn and maybe even
+raise off if he does have a straight like King 10 here so we go very small we go 60 into 165 and he snap calls here on
+this turn and when players snap call that just means they are not even considering raising so we rule out most
+of the flushes on this turn maybe even some of the king 10 because of the speed of his call now the river is a four and
+he checks it over and in game I decided to go 515 into 285 on this River because
+I just thought I could get almost all of his range to fold for this size
+00107 said I don't think there is much elasticity in the 87 hand between 350
+and 515 huge punt in my opinion I'm writing this before the results I don't know what happened yet all right so
+let's talk about this River let's talk about his range and let's talk about comparing these sizes we'll compare a
+515 size on this River to a $350 size on this River so let's put this player's range into buckets I think he just has
+very very few flushes because he called the turn he didn't check raise he didn't even consider check raising and
+sometimes when players have the flushes they're going to check raise the turn sometimes they're going to donk the river after we bet small and they would
+at least consider check raising a turn so I don't think he has many flushes but we'll give him a couple partials of maybe King X of clubs here that would be
+the hand that would may consider trapping sometimes on the turn I think he's got maybe pocket twos here very
+small frequency that normally just raises off on the Flop now he's got a bunch of weak hands here like king queen with the King of Clubs or King Jack with
+the Jack of clubs stuff like that he's got maybe some 10 n here so he's got a bunch of weak stuff then he's got some
+top pair here like Ace 10 maybe some Ace King I don't think players three bet the Ace King off closing the action at a
+high frequency here so he's got some top pair and then he's got some two pair right he's got some ACE du suited he's
+got some ACE Jack he's got some ACE Queen and then finally maybe he has some of the king 10 as well maybe some of
+those hands rais on the turn but some of those hands call when the flush comes in so he's got a few buckets here he's got some weak stuff he's got some top pair
+he's got some two pair and he's got some straights so reflecting that this is the range we give him here getting to this
+River just like we talked about and let's compare on this River when we bet 515 and then plug in what we think folds
+versus on this River when we bet 350 and talk about what folds then all right first let's start for 350 for just a
+small overb on this River let's say he folds all the weak stuff pure right let's say he folds the king king queen off the king Jack with the Jack of clubs
+let's say he folds Ace 10 say 75% frequency on this River he calls maybe
+25% of the time with Ace 10 let's say he calls all the time with Ace King you know he didn't drive to the casino to
+fold Ace King for just over a potsize bet here on this River let's say he calls Ace King and then he calls when he
+has two pair plus right so if he has Ace Queen Ace Jack Ace du suited pocket Deuces or a straight in the spot he is
+just never folding now let's say for 515 for the nearly 2x pot overbed on this
+River let's say this buys us a few more folds now at this point let's say he still folds the weak stuff pure he folds the king queen the king Jack the queen
+10 he folds all that stuff same thing he's also now folds the ace 10 the weak top pair at 100% frequency and he folds
+Ace King at 100% frequency for this nearly 2x pot sized overb on the river
+so if he has like a queen Jack hand here or he has like an ace deuce hand here or maybe even an ace Jack Hand maybe these
+hands fold somewhere between 30 to 40 to 50% of the time and let's say if has Ace Queen if he has King 10 if he has pakad
+deces and if he has fleshes he is just never folding on this River no matter what size we bet so with those assumptions in mind you see here 87 of
+Spades our specific hand on this river is winning significantly more EV by betting 515 than betting 350 because
+when we bet 515 we assume we can make the ace 10 the Ace King maybe the queen Jack to fold at some percentage of the
+time where when we bet 350 on this River we're just getting called by those hands
+much much more so the misconception here is that we need to be efficient with our Bluff sizes when we can run into a brick
+wall when we can run into very strong hands that our opponents are never folding well yes we need to be efficient
+with our Bluff sizes because they just have parts of their range we're just going to run head first into the wall and knock ourselves out AKA lose all of
+our money but in this specific spot where we just don't think our opponent has many fleshes where we think our opponent is going to fold most if not
+all of their range on the river we don't need to worry about being efficient because if we just don't think that have
+many hands that are going to call we should just be piling in a ton of money to get them to fold their entire range
+it is so much more expensive for us to go slightly too small with our Bluff than slightly too big because if we go
+10% too small with our Bluff we lose 100% of that bluff and the pot but if we
+go 10% too big with our Bluff well who cares we want to air on the side of going slightly too big the time not to
+do this is when your opponent can have a bunch of traps but in this specific spot our opponent can't so we need to be
+efficient with our Bluff sizing misconception number four when they lead the turn they're weak so F Joko 7900
+says firsthand in my experience when opponents lead on the turn here I don't think they are very strong I have the feeling he's doing that with a medium
+hand like king queen or weaker Ace X to try to avoid being bluffed so let me
+show you the hand once again we're playing 5510 we just make it 510 for Simplicity here there is a limp another
+limp a third limp and a fourth limp and now the small blind makes it $30 once four players have limped here in front
+of them I'm not a big fan of three betting weak hands I like to three bet linear because players tend to call too
+much but in this specific example I just thought we had good information here that this player in the small blind just didn't have the top of his range because
+he'd obviously just choose a much bigger size than 3x once four players have limped in front of them so I think there's just a bunch of dead money out
+there we can just take this down so I go 140 here folds back around to the small blind who surprisingly is going to call
+flop comes Ace Queen Deuce which is I think a pretty good flop for us because we can just apply a bunch of pressure
+here so I'm just going to see bet M tire range small here planning on barreling on a lot of turns he is going to call
+now the turn is a Deuce of Clubs and he leads on this turn for 230 this is not weak let me talk about
+why this is not weak number one we are in a three bet pot number two the board is a high what hand do players put you
+on in a three bet pot when you're the preflop Razer when the board is ace high well they put you on Ace King they always put you on Ace King number three
+we have shown nothing but aggressive action here right we three bet pre- flap we see betat on the Flop and now on an a
+high board he's leading out on the turn for $230 which yes it's less than half
+pot but $230 is starting to be a pretty big bet for a 55 game and when the
+straddle is on players aren't like uh you know what $230 is only 23 big blinds
+no $230 is still a lot of money for a 55 game where the straddle is on intermittently right this is a big bet
+just because this player is donking on the turn does not mean he he is weak let me show you a counter example here we
+open on the button with 84 player in the big blank calls flop comes Ace Queen deuce and this player leads out for $40
+this is where they are weak right in a wide vers wide configuration the pot is small we have opened on the button we
+have not SE bet when they donk on this board for half pot this is where they are weak right this is not a three bet
+pot we have not taken multiple aggressive actions and it's a wide vers wide spot in a very very small pot and
+he has bet a small amount so the point of this misconception is context matters
+so so much right a donk in a three bet pot on the turn on an ace high board is
+so so so much different than a donk in a single raise pot for $40 when you are
+heads up context matters the first example in a three bet pot is going to be a much much much stronger range than
+the second example heads up in a single race pot so I actually ended up folding here and the small blind was nice enough
+to show me that he did have a queen so the fold on the turn obviously we found
+the right move there but maybe our read pre- flap that this player was isoing wide for a small size was just way off
+misconception number five they'll call if you Bluff all right so in this one the cut off opens to 25 we in the small
+blind with Queen Jack of Spades good hands so we're going to three bet isolate play a pot heads up and in position is going to call flop comes 943
+as you guys know I'm checking my entire range to Live players from out of position because in general they over
+stab Telegraph their hand strength with their bet sizing and they do not protect their checkback range so we check and he checks it back and especially on a board
+that it's going to be this Dynamic and this wet we would just expect him to bet almost all of his strong hands right now he did have a hand like pocket 10 pocket
+Jacks if he had a hand like 9x here I think those hands would just bet if he had Ace High flush draws those hands
+would bet at a relatively high frequency as well so we just think he's going to have a much weaker range here on this turn I'm going to choose a size here on
+this turn where he calls once with a showdown value if he does have hands like pocket fives or pocket sevens or pocket eights that check back the flap
+he's never folding those for one bet and also if he has a bunch of air here well he's folding if we breathe on the pot so I'd like to capture value here from The
+Showdown value portion of his range and then get that stuff to fold on the river so I go 215 villain is going to call
+River is a King of Clubs which is a perfect River for bluffing because we just would assume if he had King X of
+Spades he's probably going to bet on the Flop and look at our two cards pretty hard for him to have King X of Spades right unless he specifically has a hand
+like King 10 of Spades which we would assume that hand would just bet the Flop at some frequency so most of his range here getting to this river is going to
+be pocket sevens pocket FES ace4 stuff like that and we just don't think that
+stuff is going to hang on for a pot siiz jam on this River so we are going to jam
+and Doug 6839 said uh I've played a decent amount of one two this will work
+if they respect you but I've seen plenty of Players called down here with pocket sevens and you know what Doug I agree
+some players here will call down with pocket sevens and you know what the adjustment is against those type of
+players every time we have pocket eights here every time we have 109 suited every time we have pocket 10s we should just
+be putting the money in and we should just be giving up with our Bluffs on this River too often I hear players say
+in this spot when they have a hand like ace9 suited or pocket eights I'm not going to jam on this River because I
+don't think he's going to call when he has pocket sevens and then when they have Queen Jack of Spades here they say well I'm not going to jam on this River
+because I think he's going to call when he has pocket sevens both of those things can't be true and so it's on us
+as poker players to decide is this guy calling with the weak part of his range or is he folding keep yourself logic
+consistent because one of those two things has to be true and if the player is a sticky guy well you just go very
+very thin for value and put all the money in and if the player is going to be a more typical live player who's not going to call with his weak Holdings
+here well you just get to Bluff with impunity all right misconception number six your over betting is unbalanced so
+here we had Steven CH ya 39 say wck player here with 1,700 hours
+live playing 55 and winning seven big blinds per hour been taking notes on what I find useful we're going to skip over what he finds useful and then he
+said not a fan of the overb bets especially your approach was is heavily unbalanced in previous videos you say not to focus on balance and I'm not
+convinced especially with overb bets players can be recreational but they aren't dumb they will take note of the fact that you can overb and that you are
+bluffy they'll also call you down light or trap you can win many small or medium
+pots with over BS but you won't win enough to offset the times you lose I can see a world where you refine a strategy to make it profitable but as
+played it is the largest leak that I see in your Vlogs all right Stephen so let's talk about this and I'm going to show
+you two hand right now to address this misconception the villain is going to open in the cut off we three bit on the button with Queen jack of diamonds flop
+comes 1085 he checks it over we go small here with our entire range he is going to call turn is a deuce now at this
+point villain is capped because we think he would raise his pocket fives his pocket eights his 108 suited on the Flop so we are going to choose a large size
+here on the turn villain is going to call now the river is a three of diamonds and when villain checks on this
+River the strongest hands and villain is going to have Ace 10 maybe pocket Jacks and sure yeah occasionally he could have
+like an ace four of Hearts but that's one combo here getting to this River most of the top of his range getting to
+this river is going to be hands like Ace 10 and what I would ask in this specific spot here if I did have a hand like
+pocket eights what size would I bet on this River to get called by Ace 10 I don't think I would be putting in all the money here because I think in
+general villains are going to start to fold hands like Ace 10 certainly Queen 10 Jack 10 109 here if you make them
+play for 300 big blinds which is a lot of money in a 55 game if I did have
+value here I probably be going smaller on this River not all in maybe 500 600 which means if I have Queen jack of
+diamonds here that means I'm going to be going Allin because I believe my opponent has a weaker range that can't
+withstand heat on this River and he's going to be folding a lot of the top of his range which is going to look a lot like 10x and this is Steven's Point here
+right I'm very unbalanced my large sizes are generally Bluffs right wrong same
+exact situation here except now the river is an Ace and let's ask now what is our opponent's range getting to this
+r River he's just going to have a stronger range on this River he could have hands like Ace 10 here now he can
+have Ace five of Hearts he can have ace deuce of hearts and he could just have some very strong top pair like Ace Queen
+of Hearts Ace Jack of Hearts if I got here to this River with Queen Jack I am not trying to make the top of my
+opponent's range fold anymore because making opponent's fold top two pair or two pair in general in a three bet pot
+even 300 big blinds deep is not going to work out well for you if you're trying to Bluff them so if I had Queen Jack here I would be targeting hands like
+King 10 Queen 10 Jack 10 109 that got downgraded on this River and I'd probably be bluffing relatively small to
+try to get those hands to fold now if I did have a hand like pocket eights here if I had value on this River well I'd be
+jamming all the time here because I'm not expecting our opponent to fold Ace 10 Ace five of Hearts Etc I think he
+just has a lot of two pair that are never folding so if I had value here I would jam so this misconception it's not
+that I'm just recommending over betting every time you have a bluff no we are sizing based upon our opponent's range
+when our opponent has a weak range that just can't withstand heat we're going to choose very big sizes with our Bluffs
+and we're going to have to size down with our value when our opponent has a very very strong range getting to a
+certain spot we're going to size up and get greedy with our value and use over Bets with our value we're going to size
+down with our Bluffs to Target weaker portions of our opponent's range and it's not that we are unbalanced in this
+spot it's our opponents are imbalanced and we are responding to the mistakes they are making sometimes we're over
+betting as a bluff sometimes we're over betting as value it depends depends on our opponent's range we are not trying
+to be balanced against people who can't even spell balance we are exploiting the mistakes that our opponents are making
+misconception number seven I call this your ear is wiggling or I have a tell
+all right so in this hand we opened 9 seven of clubs to 25 a pro in the cutof
+three bet us now a recreational player cold called in the small blind I was just going to fold this hand but now we're closing the action we're going to
+have a relative position post flop which means everybody's going to naturally check to the pre-f Flop Razer we're going to see what the wreck and the
+small blind does next to act so we're going to be basically last to act post flop relatively so we're going to come along here and try to realize we flop a
+flush draw check it over ray goes small here wreck calls we overall turn is an
+ace it checks through at this point and now on the river the wreck comes out and Bets 165 I'm thinking well if the rag
+had a strong hand like pocket aces or Ace Jack or Ace 4 or something like that he would just continue betting on the
+turn right so the rag does not have two pair here or a set at any frequency here getting to the River and if the wreck in
+the small blind had a very strong hand like Ace Jack or pocket Jack or Ace straight he would just come out and bet
+bigger on this River because fear and greed Drive poker players decision so in this spot I thought I could credibly rep
+a straight I could have hands like five six I could have hands like ace5 suited so I decided to jam here on this River
+and V sandon says I do not like it if people do this to me with 7 n of clubs
+and I would use my instinct and look at the exact percentage as players doing this and also call with Ace Queen knowing I would win for sure because you
+talked which is a sign of weakness and if you had a straight you would never tell that fairly so let's address these
+one by one first of all I don't know how you can look at a player and deduce the exact percentage that he's bluffing in a
+certain spot from a showdown but if you somehow picked up that superhuman ability I wish you could pass it along
+to me I would I would I would like to have that ability as well then he says I would call with Ace Queen knowing I
+would win for sure because you talked which is a sign of weakness so on this River I did talk what do you have
+what do I have yeah what do you have I have a stram but I don't have the nut string
+but if me talking is a sign of weakness how do you explain this I'm trying to Bluff you but I'm going to tell you I'm
+bluffing you and then you're going to fold you're still going to fold so it doesn't matter cuz I think you don't
+have a good hand and then he says I would never tell exactly what I have right I would never be honest about my own two cards what do you have two cards
+oh I have N9 seven of Spades so the fallacy here is trying to make a read
+without having a baseline you can't look at a guy and say oh my God your your ears wiggling I think you're bluffing
+well you have to look at what his ear does when he's value betting as well and if a player is talking when they're
+bluffing and if a player is talking when they're value betting and if a player is sometimes lying about their hand and
+sometimes telling the truth about their hand what you can't really take a bunch of conclusions away from that be careful
+with your live reads unless you have a baseline to to compare them against all right misconception number eight how
+Equity works or Equity 101 all right so in this hand I opened Ace King of Clubs
+under the gun the cutof calls now a recreational player who I haven't seen three bet all day three BET's a big size on the button this is a huge red flag
+when he go 6X I haven't seen him three bet in multiple hours so far I know he's just got very very strong hands here I
+think four betting against that range would be a punt so I going to call flop comes Jack 105 I check it over and he
+goes 225 at this point I just think his range is Queens Kings and Aces
+exclusively I don't think I have any fold Equity now there is an argument to be made here for just jamming and
+putting the money in so we just always get paid when we hit we're essentially just almost flipping with that range
+that I just described so I think if I could replay this one I may just put the money in right here right now but I figured you know what I don't have any
+fold Equity even if a club does roll off this guy's not folding red Aces so I just elected to call turn is now an
+offsuit Deuce we check it over and he jams a potsize bet here almost exactly
+on this turn we me a comment from JT cas44 here which says pretty sure it's not 30% Equity if you are confident your
+overs are dead on the Ace King of Clubs all-in call 12 outs twice is more like 25% no I mean I guess you can add a
+percentage or two when he's got King King I guess it's close either way and then Cameron theed 4959 says here in the
+Ace King hand I think since you block Aces and Kings his most likely hand is Queens which takes two of your outs away
+as you said I think it's close 1 to 3% Equity away from either call or fold but even if he has Queens half the time that
+takes 2% Equity away from you I lean towards a fold for that reason well guys thankfully they have Equity calculators
+where we can literally put in the board and put in his exact range here we give him Queens plus so we give him Queens
+Kings and aces in the spot we put in our exact hand which is Ace King of Clubs and we see here we are
+33.5% to win this hand against that range we are calling a potsize bet when
+you call a potsize bet you need to be good about 33% of the time according to
+the equity calculator we're going to be good about 33.5% of the time that's how this works we are going to call
+unfortunately for us the river is a blank and we lose to red pocket aces this isn't guesswork it's just math and
+if you're unsure about these spots you can download or purchase an equity calculator and start putting in your
+opponent's exact range in the spot and calculating your exact Equity now a good shortcut is multiplying your outs by
+four on the Flop or multiplying your outs by two on the turn and that gets you close but it's not exact if you want
+the exact percentages look into an equity calculator and then you won't have to make guesses and argue against
+math misconception number nine and I've heard this one a lot basically the EV
+isn't worth the variance so we had lucky lucky slot slot slot say brutal I'm enjoying the series The GTO adjustments
+you make are awesome I think at low stakes you can fold after this flop jam it sounds crazy but sometimes the EV
+isn't worth the variance and the Kelly Criterion modified to accommodate your $100 an hour goal says you either see
+150 hours of EV and pass up on I don't know what the rest of this is but let's dispel this misconception right now all
+right so let's compare two player types one is a Crusher who plays a high variance style right he is just taking
+every single spot if it is plus EV at all even by a few cents he's winning 15
+big blinds per hour live but he has very high variance player two is a little bit more on the conservative side he waits
+he's patient he picks his spots he's a smaller winner he's winning about eight big blinds an hour which is still very
+very good for live poker but he has much lower variance overall so you see here
+here is player one a Crusher who is playing a high variant style who's winning about 15 big blinds per hour
+live He's just never going to go on more than a 5,000 hand sample or about 166
+hours where he is losing here right yes he's playing High variant but because his win rate is so high because he's
+taking every spot he is just never losing over any significant sample at all now we compare this to a player
+who's winning eight big blinds per hour and has lower variants a lower standard deviation per 100 right this is a
+thousand samples of playing a th000 hours live we see here there's a few examples where this player's losing over
+15,000 hands over 500 hours this player has much lower variance but because his
+win rate is lower he just has much longer samples of losing or break even poker so my Mo here when I hear people
+say that they want to reduce variance and find a better spot I'm just hearing
+I don't want to win all of the money the players with the highest win rates are going to have the least amount of hours
+where they are Break Even or losing so take every plus EV spot try to have the
+highest win rate possible let variance sort itself out if you have the highest win rate variance is very rarely going
+to be a concern over the long run finally we're going to wrap it up with misconception number 10 they will adjust
+to you we have Leng gam 5656 here saying you are a good player and $100 an hour
+is possible the problem is people now know your strategy due to your podcast and they will adjust and to this I say
+lol look guys there are hundreds of hours of footage of me playing live
+poker out there on the internet and not only playing but talking through my thought process and still the
+overwhelming majority of the comments misinterpret or misapply what I am doing in certain spots and the rest of the
+comments just tell me uh that's not going to work don't worry about live poker players adjusting to your strategy
+they are not going to and listen if you're playing against a very strong Pro if you're playing against a very strong
+rag dial it back that's when learning equilibrium is useful right that's when
+knowing that's when having that Baseline fundamental strategy is good because you can dial the exploits back and just play
+a more sound fundamental strategy but against 99% of the player pool if you have a strategy that is more complex
+than tying your shoe I promise they are not going to adjust and if you think
+that isn't true just look at the comments on any of these videos thank you guys and have a gentle day

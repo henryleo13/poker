@@ -1,0 +1,466 @@
+picture this your opponent raises you
+look down at a big hand and you three
+bet and your opponent calls now you
+completely whip the Flop and you're out
+of position what do you do I'm going to
+give you the framework I use for this
+spot a strategy so simple you won't
+believe how effective it is and how
+easily it exploits the Tendencies of the
+players you play against every day let's
+talk about playing three bet pots out of
+position but first before we jump into
+the nitty-gritty details of the strategy
+I want to look at an example let's say
+we're playing 25 the button opens we
+look down at a very strong hand in the
+small blind in wi3 bet now the button
+calls flop comes Ace Queen 4 with a
+couple of Spades should we be betting
+our entire range checking our entire
+range or playing some type of mixed
+strategy let's say we decide to see BET
+our entire range small here on this
+board I'm going to pull up the handy
+dandy solver real quick if we decide to
+se BET our entire range here's how our
+opponent is supposed to play you see
+they're supposed to have raises with Ace
+Queen here supposed to be raising top
+two pair this makes a lot of sense
+they're supposed to be raising pocket
+fours at a high frequency this makes a
+lot of sense and they're supposed to
+generally be doing a lot of calling
+there's a bunch of things here that I
+think probably don't happen in real life
+like finding some raises with pocket 3es
+pocket Deuces pocket fives Etc but
+overall this seems like a pretty
+reasonable strategy that is not that far
+away from how most people play when you
+see that okay so let's say we're in the
+same spot button opens we three bet a
+strong hand in the small blind flop
+comes Ace Queen forward with a flush
+draw and we decide hey maybe we should
+check our entire range here how is our
+opponent supposed to play when we check
+our entire range as you see here our
+opponent is supposed to be checking back
+nearly 85% of the time even a hand as
+strong as Ace Queen suited here is
+supposed to be checked somewhere around
+30% of the time Ace Queen off checks
+somewhere around 35 to 40% of the time
+and Ace King from our opponent is
+supposed to be checked back somewhere
+around 90 to
+97% of the time and pretty much all the
+other asex including phase four for top
+and bottom pair is supposed to be
+checked almost pure here from our
+opponents you'll also notice that our
+opponent is only supposed to be using
+this big size when they do bet here and
+the small size is almost never used in
+equilibrium I would argue that this is
+extremely far from how opponents play
+when you check to them on this board I
+would say the acex just gets stabbed a
+lot more ace4 gets bet almost always Ace
+Queen gets bet almost always Ace King
+gets bet almost always and the ace X
+probably just gets bet more than half
+the time with a flush draw out there
+when we check to our opponents as the
+pre- flap Razer and a three bet pot I
+would argue that our opponents make way
+more mistakes versus a check then versus
+a b here are the three biggest mistakes
+our opponents make when we check to them
+number one they over stab number two
+they Telegraph their hand strength with
+their sizing and number three they do
+not protect their checkback range let me
+show you how easy this strategy is to
+play and how it takes advantage of our
+opponent's massive mistakes that they
+make when we check to them all right so
+our opponent opens on the button we
+three bet in the small blind with pocket
+NES our opponent calls flop comes Jack n
+Deuce what do you know we are going to
+check our entire range now let's talk
+about how to play when our opponent
+stabs on the flop for a small size we
+are going to be doing a lot of raising
+our compl for Stacks hands like pocket
+nines or pocket Deuces of course are
+going to be raising here our thick value
+hands like pocket kings pocket aces Ace
+Jack are also going to be raising here
+our draws so any draw without Showdown
+value maybe a king High flesh draw maybe
+a queen High straight draw all of those
+hands will be raising as well I may just
+call with some of our draws that do have
+Showdown value here because when they
+stab small they are just putting too
+many of their weak and marginal hands in
+the small size so if I did have a hand
+like Ace King of Spades here I may just
+be calling sometimes because our hand
+does have some Showdown value when they
+take this small size against hands like
+Queen 10 suited or king queen or 108
+suited so when they stab small they're
+just going to have a lot more marginal
+and weak hands in this size particularly
+when the board is wet and dynamic when
+they have strong hands on a wet Dynamic
+board where the nuts can change with a
+lot of turn cards they generally put way
+too many of their strong hands in a big
+size and way too many of their weak or
+marginal hands in a small size so I'm
+going to be doing a lot of raising when
+they choose a small size I would be
+calling here with more of my thin value
+hands Jack 10 suited Queen Jack suited
+King Jack suited maybe a hand like
+pocket 10 all of those hands would go
+into the call bucket for me here also if
+I had a hand with some Showdown value
+here I would be calling as well maybe a
+hand like pocket a or 89 suited or even
+a hand like Ace King or Ace Queen here I
+do think we have Showdown value against
+the portion of their range that stabs
+very small and then the only hands I
+would be folding here would be my
+complete air maybe a hand like 76 of
+diamonds or ace four of Hearts all right
+so here is an overview of how we play
+against a small stab once again we raise
+our compay for Stacks our thick value
+our combo draws our high Equity draws
+and our low Equity draws we are calling
+with our thin value and our Showdown
+value and we are only folding our air
+now you may be asking what size do we
+check raise to here and if they do have
+a weaker range here shouldn't we be
+check raising small and my answer to
+that is probably not because if they do
+have a hand like pocket eights or
+something like that here that is just
+monkey stabbing they are going to fold
+no matter what size we check rais to if
+we just breathe on this pot they're
+going to fold pocket eights just because
+they stab small doesn't mean they don't
+have any strong hands it just means that
+they put more strong hands in the big
+size than they do the small size here I
+would still be check raising relatively
+large here targeting their hands that
+are going to be in elastic their Ace
+High flush draws their open and straight
+draws their Jack X they do have some
+strong hands here when they go with the
+small size just not a lot and I would be
+targeting that small portion of the
+range that's just going to have a very
+hard time folding even if we check raise
+large here when the board is
+particularly wet and dynamic from out of
+position I generally prefer to play a
+two Street game so I like check raising
+to a size that allows us to get an spr
+of less than one on the turn you see
+here if we check race to a size of 300
+and our opponent calls hot is going to
+be about 785 and we're going to have 610
+left on the turn and then on most turns
+we can just put the money in and play a
+two Street game which kind of negates
+our positional disadvantage now if the
+board was super static and dry like an
+A7 Deuce board or something like that I
+may check Ray smaller here trying to
+play a three Street game instead of a
+two Street game because on static dry
+boards we're not nearly as worried about
+bad turn and River cards coming in and
+we're not nearly as worried about
+maximizing value against their big draws
+on the turn so on a very static dry
+board I may just take a slightly smaller
+check race size all right guys real
+quick we are doing one last boot camp in
+September and bad news it's sold out
+there's a bunch of you who still wanted
+a seat so here's what we're doing we are
+opening a second group for September 10
+people Max the first one sold out in 4
+days the second one will sell out we
+only have capacity for two groups we are
+not opening a third group so if you've
+ever wanted to do a Hungry Horse poker
+boot camp September is your last chance
+sign up today thank you guys we will see
+you there all right so next example this
+time we're going to three bet the same
+hand same flop we are going to check it
+over and now they stab big when they
+stab large on the Flop I'm going to be
+much more picky about the hands they
+check raise because when they use this
+large size they just have way too many
+strong hands in their range so therefore
+I'm only going to use my strongest hands
+to check raise here if I do have a
+complay for Stacks hand like pocket
+nines pocket Jacks pocket Deuces those
+hands would all get check raised also if
+I have a big combo draw Queen 10 of
+Spades or ace deuce of Spades or King
+Queen of Spades those hands may get
+check raised as well because while I
+don't expect us to have a whole lot of
+fold Equity when they take this big stab
+size on the flap the more equity in our
+hand we have the less fold Equity we
+need because when we have a big combo
+draw we are most likely going to have a
+ton of equity against any maid hand they
+have so even if we have just a tiny
+shred a fold Equity that's really all we
+need to play these combo draws very very
+aggressively if I just had a high Equity
+draw here like Ace Queen of Spades or
+ace5 of Spades I would be doing a lot of
+calling because I do not expect us to
+have much fold Equity again when they
+take this big size and we're just not
+pushing as much Equity with our hand as
+a combo draw I'd also be calling with
+our thick value hands Ace Jack pocket
+Queens pocket kings those hands would go
+into our call bucket here instead of our
+raise bucket our thin value hands like
+ace9 suited or Jack 10 suited those
+would also go into our call buckets but
+we're going to be doing a lot more
+folding here if I had a low Equity draw
+here like king queen of hearts I would
+just be folding that hand if I had a
+showdown value hand like pocket eight or
+Ace King here I would be folding those
+hands as well so here is an overview
+when they stab big here going to be
+raising off our complay for Stacks hands
+and our combo draws going to be calling
+with our thick value our thin value and
+our high Equity draws and going to be
+folding our low Equity our Showdown
+value and our air the more wet and
+dynamic the board is the more we can
+read into sizing tells if the board is
+A7 Deuce well they could still stab
+small quite a lot of the time with their
+sets or two pair if the board is Jack n
+Deuce with a flush draw in general most
+Live players are going to size up with
+their very strong but vulnerable hands
+sets two pair top pair over pairs Etc
+because they are terrified of a bad card
+coming in so if you want to pull on that
+thread two helpful things we can take
+away from this number one when they stab
+small on these wet and dynamic boards we
+can just be check raising a ton with
+impunity just knowing that in general
+they'd probably size up with their
+stronger hands and also on a super
+static and dry board like A7 Deuce when
+they stab small we can't really take
+nearly as much away from that and we
+should be probably a little bit careful
+about check raising a ton because they
+can still have some very strong hands
+when they choose a small size there are
+two spots I would be making deviations
+here number one if our opponent is a
+passive Patty if they are just going to
+check back some of the time with top
+hair or big draws or stuff like that I
+would just be much more inclined to come
+out and bet myself when I have hands
+that don't really benefit from a check
+raise now if we have a hand that really
+benefits from check raising here even if
+our opponent is passive I may still be
+checking quite a lot with my draws with
+my thin value with my air and even with
+some of my compl play for Stacks hands
+like pocket nines here I would want to
+be doing a lot of checking because this
+hand really benefits from check raising
+and trying to Pile in the money for two
+streets so even if our opponent is more
+on the passive side they're still
+probably going to stab a good amount on
+this board the hands I would be
+deviating the most with would just be
+top pair or over pair hands those hands
+against a more passive opponent I would
+be more inclined to just take a bet bet
+bet line because if our opponent is not
+massively over stabbing these hands just
+don't really benefit from a check raise
+nearly as much because because when our
+opponent does bet they're just going to
+have a stronger range and a hand like
+pocket queens or Ace Jack or something
+like that doesn't necessarily feel
+comfortable check raising against an
+opponent that isn't massively over
+stabbing exception number two if our
+opponent is particularly shallow you see
+in this hand our opponent is only 410
+effective on the Flop I would not be
+checking my entire range because one of
+the big advantages of checking our
+entire range is it kind of negates our
+positional disadvantage and we can put
+in a ton of check raises here if our
+opponent is super shallow we don't
+really have as many benefit to check
+raising and I would just be doing a lot
+more betting myself if I had it can play
+for Stacks hand here now this hand
+doesn't really benefit from check
+raising a whole lot like pocket 9
+because this hand can just get the money
+in over two streets by just going bet
+bet itself if I have an over pair or a
+Jack X Type hand again same thing I can
+just go bet bet myself and get the money
+in over two streets now with my air with
+some of my draws I might just be
+checking here sometimes because when our
+opponent does check back on a board like
+this that just gives us the green light
+to Bluff very very profitable across
+turns and rivers which is still really
+really nice when we have a draw here but
+with a lot of my value hands when our
+opponent is shallow I would just be
+coming out edding myself so now I want
+to talk about the most common place
+you're going to be playing out of when
+you play this check range strategy a lot
+of the time even when our opponent's
+over stab the flap is going to go check
+check so let's talk about how to play
+turns when our opponent checks back the
+flap all right so we see here we check
+it over to them they check it back we go
+to a turn almost my entire range here on
+the turn is going to want to be betting
+large you may be asking why well what is
+their range that is the important
+question I want to put their range here
+into buckets my advice don't start
+zoomed in here like oh their range is
+pocket eight and Ace Queen of Heart no
+start off by putting their range in
+buckets and most of their range is going
+to be either Showdown value or air now
+the air portion of their range the
+completely whiff that didn't stab the
+Flop is going to fold if we breathe on
+this pot so just throw that out the
+window let's focus on The Showdown value
+portion of the range if they did have a
+hand like ace9 suited or pocket 10 or
+pocket eights here they checked back the
+Flop to call one streak they're going to
+call on the turn whether you bet tiny or
+you bet huge so we may as well bet huge
+both our can for Stacks hands like
+pocket NES our thick value hands like
+Ace Jack or pocket Queens our high
+Equity draws our low Equity draws
+everything except Showdown value here
+pretty much wants to bet large on the
+turn because they're going to be doing a
+lot of calling on the turn when we
+choose this big size so if we do have a
+bluff here like Queen 10 of clubs well
+we probably want to go large on the turn
+to entice him to call one time with a
+hand like 9x and now on the river we can
+lay down that big boy overb Bluff hammer
+and get them to fold that hand almost
+all the time with our hands like pocket
+NES again we want to go big on the turn
+to get them the call with a hand like
+pocket T now we can size down on the
+river to really sculpt the sizing where
+they are enticed to put in a call with
+some of their Showdown value like pocket
+TS or pocket eights so both our value
+and our Bluffs have the same goal on the
+turn get them to put in as much money
+with a showdown value portion of the
+range as possible and our value wants to
+size down to get them to call on the
+river and our Bluffs want to size up to
+get them to fold on the river because so
+much of their Showdown value is going to
+be having a very very hard time hanging
+on on these super super wet Dynamic
+boards like Jack n dece this is how I'm
+going to play on turns I'm mostly just
+going to be betting big with my entire
+range here because I think they are so
+so capped when they check back the Flop
+this is an extreme example because the
+board is super super wet in Dynamic so
+when they check back this flop I think
+they are just going to be very very
+capped because they over stab these wet
+Dynamic boards the most if the board is
+a little bit more static if the board is
+a little bit more dry say the board is
+ace9 Deuce this is how I may play on
+turns here now I will be a little more
+Equity driven I'm going to go large with
+my compay for Stacks hands my thick
+value and my high Equity draws I'm going
+to go small with my thin value my low
+equity and my air and I'm going to be
+checking my Showdown value now you may
+be wondering when we check raise the
+flap how do we play the turn or when we
+check call on the flap how do we play
+turns and rivers it's too much to get
+into in this one single video but if you
+want all the sauce we have all the
+defaults built out for every single line
+for playing three bet pots out of
+position not to mention playing single
+race pots out of position single race
+pots in position three bet pots in
+position Etc if you want all the sauce
+consider joining us check out hungry
+horsep poker.com put in your email sign
+up for the wait list we are rolling out
+a brand new subscription service with
+live coaching every day coming this fall
+so sign up spots are limited be one of
+the first ones to know if you want all
+of the sauce

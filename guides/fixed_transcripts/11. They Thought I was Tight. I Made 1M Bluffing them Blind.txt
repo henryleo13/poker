@@ -1,0 +1,614 @@
+When I first started playing poker, I
+thought bluffing was all about balance,
+blockers, and board textures. I was
+wrong. Once I figured this out, I
+printed over a million dollars playing
+cash games while 99% of the player pool
+thought I was a tight ABC knit. They had
+no idea I was bluffing like a maniac for
+years. And they didn't figure it out
+until I started posting YouTube videos
+like this one. Today, I'll show you
+exactly when to empty the clip, when to
+pump the brakes, and how to bluff like a
+lunatic while still looking like the
+tightest player at the table. Let's jump
+in. All right, so I want to start off by
+looking at two very different examples
+here. In this first example, we are
+going to open with queen jack of spades
+on the button. Big blind is going to
+call. We're going to see bet on the flop
+with our flush draw, and we get to a
+turn, which is a 10. And sure, on this
+turn, occasionally the big blind could
+have the nuts for a straight, but for
+the most part, they're going to be
+relatively capped because they're going
+to raise hands like pocket eights,
+pocket sixes, pocket threes, 86 suited
+on the flop. So sure, they could have
+some strong hands like 108 or 97
+occasionally, but for the most part,
+they're going to be relatively capped on
+this turn. A lot of 8x, a lot of flush
+draws, a lot of pair plus straight
+draws. We are going to go large here.
+They are going to call. We get to the
+river and when villain checks it over,
+if we go all in in equilibrium in this
+spot, the villain is supposed to call
+with a ton of 8x. They're supposed to
+call here with hands like king eight
+suited, jack eight suited. These hands
+are supposed to be calls at a reasonable
+frequency on this river when we jam for
+2.5x pot because villain just doesn't
+really have many strong hands here. And
+this is not node locking. This is in
+equilibrium because on the flop for the
+most part they raise their sets in two
+pair and on the turn they raise their
+top two pair and their straights. So
+getting to the river they just don't
+really have two pair straits and sets.
+So they're supposed to call here
+whenever they have 10x and they're
+supposed to call with a lot of the 8x as
+well just because their range is going
+to be so wide and weak getting to the
+river. Now let's look at a slightly
+different spot and I promise I'm going
+to wrap this very neatly in a bow in 1
+second after this example. So this time
+villain opens in a lowjack. We three bet
+ace queen of spades. So we are playing a
+three bet pot early versus early. We see
+bet on this low low board. Villain
+calls. On the turn we are going to
+double barrel. We get to the river and
+we are going to empty the clip here
+which by the way is an equilibrium
+approved bluff. Now in this particular
+spot, villain is supposed to fold
+queens, jacks, and tens whenever they
+don't have a diamond. They're supposed
+to fold pocket 9ines and pocket eights
+pure. They're supposed to fold all their
+7x pure a seven suited, 78 suited, etc.
+So, villain is supposed to make a ton of
+big folds in this spot. So, for our
+bluff to be profitable on this river,
+the villain is going to have to make
+some very, very big folds. When we go
+back to the previous example, the
+villain is not supposed to make any big
+folds on this river. In fact, they're
+supposed to call with a lot of second
+pair here when we go 2.5x pot. So now I
+want to ask against a human, against a
+live poker player, where is our bluff
+going to be more profitable? Situation
+one where they are supposed to call with
+second pair for a 2.5x overb on the
+river or situation two where they are
+supposed to fold pocket queens and
+pocket jacks on this river. Well,
+obviously in situation one, our bluff is
+going to be very very profitable against
+the majority of the live player pool.
+And in situation two, we're probably
+just lighting money on fire if we jam as
+a bluff on that river. So, here is the
+big picture takeaway. If you want to
+bluff like a maniac and be able to get
+away with it, when villains get to the
+river with a strong range, they need to
+fold strong hands in order for our bluff
+to become profitable. When villains get
+to the river with a weak range, they
+need to call with weak hands in order
+for our bluff not to be profitable. So,
+now let me show you a plethora of
+examples of where villains have weak
+ranges and our bluffs are going to print
+and where villains might have very
+strong ranges where we might want to
+pull in the res and not empty the clip.
+Let's go. All right, let's start off
+with an example where villain may have a
+weak range. And this is an example you
+may have seen me use before because it's
+so clear, it's so simple, it's so easy
+to get. So, we'll start off with the
+simple ones and we'll build a little bit
+of complexity as we go. So here we see
+bet on the flap and on this particular
+board when it is this wet and dynamic
+most of the player pool when they check
+call on this particular board they are
+going to be capped going to the turn.
+Why? Because they're going to raise
+hands like jack nine, pocket nines,
+pocket deuces. So when the turn comes a
+blank most of the time the best hand
+they're going to have getting to the
+turn is going to be a hand like ace
+jack. So we over bet on the turn. We go
+to the river. We've got 2x pot behind.
+And in this situation when we jam on the
+river, villain's range is going to be
+very very weak. If we nodlock a typical
+25 live player's response in the solver
+and tell the solver that this player is
+raising Jack nine, pocket nines, pocket
+deuces almost all the time, well that
+means on this river the best hand they
+get here with is Jack X. If we can get
+Jack X to fold on this river just some
+of the time, we are absolutely printing.
+Even with a bad combo to bluff, we
+should still be emptying the clip here
+because villain gets here with such a
+weak range. They are supposed to be
+calling weak hands and I feel pretty
+good about emptying the clip when
+villain has a weak range and they're
+supposed to call us with weak top pair
+when we go 2x pot on the river. The
+situation where this might not work as
+well. Say we are playing against a super
+super passive trappy player. And when we
+see bet on this flop, this is the type
+of player who's going to trap with hands
+like pocket nines, pocket deuces,
+sometimes jack nines. So they just like
+to spring the trap whenever they have
+big hands. We go to a turn and now the
+turn this time brings in the flush. And
+you guys know my mo on these not
+changing cards is to bet small to give
+villains a chance to cap themselves when
+they do have flushes. But the problem
+here with betting small when villains
+just check calls. If we're playing
+against a trappy player, a guy who just
+always traps his sets. Well, that means
+they're going to get to this turn and
+those type of hands aren't going to
+raise even if we bet small when the
+flush comes in. And now if they do have
+a flush, well, they're a trappy player.
+What are they going to do with the
+flush? They might just trap here. So
+getting to the river, we just don't
+really have any good options here
+because if we go really big on this
+river, if we go 2 1/2x pot, well, we're
+just running into flushes. It's
+sometimes trapped on the turn. If we go
+pot or overb on this river, well, sure,
+we lose a little bit less against the
+flush portion of the range, but we just
+get snapped off by pocket 9, pocket
+deuces, jack nine, etc. And if we just
+go small on this river, well, villain
+just snaps us off with Jack X. So, you
+see how much more difficult it is to
+bluff when villain has a super strong
+range getting to the river. My quick
+exploit against this player type is to
+do quite a bit of checking back on these
+nutchanging turns because what's going
+to happen on the river, even trappy
+players once the turn goes check check
+and the nuts change, they kind of let
+fear drive their decisions. And even
+trappy players have fear of not getting
+paid when they have super strong hands
+like sets or flushes here. So when the
+turn goes check check in general they're
+just going to come out and bet the river
+when they have strong hands like flushes
+and sets. So if they come out and bet
+the river obviously we just fold. But if
+they check well now at this point we can
+somewhat cap the villain and say most of
+their range is going to be jack x or
+weaker. And now we have a much more
+profitable bluffing opportunity in this
+spot. But you see here when we are
+playing against trappy players a lot of
+times they arrive to turns and rivers
+with much stronger ranges which makes
+our bluffs way less profitable. The
+other situation here is even if the
+player isn't trappy, sometimes the board
+type makes them trappy. So we open 89
+suited here. Flop comes A7 deuce and
+just sebetting on this board. And the
+problem with seab betting range on this
+board is even if the player is not
+particularly trappy, this board is so
+dry and so static, villains will
+sometimes trap us when they have hands
+like A7, pocket sevens, pocket deuces
+just because they don't have anything to
+be afraid of on this particular board.
+So by sebetting our range, we go big on
+the turn. villain is still uncapped and
+we just run into a spot on the river
+where we need to empty the clip to get
+them to fold hands like ace jack or ace
+queen or whatever. But the problem is we
+just run into hands like sevens, deuces,
+a7, ace deuce, pocket deuces, a6, and we
+just run into super strong hands way too
+often. All right, the next situation
+where bluffing is going to be super
+profitable is when villains call with
+too much of their weak stuff. So, let me
+show you. In this example, they open in
+the cutoff. We three bet on the button,
+go to a flop, and we are just going to c
+bet 1/3 pot in a three bet pot. That is
+my default here. We go to a turn, which
+is a seven of spades, bringing in a back
+door flush draw, and we are going to
+double barrel big here on this turn. And
+what I find actually happens at spots
+like this from the villain's
+perspective, is they have way too many
+hands in their range that just look
+pretty good on this turn, and they just
+start putting in calls with too much of
+their weak stuff. They have a hand like
+pocket fives, well, they have a pair
+plus a gutshot. Pocket sixes, same
+thing. a hand like pocket eights. Well,
+they got second pair and they kind of
+talked themselves into us having a lot
+of draws here. So, they call. Four five
+suited has a pair and a straight draw.
+Ace five has a double gut shot, right?
+All of their club flush draws, all of
+their spade flush draws, they just have
+a ton of hands in the spot that look
+like they have something going on. So,
+when they call on this turn, they just
+get to the river with a range that is
+too wide and too weak. So, our bluffs in
+this spot are going to print because all
+of those hands that we talked about,
+five, sixes, four, five, ace five, all
+of these hands are not going to want to
+hang on on the river. This was one of
+the biggest misconceptions I used to
+have. I used to think, well, these guys
+are calling way too much on the flop and
+the turn, so I just don't want to bluff
+them on the river, which is actually the
+opposite of what should happen. Because
+when they call too many hands on the
+flop and they call too many hands on the
+turn, they just get to the river with a
+range that is too wide and too weak. And
+so our bluffs become super super
+profitable because when their range is
+wide and weak, they are supposed to call
+with a bunch of hands that are very
+uncomfortable calls on this river. Let's
+take a look at the inverse situation
+here where a villain may be folding too
+much on the turn. So in this one, we
+open seven six of hearts on the button.
+Villain is going to defend in the big
+blind. We see bet here on the flop. And
+now on the turn, we are going to double
+barrel. We choose a big size here on the
+turn. And let's talk about the problem
+with this size on this board. If we do
+plan on having a profitable triple
+barrel, when we over bet on this turn on
+this board, let's think about what range
+the villain continues with to the river.
+If they have a hand like 5x, a hand like
+ace5, 56, 75 suited, something like
+that. When an overcard comes on the
+turn, they're going to be folding those
+hands. If they have hands like threes,
+fours, deuces, sixes, sevens, a lot of
+those hands are going to be folding now
+here on this turn as well. So the
+problem is here if we go big on this
+turn, villain may get to the river with
+a range that looks like slowplayed
+trips, slowplayed boats, and maybe
+occasionally pocket 10s and pocket jacks
+that didn't three bet pre flop. If they
+call on this turn, this is not going to
+be a profitable bluff spot on this
+river. So on boards like this,
+particularly on these top card paired
+flops, when an overcard to bottom pair
+comes on the turn, I generally like to
+go small on the turn again to funnel our
+opponent to the river with a wide and
+weak range, which is going to make our
+bluff much more profitable than if we go
+big on the turn and we're trying to
+bluff them off a range that includes
+tens, jacks, trips, and boats. All
+right, the next situation where we have
+very profitable bluff spots is if we're
+playing against villains that like to
+don lead on the river whenever they make
+a big hand. So let me show you here. We
+open on the button. Villain is going to
+defend. We see bet on this flap. Villain
+check raises and we are going to call
+here with an open ender in position
+playing relatively deep. We go to a turn
+which pairs the board. Villain checks it
+over. We go small here on this turn and
+we get to a river which brings in the
+flush. And now villain just comes out
+and dons. When the flush comes in on
+this river, we fold and villain shows
+king jack of diamonds for a combo draw
+that got there on the river. So the
+interesting takeaway here when we're
+playing against opponents that just like
+to come out and donk the river when they
+have strong hands is not what happens
+when they donk, but what happens when
+they check. So let's say we're in this
+same spot. We see bet, they check,
+raise, we go to the turn, we bet small.
+And now let's say the flush comes in on
+the river and they check. Well, this is
+a spot where we know villain's range is
+going to be weak on this river because
+we know that they just come out and donk
+at least some of the time when they have
+strong hands, when they have full
+houses, when they make their flushes on
+this river. If we're playing against a
+player that just generally comes out in
+dons, when they check here, well, now we
+know that they have a weak range and we
+have cart blanch to empty the clip here.
+Knowing that we are just going to get a
+bunch of folds. And once you start to
+see these patterns, I think of the
+matrix where Neo says to Morpheus, will
+I be able to dodge bullets? And Morpheus
+says, Neo, when you're ready, you won't
+have to. Once you are able to start
+delineating where your opponent has a
+weak range getting to the river and
+where your opponent has a strong range
+getting to the river, all of a sudden 80
+90 95% of your bluffs start to get
+through because you are emptying the
+clip only when your opponent has a weak
+range. The other side of the coin here,
+if we're playing against an opponent who
+does not
+donate, when we get to this river and
+our opponent checks, this is not the
+spot we want to empty the clip. Once
+again, we got here with Jack high. I
+would just ask in this spot, do we have
+a profitable bluffing opportunity at
+all? If we go all in, probably not. Our
+opponent is just going to have some
+flushes. They're going to have some
+trapped boats, the check on the turn.
+So, I would not want to go all in here.
+I would just ask, might we have a
+bluffing opportunity if we go small
+here? Just trying to get our opponent to
+fold hands like king jack or maybe the
+same hand as us here and getting a cheap
+price on our bluff. So, once again, our
+opponent has a strong range here. So, we
+would not want to use the big boy bluff
+sizing on this river. All right, let's
+shift to out of position here. This
+time, we open in the cutoff. The button
+calls. You guys have probably heard me
+say I'm a big fan of checking my range
+out of position because in general live
+players overstab and telegraph their
+hand strength with their size. So what
+if we are playing against a player who
+tends to overstab? We check here on the
+flop. And in general on a board that is
+wet and dynamic like this 10 high board.
+Most live players are going to stab when
+they have 10 x when they have two pair
+when they have sets when they have big
+flush draws or combo draws. They are
+just going to stab at a very high
+frequency. So when they check back here,
+even when the flush completes on the
+turn, we just kind of have cart blanch
+to empty the clip here. Because against
+a typical player who's just going to be
+stabbing their flush draws at a high
+frequency when we check to them, their
+range is so weak and so capped. They
+don't really have 10x. They don't really
+have sets into pair. They don't have a
+lot of flushes. We can just empty the
+clip here. Go with the big boy size on
+the turn. Make sure they call once with
+a bunch of their showdown value. And
+then we just empty the clip on the
+river. And we are going to get a lot of
+folds because in this situation villain
+just has a range that is very very weak.
+Where this may not work out quite as
+well for us is when villains protect
+their checkback range. So in this
+situation they open on the button. We
+are going to three bet in the small
+blind and they call on this ace king for
+board. We just kind of check it over out
+of habit here. And what I find on these
+ace high boards particularly in three
+bet pots villains will check back some
+strong hands here. They'll check back
+hands like ace queen or ace jack. While
+they may not check back two pair or
+sets, they just have a lot of pretty
+good top pair. So, what ends up
+happening here after the flop goes check
+check. If we just come out for the big
+boy size on the turn and the big boy
+size on the river, the reason why they
+check back the flop with ace jack or ace
+queen was so they could click call call
+and just call us down on the turn and
+the river. And so in this situation
+where villains do have somewhat of a
+protected checkback range on the flop,
+meaning they do have strong hands when
+they check back, this is a situation
+where it is not nearly as good for us to
+empty the clip because villains just
+have a much stronger range. And if you
+want to get the big boy folds in the
+spot, there's a couple tips I have. So I
+will show you two different lines that I
+think increase our fold equity in the
+spot. Situation number one, yes, we go
+for the check again on the flop. And
+then if we do have the stack depth
+behind, this is super important. You're
+going to have to start off at least 200
+big blinds effective for this to work.
+And you're going to have to be very,
+very careful with your check race size.
+So I may just check again here on the
+turn because now at this point,
+Villain's going to stab with all their
+ace jack, ace 10, ace five suited that
+checked back on the flop. And if they do
+check back again on this turn, well,
+that means most of the range is just
+going to be like pocket eights or pocket
+sixes or something like that. And if the
+turn goes check check, well, we just
+come out in two or 3x pots of river. We
+get the fold all the time. But if they
+do bet on the turn, one of the best ways
+to maximize float equity is actually to
+go for the check race. We have to be
+really, really careful in a three bet
+pot to make sure we leave behind the
+appropriate SPR. But if we go for a
+small check race here, a hand like ace
+jack doesn't fold. And now going to the
+river, we can just empty the clip. And
+you see, we put in the same amount of
+money, but going for the check raise
+makes us look much stronger. What does
+it look like we have when we three bet,
+check the flop, and then check raise the
+turn? Well, it looks like even to a
+recreational player that we have a hand
+like pocket kings or ace king here that
+was laying in the weeds setting the
+trap. And this is the situation where we
+may get the increased folds. Tip number
+two in this spot, we could just come out
+and go bet. And I think when we do this,
+we do get a lot of folds from weaker ace
+x hands like ace5 suited, ace9 suited,
+stuff like that. We may get snapped off
+by ace queen or ace jack here, but I
+think we just do increase fold equity
+marginally by going bet here. So, in
+this spot, I may just still proceed with
+caution because villains are going to
+have a little bit of a stronger range
+getting to the river. But hopefully
+these two tips, even when villains do
+have a slightly stronger range, help you
+increase fold equity and make those
+bluffs more profitable. All right, next
+situation where our bluffs are going to
+print. When villains split their sebat
+sizes as the pre- flop razor. So, this
+one will play as the pre flop caller
+from the big blind. We check it over and
+villain goes big on this board. they go
+40 into 52 in the spot. So the takeaway
+here is what this means when villain
+chooses a small size on this board. If
+sometimes they size up and go 80% pot
+and then sometimes they go half pot or a
+third pot. Most likely, right? Most
+likely their range is going to be too
+weak when they choose the smaller size,
+particularly when the board is very wet
+and dynamic like a board like this. Now
+be careful about this if the board is
+dry and static. if the board is like a7
+deuce or ace king 4 or something like
+that. But on these wet dynamic boards
+when villains split their sizes
+generally they're just not going to have
+enough strong hands in the small size.
+So we could just pounce on that and just
+check raise with impunity. And normally
+I'm a big fan of choosing 8x 10x 12x
+raise sizes because I think villains
+just get a little bit too sticky. But if
+we know villains are splitting their
+sizes, I may just check raise 30 40 50%
+of my range here. pretty much anything
+without showdown value. And I may choose
+a smaller size because I want villains
+to stick around and call. I want them to
+call the turn again. And then we can
+blast them off of everything by the
+river just knowing that they are capped
+because their stronger hands like
+straights, sets, two pair would just
+generally choose a bigger size on the
+flop because we've seen them split their
+sizes. Conversely, if we're against a
+stronger player who does not split their
+sizes, even on wet dynamic boards such
+as this one, we want to be very, very
+careful about check raising because we
+don't have that information that their
+range is weak even when they choose this
+halfp pot size. So, if we are going to
+check raise, the golden rule here is the
+less fold equity we have, the more
+actual equity in our hand we need. So,
+we want to be choosing very strong hands
+when we check raise into a range that
+can be quite strong. So, this hand, a
+good candidate, a hand like Ace8 of
+Hearts. We've got a massive combo draw
+here. We don't care if their range has a
+bunch of strong hands in it because we
+just have so much equity even against
+that portion of their range. So, the
+overall takeaway here is when their
+range is strong, pull back on the
+bluffing and let our bluffs be led by
+the hands with a ton of equity rather
+than just emptying the clip with pretty
+much everything. All right, guys. A
+simple video, a simple concept, but I
+think a super important one. Like I
+said, once I figured this out, my win
+rate went to the moon. So, I hope you
+guys enjoyed this video and it turned
+you into the biggest boy possible.

@@ -1,0 +1,742 @@
+Have you ever heard poker players say,
+"This is a fold in theory." Or, "I don't
+have the right blockers." Or, "I think
+I'm supposed to mix here." I've made
+over seven figures playing live poker.
+And here's what I've learned. Most of
+the time when players say these things,
+they're not playing GTO. They're just
+scared. Scared to trust their read.
+Scared to look stupid. Scared to take
+responsibility for their decision. In
+this video, I'll show you the exact
+spots where players use misapplied
+solver logic as a crutch so you can
+break free from it and actually crush
+the games you're sitting in. All right,
+first example of where players misapply
+GTO is when they say something like this
+is a mandatory for bet. All right, so
+we're going to open here on the button
+with King Nine of Spades in the small
+blind nitty norm is going to three bet.
+Back to us for our decision on the
+button here. And we see here in GTL at
+equilibrium at 200 pig blinds, king 9
+suited is a high frequency for bet. This
+hand is supposed to be for bet bluffed
+about 69% of the time here. But
+remember, we are playing against Niti
+Nororm. And this for bet bluff in
+position is assuming a few things. This
+is the range that King 9 of spades is
+supposed to be for betting against.
+Nitty Norm's GTO three bet range from
+the small blind. We see here he's
+supposed to be three betting pocket
+sixes 93% of the time. We see a hand
+like Jack 9 suited nearly 100% of the
+time here. a hand like ace8 suited 88%
+of the time. The thing is, if Nitty Norm
+is not finding any of these borderline
+three bets from the small blind, our for
+bet here is going to be a punt because
+when we for bet, we're going to be for
+betting into a range that just doesn't
+have enough marginal hands in it. So,
+what's going to happen all too often is
+Nitty Norm's just going to have pocket
+queens here or something like that. He's
+going to go all in and we just lit $200
+on fire. All right, pre flop is easy.
+Let's jump into post flop. And
+oftentimes I hear players say things
+like, "Well, I have to call. I'm at the
+top of my range." All right, first
+example here. Prudent Preston is going
+to open in the cutoff. We three bet on
+the button with king jack of spades. He
+calls. We are going to see bet here with
+a king high flush draw. He calls. We go
+to a turn. We're going to put in the big
+double barrel here on this turn and he
+is going to call again. Now look at
+this. On the river, we make the king
+high flush when he checks it over. We
+have a couple options here. could choose
+a really small size to target hands like
+ace 10 or king 10 suited that have been
+downgraded or we could go for a bigger
+size on this river and target hands like
+two pair maybe the queen 10 suited some
+of the straits that came in like jack n
+suited and some smaller flushes. So,
+we're actually going to go for a bigger
+size on this river, targeting the
+strongest portions of his range. And
+now, Prudent Preston is going to jam for
+just 530 more. And how many times have
+you heard a poker player say here,
+"Well, got to call. I'm at the top of my
+range." And we see here in theory, King
+Jack of Spades is just not even close to
+being a fold, right? We are winning
+$1,285
+by calling. So, let's look at the hands
+that Prudent Preston is supposed to jam
+on this river at equilibrium and ask if
+a real human is actually doing this. So,
+as for bluffs on this river, he doesn't
+need to find many in equilibrium, but
+he's supposed to jam with pocket nines
+with a spade here. And then as for worse
+value hands, he's supposed to jam here
+with hands like queen 10 suited and jack
+nine for a straight a good percentage of
+the time. And also smaller flushes. So,
+if he gets here with a hand like five,
+six of spades or seven six of spades,
+those hands are supposed to jam at
+equilibrium as well. So, let's say on
+this river, he just doesn't find the
+bluff jam with pocket nines with a
+spade. A hand like queen 10 suited or
+jack nine for a straight is just never
+jammed on the river. That hand is always
+called. And then on top of that, let's
+say when he does have a smaller flush
+like 65 of spades or 54 of spades, these
+hands are jammed 50% of the time instead
+of all the time on the river. So he's
+jamming with some worse flushes here.
+Well, look at that sweet baby there.
+King Jack of Spades is now losing $38 by
+making this call on the river for an
+all-in jam. So, my recommendation on how
+to use solvers instead of just looking
+at a spot and saying, "Oh, this is a
+mandatory call, look at the hands that
+your opponent is supposed to jam with.
+Are they putting in the money with all
+of these hands, more of these hands, or
+less of these hands?" And it's pretty
+intuitive when we look at the spot that
+the solver finds to jam on this river
+where we can say, "Oh, in this spot, a
+more passive typical live player is
+probably not jamming as a bluff and
+probably not jamming with worse value
+all that often when we've taken this
+strong of a line. So, it doesn't matter
+here that we are top of range if our
+opponent is just really only jamming
+this river with a nut flush." All right,
+guys. If you're enjoying this video, if
+you're saying, "Hey, this is actually
+useful to the games I'm playing in." and
+you want all of the sauce, our 28-day
+boot camp is booking now for August.
+Listen, we only have 12 slots. So, if
+you want a spot, if you want to get all
+of the sauce defaults for every single
+spot you will ever play in live poker,
+sign up for the 28-day boot camp. Now, I
+know a lot of you are at the World
+Series of Poker this summer, firing
+tournaments, firing some of the cash
+games, and you want to get on the right
+track when you get back from the WSOP
+and get back on that grind to crushing
+cash games to close out this year
+strong. Sign up for the August boot
+camp. We are going to sell out soon. I
+will see you guys there. All right, next
+example. We open Pocket 9's tournament
+Tim, three bets on the button. We are
+going to continue. Look at that sweet
+baby there. We're going to check it
+over. We've got a boat. He see bet small
+and we think if this guy does have a
+hand like ace king or king queen suited
+or something like that, he'll probably
+put in all the money for us and we'd
+like to give him a chance to bluff on
+this board if he does have a gut shot.
+Maybe a hand like jack 10, queen 10.
+Maybe just an ace high hand like ace
+queen thinking this board is good for
+him. So we are just going to call here.
+Turn is an ace. We check it over and he
+actually checks it back. Going to this
+river. We've got a couple options for
+sizing here. We could go really small
+targeting a hand like pocket 10s, pocket
+jacks, pocket queens, or we could choose
+a bigger size here targeting the ax
+hands that might have checked back the
+turn. Maybe a hand like ace queen, ace
+jack suited, ace five suited, ace 10,
+something like that. So we are going to
+go big targeting the ax portion of his
+range that would play this way a lot of
+the time. And now surprisingly,
+tournament Tim is going to put in all
+the money and jam over the top. I've got
+a call. I'm at the top of my range. So
+where are the bluffs coming from on this
+river? Well, in equilibrium, tournament
+Tim is supposed to find the all-in jam
+with a hand like queen 10 suited, queen
+n suited, pocket sevens, pocket sixes.
+These are the all-in bluffs in
+equilibrium. On top of that, he's
+supposed to jam here for value with a
+hand like king jack suited that
+sometimes check back the turn. Does he
+have king jack suited here that's
+jamming maybe a small portion of the
+time that didn't bet the turn? Okay,
+maybe. Does he ever have queen 10
+suited, queen 9 suited, pocket sevens,
+pocket sixes that are taking this line
+ever in a million years?
+And we see here pocket 9ines in
+equilibrium if he has all of these rare
+bluffs is actually a partial. We're
+actually on this river losing a small
+amount of money by calling with pocket
+9, but it's a partial call so we don't
+get exploited. And I would just ask on
+this river, is our opponent finding
+these bluffs? If not, what should we do?
+All right, the next example of
+misapplied solver logic you may have
+heard players say is something like it's
+close. I've got to randomize here. All
+right, so we're going to open jack nine
+of spades here in the cutoff. Wild
+Willie is going to three bet on the
+button and we are going to call. Queen
+95. We check it over. He see bets small.
+We call. Turn is a deuce. He double
+barrels big and we call. River is a
+blank. We check it over and he goes for
+the allin jam on this river. And we see
+here in equilibrium, jack nine suited is
+indeed very close on this river, right
+about the break even point. And this
+hand is actually mixed. Jack 9 suited is
+mixed. We see we're supposed to call
+with Jack 9 of spades here about 52% of
+the time and fold 48% of the time on
+this river. Basically a coin flip. So
+should we be randomizing? Wild Willie is
+supposed to find bluffs on this river
+with hands like king jack, a brick
+gutshot, 108 suited, a brick gutshot.
+Ace King is supposed to triple barrel
+here at a high frequency. And then a
+hand like 76 for a brricked gutshot is
+also supposed to triple barrel here. But
+he's supposed to give up and check back
+a lot of his brick straight draws as
+well. Hands like Jack 10 suited or king
+10 suited are supposed to be given up at
+a high frequency. And this is where I
+think actually looking at the solver is
+helpful. This is what Wild Willie is
+supposed to do with his range on this
+river. And if we start looking at spots
+like this, instead of trying to memorize
+the equilibrium solution, we can look at
+this spot from Wild Willie and say,
+"Hey, is he maybe finding some more
+bluffs with a hand like king jack suited
+on this river with supposed to go all in
+about 34% of the time? Is he bluffing
+the king 10 and jack 10 suited all of
+the time instead of giving up with these
+hands? Going back to the hand here, if
+this is a player who's just going to
+bluff it off with all of his straight
+draws on this river all the time, he's
+probably over bluffing. So, we have a
+pretty easy call. If this is the type of
+player who's going to give up or just
+take his showdown value with hands like
+ace king or king jack, well then we also
+have our answer and that way this player
+is under bluffing. So either way, this
+decision should not be randomized. In
+live poker, we have so much information
+in front of us and we should be using
+the solver to kind of figure out, hey,
+what are the borderline combos that
+should be bluffing in this spot? Then we
+can just look at the guy in front of us.
+We can note their tendencies. Is this
+the type of player who's going to run it
+too much as a triple barrel bluff? Is
+this the type of player who's too
+passive? We have enough information that
+we just don't need to be randomizing in
+live poker. All right, next example.
+This is a pure check. All right, so
+check call Chad is going to open in the
+cutoff. We three bet with a suit of
+Broadway on the button. Flop top pair.
+We're going to see bet double barrel on
+the turn for value here and we get to
+the river. And when check call Chad
+checks it over with queen 10 suited, we
+have a decision. And we see here in
+theory, queen 10 of diamonds is indeed a
+pure checkback on this river. It's
+supposed to be check back 100% of the
+time. But again, when we do jam on the
+river, let's look at what hands check
+call Chad is supposed to call with and
+what hands he's supposed to fold. So the
+borderline hands on this river are going
+to be hands like pocket jacks, pocket
+10s, pocket 9ines. Check call Chad is
+supposed to fold these at 100% frequency
+on this river when he has an under pair
+to the board. If we're against a more
+sticky player who's just going to put us
+on ace king or a bricked draw when we
+jam for just over pot, that type of
+player may not be folding a hand like
+pocket jacks, pocket tens, pocket nines.
+In which case, queen 10 suited going to
+become a very pure jam for value on this
+river. If we're against a player who
+does have some big folds in here, maybe
+we're against fold happy Floyd. That's a
+mouthful. Fold happy Floyd. Fold happy
+Floyd. Fold happy Floyd. And maybe we
+think this guy is just always folding
+pocket jacks, pocket 10s, pocket 9ines
+when we jam on this river. So therefore,
+we should probably just be checking back
+queen 10 of diamonds all the time,
+right? Well, not necessarily. Let's
+consider other options here. I gave the
+solver the option to either use the big
+all-in size for 680 or a small size on
+this river for 250. And we see the
+solver in theory just doesn't really
+like to use the small size in position
+on rivers because it opens the action
+back up. And we see here even to this
+small size 250 on the river fold happy
+Floyd is supposed to fold jacks pure
+supposed to fold tens 9 nines and eights
+at a relatively high frequency. But what
+if for a $250 size into 647? He just
+doesn't really fold hands like jacks,
+tens, nines, eights, sevens. Look at
+this. Now the solver is using the small
+size 16% of the time. And the only
+adjustment we made was that jacks, tens,
+nines, eight sevens are calling say 80%
+of the time instead of folding the
+majority of the time. And we see queen
+10 of diamonds here specifically on this
+river by betting the small size. We are
+winning significantly more money than
+going allin or checking. All right,
+another example. We open ace5 of spades
+here. Cautious Cammy three bets us on
+the button. We are going to continue
+here with a suited wheel ace. We flop a
+nut flush draw. She see bets. We call.
+Turn gives us a combo draw and she
+double barrels. We are not going to
+check raise here because she is cautious
+Cammy and we think she might be under
+double barreling. So we're just going to
+call with our now combo draw on this
+turn. We get to the river and the river
+is a three of spades giving us the nuts.
+And in theory, I'm checking my range
+here. This is a pure check. And we see
+here in theory, this is correct. We just
+don't have any donk leads on this river.
+100% of our range is checking. But let's
+look at cautious Cam's range. What hands
+is she supposed to value bet on the
+river? How thin is she supposed to go?
+And what bluffs is she supposed to find
+here when we check? So, when we check
+here, she's supposed to be going
+relatively thin. Her sets like pocket
+jacks are supposed to always jam. Top
+two pair, king, jack suited, supposed to
+always jam. Anytime she's got ace king
+with the ace of spades, she's supposed
+to jam for value here. And then her
+bluffs, ace queen with a spade, queen 10
+suited, that bricked a straight draw,
+and just air hands like seven six
+suited, 8 seven suited that completely
+whiff. These hands are supposed to jam
+as a bluff. What if she just doesn't go
+thin enough on this river? What if she
+just doesn't bet king jack suited,
+pocket jacks? Say maybe she's under
+bluffing and maybe she's not going quite
+thinly enough. the thinnest hand that
+she bets on this river maybe is pocket
+jack sometimes and it's just going to be
+mostly flushes for value and then she
+finds some bluffs here possibly with her
+bricked straight draws kind of some of
+the intuitive bluffs on this river. So
+if we make these assumptions should we
+maybe start to have a donk leading
+range. Look at this. We were leading
+here 0% of the time in theory. Now all
+of a sudden we are don leading 25% of
+the time. And we see a hand like ace5 of
+spades just winning much more money by
+coming out in donk jam leading here than
+by checking. So again, yes, this is a
+pure check in theory, but it's a pure
+check in theory because in theory
+players are supposed to value bet thinly
+and find a bunch of bluffs. If they're
+not value betting thinly enough and
+they're not finding enough bluffs, then
+all of a sudden a pure check in theory
+goes out the window and we need to
+adjust our strategy. All right, the next
+one I hear all the time is this is a low
+frequency bluff. All right, so no smoke
+Ned's going to open on the button. We
+three bet in the small blind with ace
+king and he is going to call. And this
+time I'm going to play maybe the theory
+approved line which is going to be to do
+a lot of seabbetting here. So I'm going
+to see bet with ace king. He is going to
+call. Turn is a deuce. We are going to
+double barrel and we get to the river
+which is a four of clubs. And ace king
+here is in fact a low frequency bluff on
+this river. We see here ace of spades,
+king of clubs, is supposed to jam on
+this river about 40% of the time,
+choosing a small bet some of the time
+and actually checking as well and giving
+up some of the time. But when we jam on
+this river, again, let's look at what no
+smoke Ned is supposed to call with in
+equilibrium. When he has queen X here
+for top pair, just supposed to be almost
+never folded. And when he has a hand
+like ace9 suited here supposed to be
+called at a reasonable frequency as
+well. He just gets here with pocket
+9ines, pocket fives, queen n suited
+pure, he's just not really playing many
+raises here in position. So the thing is
+if we're playing against a player who's
+going to fast play, if we're playing
+against a player who just doesn't get to
+this river with pocket nines, pocket
+fives, pocket deuces, queen n suited,
+because these hands are either going to
+raise on the flop or raise on the turn.
+Now we just have to get the 9x to fold
+to have a really really profitable bluff
+on this river with ace king. So when we
+remove a bunch of the sets from no smoke
+Ned's range, say he just fast plays the
+sets on the flop or the turn. Well,
+would you look at that? Ace king, ace of
+spades, king of clubs is now jamming
+100% of the time on this river. Don't
+memorize the frequencies. Look at what
+our opponents are actually supposed to
+do. And then just simply ask, are they
+doing this? And if no, what are they
+doing different? Next example here, and
+this one is super fun. I often hear
+players say something like, "Oh, this
+hand is a pure fold to a double barrel."
+All right, so we're going to open pocket
+9. We're playing 510. This time we open
+in the hijack and give up. Gerald is
+going to call on the button. Heads up to
+a flop, which comes jack 86. We are
+going to check. He stabs for a big size.
+And we have an under pair to Jack. So we
+are going to call here one time. See
+what transpires. Turn is a four. We
+check it over once again and he goes
+relatively big again here on this turn
+and we see the GTL bots are right.
+Pocket 9's is in fact a pure fold in
+theory on this turn to a double barrel.
+But again, this is assuming give up
+Gerald is going to play well on rivers.
+Is he going to find those triple barrel
+bluffs on rivers? After we call here on
+the turn, give up. Gerald is supposed to
+triple barrel with hands like 97, 10 9,
+king, queen, A7 of diamond, stuff like
+that. He's supposed to find some pretty
+unintuitive bluffs. But a lot of players
+in live poker are very comfortable
+firing two streets, but they get a
+little bit squeamish firing that third
+barrel. So, we're not going to adjust
+anything Give Up Gerald does on the flap
+or the turn. We're just going to adjust
+his river barrel frequency and see how
+that affects our turn calling
+percentage. In equilibrium, we'll give
+up Gerald double barrels on this turn.
+We're supposed to call about 59% of the
+time. And pocket 9 is supposed to be
+folded 100% of the time. And let's play
+a little toy game here. Let's just
+assume this guy is incapable of bluffing
+on the river. Let's say he only value
+bets and doesn't bluff the river. Now,
+we see here on the turn, we are supposed
+to call 87% of the time and pocket 9 is
+calling a 100% of the time. just never
+folding on this turn. Now, obviously,
+we're probably not going to play against
+players that just never triple barrel
+bluff, that never bluff the river. But
+the point here is is that we should be
+adjusting for the mistakes our opponents
+are making. And by paying attention to
+showdowns, we can start looking at the
+solver, using it in a useful way. We can
+look at the solver and say, "Hey, is
+this guy actually triple barreling
+enough on the river?" And if he's going
+to triple barrel enough on the river,
+that actually means we should be folding
+quite a bit on the turn. Now, if he's
+giving up the river too much, that means
+we can just call a lot more than
+equilibrium on the turn because we're
+going to get to overrealize against a
+player who's not going to bluff us off
+our equity on the river. Another example
+I hear all too often, I have bad
+blockers, so I give up. So, this one we
+open on the button with queen jack face
+down. Fred is going to call. Flop a
+combo draw. We go small trying to get
+him to raise his strong stuff. Call with
+his weak stuff. He calls. Turn is a
+deuce. We go with the overb because he
+is capped. We get to a river which is
+the innocuous four of spades. And when
+he checks it over, should we be bluffing
+with the hand that pretty much blocks
+all of his autofolds? His hands like
+jack nine, his hands like queen x of
+hearts, jack x of hearts, all of these
+hands that are just going to autofold on
+the river. We have two pretty crappy
+cards in our hand because that means
+it's just less likely that he's just
+going to autofold if we bluff. And we
+see in theory, Queen Jack of Hearts is
+actually a pure give up on this river.
+We are just supposed to check back and
+lose this pot. Let's look at what
+equilibrium is doing when we jam on this
+river and see if maybe we can find some
+improvements. So, when we jam here, face
+down, Fred is supposed to call 10x a
+very high percentage of the time, which
+is reasonable. He's also supposed to
+call hands like ace8 suited almost all
+the time. I don't know if this is
+happening. And also in equilibrium, he
+just has pocket 8s and 108 suited in his
+range some of the time that slow plays
+here. So, what if we just make a couple
+tiny adjustments on the river? Let's say
+pocket eights and 108 suited almost
+always fast play on a wet dynamic board.
+Let's say he doesn't have these hands
+getting to the river because they either
+raise on the flop or they just check
+raise jam the turn. And let's say we
+don't adjust anything with 10x. 10x
+still calls the majority of the time.
+But when we jam on this river for 2x pot
+that he's going to fold a hand like
+ace8. And would you look at that sweet
+baby there. Queen jack of hearts is now
+jamming 100% of the time on this river.
+If we just assume he doesn't really have
+sets and two pair and he folds second
+pair. We are winning $68 nearly by
+jamming with queen jack of hearts which
+is going to significantly outperform
+just checking back and giving up. All
+right. The next one I hear all the time,
+which is the polar opposite of the last
+one, is I have great blockers, so I I I
+have to call. All right, we see here we
+open ace nine of hearts in the cutoff.
+Two street Tommy, three bets on the
+button. We're going to call. We flop
+middle pair. He see bets, so we
+continue. Turn is a deuce. Lots of draws
+out there, so when he double barrels, we
+call again. River is a six. We check it
+over and he puts in all the money on
+this river. And we see here ace nine of
+hearts in theory is a great call on this
+river. It's called in fact 96% of the
+time. But we just have to ask here is
+Two Street Tommy finding the bluffs with
+ace three of diamonds with ace five of
+clubs with almost all of the ace king.
+Is he finding the triple barrel bluffs
+with these hands? If he is finding these
+bluffs, okay, great. We've got an easy
+call here with ace9. But if you're
+playing against a player named Two
+Street Tommy, who often times just fires
+two with his bluffs and gives up the
+river, you don't even need the solver.
+You know what to do here. All right, the
+next one I hear is this board is better
+for him. All right, so this one,
+transparent Tom going to open in the cut
+off. We three bet with the second best
+hand in all of poker. And back around to
+Tom. He's going to call. Flop comes 654.
+And when it checks over to us, often
+times I'll see players check back with a
+hand like pocket aces here. And we see
+here in theory, this is correct. Pocket
+aces with a heart in a club are checked
+on this board 73% of the time. But when
+we see bet here, are players really
+finding check raises with hands like
+ace8 of hearts, king eight of clubs,
+jack eight of diamonds? Are they finding
+check raises with each just one card to
+a gutshot type hands? Are they finding
+check raises with hands like pocket
+threes and pocket deuces here on this
+board? Are they finding check raises
+with ace queen with a spade or king
+queen with a spade here? If we eliminate
+some of these unintuitive bluffs from
+the range, of course, we keep in all the
+combo draws, we keep in all the good
+hands, we keep in some of the ace high,
+king high, queen high, flush draws,
+whatever. Look at this. We see pocket
+aces, ace of hearts, ace of clubs is now
+sebetting 100% of the time. And if we
+look at our overall range here, we are
+now pretty much just range sebetting
+here. We're supposed to be seetting
+99.97%
+of the time, basically 100% of the time
+on this board if we just eliminate some
+of their unintuitive check raise bluffs.
+Next time you're questioning, is this
+board better for my opponent? I think a
+better question would be to follow up
+with, are they going to do anything
+about it? Are they going to check raise
+the appropriate frequency if we just bet
+all of our hands on this board? And if
+the answer is no, well, we know what to
+do. All right, the next one I hear all
+the time is this combo just doesn't get
+check raised. All right, let's say we
+open king queen offsuit. We get three
+bet by range bet Randy and we are going
+to call. Flop comes ace54. We check it
+over and he just c bets small. And if we
+look at king of hearts, queen of clubs
+here, well, it is not supposed to be
+check raised here ever in equilibrium.
+But again, we're not playing against GTO
+at equilibrium. We're playing against
+range bet Randy and his name is range
+bet Randy because this guy whenever he
+three bets, he just c bets small on
+almost every flop. And if we assume this
+guy is just range betting on this board,
+well, look at this. Now king, queen,
+king of hearts, queen of clubs is now
+raised 56% of the time. So yes, this
+combo is not raised in equilibrium, but
+we're playing against range bet Randy.
+Finally, I often hear players say stuff
+like, well, this is a zero EV call. It's
+it's it's close. It's marginal. We're
+going to open here in the cutoff. River
+check. Ross is going to three bet. We
+call with the suited connector. We flop
+middle pair. He see bets. We call turn
+is a blank. He doubles here. And we're
+going to call one more time with middle
+pair. River is a five pairing the board.
+We check it over and river check. Ross
+puts us in the blender. He puts it all
+the money. And we see here with 76,
+we're pretty damn close to a zero EV
+spot, right? This hand is mixed. We're
+losing a little bit of money if we call
+with seven six of spades and seven six
+of diamonds. And we're winning a little
+bit of money when we call with seven six
+of hearts. So this one is really, really
+close. So on this river in equilibrium,
+river check Ross is supposed to run it.
+He's supposed to jam here with hands
+like ace8 of diamonds, queen jack, king
+jack, king, queen, no draw. These hands
+are just supposed to be bluffed almost
+all the time. So again, the way I like
+to use solvers to actually be useful to
+the games we're playing in is to look at
+that range. What are they supposed to
+jam? What are the unintuitive bluffs
+that are supposed to jam? What are the
+hands that are intuitive bluffs that are
+supposed to check back? And then by
+looking at the equilibrium solution, we
+can often get a really, really clear
+feel for is this particular player river
+check Ross? Is he bluffing too much or
+too little? It's a very easy question to
+answer if we just look at the hands that
+they're supposed to jam in equilibrium.
+So I find so often the players are
+misapplying theory because they're too
+scared to trust their instinct to trust
+their gut to trust that they can make
+the right read at the right time. And
+look, I'm the biggest solver boy in the
+world. I have carpal tunnel in my hands
+from nodel locking so many sims in
+solvers. But I just think in live poker,
+just looking at equilibrium and trying
+to memorize a solution, this isn't going
+to be the highest EV play. So hopefully
+this video turns you into the biggest
+boy possible and helps you find a much
+more useful way to actually use solvers,
+to actually apply theory, to actually
+make the most money possible in live
+games. Thank you guys and have a gentle

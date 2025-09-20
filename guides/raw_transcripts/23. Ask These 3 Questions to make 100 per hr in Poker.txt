@@ -1,0 +1,409 @@
+if you're earning under $100 an hour playing poker you cannot afford to make this mistake I'll show you how I've
+earned over seven figures using a strategy so simple that if my opponents knew what I was thinking during hands
+they'd swear I was kicked in the head by a horse as a child so all you have to do
+ask three questions and the first question we're going to start off with here what's their range so this
+flowchart that we're going to build today is going to apply for any situation where we are in a heads up pot in position as the pre-f Flop razor if
+you guys enjoy this video get value out of this maybe we will do another one in a couple weeks and try to tackle out of position but today just for in position
+the very first question what's their range and we always want to think in terms of big picture buckets and we can keep this very very simple are they
+uncapped or are they capped uncapped simply means they can have all these strong hands on this board that are just
+never folding if all the money is piled in and Capp means they have taken actions somewhere along the way to
+indicate they don't have the strongest hands in their range all right so let's jump in in the first hand here we're playing 25 going to open it up on the
+button to $20 villain's going to call on the big blind and flop comes Jack n deuce the best flop in all of poker now
+they're going to check it over to us so that first question we want to ask here big picture what is their range are they uncapped or are they capped well so far
+in this hand villain has done nothing to indicate that they are capped sure maybe they would three bet pocket Jacks from the big blind a good percentage of the
+time but they can have pocket NES here they can have pocket Deuces they can have Jack n suited so they can just have a lot of very very strong hands on this
+board that are never folding in a million years so let's go back to our flowchart here what's their range so we've determined their uncap here then
+we're going to ask our next question will they fast play their strong stuff on this board so let's go back to the board and yes a lot of the times players
+in this situation if they have a strong hand if they have Deuces if they have nines if we bet particularly for a small size there's a flush draw out there
+there's all types of straight draws out there generally if we choose a small size here our opponent is going to fast play their strong hands on this board
+now we ask the final question to get to our answer what is our hand we're going to keep this very very simple we're not
+going to get too granular or bog down in the details do we have value do we have show down value or do we have a bluff
+well in this particular situation with eight High we have a bluff so we see here with a bluff we want to go small on
+the Flop and turn and again switch up our hands say we have a hand like pocket 10 here on Jack n Deuce well let's go
+back to our chart now we would have Showdown value and we see here again we would go small on the Flop when we have
+Showdown value and once again when we have pocket nines here obviously we've got a value hand here with middle set so
+we see here when we have value we would also go small our opponents are going to fast play their strong hand so if we
+have a value hand like pocket NES we want to go small because if our opponent has Jack nine or pocket Deuces if they
+have a very strong hand they are going to put in more money for us right now so they're very strong hands we can still
+get in money against that range and we can cooler them let's skip Showdown value for a second we'll go over to Bluff with our Bluffs as well we want to
+go small because if our opponents are going to fast play a good percentage of their strong hands we can get our
+opponent to be capped instead of uncapped and then you can see when our opponent is capped we can start applying a ton of pressure pressure particularly
+with our Bluffs to get our opponent to do a lot of folding on later streets and with Showdown value you may be wondering
+well why don't we just check back and you see here on turns and rivers we're almost always checking back with
+Showdown value but on the Flop we like to bet small with Showdown value well let's think about what happens if we bet
+small if we have a showdown value hand like pocket 10 here when our opponent just calls on the Flop they're going to be raising off a lot of the strong hands
+and in general our opponents are going to call too much pre- Flop Call too much on the Flop and raise off too many of their strong hands so when they just
+call here when we bet small they generally have a weak range and then we can use one of my favorite lines in all of Poker which is SE betting the Flop
+with our Showdown value hand we can check back the turn and then if our opponent comes out on the river and
+chooses a size that is generally going to be half pot or less we can just snap call on the river because our opponent's
+just going to have a lot of Ace highs a lot of busted straight draws like King 10 Queen 10 108 107 Etc and by SE
+betting here on the Flop small with Showdown value we can funnel our opponents into a line where they generally make pretty big mistakes here
+because they float the flop too wide and then they just monkey stab on the river all right so back to our evolving flowchart here we know what to do on the
+Flop if our opponents will Fast play their strong stuff but what if they won't all right so I've talked about the situation in a few other videos so I'm
+just going to cover it quickly but if you want to get more into the weeds here you can check out our video this secret
+turns poker players into Crushers where I explain it in a lot more detail so we're going to open on the button here
+with 10 nine of Spades opponent's going to call in the big blind and flop comes A7 deuce and as we go back to our
+flowchart here first question we're going to ask what is the range cap or uncapped well they are uncapped because
+they can still have a lot of strong hands on this board and will they fast play their strong stuff well no this is one of the rare situations on the Flop
+where they're not going to fast play their strong stuff because a lot of their strong stuff feels invulnerable right there's not a flush draw out there
+there's only really a gutshot wheel draw out there so if our opponents have a hand like pocket sevens or pocket Deuces
+or A7 or something like that a lot of times on this board even if we bet small they're not going to fast play because
+they're not worried about a bad card coming in for their hand so if we have a bluff here and we just start betting small is what's going to happen on this
+board our opponent's not going to raise off their strong stuff and they're not going to call with their weak stuff a lot of their hands like pocket 3's or
+pocket fours or King 10 or whatever might just fold right now which is pretty good for us when we have 10 high
+but when our opponent calls we have not narrowed or defined their range so getting to a turn here even though we
+pick up Equity even though we now have a gut shot to the nuts we just haven't defined their range so we don't really have any good options barreling across
+turns if we go big on the turn well generally the bigger the size we choose the less our opponent's going to fast
+play so may just trap again if they have a hand like pocket sevens or A7 or
+something like that if we go large on the turn and if we go small on the turn sure our opponent might just raise off
+their two pair in their sets at a pretty high frequency but they're just going to have a ton of hands like Ace Queen Ace Jack Ace 10 that are never folding and
+now we get to the river and we just haven't put a ton of money into this pot so far so to get our opponent to fold a
+hand like Ace Jack or Ace 10 or Ace 9 on this River we're going to have to put in a huge bet but the problem is here now
+on this River well our opponent can just have have Ace Queen for two pair or they could have Ace King that they flatted
+pre- flop because in general Live players are pretty passive so the problem with just betting our range on the flap particularly with our Bluffs is
+we just do not have profitable barreling opportunities across turns and rivers so
+you see here back to our flow chart will they fast play their strong stuff no they won't on this board so once again we're going to ask what is our hand and
+you see here with our value we're generally just going to go big on the Flop so we need to put in the money
+ourselves with our Showdown value we are going to check back and with our Bluffs on the Flop we are going to check back
+generally as well so if we have a hand like Ace King here a value hand we generally just want to be putting in a
+big bet you see I go with the overb here 60 into 42 if we bet small our opponent's not going to fast play their strong stuff anyway and they're also
+just not going to float on this board with threes or fours or King 10 or something like that so if they have ASX
+for top pair they're just probably not folding on this board no matter what size we choose on the flap so we may as
+well just go very very large here when we have value and when we have Showdown value remember we like to talk about
+that line where we funnel our opponents into a line where they call too wide on the Flop we check back the turn and then they Bluff on the river and we can Bluff
+catch the problem is if we see bet small here with pocket Queens on this board our opponents don't really call too wide on this particular flop because they
+just fold a lot of hands like 89 suited or pocket 3es or pocket fours or Jack 10 or whatever so they're not going to be
+bluffing on the river so seab betting with our Showdown value is not profitable either so with our Showdown value we would also be checking back and
+then with our Bluffs as well we also want to be checking back here and I can already hear the people saying well Mark
+isn't it good if we just see bet here and get them to fold a hand like pocket 3es or King High when we have Jack High
+yes it is and that is a fine option but just because a play is positive EV doesn't mean it is the highest EV play
+and I think by checking back our Bluffs on this flop we're going to have an even higher EV play because we allow our
+opponent to tell us much more about the strength of their hand let's go back to our chart and I will explain all right
+so we've covered the uncapped side here at least on the flap now let's talk about when our opponent is capped so we
+see here what's their range what do we do now if our opponent is capped so let's go back to this Jack 10 example here we check back on the flap now the
+turn is a queen and our opponent comes out and checks aha now our opponent has
+taken an action to cap themselves because generally Live players are so unbalanced here when we check back the
+flap if they have a strong Ace if they have two pair if they have a set they will just come out and bet the turn
+often for a pretty chunk sizing here so now by checking they have somewhat capped their range here now if we want
+to get real pedantic could they still have a hand like pocket sevs or Deuces here that they are trapping occasionally
+okay but the majority of the time their strong hands are just going to come out and bet the turn themselves so when they
+check they have now eliminated quite a few of the strong hands in their range so in this situation they are now Capp
+so next now that we determin they're capped well when they were uncapped we ask will they fast play their strong stuff when they're capped over here we
+don't have to ask that question because they're capped so they just don't have the strong stuff so the question we ask instead is do they have inelastic hands
+and by inelastic hands I simply mean hands that just aren't folding right now even if we put a ton of money in so on
+this particular board A7 dece Queen I would say yes they do have some inelastic hands so we just said they
+mostly come out and bet when they have hands like Ace Jack or ace7 or pocket Deuces and I would say their in elastic
+hands here are going to be some weak acex that checks on the turn that's trying to play kind of a control line
+maybe hand like Ace 3 Ace 4 ace6 or maybe a queen X hand like king queen queen Jack Queen 10 Etc these hands are
+going to be in elastic they are not folding on this turn pretty much no matter what so we go back to our chart here do they have in elastic hands yes
+our opponent is probably going to have some inelastic hands on this turn so now we're going to ask what is our hand well
+in this particular spot we have a bluff and we see here when we have a bluff we generally want to go big on the turn but
+small on the river when our opponent has an elastic hand that they are just never folding so why is that let's go back to
+our hand example here and we're going to bet a big size with Jack 10 and the reason why we want to go big on this turn with our Bluffs because if our
+opponent has a hand like ace3 or king queen we just talked about they're never folding so the best Bluff is a bluff
+where our opponent calls on the turn and then folds on the river just because our opponent is in elastic right here right
+now on the turn does not mean they're going to be in elastic on the river so you see here our opponent is going to
+call we're going to go to the river the river is a nine we're going to go back to to our flowchart here what is their
+range they were capped on the turn they still capped on the river nothing has really changed here do they have an
+elastic hand so let's go back to our hand here and I'd say pretty much no the only real inelastic hand in our
+opponent's range is going to be a hand like Ace 9 which is going to be a very very small part of the range the
+majority of the range is going to be elastic here it's going to be a lot of hands again like ace3 Ace 4 ace5 so we
+see here do they have an elastic hands in general no so once again we ask what is our hand where we have a bluff on
+this River we see when they do not have inelastic hands our Bluffs generally want to go small on the turn to keep those hands in but they want to go big
+on the river here so now when we have a bluff on this River we would want to go big because we want to get hands like
+Ace three Ace 4 ace6 to fold so we would just choose the size that accomplish that you see I'm going to go 2.5x pot
+here and we can get our opponent to fold a hand like ace3 now let's look at the same situation when we have value so we checked back pcket Queens on the Flop
+which was Showdown value now we've hit a set on the turn so now we've got value our opponent is going to check let's go
+back to our chart what is our opponent's range they are capped do they have inelastic hands well yes they have a lot of weak ax that's just not folding what
+is our hand value value wants to go big here we're starting to notice a pattern value and Bluffs are generally going to
+want to play the same on turns we have the same goal we want our opponent to put in a ton of money on the turn and
+then on the river we're going to split here and on the river generally we see if our opponent has inelastic hands our
+value is going to go big and our Bluff is going to go small and then if our opponent does not have inelastic hands on river in general our value is going
+to go small and our Bluffs are going to go big so we see here value and Bluffs have the same goal on turns but then
+they start diverging from that goal on the river let's see here with pocket Queens we're going to go big on the turn because our opponent is just never
+folding a weak Ace X hand or if they have the last queen in the deck they're just never folding that either so we're going to go big on the turn and now on
+the river we need to go relatively small and when I'm talking about Big versus small when we're playing live poker
+absolute size of the bet is going to be much more important than the relative size of the po that that bet is so we
+see here that this is almost a pot siiz bet but it's only $150 which is just not going to be that big of a bet in a 25
+game so this is the size I think we would need to bet on this River to ensure a hand like ace3 ace4 ace6 calls
+us on this River so we go 150 as you see here we get called all right so let's put it all together make this start
+making sense let's just walk through a bunch of examples rapid fire here so we've got 87 on the button we're going to open it up our opponent's going to
+call in the big blind flop comes Jack n Deuce what do you know our opponent's going to check it over so let's start at
+the top of our chart here what is their range well they are uncapped they can still have strong hands on this board
+will they fast play their strong stuff well yes the board is wet and dynamic our opponent's going to fast play to strong stuff what is our hand here well
+we have a bluff so we generally want to go small here on the Flop or turn to
+give our opponent a chance to tell us a little bit more about their hand to cap themselves so we are going to go small
+our opponent is going to call now the turn is a four of Spades here well now on this turn we would ask again what is
+the range are they capped or uncapped and think about this one for a second on this turn our opponent's actually going to be uncapped because in general Live
+players play their draws relatively passively so getting to this turn our opponent could certainly have a ton of
+flushes in their range so they are uncapped on this turn we go back to our chart what's the range they are still unkempt will they fast play their strong
+stuff well yes generally if we choose a small enough size here our opponents are going to raise their flushes and put in
+more money with those hands and we see here with a bluff we would want to go small so with 87 of diamonds we'd want
+to go small on this turn because we are giving our opponents another chance to cap themselves and if our opponents just
+call we know with a pretty high certainty our opponent doesn't have hands like pocket NES pocket deces Jack n because those hands would raise on the
+Flop and we also know that they just don't have a lot of flushes here on the turn because when we choose a small size again on the turn those flushes would
+raise right now so that's going to give us a profitable bluffing opportunity across rivers with eight High because we
+are essentially forcing our opponent to get to the river with a pretty wide and weak range and if we had the nuts here a
+hand like Ace Queen of Spades we would also want to go small here on this turn and you see here going back to our chart
+our value wants to go small here on this turn as well because if our opponent has a smaller flush well they're going to
+put in more money for us we get to cooler those hands anyway so no reason to go for a big bet and going back to
+this board if our opponent has a weak hand that we have drawing dead like Queen 10 or Ace Jack or something like
+that we would hate for those hands to get scared and fold when the flush comes in so by betting small their weak hands will call and their strong hands that we
+cooler will put in more money for us so let's go back to 87 a diamonds we bet small and our opponent just calls we go
+to the river and our opponent's going to check it over now as we go back to our chart here we would ask again what is their range and as we get to this River
+the innocuous three of clubs we would ask again what is our opponent's range are they capped or are they uncapped and I would say for the most part they are
+capped and because the river does not change the nuts and our opponents did not raise when we bet small on the turn getting to this River our opponent is
+now capped so going back to the Chart what's the range they are capped do they have in elastic hands that are just not
+folding well back to the board here probably not are they going to call off for Stacks if they have a hand like King
+Jack or queen Jack or even Ace Jack here on this board when the flush has gotten there no so do they have any elastic
+hands no what is our hand well we have a bluff and we are on the river so we would want to go big here on the river
+to make sure we get a range fold from our opponent because they're just not going to have flushes they're just not going to have two pair in sets so we
+just go big here on the river to make sure our opponents fold all their single pair hands so we go 260 with the overb
+and our opponent is going to fold and we see here if we have a hand like Ace queen that hand wanted to play the same same on the turn as our 87 of diamonds
+the same as our Bluffs because we have the same goal on the turn but now on the river Ace queen wants to go relatively
+small and again small and big are just Concepts we want to choose the size that accomplishes what we want and in this
+particular scenario 120 I think maybe that's the biggest size that Queen Jack or King Jack are going to call so that's
+the size we choose here we go back to our chart we see what's our hand value value wants to go small on this River to
+make sure that we get called because they don't have inelastic hands they're going to be very very very elastic on
+this river which means they're going to be sensitive to sizing so 120 with Ace Queen our opponent calls and we are good
+all right slightly different example just to show the Nuance here we open with H7 of diamonds flop comes the same on the Flop when our opponent checks to
+us back to our flow chart what is their range will they are uncapped will they fast play their strong stuff yes they
+will Fast play their strong stuff on a wet Dynamic board what's our hand will we have a bluff so we want to go small here on the flap and or the turn so we
+are going to go small our opponent is going to call we go to a turn which is a four and now back to our handy dandy
+chart what is their range now well now our opponent is capped the nuts have not changed on the turn it hasn't broughten
+in a bunch of strong hands into our opponent's range so now we're going to ask the next question here do they have
+in elastic hands let's go back to this board and I would say yes they're going to have hands here on this turn like Ace
+three of Spades or Ace five of Spades or 65 of Spades or even hands like East
+Jack or King Jack for top pair good kicker on a relatively wet board that are just not folding no matter what size
+we bet here on the turn and we see here yes when our opponent does have an elastic hands our Bluffs are going to want to go big on this turn because our
+opponents aren't folding their Ace Higher King High flush draws they're not folding their open and straight draws they're not folding their top pair but
+that doesn't mean we can't get these hands to fold on the river just because they're inelastic Now does not mean
+they're going to be inelastic later so our Bluffs want to go big and if we did have a hand like pocket nines here we
+would also want to go big on the turn again our Bluffs and value have the same goal here on this turn they just want to
+diverge and those goals are going to split on the river so with 8 seven of diamonds we're going to go big on this turn now the river is a three and again
+we're going to ask what is our opponent's range well generally this card does not change much our opponents are still going to be capped and if we
+want to get really pedantic here yes I guess technically our opponent could have six five of Spades or Ace five of Spades but that's two combos of hands in
+a Range that's going to be 75 or 80 hands or something like that so it just really doesn't matter it's such a small
+part of their range we can just kind of ignore it back to our chart do they have in elastic hands and this is where
+things get tricky and are going to be kind of villain dependent and I would say in General on the river if you have
+a lot of Stack depth behind most opponents in 2025 playing live poker do
+not want to play for Stacks with top pair if you are going to be putting in all the money so against most opponents
+I would say no they don't have in elastic hands because most of the best hands that are going to be in the range getting to this River are going to be
+top pair and top pair is not going to play for Stacks now where does this change if we're 100 big blinds deep if we're against a fish who just can't fold
+top pair etc etc there are situations where our opponents are going to be in elastic here but in general I'd say most
+of the player pole is not going to be in elastic on this River with top pair so let's go back to our hand here we see we
+have $840 behind with 322 in the pot if you're against an opponent and you're like Mark I don't think this player is
+ever folding a hand like King Jack or queen Jack on this River if you have pocket NES you know what to do you
+should just be betting 2.5x pot and putting in in all the money if you think they are in elastic then our value with
+pocket NES would just want to go big here and our Bluffs hand like 87 of diamonds would just want to go small on this River and back to our hand why
+would we want to go small with a hand like 8 seven of diamonds if we think our opponent is never folding a hand like Queen Jack or King Jack well we're just
+trying to fold hands like ace high flesh draws King High flesh draws Queen High straight draws Etc if we think our opponent's never folding top pair but if
+we're against an opponent who we think is going to be more reasonable who's not going to want to play for all the money this is going to be the large majority
+of the player pool I promise so we see here if they do not have inelastic hands our Bluffs on the river want to go big
+so we think most players are probably not going to want to hang on with a hand here like Jack 10 Queen Jack King Jack Etc so we would just go with the old 2x
+pot siiz bet here on this River when we have eight High to get all those hands to fold and if we think our opponent is
+folding King Jack Queen Jack Jack 10 for a 2X pot siiz bet on this River when we have pocket NES of course we don't want
+to go 2x pot so we go back to our chart here what's our hand value well value generally wants to go small on this
+River and again remember small versus big is just a concept to keep it very very simple so when we had 87 of diamonds here we want to go 2x pot to
+make sure Jack X folds so when we have pocket nines here we probably want to go slightly less than pot to ensure that
+hands like King Jack Queen Jack Jack 10 jack8 suited that these hands are just never folding so we go 300 on this River
+and villain is going to put in the call all right so let's do another example here and this time I want to talk about a turn we haven't covered when our
+opponent is uncapped and they won't fast play so we're going to open Jack 10 here our opponent's going to call flop comes
+Queen 8 four so we are going to ask our first question here going back to our chart what is the range will they are
+uncapped will they fast play their strong stuff well the board is monotone but generally still if we bet small our opponent will Fast play their smaller
+flushes their sets their two pair Etc because they're scared of a bad turn card coming in what is our hand we have
+Jack High here so we have a bluff so we are going to want to go small on the flap if our opponent will Fast Play We
+want to C BET our range small so we're going to go small with Jack 10 now the turn brings in a four flush and our
+opponent checks it over so what is their range here on this turn well they are still uncapped our opponent can
+definitely have the stiff Ace of Spades in their hand now it starts to get a little bit more tricky will they fast play their strong stuff and I would say
+no probably not because the strong stuff here would be the Ace of Spades and if they have the Ace of Spades they don't
+really have to worry about a bad card coming in they have kind of the invulnerable super nuts here and when
+our opponent's hands feel completely invulnerable they don't have to worry about another flushing card coming in they already have it they don't have to
+worry about a straightening card coming in right they already have the nuts that beats a straight the board isn't paired
+right they're just not all that concerned about a bad card coming and when that is the case our opponents aren't going to fast play nearly as much
+so will they fast play their strong stuff no they won't fast play their strong stuff on this board what's our hand we have a bluff and we see here
+when we have a bluff in this particular spot we want to check back in general because going back to our hand here
+let's walk through our options what happens if a fun game I always like to play well if we bet small here our opponent isn't going to fast play with a
+stiff Ace of Spades at high frequency so we can't really cap our opponent we're not going to have a good idea of our
+opponent's range if we bet big here while our opponent's just going to call with their flushes including the Ace of Spades and we can't really Bluff again
+on the river cuz again we haven't defined our opponent's range but what happens if we check back here well if we
+check back on this turn what happens on the river if our opponent does have the ace high or King High flush they often
+just come out and bet on the river so by checking back on the turn we funnel our opponent into an area where we can then
+get a little bit more clarity on what their range is and if they check on the river then they are more capped which is
+going to make our Bluff more profitable our opponent is going to check here on this River back to our handy dandy chart
+what is our opponent's range well now they are capped here we would ask do they have in elastic hands a lot of
+times in nuts the Ace of Spades is just going to come out and bet they get greedy they're going to be trying to get value from a smaller flush or a set or
+whatever so they're just going to come out and bet when they have the a of Spades but going back to our board here sometimes if they have the King of Spades or the Jack of Spades or even the
+10 of Spades they may check with the intention of check calling no matter what size we bet look how big the pot is
+it's only $82 even if we bet 2x pot or 3x pot on this River our bet is not going to be a big bet for the size of
+the game we're not threatening our opponent's stack so back to our chart here do they have in elastic hands well
+yes they have some hands that may call even if we bet 2x pot on this River or something like that so yes they have an
+elastic hands what is our hand a bluff and we see here our Bluff when they have in elastic hands wants to go small here
+on the river our goal here is just to fold out any hands that do not have a spade in them so back to our hand here
+we would probably just want to choose a size like 60 bucks 50 bucks something like that we can fold out the queen X we
+can fold out the 8X we can fold out pocket pairs without a spade that just floated on the Flop Etc and we can be
+very very efficient with our Bluff size and just get the easy folds here and if we did get to this River with a hand like king queen with the King of Spades
+well that would mean we probably want to go big so let's go back to our chart they are capped do they have an elastic hands yes what's our hand value we have
+the King of Spades we have the second nuts value on this River would just want to go big we see here our value and our
+Bluff want to play very very differently on Rivers so maybe see here a pattern
+starting to form when our opponents are capped our value and Bluffs want to take the same line on turns you see here when
+they have an elastic hands value and Bluff both go big on the turn you see here when they don't have an elastic hands value and Bluff both go small on
+the turn so you see here when our opponents are capped our value and Bluffs want to take the same action on the turn because they have the same goal
+and then they do something differently on the river but you see here when our opponents are uncapped often our value and Bluffs have different goals on the
+turn as well as the river because our value just wants to Pile in as much money as possible against a strong
+uncapped range but our Bluffs in general are trying to take an action that allows our opponent to cap themselves so we can
+get to a later Street where we know our opponent is capped where our Bluff is going to be more profitable so when our opponents are uncapped our Bluffs and
+value play differently on turns and when our opponent is capped our Bluffs and value play the same on the turn all
+right next example here our opponent's going to open in the cut off we three bet on the button with 10 nine of diamonds our opponent's going to call King King 4 with a couple Spades our
+opponent checks it over and let's go back to our handy dandy flowchart what is our opponent's range well they are
+uncapped will they fast play their strong stuff well it's a paired board in a three bet pot but in general unless
+the board is ace high bone dry our opponents generally are going to fast play their strong stuff too much so I
+would say yes our opponents are going to fast play their strong stuff what is our hand well we have a bluff so we want to go small here on the Flop we go small
+our opponent is going to call we go to a turn which is the Ace of Spades our opponent checks it over back to our
+chart what is our opponent's range well they are going to be uncapped they can now have flushes will they fast play the
+strong stuff and here is where we get a little bit tricky so going back to this board there is a king king and an ace
+out there we are in a three bet pot we are the pre- Flop three better so what hand do opponents always put us on in a
+three bet pot when we're the three better Ace King and look the board is paired there is an Ace King out there we have shown nothing but aggression so far
+even if our opponent does have a flush this is one of the rare situations where they will not pass play so back to our
+chart will they fast play their strong stuff no they most likely won't because they're terrified of Ace King in a three bet pot so what is our hand here we have
+a bluff and you see here because our opponent is uncapped and they will not fast play their strong stuff we generally want to check here to try to
+get our opponent to cap themselves so we are going to check back the river is a deuce and now when our opponent checks
+we've got the green light if our opponent had a flush after we check back the turn often times they would just come out and Lead here on this River
+we've given them rope we have shown weakness we have opened up the door so when our opponent checks now we go back
+to our chart now our opponent is capped do they have an elastic hands well no in general I would expect a lot of their
+flushes to come out and just bet on the river so we see here our Bluff wants to go big and we think we can just get almost all of their range to fold here
+on this River so with 109 we would go 300 and our opponent will fold now let's play this same turn when we have Ace
+King so we three BET our opponent called we see that small on the flap our opponent called and now we make the nuts
+here on the turn so what does our hand want to do again we're going to go back to our chart is our opponent capped or
+uncapped well they are uncapped because it can have quite a few fleshes here will they fast play their strong stuff no because they're terrified of Ace King
+what is our hand we have value Aha and you see here value wants to go big just because our opponents will not fast play
+their flushes doesn't mean they're ever folding in a million years here on this turn if we go back to the board what
+does betting small really accomplish here if our opponent has a hand like pocket eights pocket 9s pocket 10s
+pocket Jacks are those hands calling no matter what size we bet on this turn probably not unless we go egregiously
+small and they have a hand like pocket Jacks with the Jack of Spades or something like that maybe in general if
+we breathe on this pot on the turn our opponent's weak stuff is going to fold but if they have 10 n of Spades or queen
+Jack of Spades or something like that they're just never folding in a million years but they're not putting in more money for us even if we bet small so our
+value here on this turn wants to go large so you see here when our opponent is uncapped our value and Bluffs often
+want to take a different action on the turn versus when our our opponent is capped our value and Bluffs kind of want to do the same thing on the turn so back
+to our hand our opponent is going to call go to a river which is a deuce our opponent checks it over what is our
+opponent's range on this River they are still uncapped they can still have flushes here will they fast play their
+strong stuff well no probably not they wouldn't fast play it on the turn they're not going to fast play it on the river what is our hand we have a value
+hand so we are going to go big here targeting our opponent's fleshes we're just going to put the money in our
+opponent is going to call and we are good all right next hand here our opponent opens in the cff three bet on the button again with the second best
+hand in poker and our opponent calls 864 our opponent checks it over back to our handy dandy chart what is their range
+well they are uncapped will they fast play their strong stuff will the board is wet and dynamic so yes they most certainly will what's our hand value see
+here on the flap we are just betting small when they were fast play their strong step with both our value our Showdown value and our Bluffs all
+generally want to go small here on the Flop so with pocket aces we are going to go small our opponents going to call turn is now a deuce and they check it
+over to us once again now this turn has not changed anything so what is their range well when they check call on the
+flap now they are Capp do they have inelastic hands well let's go back to our board well yes in general they're
+going to have a high fles draws you're going to have hands as strong as like pocket Queens pocket Jacks pocket 10
+here on this board none of those hands are folding so back to our chart here yes they have some inelastic hands what
+is our hand we have a value hand here so we would want to go big and let's say we had a hand like 10 nine of clubs here
+let's say we had a bluff getting to this turn well let's go back to our chart again and they are capped do they have an elastic hands yes what is our hand a
+bluff a bluff also wants to go big when we have a hand like 10 nine of clubs here because the Bluffs and the value
+again when our opponent is capped have the same goal on the turn get our opponents to put in as much money as
+possible the value wants them to call on the river the bluff wants them to call on the turn and then fold on the river
+remember the best Bluff is the one where they call the turn and then fold the river so 10 nine of clubs here would have the same goal with pocket aces we
+want our opponent to Pile in as much money as possible with their inelastic hands before we get them to fold a bunch of that stuff on the river we're going
+to go to the river which is a six pairing the board our opponent is going to check it over let's go back to our chart what is the range well they're
+still going to be capped they shouldn't have much 6X here in a three bet pot after calling a big bet on the turn do
+they have in elastic hands and going back to our board this is where things get tricky here and this is the Nuance
+that I want to try to get across so in this situation let's look at two things number one this is a three bet pot so
+our opponent can have over pairs to this board they can have hands like nines 10 Jacks Queens here all the time number
+two the pot is already huge $727 and we only have 640 behind so I would say in
+this situation our opponent does have an elastic hands I don't think hands like Queens Jacks 10 whatever are folding on
+this River for less than a pot siiz bet when the pot is already so big contrast this to an example like this where we
+open 87 of diamonds our opponent check calls on the Flop calls a big bet on the turn and then we get to a river in this
+situation the approximately $322 we have 2.5x pot behind and our opponent just
+can't have over pairs here that they are very very attached to I think in this situation because the pot is smaller we
+have so much more money behind our opponent can't have over pairs in this situation our opponent does not have an
+elastic hands where in this situation our opponent does two big differences number one the spr is less than one we
+can't overbet here we don't have enough stack up behind number two because it is a three by pot our opponent can have a
+lot stronger range they can have over pairs to the board here and while I think Live players have become quite capable of folding top pair if we put in
+a 2x or 3x pot siiz bet on a lot of rivers I still do not think they're folding over pairs particularly when we
+have less than a pot siiz bet left behind so in this situation do they have inelastic hands yes what is our hand
+value so you see here with value because our opponent is going to be in elastic with their overpays back to our hand
+here pocket aces would just want to put all of the money in here to Target Queens Jacks 10 and nines and if we do
+get to this River with a bluff like 10 n of clubs well let's go back to our chart do they have an elastic hands yes same
+thing what do we have a bluff and we see here on the river our Bluff would just want to go small so back to our hand
+here why would 10 nine of clubs want to go just small on this River we don't think our opponent is folding over pairs
+here but we have 10 high so we could have a very profitable bluff if we just go very small get our opponent to fold
+their ace high King High Queen High flush draws and if they just fold all of those hands it's going to be a
+profitable Bluff here with 10 high all right next hand here cut off opens again we're going to three bet on the button with pocket kges and the cut off is
+going to call flop comes 9 for Deuce our opponent checks it over to us and back to our chart here what is their range
+they are uncapped will they fast play strong stuff and I would say even though the board is dry here it is still
+Dynamic and by Dynamic I mean a lot of turn cards change the nuts so going back to this board here a three five 6 10
+Jack queen king Ace all of these turn cards change the nuts so even though the board is not wet it is still Dynamic and
+when the board is dynamic players will Fast play quite a bit more versus when the Flop is a s Deuce we see here pocket
+aces are going to be the nuts on almost every turn card here so this board is also dry but this board is static I find
+static versus Dynamic is much more important for when our opponents will Fast play and when they will not on the Flop so back to our chart here what's
+our hand value we are just going to go small here because our opponents will Fast play their strong stuff so we go
+small our opponent's going to call the turn now is a king and our opponent checks it over to us so let's go to our
+chart here what is their range well on this turn they are now capped because they check called on the Flop so the
+next question we have to ask do they have in elastic hands let's go back to the board here and specifically when we
+have pocket kings do they have an elastic hands their only real draws here after they've check called on the Flop are maybe hands like ace5 and ace3 wheel
+draws that are just gut shot so those hands aren't in elastic if they have hands that were over pairs on the Flop
+like 10's Jack or Queens those hands aren't in elastic when an overcard specifically a king now comes on the
+turn if they have 9x they can't have a flush draw so in general no they don't really have in elastic hands here so we
+see here what is the range capped do they have in elastic hands no then we going to ask what is our hand and we
+have value here so we would want to go small here on this turn back to our board why would we want to go small we
+want to make sure hands like pocket T pocket Jacks pocket Queens ace5 all these hands we want to stick around we
+want to get value from all these hands and if we bet big pretty much all of their range is just going to fold so
+with pocket kings here we would want to go small if we had a hand like ace3 of diamonds here for a bluff we would also
+want to go small because we want them to call with hands like tens Jacks Queens NX we can get that stuff to fold on the
+river remember when they are capped our value and our Bluffs often want to play the same way on the turn because they
+can then split on the river so with Ace three of diamonds here we would also go small pocket kings we would go small
+getting to a river which is a seven our opponent checks it over back to our chart what is their range well they're still capped nothing really changed here
+on the river do they have an elastic hands no they didn't have an elastic hands on the turn they probably don't have an elastic hands on this River what
+do we have here well we have value back to our hand here pocket kings on this River would just want to go very very
+small trying to get a hero call from a hand like Jack's Queens 10 something like that and if we did have Ace three
+of diamonds let's go through the chart again what is our opponent's range capped do they have any elastic hands no what is our hand well now we have a
+bluff and we see here on the river when we have a bluff we want to go big the same reason we want to go small when we
+have pocket kings we want to make sure they fold hands like tens Jacks Queens Etc when we have a bluff on this River
+we want to make sure we fold all of those hands so we would just choose the size that we think gets it done and we
+see here once again small versus big is just a concept in this specific scenario maybe 130 is small and 350 is big but it
+just depends on what we are trying to accomplish and on this particular River we just choose a size that we think folds a hand like pocket Queens all of
+the time when we have a hand like Ace three of diamonds and we choose the size that we think pocket Queens calls all the time when we have pocket kings all
+right let's walk through one more we are going to open on the button with Ace five of Spades our opponent calls in the big blind Jack n dece look at that sweet
+baby there all right our opponent checks it over over to our chart here what is their range they are UNCA with they fast
+play or strong stuff yes what is our hand we have a bluff so we are going to go small so we go small our opponent is
+going to call we go to a turn which is the innocuous four of diamonds our opponent checks it over back to our chart well now since they have not check
+raised a flop on a wet Dynamic board the turn changes nothing they are now capped do they have inelastic hands well yes going back to this board they have hands
+like Ace High flush draws combo draws Jack X none of these hands are folding even for a big size on this turn so back
+to our chart here what's our hand Bluff we want to go big here on this turn when we have a hand like ace5 of Spades you
+see here if we had value we would also want to go large here and it's not because we want to be balanced we don't
+give a [ __ ] about being balanced our Bluffs and value when they are C just often have the same goal so we are going
+to overb we go big our opponent calls we go to the river now and now we make the nuts and we haven't seen this here so
+let's go back to our chart what is our opponent's range our opponent is uncapped will they fast play their
+strong stuff and this is where it's going to be opponent dependent if we are against an opponent who's going to put
+in more money for us on the river when they have a flush then the answer would be yes and when we have value on this River we would want to go small so if we
+have a hand like Ace five of Spades here we can just go a 100 bucks here on this River we go small and if our opponent does have a queen High flush a king High
+flush a 10 High flush by going small on this River well if our opponent's going to put in more money for us with their flushes we're just going to be able to
+play for Stacks against those hands which is great and if our opponent does have a hand that's been downgraded on this River a hand like Jack 10 or Jack 8
+suited or something like that well those hands are just never going to fold for the small size so by going small on this River if our opponents are going to be
+relatively aggressive we just get to cooler their fleshes and play for all the money anyway and when our opponent just has a weak top pair when the flush
+comes in we still get value against those hands now let's say our oppon is super super passive and they will not
+fast play their hands the answer is no so what's our hand value so if our opponent would not fast play their hands
+on this River we would just want to choose a massive size maybe like 500 600 2x pot something like that we would
+forget about targeting the Jack X and we would just go huge here to Target our opponent's flushes that won't put in more money for us so we can see here how
+this is just going to be player dependent all we have to do is just ask the question will our opponent fast play on this River if yes we want to go small
+here with our value if no we want to go big here with our value same thing when we have a bluff getting to this River so
+let's say our opponent will Fast play their strong stuff so you see our value wanted to go small to make sure Jack X
+calls and to make sure their flush is raised so when we have a bluff we would just go medium so back to our Bluff now
+and the goal here with Queen 10 is to make sure we lose the minimum when our opponent has a flush they're just never folding those hands in a million years
+right and to also get our opponent to fold a hand like Jack X when a scare card gets there on the river so Ace five
+of Spades wanted to go a 100 to ensure that Jack X always calls and flush is always raised or queen 10 here would
+just go slightly bigger we just want to choose the size where we're going to fold the Jack X that is scared of the flush coming in on this River so we go
+250 we can't just go huge because our opponent is still uncapped and if we just blast on this River we just lose a
+ton of money against flushes so the only goal here when we have Queen High make sure our opponent folds the Jack X so
+our value would want to go small our Bluff would want to go just slightly bigger medium all right so you see again here is the flowchart in its full Glory
+here and we can get to an answer in every single node here by asking maximum
+three questions so that big mistake I talk about at the beginning of the video If you're not yet making $100 an hour
+there is no reason to over complicate things balance this GTO this equilibrium
+this there is no reason for that in live poker and you don't even need a crazy flowchart like this right just use
+whatever works best for you but the overall point here is in my opinion to crush live poker all you have to do come
+up with a simple set of questions a repeatable set of questions that you ask yourself in every hand that allows you
+to get to the correct answer very quickly and whether it's a very beautiful flowchart like this one here
+or just a list of questions you use if you can throw out the complex stuff simplify everything you will get to $100
+an hour and become a Crusher much much quicker than you think is possible hopefully you guys enjoyed this video
+and it turns you into the biggest boy possible thank you guys and have a gentle day

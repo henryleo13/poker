@@ -1,0 +1,656 @@
+there is an epidemic sweeping the poker
+World tens of thousands of poker players
+are already showing symptoms hopefully
+you're safe but by the time you're
+watching this statistically at least one
+poker player you know will have been
+infected if you hear a poker player in
+your life utter the phrase that size
+isn't a thing unfortunately they're
+already far too gone it doesn't matter
+if you tell them listen you big dummy if
+you give a solver the sizes 5% pot and
+500% pot it'll build a strategy where
+those two sizes are in fact a thing they
+still can't hear you while it may be too
+late for them hopefully you can still be
+saved so today I'm going to show you
+five spots in poker where unconventional
+sizes can win you the most amount of
+money and if you ever hear anyone say
+that size isn't a
+thing run all right let's jump in first
+example of where that size isn't a thing
+the 8X check Rays as they pre- flop
+razor so let me show you we are going to
+open nines from the C off a wreck is
+going to call on the button and flop
+comes Jack n Deuce I promise I won't use
+this board for every example in this
+video I I promise I promise and we are
+going to check our range as you know I'm
+a big fan of checking my range out of
+position to recreational players because
+they tend to over stab Telegraph their
+hand strength with their bet sizing and
+they do not protect their checkback
+range with strong hands so I am going to
+check it over he is going to stab for
+just about half pot and we are going to
+put in the big boy check raise for $200
+the 8X check raise all right so so we
+use Mass data analysis we pulled
+millions of hands filtered for fish
+playing 25 NL and 50 NL online now this
+isn't a perfect approximation for live
+but it's going to be better than just
+guessing randomly because fish who are
+playing low stakes online are going to
+have a lot of the same leaks as fish who
+are playing live especially with their
+pre- flap ranges so this is the range of
+what a fish calls on the button versus a
+cut off open as you can see very very
+wide here and if you're wondering hey
+why are Queens Kings Aces Ace King Su
+why are those hands not in there those
+hands are just getting three bet as you
+can see here this is our strategy after
+we check to them and they stab we are
+just not using that 8X check Ray size
+almost ever here on this board at
+equilibrium here is their strategy when
+we check raise 8X on this flop and as
+you can see they're folding quite a lot
+top pair overall for them is folding 70%
+of the time so the king Jack Queen Jack
+Ace Jack overall top pair is folding 70%
+of the time they're also only continuing
+with their flush draws about 50% of the
+time at equilibrium as you can see here
+a lot of their smaller flush draws like
+the 76 of Spades 65 of Spades 75 of
+Spades these hands are just folded at a
+very very high frequency so I just went
+in and locked two adjustments here
+number one the top pair only folds 50%
+of the time instead of 70% of the time
+so they're calling 50/50 with top pair
+to an 8X check Ray seems reasonable and
+the flush draws are calling 75% of the
+time instead of 50% of the time so we
+bumped up the flush draws calling a
+little bit more we bumped up the top
+pair calling a little bit more again
+didn't didn't go too crazy here top pair
+is still folding 50% of the time to an
+adex check rise flush draws are still
+folding 25% of the time to an adex check
+rise and after locking these two small
+adjustments here is our new strategy as
+you can see the 8X check Ray starts to
+become used quite a bit here on this
+flop all right so my takeaway here I'd
+like to use these egregiously large
+check R sizes against recreational
+players when we start hands with a super
+high spr if we are deep if we are in
+single race pots even if we're in a
+three bet pot and we start off
+relatively deep these big check Ray
+sizes allow us to play for all of the
+money against players who are going to
+make calling mistakes they have just
+never seen someone check raay to 8X to
+10x to 12x they're just going to call
+way too much with their top pair with
+their flush draws with their straight
+draws Etc and they are going to put in
+more money in general fish are the most
+inelastic pre- flop and then they are
+the second most inelastic on the Flop
+they start to fold quite a bit on turns
+and rivers that's where they start to
+get a little bit more elastic we should
+be piling in the money against fish when
+they are the most in elastic post flop
+and that is on the Flop all right
+example number two of this size isn't a
+thing the 1/3 pot siiz riverb in
+position as a bluff let me show you all
+right so we start this hand deep we are
+playing 25 300 big blinds effective
+villain opens in the cutof we three bet
+on the Button he's going to call Queen
+94 here and when he checks it over my Mo
+three bet pots in position just choosing
+a size where they raise off their strong
+[ __ ] call with their weak [ __ ] usually
+going to be smaller in three bet pots
+and single race pots I'm going to go
+about 1/3 pot here $50 they are going to
+call turn is now a three look at that
+sweet baby there we know have a gut shot
+to the nuts here but more importantly
+this is a spot where we are both deep
+and our opponent is capped and when we
+are deep and when our opponent is capped
+we need less equity in our hand because
+we have more fold Equity remember our
+opponent is capped because they would
+generally raise off hands like pocket 9
+pocket fours Queen n suited on the flop
+because the board is wet and dynamic and
+we chose a small size also we start this
+hand super super deep and the deeper we
+are the more fold Equity we have
+especially when our opponent is capped
+so we are going to continue on this turn
+when our opponent is capped I like to
+use large sizes because our opponent is
+not going to put in more money for us
+with their strong hands so we are just
+going to go big here on this turn our
+opponent is never folding an ace high
+flush draw a combo draw a queen Etc here
+on this turn but they're also never
+going to check raise and put in more
+money for us with those hands if we bet
+small so we go big our opponent calls
+river is now a deuce and they check it
+over I think this is super interesting
+with seven High because we have a couple
+options here I'd say good percentage of
+the population maybe a majority of the
+population even who is not going to want
+to hang on with a one pair hand here and
+what is their range when they get to
+this River well most of their range is
+going to be one pair hands the best hand
+they have getting to this River at a
+high frequency is going to be a hand
+like Ace Queen now can they occasionally
+have five six of Spades or Ace five of
+Spades sure that's two combos of the
+nuts they can have okay but if most of
+the population here is going to start
+folding king queen and queen Jack and
+queen 10 when we jam on this River well
+maybe just putting in all the money here
+with seven high is going to be good
+let's say we're up against a guy we just
+don't think is folding Ace Queen hell he
+may not even fold king queen queen Jack
+Queen 10 even to an overb Jam here on
+this River for all the money should we
+just give up with seven high no of
+course not we shouldn't give up with
+seven High the option here on this River
+if you are against a sticky opponent is
+to use a very small Bluff size with
+seven high so let's say this is our
+opponent's range getting to the river he
+has just a ton of Queen X he's got the
+ace Queen he's got the king queen suited
+maybe even a little king queen off and
+Ace Queen off and then he's got the
+queen Jack Queen 10 suited and then he
+also has a bunch of flush draws these
+Ace High flush draws some of these King
+High fles draws and then some of these
+suited connector type fles draws then
+maybe we give him a sliver of jacks as
+well that's stuck around for the big bat
+on the turn so this is his range getting
+to the river and remember this guy is
+real sticky so if we jam on this River
+we just don't think we're getting a ton
+of folds from the queen X let's say if
+jam on this River for 11:30 that Ace
+Queen is calling something like 90% of
+the time King Queen is calling 75% of
+the time Queen Jack is calling maybe
+5050 and queen 10 maybe we get a few
+more folds maybe that calls 25% of the
+time but in general he's just not doing
+a lot of folding with top pair here now
+let's consider this other one-third pot
+siiz bet on the river and let's say he
+just never folds any Queen X obviously
+Ace queen king queen queen Jack Queen 10
+are never folding if we bet 250 on this
+River he's got a combo or two of the
+nuts let's just say these always Jam the
+ace five of Spades six five of Spades
+and he's got a sliver maybe of fours
+that didn't raise off on the Flop and
+those Jam the river as well but let's
+say when we do choose a size we just get
+the King High fles draws to fold pure we
+get the ace high fles draws to fold
+maybe 90% of the time let's say he gets
+sticky 10% of the time and calls us with
+Ace 10 of Spades or something like that
+occasionally for a hero call on this
+River let's also say he calls with the
+ace three of Spades ace deuce of Spades
+and 54 and 64 of Spades maybe 20% of the
+time here with third fourth and fifth
+pair on this board and then the slivers
+of pocket Jacks he gets here to this
+River with those just are almost never
+folding they're calling 90% of the time
+here all right so with all those
+assumptions being made with 7 six of
+diamonds here you see the small bet is
+our highest EV option we're winning $55
+by just betting oneir pot on this River
+you see we're losing a ton of money by
+going for the jam here because our
+opponent is just calling way too much
+with Queen X and just as a really simple
+demonstration here what does this mean
+when we have a hand like pocket nines on
+this board we are winning the most
+amount of money here by just jamming on
+this River when we have value because
+our opponent is just not folding Ace
+queen king queen queen Jack nearly
+enough on this River so pocket nines
+just wants to jam and put in the money
+people just don't understand logic when
+they say stuff like well you know if if
+I go all in here I don't think he's
+folding Ace Queen okay well you have a
+really easy decision then if you don't
+think he's folding Ace Queen you bet
+small with your Bluffs and you bet huge
+with your value and there's people say
+well you know what I think this guy will
+fold Ace Queen if I go all in okay well
+then you also have an easy decision you
+go all in with your Bluffs and choose a
+smaller size that Ace Queen will call
+whenever you have value it's really
+really easy guys one of those two things
+has to be true always and it is up to us
+as poker players to figure it out all
+right guys real quick if you're enjoying
+this video if you're getting value out
+of it if it helps your poker game in any
+way shap or form just leave a comment
+that says Hefty I think that's that's
+good for the algorithm right thank you
+guys have a gentle day all right let's
+move on to spot number three of this
+size isn't a thing the one3 pot siiz bet
+on the river this time with value all
+right so same kind of situation here cut
+off's going to open we are going to
+three bet he's going to call same flop
+Queen 94 you guys know how much
+discipline it took for me not to use
+Jack n Deuce but you wanted some other
+flops so I gave you some other flops
+he's going to check we see bet small he
+calls turn is a three giving us a combo
+draw he checks it over once again on
+this turn I think our opponent is capped
+they're not going to be putting in more
+money for us so I'm going to choose a
+large size here on this turn we go 250
+he calls and river is in Ace and now
+he's going to check it over so this is
+going to be our opponent's range getting
+to the river some Queen X Ace queen king
+queen queen Jack Queen 10 maybe some
+slivers of jacks just like before and
+then some busted flush draws the king
+Jack King 10 suited 87 suited 76 suited
+Etc and on this River we've got a little
+bit of a quandry here because it's going
+to be hard to get value now when an ace
+comes on the River from a hand like
+queen king or queen Jack so if we go too
+big on this River we're just going to be
+value owning ourselves against hands
+like Ace Queen all the time and king
+queen and queen Jack are just going to
+fold so let's say we determine if we go
+small on this River if we go oneir that
+our opponent's going to call with king
+queen maybe 90% of the time still all
+the draws bricked here on this River
+they maybe get sticky maybe the queen
+Jack calls 75% the queen 10 calls 50/50
+again not anything egregious here we're
+choosing a
+$250 bet into nearly 7 on this River
+we're choosing the size where our
+opponent is going to call with the queen
+x a good percentage of the time and
+let's say they just always Jam the ace
+Queen in our face here when we choose a
+small size and then the small small
+slivers of pocket fours that they did
+trap with those are always going to jam
+as well as you can see here with the ace
+five of Spades the small size $250 is
+going to be our highest EV option on
+this River the big size not so great
+because when we go big again we just get
+all the hands that are worse than us to
+fold and in equilibrium when people say
+well that size isn't a thing they are
+right the reason the small size isn't
+used in equilibrium is because it just
+opens the action back up and then our
+opponent can just start check raay
+jamming a bunch of Bluffs in our face
+and put us in a quandry but in live
+poker this just doesn't happen in a pot
+where you have three BET BET The Flop
+and Pott of the turn and then an ace
+comes on the river people just do not
+check raise the river as a bluff and we
+can use that against them we can exploit
+that tendency against them and have a
+higher EV line than trying to play
+equilibrium here by using this small
+size to squeak out a ton of value taking
+advantage of the mistakes that our
+opponents make all right spot number
+four where that size isn't a thing and
+I've been using this one quite a bit a
+10% pot siiz C bet on an ace high board
+in a 4B pot the hijack opens here the
+cut off is going to three bet and we
+look down at pocket aces on the button
+what a spot for us we are going to put
+in the cold four bet hijack gets out of
+the way in the cut off calls flop comes
+very very dry and static not really the
+best board for us when we have Aces
+because now it's going to be tough to
+get value from hands like Queens Kings
+Etc so our opponent is going to check it
+over and I've been using this 10 to 12%
+pot siiz CET on these Ace High boards
+and forbet pots a lot and it is working
+very very well so here is the range I
+gave our opponent for continuing to our
+forb bet it's going to be really really
+heavily weighted to hands like tens
+Jacks Queens some Ace Queen suited some
+Ace King off Ace King suited hands like
+that we think they sometimes maybe just
+five bet the aces sometimes five bet the
+Kings sometimes five bet the Ace King
+suited it's going to be maybe some of
+these smaller pairs as well in a sliver
+a just a sliver of some suited
+connectors and some suited Broadways in
+here and just for reference our range
+for cold four betting a cut off three
+bet going to look something like this we
+are just going linear linear linear all
+of our good hands in the upper left hand
+corner of this hot air hand balloon
+chart okay so as you see here in
+equilibrium the solver is playing kind
+of a mixed strategy it's just mostly
+preferring to check it's not really
+using this 10% seab bet size all that
+often it kind of prefers the quarter pot
+seab bet or the check on this board but
+let's look at what our opponent does in
+equilibrium when we bet $50 here on this
+board they're supposed to be really
+really aggressive they're raising Ace
+King North of
+75% here they're raising pocket 9es 100%
+% of the time here they're turning 9x
+into a bluff like 109 and 98 suited
+they're raising these under pairs that
+they have at small frequencies like
+eights and sevens and these suited
+connectors like 87 suited and 76 suited
+are just raising off here as well and
+they're also turning these hands like
+king queen king Jack suited into Bluffs
+right now blocking hands like Ace King
+and Ace Queen they're folding Jacks and
+tens right around 75% of the time
+overall so I made a couple small
+adjustments here I had them raise a King
+only 25% of the time as opposed to 75% I
+had them not turn these king queen and
+king Jack suited hands into Bluffs here
+I had them raise nines maybe 75% of the
+time instead of 100% of the time maybe
+on this board that's so static and so
+dry they trap with a middle set in a
+four bed pot some of the time seems
+reasonable right these eights and sevens
+and 87 suited these are just not turning
+into Bluffs it just it it it doesn't
+happen and then finally the Jacks
+intends facing a $50 seabat in a 4 $82
+pot let's say these hands fold about 50%
+of the time on the Flop instead of 75%
+of the time now once we make just a few
+small tweaks here the solver on this
+board is not using the check not using
+the quarter pot it is just using the 10%
+potsize seet on this board all of the
+time and in real world terms here the
+reason why I think this tiny tiny seab
+bet on these Ace High boards is so so
+good for us is because when we have Aces
+when we have this board locked down kind
+of forces our opponents to call at least
+once here when they have hands like
+kings queens Jacks tens so we get value
+from all these hands that we have
+basically drawing dead also when we're
+bluffing here say we have a hand like
+King Jack suited in this spot it's
+pretty good for us to use a small size
+as well because it allows our opponent
+to continue with hands like pocket
+queens or pocket tens on this flop and
+then we can get those hands to fold
+quite a bit on the turn when we have
+Aces here if they have the last Ace in
+our hand we are going to stack that hand
+anyway look the spr is already less than
+two even with going with a small size on
+the flap and a small size on the turn on
+this board we're going to stack Ace King
+almost no matter what so don't worry
+about stacking Ace King worry about
+getting another Street of value against
+King's queens and Jacks here so the very
+very small near 10% seab bet on the ace
+high boards and four bet pots very good
+all right finally spot number five where
+this size isn't a thing the
+1.5x over bet C bet on Ace High boards
+let me show you all right so first you
+guys know I am a big fan of just range
+betting on almost every single board so
+let me show an example Jack n Deuce one
+more time I just had to sneak in one
+more our opponent checks over and I'm
+going to choose the size here where our
+opponent is going to raise off their
+strong [ __ ] and call with a weak [ __ ]
+and usually about one half pot gets that
+done we go $20 it's going to incentivize
+our opponent to raise when they have
+pocket nines pocket Deuces Jack n suited
+Etc so all of their strong hands are
+raising here they're going to float one
+time with a lot of weaker hands but if
+you look at the exact same spot here
+where the board is ace9 Deuce rainbow
+instead of Jack n Deuce with a flush
+draw if we bet small on this flop our
+opponent might not raise off their
+strong [ __ ] because this board is so dry
+and so static they don't really have
+anything to worry about if our opponent
+has a hand like pocket 's here or ace9
+suited they may just call even if we bet
+small so the problem is if we go small
+on this flop well now we get to the turn
+our opponent is still uncapped so we
+can't use this big overb size on the
+turn because our opponent still has
+hands like pocket 9es pocket Deuces Ace
+9 ace deuce Etc and if we choose the big
+size again on the turn well our opponent
+might slow play once more and we are
+just going to run into brick walls on
+the river that are just snapping us off
+so our Bluffs will become a punt okay so
+what if we make an adjustment here what
+if we still see bet small on the Flop
+but now because our opponent is uncapped
+we choose a small size on the turn to
+incentivize our opponent to raise when
+they have hands like ace9 pocket NES
+pocket Deuces that didn't raise on the
+Flop so we go small on the turn to try
+to encourage that to happen our opponent
+just calls now the river is a deuce and
+our opponent checks it over but the
+problem is people just have so much acex
+here and not only did they have Ace X
+but if you've ever played live poker a
+lot of people just flat pre flop with
+hands like Ace King and Ace Queen
+particularly from the big blind so even
+if we overb on this River we can
+sometimes get hands like ace5 or ace7 to
+fold on this River but we are just going
+to run into hands like Ace King or Ace
+Queen quite a lot here that are never
+folding on this River and the problem is
+is our opponents have all the Ace King
+and the ace Queen off and they don't
+have all of the for example Ace s off
+right they just have like Ace s suited
+and ace6 suited so they have a lot more
+combos of Ace King and Ace Queen and Ace
+Jack on this board that just may never
+fold because we haven't made the pot
+very big yeah it's a 2X pot siiz bet but
+they're not playing for all the money
+and I don't think most live opponents
+are going to fold even for a 2X pot siiz
+bet when they get to this River with Ace
+King or Ace Queen so here is a solution
+we recommend at Hungry Horse poker on
+these ace high static boards when we
+were the pre- Flop Razer we use either
+an overb or check strategy what hands do
+we want to overbet well of course we
+want to overbet our value if we have a
+hand like Ace King if we have a hand
+like pocket 9's pocket Deuces Ace 9 Etc
+we would want to overb because when we
+overb on this board our opponent is
+never folding an ace to one bet they're
+never folding a nine to one bet and even
+if we bet small on this board we're not
+going to entice our opponents to call
+here with hands like 67 suited or pocket
+fours on an ace9 dece rainbow board so
+we go for the overb and just maximize
+value against the ax and 9x the Bluffs
+here we want to be a little more careful
+remember it can be quite profitable to
+run the big boy airball Bluffs if two
+things are true number one if your
+opponent is capped and number two if you
+are very deep well the problem is here
+our opponent is uncapped so we generally
+don't want to start these big boy
+airball Bluffs on the Flop the hands
+that we may consider starting Bluffs
+with here on this flop are the hands
+that make it more likely that our
+opponent is capped so I like to use
+hands starting Bluffs hands that maybe
+have a deuce in them or a nine in them
+making it way less likely that our
+opponent has a hand like pocket nines
+pocket deuces a 9 suited and most of our
+opponent's range is going to be ace X so
+if you do have a hand like 97 suited or
+King do suited not only is our
+opponent's slightly more capped because
+of The Blocking properties of our hand
+but we also have a little bit more
+equity in our hand as well we can hit
+trips we can hit two pair and when we
+are going to go for the overb on the
+Flop and then the big bet on the turn
+and the jam on the river that's when we
+think we can start getting our opponents
+to fold hands like Ace Queen Ace Jack
+Ace 10 when we make them play for all
+the money you may be wondering what do
+we do with hands like 76 on this flop
+that we don't want to overb most of our
+range actually on this flop I would just
+be checking back our opponents aren't
+going to raise off their strong [ __ ] and
+call it their weak [ __ ] they're not
+going to give us more information about
+their range usually no matter what size
+we choose on this flop but when we check
+back our opponents are going to tell us
+a ton about the strength of their hand
+on the turn once we check back the Flop
+a lot of the times our opponent if they
+have a very strong hand like Ace King
+Ace Queen two pair or a set they're just
+going to come out and choose a big size
+on the turn if our opponent just has a
+weak Ace or maybe a draw or something
+like that a lot of the time live
+opponents just use a smaller size or a
+check if our opponent stabs big on the
+turn well we know have a much more clear
+idea of their range here and if our
+opponent stabs small or checks here now
+we can start applying a lot more
+pressure with our Bluffs just knowing
+our opponent is a little bit more capped
+and when our opponent is capped and when
+we are super deep we have more fold
+equity and the more fold Equity we have
+the less actual equity in our hand we
+need to start running these big boy
+Bluffs I like to think of equilibrium as
+a delicate balance think of a seesaw and
+there's two equal weight squirrels
+sitting on each side of the Seesaw the
+Seesaw is going to be even well if you
+go over to this squirrel over here and
+start plucking hairs off his tail all of
+a sudden the seaa is going to go like
+this just remember that equilibrium is a
+balance and if one side is always
+showing up with all the hair is plucked
+off its tail well we have so much room
+to just make more money that was a
+horrible analogy it was it was horrible
+regardless the next time you hear
+somebody say that size isn't a thing
+don't feel bad taking their money
+because they're going to give it to
+somebody and it may as well be you thank
+you guys and have a gentle day

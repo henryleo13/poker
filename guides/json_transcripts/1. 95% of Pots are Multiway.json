@@ -1,0 +1,93 @@
+{
+    "multiway": {
+      "general": {
+        "note": "Hands are stronger multiway than heads-up. Opponents more likely to have dominating draws, two pair, or sets. The more players, the tighter/more careful we should be with both value and draws."
+      },
+      "sizing": {
+        "comp_play_for_stacks_hand": {
+          "guideline": "When nutted on wet/dynamic board multiway, still use small size (25–33%).",
+          "reason": "Pot is already large, small bet induces weak calls + strong raises.",
+          "example": "T9s flopping the nuts multiway → bet ~25%."
+        },
+        "thick_value_hand": {
+          "guideline": "With hands like overpairs or strong top pairs, often deviate to bigger size.",
+          "reason": "Maximize value vs. top pairs, flush draws, dominated hands.",
+          "example": "KK on wet multiway board → larger bet OK."
+        },
+        "big_draws": {
+          "guideline": "Play like nutted hands — small bets are fine.",
+          "note": "Only exception is thick value hands (where large bet may be better)."
+        },
+        "simplification": {
+          "guideline": "Using one small size across whole range is acceptable if you want simplicity."
+        }
+      },
+      "bluffing_as_raiser": {
+        "criteria": [
+          "Only start bluffs when board is NOT likely to get stabbed.",
+          "Prefer hands with strong blockers that remove villain’s nut holdings.",
+          "Choose big sizes on dry/static boards."
+        ],
+        "blocker_logic": {
+          "good_blockers": ["King", "Five (removes A5, 55, AK)"],
+          "bad_blockers": ["Jack, Ten, Queen (villains fold AJ, AT, AQ → you block their folds!)"],
+          "example_good": "K5 on A53r board (good blockers, board static).",
+          "example_bad": "JTs on same board (bad blockers)."
+        },
+        "execution": {
+          "line": "Fire flop + turn + river with large sizings.",
+          "fold_equity": "Target hands like AJ, AT, A8 to fold by river."
+        },
+        "notes": "If board is likely to get stabbed, check → look for check-raise opportunities instead."
+      },
+      "preflop_caller": {
+        "continue_very_tight": {
+          "vs_aware_player_cbet": {
+            "guideline": "When strong player cbets multiway into 3+ players, fold very tight.",
+            "example": "UTG pro opens → flop 4-way → cbets → fold even pocket Jacks/QQ-type hands."
+          },
+          "vs_big_cbet_size": {
+            "guideline": "When someone pots or overbets multiway, continue extremely tight.",
+            "example": "Limp/raise UTG → cbets pot multiway → fold medium pairs despite safe board."
+          },
+          "vs_cbet_plus_call_next_to_act": {
+            "guideline": "Facing bet + call multiway = very strong ranges. Fold even top pair weak kicker.",
+            "note": "Caller next-to-act often represents strength → don’t continue wide."
+          }
+        },
+        "when_to_pounce": {
+          "guideline": "Exploit capped ranges (players who checked back when they could have bet).",
+          "example": "Big blind checks → preflop raiser checks → cutoff + button also check. They’re capped. Hero (BB) is uncapped.",
+          "execution": "Wait until turn, then check-raise aggressively with weak pairs/bluffs because others rarely have nutted hands."
+        },
+        "when_to_donk": {
+          "with_fish_in_between": {
+            "guideline": "Donk your strong hands when fish are sandwiched between you and the raiser.",
+            "reason": "Fish check too often, pro doesn’t stab enough multiway. Betting yourself maximizes value.",
+            "example": "Pocket 22 → flop J92 multiway with 2 fish in pot → lead out."
+          },
+          "with_fish_behind_raiser": {
+            "guideline": "Do NOT donk. Let pro check, fish have green light to stab. Then check-raise for max value.",
+            "example": "BB calls vs UTG pro + 2 fish behind → flop → check, let fish stab, then raise."
+          }
+        }
+      },
+      "red_flags": {
+        "expanded": [
+          "Overvaluing thin top pairs multiway.",
+          "Bluffing weak draws when multiple players remain.",
+          "Forcing 3 streets of value multiway (when only 2 are reasonable).",
+          "Not considering number of players behind.",
+          "Not adjusting value/bluff thresholds upward.",
+          "Calling cbets too wide vs. aware pros multiway.",
+          "Continuing vs. large cbets multiway without strong holdings.",
+          "Failing to recognize when caller-next-to-act = very strong range.",
+          "Multiway check-back is NOT as capped as heads-up check-back.",
+          "Flop donk multiway = strong hand or strong draw (overfold vs. it).",
+          "Check-raise closing the action is massively underbluffed.",
+          "Turn donk after flop call = two pair+ very often. Fold strong one-pair hands."
+        ]
+      }
+    }
+  }
+  

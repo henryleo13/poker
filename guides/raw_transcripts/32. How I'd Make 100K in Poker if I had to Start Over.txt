@@ -1,0 +1,299 @@
+if I wanted to make my first $100,000 playing poker in 2025 this is what I
+would do I'm going to show you all the skills you will need and how to acquire them in order to build a six-figure bank roll and you may be wondering well how
+does this guy know how to build a sixf figureure bank roll for context these were my results my very first year
+playing full-time at relatively low stakes and I've since earned over seven figures but if I were starting again
+from nothing these are exactly the steps I would take let's jump in all right so
+succeeding at poker is just like anything else you need need to have the skills and you need to have a plan to get there so here would be my four
+building blocks and we're going to go through these one by one we're going to start with ranging this is the core of
+everything this is the foundation you need to be able to range your opponents number two we're going to talk about defaults or shortcuts which save you
+some processing power during hands third we're going to talk about building a repeatable thought process finally we're
+going to come up with a plan to study that doesn't waste your time that actually gets you on the path to
+achieving these goals and just so you guys know this advice is going to focus on cash games I don't know anything about tournaments I don't care for
+tournaments I would rather have a catheter stuck in my pee hole than be forced to play a live poker tournament cash games are going to get you to a
+six-figure bankroll relatively quickly tournaments are for people who care about other things other than earning
+money like for example being miserable all right let's start with ranging we're going to talk about how to range
+villains let's start with what they don't have instead of what they do have so with each action we are going to
+eliminate a portion of the range all right so we are playing 25 here with a bunch of Henry's we open on the button
+to $20 and the villain is going to call in the big blind and when we look at
+villains range in the big blind here we can start eliminating hands immediately we can eliminate Aces because they're going to three beos we can eliminate
+Kings we can eliminate some of the Queens they're going to three beos we can eliminate a lot of this offit trash here we're just going to start by
+eliminating hands and this would be like a reasonable pre- flop range from a recreational player defending the big
+blind right we can eliminate some of the top of the range we can eliminate some of the bottom of the range but they're still going to have a lot of hands all
+right so we're going to go to a flop it's going to come Jack n Deuce look at that sweet baby there and when villain
+checks it over to us on the flap we're going to bet half pot and now villain is going to call all right and now when
+villain calls his range is going to go from something like this to something like this we can eliminate a bunch of
+the hands that just don't connect with this board we can eliminate a lot of the pocket Deuces pocket NES Jack n suited
+Jack n off these hands are going to raise it some frequency we can eliminate some of the combo draws because these
+hands are going to raise at some frequency all of the hands that are just air on this board that are just going to
+fold right now maybe hands like King seven of hearts or 85 of diamonds right
+we can eliminate these hands from our opponent's range with this action all right now we are going to go to a turn
+the turn is a blank we are going to overb and our opponent is going to call
+now we can lap off a bunch more from our opponent's range and as we see here now now our opponent's range is primarily going to be composed of a lot of Jack X
+some of their ace high and King High flush draws we have them folding out these smaller flush draws maybe 50 60%
+of the time we have them folding their 9x maybe 75% of the time to this turn overb we have them folding their open in
+straight draws maybe 50% of the time we just carry the range over from the previous Street and with each action we
+just eliminate some more combos in their range so this will be villain's range
+getting to the river all right going back to our guide here how to range villains so we start with what they don't have we get that you're not going
+to have a range chart like we have here in game so how do we apply this in game the earlier in the hand the bigger the
+buckets we give them in their range for example we don't focus on oh our opponent has 8 seven of diamonds no we
+think about well our opponent has some straight draws they have some flush draws they have some top pair think in
+big buckets we want to think in Broad Strokes not fine lines particularly early in hands and this may be the most
+important point we need to be able to carry the thread from Street to street so whatever range we assigned them from the previous action we need to be able
+to hold on to that thought in our head and carry it over logically to the next street we can't start assigning them
+hands on the turn that we didn't have them have on the Flop right we can't just make stuff up and be like oh they
+could have Aces here once we get to the turn no they can't have Aces because remember we eliminated Aces pre- flop
+when they just called let me show you how I may do this in game without having this handy dandy range chart in front of
+us so we are going to open here on the button with ace5 of space Fades and our opponent calls in the big blind and once our opponent calls they no longer have
+100% of hands so let's eliminate some of the top of the range let's eliminate some of the bottom I think our opponent probably have about 40 maybe 50% of
+their hands if they're a recreational player here in the big blind so just simply they have a very wide range let's
+go to a flop Jack n Deuce we see bet half pot and our opponent calls once our opponent calls we can eliminate some of
+the top of the range pocket 9es the Jack n the pocket Deuces we can eliminate those at a high frequency we can eliminate some of the Complete Air so
+what is our opponent's range now well it's going to be a lot of jackx 9x straight draws flush draws some ACE
+highs and maybe some under pairs under the nine now we go to a turn which is a four of Spades we are going to continue
+here small when our opponent calls again we can eliminate some of the top of their range our opponent would probably raise here if they had flushes at a high
+percentage of the time so we can eliminate a lot of the flushes we can eliminate a lot of the 9x we can eliminate some of the straight draws our
+opponent's range getting to the river is going to be a ton of Jack X and maybe open in straight draws with a spade and
+maybe under pairs with a spade all right so so this has been how to range villains using both a more granular
+approach visually and how I would translate the practice doing it visually to how I would do it in game now let's
+move on to the next step all right the second building block here is defaults and what are defaults defaults are just
+a set of shortcuts that guide us in the right direction and these are helpful because they help us come to faster
+decisions and save us processing power in game so you guys have probably heard me talk about a lot of my defaults in
+this channel I range bet in single race pots in position I check my entire range out of position these are just shortcuts
+I use in game to save myself processing power before I actually have to start making decisions in hand let me go
+through some of my defaults here and it doesn't mean you need to use these as your defaults but just examples of
+defaults or shortcuts I use in game so we'll start off here with my imposition flop defaults as an example I'm just
+going to ask the question what size will they raise or strong stuff and call with the weak stuff and then I'm going to choose that size usually around half pot
+in single race pots usually around a third pot three bet pots I find is a good place to start and if they will not
+if there is a specific board where they will not raise their strong stuff and call with their weak stuff I'm going to employ a big bet or check strategy in
+that case all right so once again we are going to open on the button here with nine8 of diamonds our opponent is going to call and I would ask here what size
+will they raise off their strong stuff and call with their weak stuff well I think if I bet around half pot here maybe even $25 or $30 our opponent still
+going to raise if they have a smaller straight if they have a set if they have two pair this board is wet meaning there
+are a lot of draws out there straight draws flush draws Etc and this board is dynamic meaning a lot of the deck is
+going to change the nuts here on the turn and when the board is wet and dynamic usually there's a size we can
+pick where our opponents will raise their strong [ __ ] and call with a weak [ __ ] so I am going to bet half pot here
+all right one more example here and this time we're going to open Ace King of Diamonds on the button our opponent is going to call the Flop is A7 deuce and I
+would ask this question what size will our opponent raise off their strong hands and call with their weak hands well on on this particular board the
+board is very very dry and static so even if our opponent has a hand like pocket sevens or pocket Deuces they may
+not raise even if we pick a small size because our hand kind of feels invulnerable not many cards are going to change the nuts on the turn there's not
+many draws that can come in so our opponent May trap quite a lot with their strong hands even if we choose a small size and with their weak hands if our
+opponent has a hand like King Jack here or pocket 3es even if we choose a small size they're probably not calling with
+their weak hands if we go back to my flop defaults here what SI with that raise their strong stuff and call with
+their weak stuff if none I'm going to use a big bet or check strategy so on this board I think this is one of the
+rare cases where I may go big bet or check I'm going to be doing a lot of checking back on this turn but this is
+one of the hands that I'd want to choose the big size if our opponent does have an ace they are not folding even for a
+large size and we want to start piling in money so I may use a large overb here
+on this flop because our opponent will not call with their weak stuff or raise their strong stuff all right so now moving on to some of my in-position turn
+defaults here are the questions I would ask to come to my defaults are they capped if yes I'm generally going to
+choose a big size because our opponents are not going to be putting in more money for us all right so we're going to
+go back to this 89 of diamonds hand where we see bet on the Flop and our opponent called the turn is a deuce and I would ask here is our opponent capped
+well yes because generally on a wet Dynamic board our opponent would have raised off on the Flop if they had hands like pocket Sev sixes fives Four 3 7 six
+Etc so our opponent is probably capped to mostly single pair hands here now
+that means our opponent is probably not going to put in more money for us if we choose a small size but that doesn't mean our opponent is going to be folding
+our opponent has a hand like 78 or ace7 or an ace high flesh draw or a king High
+flesh draw our opponent is not going to fold even for a big size on this turn so because our opponent is capped I would
+be using a large size on this turn so back to our imposition turn default we just asked are they capped if yes we're
+going to go big just like this last example if no can we choose a size they raise their strong stuff and call with their weak stuff if the answer to that
+is yes we're going to go small so let me show you in example all right so we open ace four of spades on the button on this
+flap we would ask can we choose a size where they raise a strong stuff call with their weak stuff yes generally our opponent on a wet Dynamic board is going
+to raise off their strong hands right now so we go small they call turn is now a five of Spades are they capped well no
+our opponent can have some flushes here they can have some Straits can we choose a size well they will raise off their
+strong hands and call with their weak hands on this turn well generally yes if we go small on this turn our opponent is
+going to put in more money for us with a lot of their smaller flushes here not wanting to face a bad run out and also
+if we go small our opponent may just continue with a hand like pocket nines with the nine of Spades here so we are
+going to bet small finally rounding out these inos turn defaults can we choose the size they raise their strong stuff
+and call it their weak stuff if yes we go small like we just saw if no then we are going to go big bet or check so let
+me show you this final example all right so let's go back to this Ace King of Diamonds hand where we open on the button we chose the big bet size on the
+flap our opponent called Turn is now a deuce we would ask on this turn is our opponent capped well no because we chose
+a massive size on the flap and they don't raise off their strong hands on this texture anyway and can we choose a size on this turn where our opponent
+will raise off their strong hands well probably not right if our opponent has a hand like pocket sevens or quad Deuces
+or ace deuce even if we go small our opponent is going to feel like their hand is invulnerable it's a lockdown
+type hand they're still probably not going to raise off their wrong stuff on this turn so this would be again a
+situation where that answer is no so on this turn we would again be choosing a big bet or check strategy and yes we can
+occasionally run into monsters under the bed here with Ace King but we can just get so much value from hands like Ace
+Queen Ace Jack Ace 10 Ace 9 Ace 8 Etc I would be choosing a large size once
+again on this turn to get value from a lot of the weaker hands in our opponent's range all right so those are
+inos defaults moving on to some outof position defaults now and here are some questions I would ask will they either
+over stab or Telegraph their hand strength with their bet sizing in general from what I have found from 90
+plus% of recreational players playing live the answer to this is yes so if the
+answer to this is yes we are going to check our entire range because our opponents play so so poorly against a
+range check so let me show you in example all right so we are going to open in a cut off here with pocket sevens our opponent a recreational
+player on the button calls flop comes King 7 doce and I would ask here is our opponent likely to over stab and will they Telegraph their hand strength with
+their sizing if they are a recreational player generally the answer to those two questions is yes so we are going to check our entire range our opponent
+takes the bait and stabs and we are going to put in the big boy check raise because we don't think our opponent's going to be able to fold their strong
+King X or their flush draws here and we can just Pile in all the money over two streets all right so going back to our
+aut ofos flop defaults here what if the answer is no what if our opponent will not over stab or Telegraph their hand strength with their bet sizing well in
+that case I'm just going to simplify I'm just going to range bet on the boards that I think are good for me and range
+check on the boards that I think are bad for me keeping it very very simple not trying to play some complex mixed
+strategy just trying to keep things very easy to execute in game so let me show you all right so same situation here
+board is King 7 Deuce except now the villain in the hand is a pro and we don't think a pro is going to over stab
+on this board we don't think they're going to Telegraph their hand strength with their size King High disconnected board single rais pot this board is
+probably better for us so I'm just going to se bet my entire range here against a pro same situation against a pro except
+the board is a very connected straightening board N9 High 976 on this
+board I think it's probably slightly better for the opponent so I am just going to check my entire range here to
+the pro all right so those are just a few of the examples of the defaults I have in place the defaults aren't really the important part of this video the
+point is just showing that having these kind of defaults especially for pre- flap and on the flap can kind of save a
+ton of processing power and help you come to decisions faster because you've already put in the work hey this is what
+I'm doing in this situation now here at Hungry Horse we have defaults built out for almost every single scenario on the
+Flop and on the turn in live poker so if you want all of the sauce consider joining one of our boot camps or 7-Day
+crash courses coming soon all right next and this one is super super important because I find so many players just kind
+of fly by the seat of their pants and if they play the same hand 10 times they may play it 10 different ways so this is
+the repeatable thought process and this is simply a list of questions we ask in every single hand that helps us come to
+the highest Eevee decision and this should be customized for you it should be what works for you you need to come
+up with your own repeatable thought process I'm going to give you an example of the one I use just for context so
+here is the one I use first I ask what is their range what is my default what happens if and on Rivers I add one more
+question what would I do with the inverse so these are the questions I ask in every single hand I've played so many hands at this point using this process
+that it's almost subconscious but I'm going to show you a few examples putting all the pieces together using this
+repeatable thought process going all the way through from pre flop to the river all right folds to us on the button I am
+going to be opening almost every hand here because we have recreational players in the blinds who are under three betting and we're going to have a
+post flop Edge against they're just going to let us realize post so I open our opponent calls in the big blind I believe they have a relatively wide
+range here flop comes Queen 76 are opponent checks it over the default here
+is to bet half pot choose the size where opponent raises off their strong hands calls with their weak hands can we
+deviate here well what happens if we go a little bit bigger if we go bigger our opponent May trap with some of their
+very strong hands and they won't continue with a lot of their weak hands that are probably going to call Flop
+Call turn and then fold River so going bigger probably not the best what happens if we check back well our
+opponent is probably going to under Bluff across turns and rivers and we're not going to be able to maximize fold
+Equity against our opponent's range so I'm going to stick with the default here and go half pot our opponent is going to
+call now going to this turn our opponent is uncapped they can have some flushes
+here they're not going to have hands like sevens sixes Queen Seven 7 six those hands would raise off on the Flop
+but they can still have quite a lot of flushes they can have quite a lot of straits here so the default here when
+our opponent is uncapped is to choose a small side what happens if I go big
+instead well if I go big here on this turn our opponent may not raise off their smaller fleshes and they may start
+folding hands that we have drawing dead like pocket t with the 10 of Spades so I am going to continue with the default
+here I go 35 very small and our opponent calls now we go to a river what is our
+opponent's range well very simply on this River we can just say they have flushes like king queen with the King of Spades or queen Jack with the Jack of
+Spades or they have hands that are just essentially garbage on this River like red pocket eights or red pocket nines
+that aren't hanging on for any amount of money what would I do with the inverse if I got to this River with a hand like
+10 n of hearts and I wanted to Bluff on this River what size would I bet well I think our opponent will fold a hand like
+red pocket eights or queen Jack without a spade even for a relatively small size
+here so if I was bluffing on this River I may just go like 75 maybe $100 to get
+our opponent to fold any hand without a spade so because my bluff wants to go relatively small on this River maybe my
+value on this River wants to go relatively big I don't think our opponent is ever folding a hand like
+queen king with the Queen of Spades or queen Jack with the Jack of Spades as long as we don't go too egregious may be
+able to overb go something like 225 or 250 to Target those hands with a spade
+all right next one another example of repeatable thought process let's ramp up the difficulty we are going to open on the button here our opponent is going to
+call flop comes jack9 our opponent has a wide range calling from the big blind
+the default here is to go half pot what happens if we go big what happens if we check back where we walk through that
+last hand probably not great we just want to stick with the default here generally go small choose a size where our opponents will raise or strong shap
+call with their weak shape so we go half pot and now our opponent raises once our opponent raises what is their range well
+the range is probably going to be mostly two pair like Jack n some sets like Deuces or nines here on this board or
+maybe occasionally some combo draws like 10 eight of spades King Queen of Spades
+Queen 10 of Spades hands like that what happens if we bet three bet here probably not a lot of great stuff we
+would just be getting in the money against the range we're not doing well against our opponent probably has more combos of sets in two pair then they do
+combo draws on this board so if we just bet three bet here we don't have any fold equity and if we get the money in
+well we're not doing great against the range that check raises on this flop and what happens if we fold well we probably
+don't want to fold an ace high flush draw especially when we're in position with the stack depth behind so therefore by process of elimination call seems
+like the best option we are going to call turn is a four of Spades giving us the nuts and when our opponent checks on
+this turn once again what is our opponent's range well at this point we can eliminate a lot of the combo draws
+that made fleshes why what type opponent is going to play their draws aggressively on the Flop it's usually
+going to be a more aggressive opponent right passive opponents aren't going to play their draws aggressively on the
+flap so if our opponent played their draw aggressively on the flap usually that means they're going to be an aggressive player so they would be the type of player to continue betting on
+this turn once they get there with a hand like Queen 10 of Spades or King Queen of Spades so generally we can eliminate a lot of the flushes from our
+opponent's range can I still have a flush some percentage of the time okay but mostly 90 plus% of our opponent's
+range here is going to be two pair and sets getting to this turn what is the default here well we didn't really talk
+about a default so let's try to brain solve here on the flly if our opponent has a hand like pocket 9es or pocket
+Deuces or Jack n Suited are they folding for any size on this turn well if we go all in maybe probably they'd start
+folding Jack nine maybe they'd fold Deuces or nine sometimes but if we choose a large bet here on this turn our
+opponent has the chance to boat up they are not checking this turn to check fold maybe a large size here could be a
+reasonable option do we want to go small on this turn well if we go small here we also get the call from all of those
+hands we lose a ton of value against pocket NES and pocket Deuces it would just always call a big bet here on the
+turn we're not really concerned we don't think fleshes are a big part of our opponent's range so we're really just concerned about targeting those two pair
+in sets so what is the biggest size we can go on this turn that a hand like Jack n or pocket Deuces call I would
+assume on this turn it's going to be a large size we want to set up the river spr get it less than one get it near.
+five if possible because our opponent's going to have a very hard time folding so we want to go large here on the turn go 300 our opponent puts in the call
+River is a beautiful three of hearts and when our opponent checks over here on the river again what is our opponent's range mostly sets into pair what is the
+default well we don't have one for Rivers what would I do with the inverse if I got to this River with a bluff and
+we had only 580 behind into 842 I would never be bluffing here on the river for
+a large size because I never expect our opponent to fold a set or two pair for this amount of money behind when the pot
+is already this ballooned so therefore our value probably just wants to stick in all the money I go all in here our opponent calls all right one more
+example of repeatable thought process this time we open on the button with Queen 10 of clubs our opponent calls they have a wide range in the big blind
+comes Jack n Deuce again what is our opponent's range wide what is the default here usually just going to choose a size where they raise or strong
+stuff called with their weak stuff on this board that's what we are going to do we go half pot our opponent raises
+well what is our opponent's range just like last hand it's going to be a lot of sets and two pair maybe some combo draws
+what happens if we raise not a lot of good things we just get the money in with not a ton of equity what happens if
+we fold well we just folded out a pretty good hand in position with a lot of Stack depth behind so by process of
+elimination we are going to go with the call here turn is now a deuce and when our opponent checks what is our
+opponent's range well on this turn they are still uncapped before our opponents were relatively capped when the turn
+came in a flushing card now when the turn pairs they are uncapped our opponent could be trapping here occasionally with a hand like pocket
+nines or quad Deuces so our opponent's range getting to this turn is probably going to be a lot of top two pair boats
+and quads and then also a lot of combo draws or maybe some ace high fles draws
+occasionally here on this turn what happens if we bet big well when the board pairs are opponent probably starts folding a lot of their Ace High flush
+draws maybe some of their combo draws start folding some of the time on this turn if we go too big we are just going
+to allow them to continue with a range that is pretty much only boats and quads if we go small here on this turn our
+opponent may continue all of the time with their combo draws with their ace high ferals and also if we go small our
+opponent may be incentivized to either raise right now with their boats and quads or if we go small they may just
+come out and donk the river and also let us off the hook sometimes so small seems like the play here we're going to go small on the turn our opponent is going
+to call River is a three what is our opponent's range once again it's going to be Jack n pocket Deuces pocket 9es at
+a high frequency also they are going to have some bricked combo draws some bricked ACE High flush draws that we
+strung them along with with a small bet on the turn so what happens if we bet big here well we get all the draws to fold which is nice but we get snapped
+off by the Jack n the pocket Deuces the pocket NES Etc what happens if we go small on this River we get all the ace
+high flush draws to fold which beat us we get a lot of the king queen of Spades King 10 of Spades to fold which beats us
+and then also yes we lose when they have quads or a boat but we don't lose that much we're getting a pretty good price
+on our Bluff just to fold out the ace high Spades the King High Spades the queen High Spades that we're chopping
+with here on this River so maybe going small is the play here to get our opponent to fold their better draws all
+right finally the last building block and this was maybe the most important for me it is building a plan and for
+myself I found this was essentially just holding self accountable in building a list every week that I complete these
+tasks no matter what it doesn't matter if my house floods if I lose an arm if I
+break my fibula I'm completing this list of goals for the week no matter what I have done this for years and it has
+helped to hold myself accountable and helped to make sure I just reach all of my big picture goals by the end of the
+year because I hold myself accountable on a smaller smaller micro scale so if
+this week was too tough if I add too many tough things to my list I still complete it but I just ease back next
+week and vice versa if this week was too easy maybe I add a little bit more to my plate next week and again no matter what
+do everything in my power to hit that goal this week so let me give a couple
+examples of what I would build for maybe custom weekly plans based on if a player
+is full-time or if a player is part-time so if my plan was to be a full-time player and I wanted to make six figures
+over the next year this may be a sample weekly list that I would set say I play 32 hours a week my sessions would be
+Tuesday Thursday Friday and Saturday and then I would study eight hours a week so I would have maybe 4 hours of study on
+Monday where I would do ranging drills like we did at the start of this video I would put on a timer and have to come up
+with my opponent's range on every street pre-f flop flop turn River giving myself
+maybe 30 seconds then maybe on Wednesday I would do some time maybe repeatable thought process drills just like I did
+in the last section except I would put a timer on maybe give myself 45 seconds per Street once I got pretty good at
+that maybe drop it down to 30 seconds per Street once I got good at that maybe drop it down to 15 seconds per Street
+just increasing the pressure ramping up the complexity now if I was a part-time player maybe my goals were to earn
+enough money to buy a car or go on a few vacations this year from poker so maybe this could be a sample plan play 16
+hours a week my sessions would be Friday and Saturday study for 4 hours on Sunday with some repeatable thought process and
+ranging drills the important Point here isn't these exact plans the important point is that you develop a plan for
+yourself and hold yourself accountable we need to be realistic with our goals right my goal was never hey I want to be
+the best poker player in the world because if that was my goal right my weekly list is going to look a lot
+different right I would be playing 40 50 plus hours a week I would be studying 20
+30 plus hours a week I would be dedicating 80 90 hours to Poker a week if my goal is to be the best player in
+the world for me at this point that just isn't feasible that isn't realistic that's not what I want I don't want to
+give up every other portion of my life to achieve that goal so for me I just need to make sure that my goals are
+actually what I want because I hear so many poker players say well I want to be the the best live player or I want to be
+the best online player or I want to win the most amount of money and if those are your goals that's fine but you just
+have to realize the sacrifices you have to make and what you have to give up to reach those goals so these would kind of
+be like my basic building black goals in order to reach six figures not to be the best player in the world if that is your
+goal it's going to take a lot more work a lot more dedication than this finally I want to talk about two things that I
+don't think are important for achieving your first six figure year in poker number one bankroll I hear so many
+players just obsessed with bankroll and really it's down here on the list right
+already I hear people saying well Mark if I don't have a bankroll how can I make money you need to build these
+skills so even if you have a $50 bank roll or a $100 bankroll okay start out
+playing micro Stakes online play one cent 2cent or 2cent 4 Cent and you can
+start honing the skills you need in order to build the bankroll so many players are so obsessed with well I need
+to build a bank roll that they forget the first step to building a bank roll is establishing the skills you need to
+be a winning player so establish the skills first and even if you're starting with $50 or $100 the bank roll will come
+for my I was working a $115 an hour job passing out energy drinks out of the
+back of a truck I saved you know $500 $1,000 I would go play one two at the
+casino with a $300 Buy in so many times I just lost my bankroll so I worked I
+kept building the skills I kept practicing I kept studying finally I took those $500 or $1,000 turned it into
+10K moved to Los Angeles and started playing 55 a th000 cap where I turned that 10K into over $100,000 bankroll in
+the first year so if you build these skills the bankroll just will not matter
+now bankroll management if you're playing full-time that's another discussion but I think too many players just focus way too much on bankroll
+before they build the foundation finally the second thing that I don't think is really really important especially at
+the beginning is Theory so many players are focused on well let's jump into GTO Wizard and look at what the solver says
+if you're playing against live opponents or at low stakes online players are just deviating so far from Theory Theory at
+equilibrium is going to be a defensive strategy right this just isn't going to help you win the most amount of money
+right now I am a solver boy at heart I have spent thousands and thousands of hours inside pile solver I have carpal
+tunnel in my right hand from node locking and clicking so many buttons over and over in pile solver I do think
+Theory at a certain point is going to help you a ton I think learning the Baseline so you can deviate harder is
+going to help you a ton but at the beginning there is so much lwh hanging fruit until you start earning your first
+six figures in poker I would not jump into Theory because I think ironing out your thought process ironing out how to
+range villains ironing out the basics that we talked about in this video is going to be so so so much important to
+earning that first six figures once you get there you can start learning about Theory all right guys so here you go
+this is exactly how I would do it if I were starting over today these are the skills I think you need these are the
+plans that I would build so this is the foundation and to be clear to do this on
+your own I don't think you really need anything whether it's some other Training Site whether it's us at Hungry
+Horse I think this can be done on your own now one caveat if you want to get there faster if you want to hit that
+fast forward button and get there maybe in just a couple months or six months instead of a year or so that's where we
+can come in so consider joining us at Hungry Horse if you want to fast forward your progress you are still going to
+have to put in a ton of work there is no magic pill it just takes work hopefully you guys enjoyed this video on how to
+build your first six figures in poker thank you guys and have a gentle day

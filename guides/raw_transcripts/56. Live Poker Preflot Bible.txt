@@ -1,0 +1,875 @@
+let's talk about pre- flop trying to
+achieve a top tier win rate in poker
+before dialing in pre- flop is like
+trying to build a skyscraper with a
+foundation made of beans because while
+beans are quite versatile they don't
+necessarily make the best foundation for
+skyscrapers so today let's dial in our
+pre- flop game together I'm going to be
+sharing a bunch of ranges today and
+these aren't ranges that we pulled
+somewhere off the internet for 100 big
+blind 6 Max online poker no we custom
+built these specifically for live poker
+it was grueling it was arduous but we
+did the work so you guys can reap the
+rewards and you don't fall face first on
+a pile full of beans first before we
+jump in five big picture takeaways
+number one be the one making an
+aggressive action in high rake live
+environments we generally want to play
+tight and when we do come in to play a
+pot we want to make that pot bigger to
+minimize the effect of rake be the one
+raising be the one three betting be the
+one taking the aggressive action
+eliminate most limping and calling from
+your pre- flop game number two when fish
+or recreational player come in for a
+raise we generally want to be playing
+three bet or fold we're going to be able
+to realize our biggest Edge by getting
+pots heads up in position we don't want
+to play multi-way we don't want to let a
+bunch of people in the pot we just want
+to realize our Edge heads up in position
+against weaker players the two general
+exceptions to this is when we are on the
+button or when we are in the big blunt
+number three and this is going to be the
+corlar to number two when a strong Pro
+opens this is when we want to be doing
+quite a lot more flatting why in general
+the players who are going to make the
+most mistakes post flop are going to be
+the fish so when a strong Pro opens say
+early position and we're middle position
+we want to be doing a lot of flatting to
+let the fish in the pot because those
+are going to be the players who are
+going to make the most mistakes post
+flop and where our win rate is going to
+come from number four throw positional
+configuration out the window most solved
+pre-f flop ranges you see are based upon
+positional configuration for example
+when a player opens in the cut off and
+we are on the button here are the hands
+we three bet button versus cut off the
+problem with using these type of ranges
+live most recreational players or fish
+are not taking positional configuration
+into account they don't even know how to
+spell configuration for example if
+you're playing against a tight fish that
+tight fish probably opens the same range
+under the gun as he does on the hijack
+or the cut off or the button fish in
+general have the hands they open and the
+hands they three bet so we want to play
+against the player type and the ranges
+they are playing rather than using
+positional configuration number five
+these ranges are for 200 big blind poker
+for example you're playing2 five at
+$1,000 effective or you're playing 510
+at 2,000 effective how do you adjust
+these ranges if you are playing deeper
+or more shallow if you are playing
+deeper you generally want to favor hands
+that are suited and can make the nuts
+and cooler your opponents when deep and
+if you are playing shallow you generally
+favor hands that can just make very
+strong top pair hands so more offit
+Broadways come into effect all right I
+get it I know what you're thinking show
+me the charts okay cool let us jump in
+and we are going to start off with our
+open range from early positions this
+assuming we are first to act here as you
+notice we are going to be very very
+tight from early position and these
+ranges again are for 200 big blind poker
+pretty pretty tight here you see it's
+going to be be mostly suited cards it's
+going to be our strongest Aces ace9
+suited plus and then some of our wheel
+Aces maybe wondering why like Ace do
+suited doesn't open here Ace du suited
+and Ace six suited are our two worst
+suited Aces the problem with ace deuce
+is when it does make a straight it just
+always makes the butt end of a straight
+and then Ace six is the worst Ace that
+cannot make a straight so we want to
+open our strongest Aces here all of our
+pseud Broadways and you'll notice here
+we're opening some suited connectors
+like 5 six suited 76 suited 8 s suited
+but we are not opening these offit
+Broadways like king queen off or Ace
+jack off now the adjustment I would make
+if most of your game is more shallow say
+you're playing 80 big blinds or 100 big
+blind poker I would fold all of these
+suited connectors here and I would start
+opening these off suit Broadways Ace
+Jack and king queen but 100 big blinds
+deep often times making just top pair of
+good kicker is a hand that's good enough
+to play for all the money in summary
+this is what a pretty solid range from
+EP would look like here all right let's
+move along the positional Spectrum here
+and we'll go to the hijack and as you
+see from the hijack here we're opening a
+little bit wider we're not going to go
+through every position because I think
+you guys can kind of fill in the blanks
+in between EP and hijack but as you see
+here just to get the general pattern
+we're
+opening about 20% here where we were
+opening about 12% from EP you see here
+we're getting a little bit wider we're
+opening down to pocket fours all of our
+ax is opening ax suited King X suited
+down to King 7 Queen X down to Queen 8
+and jack8 suited and 108 suited here and
+then our off suit Broadways we're
+opening a few more of those now king
+queen Ace Jack King Jack Ace 10 this is
+what a nice open range from the hijack
+would look like at about 200 big blinds
+effective all right let's move to the
+button now and as you can see it starts
+to get pretty pretty wide these ranges
+are taking into account that we are
+going to have some moderate post flop
+Edge if you are a newer player or you
+are still kind of figuring out poker
+tighter is probably better we see here a
+44% open range on the button going down
+to ace4 off here opening a lot of these
+double and triple gapper suited hands
+all of our Queen X suited all of our
+King X suited down to Jack 5 suited now
+I want to show you what happens if we
+put two very very passive fish in the
+blinds right we just don't have them
+three bet very much we have them maybe
+call a little bit too much and we just
+have them play like typical live fish
+post flop where they're just going to be
+playing their draws too passively this
+is now the range we can open the button
+as you can see we're almost opening
+nearly 100% if you do have more passive
+fish in the blinds if you feel like you
+have an edge you can start getting
+pretty out of line as far as the hands
+that you can open profitably on the
+button all right guys real quick if
+you're enjoying the video please
+subscribe to the channel if you show me
+your subscribe to the channel pull out
+your phone show me in person you're
+subscrib to the channel I will give you
+my permission to get my face tattooed on
+you a lot of people have been asking hey
+Mark can I have your permission to get
+your face tattooed on me anyway just
+subscribe to the channel and yes yes you
+can all right let's talk about isoing
+now so let's say under the gun limps and
+we are next to act this would be a range
+that I would consider isoing the limper
+so coming in for a raise over the limper
+as you can see this is pretty tight it's
+going to look a lot like our EP open
+range which makes a lot of sense here
+because generally we're just concerned
+about having five six players behind us
+who could wake up at any time with a
+premium hand you can see these hands
+here that are half these are partials
+now I'm not sitting there in game
+randomizing that is ridiculous how I'm
+deciding whether to open these hands or
+not the deeper I am the more likely I am
+to so a hand like pocket sevs or 98
+suited or ace4 suited how else am I
+thinking about it the bigger the skill
+Edge I have say this player is very very
+weak who limps under the gun I may be
+more likely to ISO one of these partial
+hands and finally are they likely to
+limp a Rays if I know they're just
+opening all their good hands and they
+are limping all their mediocre medium
+hands then I'm much more likely to ISO a
+hand like sixes or fives or A8 suited
+here so those would be the questions I
+would ask when I am thinking about
+isoing some of these hands that are on
+the border do not randomize live if you
+randomize live you are a fish now let's
+look at our range when we are on the
+button in somebody limps and as you can
+see this is much much wider here now
+it's not going to be as wide as our
+button open range because that open
+range was pretty ridiculous and we have
+to take into account when people limp
+they generally don't limp to limp fold
+so we generally just want some pretty
+good hands here now the reason we can go
+much wider than early position is
+because we don't have to worry about so
+many players behind us and again these
+partials I would determine by asking the
+questions how big is our skill Edge how
+deep are we where did this player limp
+from did they limp from the cut off or
+did they limp from EP are the blinds
+behind us aggressive or those players
+going to three bet aggressively those
+are the questions I would be asking to
+determine just how wide we can ISO when
+we are on the button all right let's
+talk about continuing versus opens now
+so this would be what my hijack continue
+range would look like as we talked about
+generally want to play three bet or fold
+especially when we are not on the button
+or not in the big blind when a fish or
+recreational player opens as you can see
+this one is pretty tight because in
+general the average recreational player
+doesn't open that wide from up front now
+if this is a more aggressive player we
+can get a little bit wider here and if
+this is a tighter player we need to be a
+little bit tighter ourselves but in
+general we want to play pots heads up in
+position against weaker players when
+deep where we can realize our skill Edge
+now I want to go ahead and look at two
+different scenarios from the button when
+a recreational player opens first I want
+to look at when a aggressive player
+opens so say an aggressive recreational
+player opens from the hijack or cut off
+it doesn't really matter where they open
+from as we talk about positional
+configuration doesn't matter as much as
+how aggressive or how tight or how
+passive is this player so let's say an
+aggressive player opens and we are on
+the button here we can go pretty pretty
+wide right we generally want to be
+playing more three better fold but we
+can occasionally work in some Flats when
+we are on the button because we are
+going to have absolute position post
+flop you can see when an aggressive
+player opens we just generally want to
+be isoing quite a lot here we're going
+all the way down to like King six suited
+all of our suited connectors all the way
+down to pocket Deuces if we do have like
+a super super big way who's very very
+deep with us in the big blind or
+whatever maybe we can start working in
+some Flats but in general I still prefer
+to play three bet or fold versus
+recreational players opens even on the
+button now let's look at what happens
+when we are on the button and a very
+very tight recreational player opens
+right so say this player is opening like
+7.5% you may be thinking 7.5% that's
+tighter than our under the gun range
+right tighter than our under the gun
+range so say this player has like an
+open limping range say they're just
+limping with a lot of their pairs a lot
+of their suited Broadways a lot of their
+suited ax well in that case they may
+only be opening their premiums right in
+that case we want to be continuing
+pretty pretty tight as a three bet here
+and here's when we would work in more
+Flats we generally just don't want to
+three bet a super super strong range now
+say we were in the hijack for the cut
+off I would be much less likely to Flat
+in general I don't want to be continuing
+as a call when a fish opens unless we
+are on the button or we are in the big
+blind all right let's talk about our big
+blind defense here and this is going to
+be for when we 200 big blinds again
+versus a 4X open and this is against
+that player type we talked about for the
+player type who's going to have some
+lims and when they open they're going to
+be very very strong so this would be
+against a player who's opening maybe
+7.5% RFI say he opens hijack or cut off
+folds to us in the big blind this would
+be our continue range as you see here we
+are going to be continuing as a call
+quite a lot and we're just going to be
+three betting our very very good hands
+here how would I decide if I'm three
+betting hand like Ace Queen suited or
+pocket Jacks again how tight is the
+player if they're super super knit those
+hands just get flatted if maybe they're
+opening a little bit wider those hands
+get three bet for value and as you see
+here generally against recreational
+players we just want to be three betting
+our good better best hands we don't
+really have a bunch of three bet Bluffs
+because when they open they generally
+just continue too much so we just want
+to be able to outand them so we're not
+going to be three betting hands like
+pseud connectors here against a
+recreational player with a tight range
+that would be ridiculous we just want to
+be three betting our very very strong
+hands when a passive recreational player
+opens and we are in the big blind all
+right now a little bit more wild let's
+say that aggressive recreational player
+opens and folds around to us in the big
+blind and now you see here we're getting
+a little bit more crazy we're doing a
+ton of three betting versus say a 30%
+open range but as you can see again this
+is going to be a very linear three bet
+range which means we're going to be
+three betting our good hands our better
+hands and our best hands you may be
+wondering like how does a hand like King
+five suited fall into that category well
+pretty much against a 30% open range all
+of these hands are performing pretty
+well so we're just going to be three
+betting quite a lot as you can see this
+upper left hand corner here the left
+hand snippet of the hand balloon chart
+the hand balloon chart just gets three
+bet pure so all of our suited Broadways
+all of our big pairs as you can see
+we're defending quite a lot wider here
+but we're mostly defending as a three
+bet rather than as a call which is
+probably a big departure from how a lot
+of people are playing I know it's a big
+departure from how I'm playing a lot of
+the time but remember in high rake live
+environments when someone opens for 4X
+we want to play bigger pots against Bad
+players to minimize the effect of rake
+and again this is when a loose
+aggressive player opens and it folds to
+us and we are in the big blind all right
+now let's talk about squeezing and what
+is squeezing well squeezing is when
+player a opens player B cold calls in
+the field and now it comes around to us
+so in this example this would be say
+someone opened in the hijack the cut off
+cold calls and now it comes to us on the
+button this would be our squeezing range
+and as you notice here again we want to
+be going linear which means good better
+and best because the more players who
+call the less likely we are to get our
+three bet through without seeing a flop
+so because we're going to be seeing a
+flop a high percentage of the time we
+just want to have hands that can outand
+them you don't see hands like 76 suited
+or 65 suited or King six suited getting
+in there right the reason why we're
+going a little bit wider here maybe down
+to Ace jack off down to pocket 7s
+something like that is because when
+someone opens then someone cold calls
+that cold call there's just going to be
+a lot of dead money out there the cold
+call in general doesn't have very many
+strong strong hands so we just want to
+be getting in there with hands that can
+outper form both the opener and the cold
+collar and just go with a linear range
+here good better and best all right now
+let's talk about how do we play when we
+get three bet first let's talk about out
+of position then we'll talk about in
+position so out of position first so
+let's say we open hijack and button
+three bets this will be against a
+passive player in general a lot of
+recreational players are going to tilt
+more towards the passive side we are not
+going to be doing a lot of four betting
+because when they three bet us they're
+just three betting too tight of range we
+do defend you see we're kind of just
+preferring like a lot of these like
+pairs or maybe these small direct suited
+connectors over even some of these like
+big Broadway cards like you see these
+offit Broadway cards are just all folded
+the ace Queen off king queen off Ace
+jack off these hands can just get us in
+trouble I'm not randomizing here I'm
+basing my kind of borderline calls off
+of what kind of skill Edge do I have
+against this player how predictably is
+this player going to play post flop are
+they going to Barrel off when they miss
+or are they just going to check back and
+let me realize how deep are we so again
+this would kind of be like a rough
+starting point for a continue range when
+we get three bet and we are out of
+position versus a passive player now as
+you can see versus a more aggressive
+player we are just continuing a little
+bit wider and we're going to be forbing
+quite a bit more one of the concepts I
+kind of want to drill home which I think
+a lot of even live Pros kind of misapply
+when we are out of position and we get
+three bet we want to be forting a linear
+range you can see this is kind of a
+pattern why do we want to be forb
+betting a linear range well in general
+what is the player in position going to
+do they three bet and now they get four
+bet and they're in position they're
+going to be doing a lot of calling so
+because they're going to be doing a lot
+of calling we just want to forb bet
+hands that can kind of outand them if
+they're going to be continuing with a
+hand like Ace 10 suited or King 10
+suited then for betting off Ace Queen
+suited or king queen suited starts to
+look pretty good for us and I think the
+mistake I see a lot of Live players make
+is they start for betting from out of
+position hands like Ace du suited or Ace
+6 suited or Ace 4 suited or something
+like that we don't want to be for
+betting a hand like like ace6 suited or
+A4 suited if imposition is going to be
+continuing and calling with a hand like
+Ace 10 suited or Ace Jack suited we just
+want to be able to outand them so why
+not foret the ace Queen suited or the
+king queen suited that can dominate
+their continues rather than forb betting
+a pure bluff if they're just going to be
+calling way too much all right now let's
+look at in position so say we open
+button and small blind three bets this
+is how I would continue and as you see
+here we continue much wider when we are
+going to be in position this is the
+point we can start doing a lot more
+calling when we're in position we just
+don't have as much incentive to for bet
+because the out of position player isn't
+going to do nearly as much calling as
+the example before now when they are out
+of position to us they're going to be
+doing more put in the extra bet or
+folding so we just don't really have a
+ton of incentive to forb off a ton so
+you see here Asus still gets pure forb
+bet especially when deep because we can
+just cooler their kings we can cooler
+their Ace King suited we can cooler
+their Queens do not trap pocket aces if
+you are plus big blinds deep now at 50
+bigs or 60 bigs whatever that's a little
+bit different trapping Aces when you're
+going to have an spr1 going to the Flop
+that seems okay but at 200 big blinds
+deep you just always want to Pile in
+more money as a forb bet with pocket
+aces here but in general we just don't
+have a lot of incentive to continue with
+forb bets as you see here now this is
+going to be one of the only examples
+where we continue with a polarized range
+what is a polarized range well quite
+simply a polarized range is when we
+forit off the very strongest hands at
+the top of our range and then the bottom
+of our range as well and as you can see
+it's not going to be like trashy hands
+here it's going to be hands that compose
+the worst hands we would continue with
+maybe our worst suited Aces like ace5
+suited Ace 9 suited our worst suited
+King like a king 10 suited and maybe one
+of our suited connectors our direct
+suited connectors like an 87 suited so
+again these are optional the way I would
+decide if I'm going to for bet these
+kind of polarized Bluff hands is do they
+three bet enough and how are they
+continuing to a four-b if they're going
+to be doing quite a lot of folding to a
+four-b I may work in some of these
+Bluffs now if when they three bet
+they're just never folding in a million
+years I would cut these hands out right
+I would just never forb bet the king 10
+suited ace9 suited 87 suited and I would
+just go a little bit more linear with
+the top of my range but in general don't
+need to go overboard with this can
+generally just be doing a lot of calling
+in position when we get three bet how
+does our range change when we get three
+bet by an aggressive player well in
+general we're just continuing pretty
+pretty wide as you see the top of our
+range for for betting expands a little
+bit here now we're going to go down to
+Queens maybe all the Ice King off and
+the bottom of our range for four betting
+polar expands as well against an
+aggressive player we want to be doing a
+little bit more forb bluffing because
+they're just going to have a lot of
+hands that have to fold so we want to
+use a lot of these kind of crappy acex
+hands right like Ace du suited A6 suited
+A7 suited kind of these hands that we
+don't mind if they Jam well okay we were
+just bluffing we can get out of the way
+we can fold we're not really folding out
+a bunch of equity here against the
+aggressive players I would definitely
+work in some of these more polar four
+bet Bluffs when we are in position again
+when we are out of position we generally
+want a four bet linear good better and
+best and when we're in position that's
+when we can work in some of these more
+polarized forb Bluffs because the outof
+position player probably isn't going to
+be continuing as a call nearly as much
+as if they were in position all right
+let's talk about cold for betting so say
+a player opens in the hijack and a
+player three bets in the cuto off and
+now we are on the button in general in
+this specific scenario I am continuing
+as either a cold four bet meaning
+putting in the extra bet or a fold I am
+not a big fan of cold calling three bets
+when one player opens and then the next
+player three bets and we have yet to act
+the reason why is because if we just
+cold call the three bet lots of bad
+things can happen whereas the original
+opener can now four bet and we are kind
+of shut out of the pot and also our hand
+just kind of looks obvious when people
+cold call three bets they generally have
+hands that are like pocket Jacks pocket
+10 pocket 9es maybe some Ace King offit
+and some suited Broadways and they just
+don't have the top of that range so you
+become pretty easy to play against when
+you start cold calling three bets in
+general it's just something I like to
+cut out of my game now this is different
+than say we open and a player three bets
+us and back to us in that case it's okay
+to call this is when an extra player
+gets added to the mix so these ranges
+are going to be based upon the player
+who three bets say the player who three
+bets is very very tight well we want to
+be cold four betting very very tight say
+the player who three bets is pretty
+aggressive and pretty wide well we can
+be cold for betting a little bit wider
+here so this is what a wide cold forb
+bet range would look like and as you can
+see it's still pretty tight because when
+we come in for a cold forb it should
+just be kind of our very best hands now
+it doesn't make sense to work in Bluffs
+here like an ace4 suited or an ace3
+suited if we're going to be folding Ace
+10 suited right we just want to use kind
+of our very best hands here so this
+would be a wide cold 4B range and this
+would be a tight cold 4B range now very
+briefly I want to talk about continuing
+versus 4 bet that's either in position
+or out of position so say a player opens
+we three bet them and now they forb bet
+US versus a passive player as you see
+here we're just continuing very very
+tight because what does a passive player
+have when they forbid us kings ace King
+Queens Aces something like that maybe
+how do I decide if I continuing with
+these Jacks Queens Ace King off just how
+passive is the player have you seen this
+guy ever for bet Bluff or is this the
+guy who hasn't four bet Bluff since 1976
+if the latter is the case we could just
+pretty much be folding everything except
+Kings plus and against a more aggressive
+opponent when they forbit we continue
+just a little bit wider again we're not
+really comfortable five betting anything
+except Aces and you may be thinking well
+aren't I unbalanced if I only five bet
+Aces yes who cares they're unbalance
+when they forb bet you because they are
+under for betting do you think they are
+going to be folding too much or folding
+too little when they for bet they're
+going to be folding way too little once
+they for bet and you put in the five bet
+because their range is way too strong so
+unless you start seeing recreational
+players fold hand like Ace King or Kings
+or Queens to a jam which doesn't really
+happen then just go on your Merry way
+and continue five betting only pocket
+aces against recreational players is
+this different against Pros yes this is
+different when we are playing against
+Pros we can't just be so face up so
+let's talk now about some pre- flap
+adjustments we can make when playing
+against Pros all right if you remember
+from earlier I said when a pro opens we
+want to be doing quite a lot of calling
+and that is one of our exceptions
+because we want to let fish in the pot
+so say a pro opens from under the gun a
+strong Pro opens from under the gun and
+we are also in early position and the
+rest of the table is fish what we want
+to be doing quite a bit of flatting here
+because our incentive is to let the fish
+in the pot but we can't just never three
+bet when a pro opens because we can't
+just let them get away with murder right
+and we can't just only three BET our
+very strongest hands because well Pros
+are aware they know what's going on and
+if we did that they would pick up on it
+so here is a strategy I like to play
+when a pro opens and most of the rest of
+the table is fish and this would be
+early position versus early position I'm
+going to be three betting a polarized
+range so you guessed it the very top of
+my range which from early position may
+look like kings plus Ace King suited
+plus and then the very bottom of our
+continuing range which again since we
+are early positioned and we have to
+worry about the six or seven other
+players at the table behind us would be
+very tight so the bottom of our
+continuing range maybe like our worst
+suited Ace Ace five suited our worst
+suited King King Jack suited our worst
+suited Jack and queen so something like
+this when a pro opens from early
+position and we are also early position
+now as we move to later position say a
+pro opens from the cut off and we are on
+the button same incentives but
+everything shifts a little bit wider now
+the top of our range may look like Jack
+plus Ace King plus Ace Queen suited Plus
+in the bottom of our range may look like
+our worst suited Aces right the ace du
+suited and the A6 suited some of our
+worst suited 9x here and then some just
+kind of direct suited connectors again a
+lot of flatting because if there's two
+fish in the blinds we generally want to
+let those fish in and play a pot against
+the players who are going to make the
+big biggest mistakes post flop now let's
+say a rig opens cut off and we are on
+the button and there's also a strong Pro
+in the small blind or two Pros in the
+blinds in that case I would recommend
+table change or if you can't table
+change say that's the only game going on
+in your Casino I would not be playing a
+polarized range I would just be playing
+kind of a three bet or fold strategy in
+that example if there's no fish behind
+we just want to play a linear three bet
+or fold strategy when a pro opens but in
+general there are going to be fish
+behind when a pro opens if you're
+playing live poker that's usually how
+live poker works so in that case I'd be
+playing this more polarized strategy let
+the fish in the pot behind all right
+finally and this may be most important
+I'm going to give you seven pre- flap
+red flags to pay attention to when you
+are playing live poker red flag number
+one when a recreational player five bets
+so say we open Button they three bet we
+got Kings we're going to put in the four
+bet for value and now they five bet Jam
+five bets from recreational players are
+usually Aces but sometimes also to be
+fair it could also be Aces hear those
+ambulance sirens coming in the distance
+feel those Goosebumps Rising on the back
+of your neck you should be folding quite
+a lot that is one of the scenarios where
+I may fold pocket kings in live poker
+when a recreational player five bets red
+flag number two and this is just as
+scary when a recreational player four
+bets to greater than onethird of their
+stack size say a recreational player
+opens in the cut off we three bet the
+pocket kings and now they forb bet they
+put in 350 starting 800 effective here
+this is a red flag why is this a red
+flag well if they had a hand like Ace
+King they may just Jam if they had a
+hand like Queens they would do a lot of
+calling or sometimes they may just Jam
+when they foret to this size like 40% of
+their stack what did they have well
+usually they have Aces but once in a
+blue moon and I'm going to be fair here
+once in a blue moon they also have Aces
+so this would be another scenario hear
+those ambulance sirens getting closer
+and closer when they foret to this
+percentage of their stack and
+essentially commit themselves pre- flop
+they just have aces all right red flag
+number three when a recreational player
+cold four bets so let's look at this
+here A recreational player opens in the
+cut off we three bet on the button and
+now a wreck wakes up in the small blind
+and cold forb bets why is this such a
+red flag when they have a hand like Jack
+or sometimes even queens or tens or
+nines or Ace King a lot of the times
+what they'll do when it gets open and
+three bet in front of them is they'll
+just cold call they'll just come in for
+a call so when they for bet what does
+that mean well they just have Aces and
+Kings maybe sometimes Ace King suited or
+Queens so just be very very very very
+cautious when a recreational player cold
+for bets because the range is going to
+be very very strong all right red flag
+number four when the big blind or player
+closing the action pre- flop three bets
+against an early position open so say we
+open pocket kings from under the gun
+here and now a recreational player in
+the big blend wakes up and three bets
+from the big blend this is going to be
+very very strong hands it's going to be
+massively under bluffed why because
+players can just call from the big blind
+right so when they three bet here it's
+not often going to be hands like nines
+or t or king queen suited or something
+like that because those hands are really
+tempting just to call when you are
+closing the action and you are out of
+position so this isn't a situation where
+I would fold Kings this isn't as big as
+red flag as when a wreck cold forb bets
+or when they put in 40% of their stack
+pre- flop but this is still a little bit
+alarming and I would be continuing very
+very tight I would proceed very
+cautiously when a recreational player
+three bets from the big blind facing an
+early position open red flag number five
+when You Face a large or abnormal open
+size for the game usually this is just
+going to be a very very strong range so
+say a wreck opens from 40 under the gun
+when they're normally opening to 20 or
+25 in this case we can use this to our
+advantage if we have a hand like kings
+or Aces here we don't want to three bet
+to a typical three or 4X sizing here no
+go big because when they open to $4 from
+under the gun they just have a hand
+that's not folding to a three bet so
+this is an example where I may just go
+like five or 6X a ridiculous three bet
+size when we do have a premium here
+because they've told us hey I have a
+strong hand I'm not folding all right
+red flag number number six when a
+recreational player who has an open
+limping range opens from up front if
+they have an open limping range that
+means when they open Rays well their
+range is just going to be stronger so
+again here say this player just limps a
+lot of times with pocket pairs or suited
+Broadways or suited ASX when they open
+from under the gun that means you're
+just going to have like strong pairs Ace
+King Ace Queen hands like that so if we
+wake up with a hand like kings or Aces
+again we want to be going really really
+big here because they are not going to
+be open folding when they have this
+strong of a range and finally red flag
+number seven when a recreational player
+limp raises pre flops so say they limp
+under the gun we ISO here with Kings and
+now they put in the limp rays and this
+is situation again I may not be folding
+Kings right here but I would already be
+feeling pretty squeamish I would be
+feeling very precarious I would not be
+feeling gregarious okay that's enough I
+would just be continuing pretty pretty
+tight here and I would proceed very very
+cautiously when they limp Rays from
+early position all right guys hopefully
+you enjoyed this video and this helps
+tighten up your pre flop game so now you
+can build that skyscraper and you don't
+fall on a pile full of beans thank you
+guys and have a gentle day

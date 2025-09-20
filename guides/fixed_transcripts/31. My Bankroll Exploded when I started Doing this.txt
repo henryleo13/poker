@@ -1,0 +1,549 @@
+I figured out the key to unlocking my
+win rate in live poker I go all in a
+ridiculous amount in fact I bet if you
+took five random people watching this
+video I put the chips in the middle more
+in one session than all five of them
+combined okay congrats Mark you go all
+in a lot how does that help good
+question I'm going to show you when you
+should be going all in much more with
+your value when you should be going all
+in much more with your Bluffs and why
+when playing against a human you should
+almost never be balanced for the Nerds
+like me I'll show you how to use a
+solver to figure this out but if you
+don't have a solver or just don't like
+using them I'll show you a shortcut to
+do all of this no solver required and by
+the end of this video you are going to
+be an all-in Hound that's a new poker
+term all-in Hound all right you ready
+let's jump in all right so this is the
+hand that gave me the idea for this
+video and this is very similar to a hand
+that I recently played so we are playing
+2 five and under the gun lims now the
+hijack makes it 25 we three bet in the
+cut off with King Queen of Spades the
+limper is going to fold and the original
+razor is going to call we're going to a
+flop which comes 1083 so when he checks
+it over I'm just see betting my entire
+range small here and he calls turn is
+going to bring in a flush completing
+card a two of diamonds and when the
+preop caller checks it over here I am
+asking is this player capped or uncapped
+well on this turn they can have a lot of
+flushes because in general Live players
+play their flush draws passively on the
+Flop so on this turn they are uncapped
+so with my Bluffs here with a hand like
+King Queen of Spades and even with my
+value here if I had a hand like Ace five
+of diamonds I would be going small on
+this turn because it's going to
+incentivize our opponent to raise when
+they have a flush themselves and it's
+going to incentivize our opponent to
+call with a bunch of their weak stuff
+which is really nice when we have a
+bluff because we can get that weak stuff
+to fold on the river and it's really
+nice when we have value to capture
+another Street versus the weak stuff
+they're still going to put in more money
+for us when they have the strong hands
+so we're going to go small on this turn
+100 into 262 and our opponent is going
+to call now going to the river it is an
+innocuous four of hearts and when our
+opponent checks over on the river here
+well when we see that small in the Flop
+our opponent's going to raise a high
+percentage of the time on a wet Dynamic
+board when they have hands like pocket
+10 pocket eights 108 suited so our
+opponent doesn't really have sets in two
+pair and then on the turn when we bet
+small well our opponent's going to raise
+once again a lot of the time when they
+have fleshes now occasionally they'll
+trap with a nut flush but getting to
+this River our opponent is relatively
+capped right they don't have a lot of
+flushes they don't have a lot of sets
+they don't have a lot of two pair most
+of our opponent's range getting to this
+river is going to be one pair hands so
+let's kind of pull up their range on
+this River and figure out if it's a good
+spot to jam for value or a good spot to
+jam as a bluff so this is my
+approximation of their range getting to
+the river remember they ISO over a limp
+and then they called the three bet
+called a small bet on the Flop called a
+small bet on the turn and now we get to
+the river so the range is going to be a
+lot of top pair maybe some slivers of a
+high fleshes remember again a lot of
+their fleshes would just raise on the
+turn when they got there but we'll give
+them the sliver a few combos of fleshes
+you're going to have some pocket NES
+with a diamond maybe some pocket sevens
+with the the diamond a couple combos of
+88x not sure these hands would always
+isolate pre flop over a limp then maybe
+some open in straight draws again not
+sure these hands would always isolate
+pre flap over a limp and then we're
+going to give them some Ace King and Ace
+Queen off with the ace of diamonds or
+King of Diamonds and then finally
+they're going to have some overpays here
+so pocket Jacks would probably play this
+way all the time and then pocket Queens
+will give them half the Queens maybe
+Queens forb bet some of the time maybe
+Queens check raise on the Flop 10% of
+the time something like that so on this
+River we gave ourself the option to jam
+to bet
+775 and we gave oursel the option to bet
+very small so 150 just about 30% pot
+here and when we bet 775 when we jam on
+this River here is our opponent's
+response in equilibrium there're
+supposed to fold pocket Jacks 50% of the
+time so if they have Jacks without a
+diamond on this River that is supposed
+to be a pure fold they're supposed to
+fold Ace 10 suited 100% of the time when
+we jam on this River I'm starting to get
+a feeling here without doing any no
+loocking that our opponent is probably
+not folding these hands at 100%
+frequency when we overb Jam On the River
+even though our opponent is mostly
+capped to one pair even though the flush
+has come in even though we are betting
+massive on this River I would not trust
+our opponents to fold over pairs here or
+top pair top kicker more than 50% of the
+time so we already know what the answer
+is going to be but I just want to
+demonstrate here if we just go in and do
+some light light node locking and we
+just have our opponent call with pocket
+Jacks maybe 75% of the time then we have
+them call with Ace 10 suited maybe 50/50
+we have them call with the King 10
+suited maybe 50/50 and then we have them
+call with the queen 10 and Jack 10
+suited maybe
+25% of the time we'll also have them
+fold the Ace King off here on this River
+I don't think that hand is calling and
+you see here now is our adjusted
+response on the river if we just have
+our opponent's call with Jack and Ace 10
+suited a little bit more here you see
+here whenever we have value on this
+River a hand like pocket Queens pocket
+kings ace King of Diamonds we are just
+now over bet jamming and whenever we
+have a bluff like King Queen of Spades
+or a hand like 7 six of Hearts the
+solver just prefers to bet very very
+small on the river because when we bet
+small we can get our opponent to fold
+hands like Ace King or Ace Queen with a
+diamond here on this River or even
+occasionally a hand like pocket sevens
+or pocket 9es and we're getting a very
+very very good price on our Bluff all
+right so I promised I would show you how
+to do this without a solver so here we
+go all we have to do is ask what is
+their range on the river and usually our
+opponent's range is going to be bucketed
+into three main categories they're going
+to have weak stuff and MISD draws or
+they're going to have strong stuff and
+MISD draws or they're going to have
+strong stuff weak stuff and MISD draws
+so again we're just being very very
+broad with their range getting to the
+river and when I say one of these
+categories they have to comprise more
+than 10% of their range if they just
+have maybe a sliver of weak stuff like
+in this particular hand we just talked
+about well maybe they have pocket seven
+or pocket nines and that is their weak
+stuff but it's less than 10% of their
+range so mostly our opponent's range
+getting to this River because they have
+a lot of overpays they have a lot of top
+pair top kicker is going to be mostly
+strong stuff and missed draws so this is
+when we want to go big for value and
+small as a bluff when our opponent's
+range is mostly strong stuff and MISD
+draws like in this last example we want
+to go very very big to get called by the
+strong stuff and even if our opponent is
+Capp that doesn't mean they're folding
+their strongest stuff on the river
+necessarily as we saw on this last hand
+our opponent's probably not going to
+fold jacks or queens or Ace 10 suited at
+a high frequency on this River even
+though the flush got there we also want
+to go small to fold out their Miss draws
+like Ace King with a diamond or Ace
+Queen with a diamond and in this
+particular spot they are going to call
+more than equilibrium because they have
+a strong range getting to the river and
+if you have a very strong range getting
+to the river in equilibrium some of that
+strong stuff gets folded but people in
+game humans have a very hard time when
+they have a strong range just thinking
+oh you know what I have a lot of strong
+hands here so I'm going to fold some of
+my strong hands that just doesn't happen
+okay now I want to talk about a hand
+where the run out is the exact same but
+the ranges are slightly different
+because of what happens pre- flop so in
+this hand let's say the under the gun
+player limps again and now the villain
+instead of isoing over limps we are
+going to ISO with King Queen of Spades
+and the villain is going to call flop
+comes 1083 we're going to se bet the
+size on the Flop where they raise off
+their strong stuff call with their weak
+stuff usually around half pot in a
+single race pot I go a little bit
+smaller in a three bet pot but in a
+single race pot we can size is up a
+little bit more because the absolute
+size of the pot is smaller so we go 50
+our opponent is going to call once again
+on this turn we are going to size down
+because our opponent is uncapped we
+would love for them to raise their
+flushes right now and also continue with
+some of their weak stuff so we are going
+to go 80 into 192 on this turn our
+opponent is going to call now the river
+is a four and when our opponent checks
+it over on this River once again should
+we be going all in with our Bluffs like
+King Queen of Spades or should we be
+going all in with our value here like a
+hand like Ace Queen of Diamonds all
+right so first we have to ask what is
+our opponent's range and getting to this
+River in a pot where our opponent over
+limed their range is going to be
+slightly different so here is the range
+I gave them and you see here they have
+no over pairs they're going to have less
+ace1 suited because that hand would ISO
+they're going to have a lot of this 10x
+off suit type stuff they're going to be
+a lot wider here they're going to have a
+lot more 8X because this stuff makes
+sense to limp call Pre maybe some of the
+suited acex they're going to have some
+of these maybe smaller ace high flushes
+that trap here and now maybe instead of
+having Ace King or Ace Queen with a
+diamond maybe they'll have a hand like
+Queen Jack with a diamond a hand that
+has a gut shot and a flush draw or a
+hand like Ace Jack with the ace or jack
+of diamonds here so once again this is
+the range when they over Lim call the
+raise pre-f flop call the small bet on
+the Flop Call the small bet on the turn
+and this was their range when they ISO
+we three bet and then the same thing
+happens post flop you see this range is
+much stronger here is their equilibrium
+response when we jam now you see with
+the ace1 off they're supposed to be
+calling about 78% of the time with the
+ace 10 suited calling about 66% of the
+time even with a hand like Ace 8 suited
+here they're supposed to be calling
+about 85% of the time yeah they're still
+folding a lot of their weaker 10x but
+because their range is so much weaker
+now they're just calling with their top
+pair top kicker a lot more here on this
+River and they're also calling with
+second pair top kicker some on this
+River so let's just go in and the only
+change we're going to make here is that
+they're going to fold the A8 of hearts
+and A8 of clubs and they're going to
+fold the pocket sixes here on this River
+so we have fold the A8 of Hearts we have
+them fold the ace8 of clubs and then we
+have them fold the pocket sixes but just
+a couple tiny adjustments here now that
+a lot of our value hands like Ace King
+of Diamonds Ace Queen of Diamonds pocket
+aces on this River our value hands now
+want to choose a smaller size they are
+not going all in here maybe they're not
+choosing the very small size the third
+pot because we still think we get called
+by 10x a lot of the time maybe if we
+just go like 250 on this River so our
+value hands are mostly kind of choosing
+this smaller maybe $250 on this River
+and our Bluffs specifically like King
+Queen of Spades mostly want to use the
+all-in jam size because our opponent's
+range is weaker and we just think we can
+get more folds than equilibrium all
+right so let's go back to this handy
+dandy chart what is their range and on
+this River our opponent mostly has a
+bunch of weak stuff and missed draws
+their strongest hand is going to be top
+pair top kicker they don't have over
+pairs maybe we think we can get the top
+pair medium kicker top pair weak kicker
+to fold even if they just don't fold the
+top pair top kicker when our opponent
+has weak stuff and Mis draws we
+generally are going to want to go small
+with our value and big with our Bluffs
+which is the opposite of last hand
+because our opponent's range once again
+mostly weak stuff and Mis draws we want
+to go big to fold out all of the weak
+stuff and MISD draws when we are
+bluffing and we want to go small to get
+called by the weak stuff when we have
+value because we think our opponents are
+going to call less than equilibrium
+whereas in the last example we thought
+our opponent would call more than
+equilibrium you don't need a solver to
+figure this out just ask is our
+opponent's range mostly strong stuff in
+Mist draws or mostly weak stuff in MD
+draws and in this particular example our
+opponent's range is much weaker because
+they don't have the over pairs they
+don't have nearly as much top pair top
+kicker and so we just think our
+opponents can't withstand the heat on
+the river and you may be thinking well
+250 that is not a small size but again
+it is all relative right this would be a
+small size relative to our all-in and
+when we are value betting we want to
+choose the biggest size where we're
+going to get called by 10x maybe pocket
+nines maybe 8X the majority of the time
+so maybe 250 maybe 300 maybe even 350
+the point here isn't that the size is
+small absolutely it's just that the size
+is going to be small relative to our all
+in all right let's throw a little
+wrinkle on this let's go back to the
+firstand and just like the firsthand the
+villain isolated we three bet with King
+Queen of Spades the opponent calls flop
+is the same we see that small our
+opponent calls turn is the same we
+continue small here to incentivize our
+opponent to raise off their fleshes
+continue with their weak stuff we go 100
+our opponent calls and now the river
+instead of being a blank is an ace
+should we be going all in with our
+Bluffs here or should we be going all in
+with our value so again we have to
+consider our opponent's range getting to
+the river and what is our opponent's
+range going to be when the river is an
+ace well now our opponent makes some top
+pair top kicker with the Ace King makes
+some top pair second kicker with the ace
+Queen makes quite a bit of two pair here
+with the ace 10 besides that a lot of
+their other hands have been downgraded
+here so Queens Jacks King 10 suited
+Queen 10 Suited Etc our opponent's range
+isn't primarily strong stuff in M draws
+it's not primarily weak stuff in MD
+draws it's going to be a combo here on
+this River our opponent is going to have
+some strong stuff which is going to be
+their two pair their top pair top kicker
+it's going to be some weak stuff which
+is just going to be 10x it's going to be
+an under pair or maybe pocket Jacks and
+pocket queens that have now been
+downgraded and it's still going to be
+the occasional MISD draw like Jack n
+suited but not really much of that our
+opponent's range mostly on this river is
+going to be some strong stuff and some
+weak stuff so as a little toy game I
+gave us three sizes I gave us the Allin
+size for 775 I give us a very small size
+for 30% pot here and I also gave us the
+in between size for 300 or about 2/3 pot
+so let's try this one without even using
+the solver we're just going to brain
+solve here and let's do this in real
+time so if we Jam what is our opponent
+going to call with well I would say our
+opponent's probably not going to fold a
+hand like Ace King with the ace of
+diamonds Ace queen with the ace of
+diamonds or Ace 10 Suited so we're
+mostly getting caught by top pair and
+the ace 10 suited for two pair here on
+this River also if we Jam we're probably
+getting the Queens the Jacks the king 10
+suited that type of stuff to fold as
+well if we go very small 30% pot now
+we're probably getting called by
+everything right the ace 10 suited the
+Ace King Ace Queen those hands for sure
+are calling I think we also maybe get
+looked up by Queens or Jacks here at
+least some of the time we probably get
+looked up by the king 10 suited the
+queen 10 suited at least some of the
+time here on this River but our opponent
+may just old occasionally if they have a
+mraw like Jack n suited or 97 suited or
+if they did have a hand like Queen Jack
+with a diamond our opponent would fold
+their draws but in general they'd
+probably call with their strong stuff
+and call with their weak stuff if we
+chose the small size and then the
+middling size this one is interesting
+because yes we're still getting looked
+up by the ace 10 the Ace King the ace
+queen of course but I think for this
+size the two3 pot our opponent probably
+starts folding their Queens their Jacks
+their King 10 suited they're Jack 10
+suited they also of course are folding
+their Mist draws the Jack n suited the
+queen Jack with a diamond or something
+like that so after talking about how
+their range responds if we have value if
+we have a hand like Queen jack of
+diamonds or 76 of diamonds we want to
+choose this large size to Target when
+our opponent has hands like Ace 10 Ace
+King Ace queen that just aren't folding
+for a jam also if we either had like the
+super nuts on this River like Ace King
+of Diamonds or Ace queen of diamonds or
+we had a thin value Hand ACE queen with
+the queen of diamonds or something like
+that we may want to choose the small
+size to incentivize our opponent to call
+with some of their weaker Holdings like
+pocket jacks or Jack 10 suited or queen
+10 suited because when we have the super
+nuts a hand like Ace King of Diamonds or
+Ace Queen of Diamonds well it's going to
+be way less likely our opponent has a
+hand like Ace King or Ace Queen with a
+diamond and there's only a couple combos
+of that Ace 10 suited so maybe we just
+want to Target the weaker stuff in our
+opponent's range the pocket Queens the
+pocket Jacks that just aren't going to
+fold for the small size if we start
+blasting here with a hand like Ace queen
+with the Queen of Diamonds well we're
+just folding out all the stuff that's
+worse like a hand like Jack or Queens so
+when we have thin value we also may want
+to go small for Value so our value here
+on this River wants to go either very
+big or very small so that leaves the
+third option for our Bluffs so if we did
+have a bluff on this River like King
+Queen of Spades we may want to choose
+this middling size and the great part
+about the middling size is we don't lose
+all the money whenever our opponents
+have the top of their range like Ace 10
+suited but we've also bet enough here on
+this River to get our opponent to fold
+Queens Jacks King 10 suited Queen 10
+suited Jack 10 suited pocket 9es Etc so
+we get all of the weak stuff to fold we
+lose the minimum against the top of the
+range and we also get the draws to fold
+as well so we want to go either very big
+or very small for value and with the
+medium size for a bluff when our
+opponent's range is some strong stuff
+some weak stuff and some MISD draws we
+want to go big to get called by the very
+strong stuff the top of our opponent's
+range when we can beat that stuff we
+want to go medium to fold out all of the
+weak stuff in Miss draws when we are
+bluffing and we also could consider
+going very very small to get called by
+the weak stuff either when we have the
+super nuts when we think it's unlikely
+our opponent has a strong hand or when
+we are just betting very very thinly and
+we would like to get called by worse so
+we can just give our opponent a very
+good price so once again you don't need
+a solver all you've got to do ask what
+is their range and when our opponent has
+weak stuff and Miss draws we generally
+want to go small with value and big as
+the bluff when our opponent has strong
+stuff and Miss draws we generally want
+to go big with value and small with the
+BL and when our opponent's range has
+some strong stuff some weak stuff and
+some MISD draws well then we can either
+go big with value or small with value
+and that's when we want to go medium
+with the bluff so as you guys can see
+we're not just indiscriminately going
+huge with our overb Bluffs and going
+small with our value that is not the
+strategy at all and I think that is one
+of the biggest misconceptions I see in
+the comment section no we are just
+responding to our opponent's range and
+when our opponent has strong hands
+that's when we go big with our value
+size and when our opponent mostly has
+weak hands that that's when we go big
+with our Bluff size so hopefully you
+guys enjoy this video and you turn into
+all-in hounds on the river thank you
+guys and have a gentle day

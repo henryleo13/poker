@@ -1,0 +1,483 @@
+If I had to make my first million dollars in poker all over again, this is exactly what I do. I'll break down the
+most important lessons I've learned so you can skip the costly mistakes, fasttrack your progress, and start crushing way faster than I did. It took
+me over 5 years to earn my first million. But if I had to start from scratch knowing what I know now, I'd get
+there much quicker. Let's jump in. Lesson number one, throw away balance.
+Okay, so think about a game of rock paper scissors. If we know that our opponent is playing rock just 10% too
+much of the time, the correct adjustment is for us to play paper literally 100% of the time. So, let's apply this to
+poker. In poker, everyone is fundamentally unbalanced. It's on us to figure out how they are unbalanced. If
+our opponent is under bluffing, we should be overfolding. If they're over bluffing, we should be overalling. If they're overfolding, we should be over
+bluffing. And if they're overalling, we should be under bluffing. So, how do we put this into practice? Let me show you
+a few examples. All right, so let's say our opponent opens from the lowjack to $25. We're going to call in the big
+blind with ace jack. Flop comes ace king seven. So we flop top pair. We check it over. Our opponent see bets and we are
+going to call. Turn is the innocuous four of diamonds. We check. Our opponent double barrels. We're going to call
+again. Now the river is an offsuit deuce. The blankest of blanks. We check. And our opponent checks it back and
+shows 10 nine of clubs here in the spot. So they just give up on the river with
+10 high. If we think about this spot, if we see our opponent check back 10 high on this river, where are their bluffs
+coming from when they actually bet? They open from under the gun. So 10 nine of clubs may be the worst suited connector
+they have getting to this point. They're probably not going to barrel hands like 10 n of hearts or 8 n of diamonds or
+something like that on the flop or turn. So 10 nine of clubs is maybe the absolute worst hand they get to this river with. So if they're not bluffing
+with 10 nine of clubs, we can make the assumption, hey, this guy is massively under bluffing on rivers. So our
+adjustment isn't in this hand. It's the value we take away from the showdown here. If this guy is checking back with
+10 nine of clubs, that means he is almost certainly under triple barreling in a lot of spots and we should just be
+overfolding to this player whenever they put in a triple barrel. All right, another example here. This time we open
+pocket nines on the button. Villain is going to call in the big blind. Jack, nine, deuce. What do you know? He checks
+it over. We're just going to see bet half pot here. He's going to call. Turn is a four. We're going to put in the big
+boy bet because even though our opponent is likely to fast play hands like jack nine or pocket deuces on the flop, if they have a jack, they have an ace high
+flush draw. They're not folding. They have an open and straight draw. They are most likely not folding. So, let's put in the big boy bet. Right now, we go
+150. Our opponent calls. Flush comes in on the river. And now our opponent donk leads for half pot here. Well, we have a
+set. So, we sigh and begrudgingly flick in the call. And our opponent shows ace
+three of spades here. So what does this mean? Well, on its face, when our opponent dons the river on a nutchanging
+card after we have shown nothing but strength, raising pre flop, sebetting the flop, overbedding the turn, then they donk the river, they're going to be
+massively under bluffing here. So we should be considering folding almost everything except flushes on this river
+when our opponent takes this line. Well, that's obvious. When our opponent is under bluffing, we should be overfolding. But what kind of other
+extrapolations can we make from this? So I think the most interesting takeaway is the inverse here. What does it mean when our opponent actually checks on the
+river instead of coming out and donking? And this means for us if we have a hand like pocket nines, we can be betting
+very very thinly on this river because we just don't have to worry about as many flushes because the flushes are mostly just going to come out and donk
+at least at some frequency on this river. Also, if we get to the river with a hand like queen 10 of clubs here, this
+just gives us the absolute green light to empty the clip because hands like jack nine or pocket deuces or pocket
+nines are most likely going to raise off on the flop. So, getting to the turn, the best hands our opponent are going to have are hands like ace jack. And then
+on this river, we know that our opponent just likes to come out and donk lead here when they have a flush when the nuts change, even when we have shown
+strength. So when they check on this river, our opponents just aren't going to have a lot of flushes in their range,
+which means we just have cart blanch to empty the clip on this river when we get here with queen high. Go all in and get
+our opponent to fold hands like ace jack, queen jack, king jack on this river all the time. Next, we'll look at
+my favorite line in poker, what I refer to as one of the most profitable lines in all of live poker. So villain's going to open in the cutoff. We three bet on
+the button with ace9 of diamonds. Villain is going to call queen 94. I'm just c betting my entire range in
+position in a three bet pot for a small size. I'm going to go with $60 here. Our opponent is going to call. Getting to
+this turn, I think our hand is a little bit too thin to bet for value here. Obviously, too strong to turn into a
+bluff. So, we're just going to check back on this turn here. River now in offshoot 7. Our opponent comes out and
+bets 120 on this river. We checked back the turn so we can bluff catch on the river. We are going to call and our
+opponent here shows ace king offsuit. So, what does this mean? Well, obviously
+our opponent is over bluffing in this line. Why? Number one, live opponents
+are probably raising too much of their strong stuff on the flop. Hands like pocket 9ines, pocket fours, queen n
+suited, and also they're probably just floating the flop a little bit too wide, especially for a small size. And then
+number three, ace king on this river. They're just coming out and turning the hand with some marginal showdown value into a bluff. Which means if they're
+turning ace king into a bluff, they're certainly going to have hands like Jack 10 suited, king 10 suited. They're just
+going to have a lot of bluffs getting to this river. Especially because live opponents are going to split their sizes
+quite a bit here on the river. And generally they're just going to size up if they do have a hand like ace queen or
+king queen on the river. Choosing a larger size than 40% pot here. So when our opponent is over bluffing, obviously
+our adjustment is to overall. Now let me give you some handy dandy shortcuts for live poker. First, where does the
+population in live poker generally under bluff? Well, when they check raise turns or check raise rivers, specifically when
+we have shown strength, that is under bluff. Big pots for big sizes, when they're putting in a lot of money in the pot, that is under bluff. Three bet and
+four bet pots. When they triple barrel as the pre- flop razor and also on ace high boards, ace high boards, you need
+to find some unintuitive bluffs that players just generally do not find. Maybe the most important one, when we
+look strong. When we have taken aggressive action and they still decide to put more money in the pot, that is underbluffed. Next, where does the live
+population overbluff? Well, small pots and for small sizes. Carrying off that in single raised pots or in wide
+configurations. So basically, button versus big blind when they're going to have a lot of hands or cutoff versus button. They're just going to have a lot
+of natural bluffs in that spot. Not going to have to reach to find a bunch of non-show value hands to turn into bluffs when they see bet. Generally,
+live players are going to see bet too much. And I can already hear the peanut gallery saying, "Well, Mark, don't you advocate sebetting all the time?" Yes, I
+do. Because generally live players are going to react poorly to it. They're going to fast play too much strong stuff, call too much weak stuff, and
+they just don't know how to respond to range seat bets. But when our opponents are seating, hopefully we as winning poker players know how to respond to
+that and start checking a lot, particularly in wide configurations, and putting them in tough spots to punish
+them for cbetting too much, which our opponents are never going to do to us. Next, when we see back the flop small and check back turn. Just talked about
+this a minute ago. My favorite line in all of live poker. Next, when they stab the flop or turn, when we check out of
+position. So, let me show you. Say we open in the cutoff, they're going to call on the button. And we are going to
+check our entire range here from out of position. This stab, it's not a C bet. It's just a stab. We will call it here.
+When we check to them as the pre- flop razor, they are going to massively overstab here. And if we do happen to
+see bet on the flop, they're just going to call to wide on the flop. when we check the turn then they stab too wide on the turn. So when we check to them
+when we are the pre- flop razer and they are in position they are just going to stab too frequently. Next finally maybe
+the most important one here when we look weak when we give them rope when we announce hey I do not have a strong
+hand. This is when live players will find bluffs particularly when the pot is small. Next where do they overfold?
+These are the spots where we should consider running the big boy bluffs in wide configurations where they're just
+going to have a lot of hands. say button versus cutoff or button versus big blind. When they're just calling a lot pre flop, they're going to have a lot of
+hands that are going to have to fold quite a bit. When we use massive bets for the size of the game, this instills fear in our opponents. Most live players
+are driven by fear and greed. When they're capped at top pair, when the best hand they can have getting to the river is going to be top pair. They are
+just going to be folding a lot. Finally, when they're up on the day, when they're winning, they don't want their good day to turn into a bad day. Probably a spot
+where they are going to overfold relative to equilibrium. Finally, where do they over call? Where should we go
+big for thin value and consider dialing down the bluffs in tight configurations? So early verse early three bet pot. Say
+lowjack versus hijjack in a three bet pot. They're probably going to be calling too much because almost every hand in the range is going to look
+strong. Small bets for the size of the game. When we don't put fear into the heart of our opponent, probably going to be calling too much. When they're
+uncapped, right? And finally, when they are losing, when they're stuck on the day, when they feel that sense of
+frustration boiling over, probably not the spot to empty the clip and run the big boy bluff. Conversely, probably a
+pretty good spot to go huge and use those overb sizes for thin value. Lesson number two, maximizing every edge can
+minimize profit. So, what do I mean by this? Well, basically, don't be an ass. And I'm telling you guys because early
+on in my poker career, I was the most guilty of this. It's so hard to think long-term, but it's probably most
+profitable to think long term. I was the guy who wanted to seat change to get the best position at the table to boost my
+hourly by an extra $4 an hour or whatever. I was the guy who wanted to table change because the game on the
+other side of the room looked much better. Maybe I could win more money if I table changed over the next hour or
+two because there were three whales in that game. Don't do this. Think long term. First of all, there's no need to
+be predatory to win an extra couple bucks an hour. Sure, the other game could be better for the next 15, 30, 45
+minutes or whatever, but generally they will balance out. And here's the thing, table changing for the most part is just
+not going to exist at 510 plus. Once you climb to higher stakes, there is going to be no table changing, right? So, we
+may as well get used to it now and not be perceived as the predatory guy who's just trying to take advantage of people
+because recreational players may be poker stupid, but generally they are not life stupid. They understand who the
+good players are. And if you're the guy who's constantly table changing to their table and seat changing to get on their left as soon as a seat opens up, people
+are not going to want to play with you. At the beginning of my poker career, I think I was way too predatory, trying to squeeze out every little edge, and I
+cost myself long-term EV by doing stupid stuff like this all of the time.
+Finally, fast roll the recreational players. You're not gaining anything for making them turn over their hand when they say you're good when they call on
+the river. They're embarrassed. We're not gaining some type of secret hidden knowledge that we're going to unlock by seeing what god-forsaken combo they're
+bluffing with on the river. Who cares? Just be the guy. If you're playing against recreational players and they say you're good, just show the hand.
+Don't make them shell. Don't make them be embarrassed. We want recreational players to have a fun time. That's why
+they're there. They're not there to win money. They understand you're there to win money, but we can do it in a way that feels way less predatory, that
+feels way less like we're taking advantage of people and trying to ek out every edge along the way. All right,
+guys. The World Series of Poker is right around the corner, and almost every year I played full-time, I would drive out to
+Vegas, enter into the 10K main event, and then bust on day one or day two. I
+would get back in my car, rip my shirt off in frustration, and drive home. If you can identify with this and you're
+not interested in playing the lottery this summer, if you'd rather get started on stacking your first million dollars in poker, our June and July 28-day boot
+camps are now open for booking. Sign up now and get a complimentary five one-on-one coaching sessions with one of
+the Hungry Horse coaches. Call it the WSOP special. If you want to get started
+on actually stacking money this summer instead of throwing money into the wind, sign up for June or July. I will see you
+there. All right, let's get back to the lessons. And lesson number three, good poker is ugly. You have to be willing to
+look stupid to win the most amount of money. And often hear poker players say things like, "Well, this is not a
+thing." Meaning this line or this size or this action is not a thing in equilibrium. But if you adjust for how
+live players are playing, this is not a thing. Is in fact a thing. a lot of the time. So, let me show you a few examples
+of how good poker may not look like very good poker to someone who is just studying equilibrium. All right, example
+number one, and this is going to be when we want to don multi-way as a pre flop caller. So, we see a fish limp in the
+lowjack, a fish limp in the cutoff. Now, a rag is going to iso on the button. We're in there in the big blind with pocket fives. Both fish come along. And
+look at that. We flop middle set. And this is one of those situations. If you notice here, we have both fish in
+between us and the pre flop razor. This is important because when the fish are in between us and the pre flop razor,
+this is a situation where I'm just going to consider coming out and donking quite a bit when I have a very strong hand. Cuz you see, if we come out here and
+donk, it's going to give both fish a chance to call before it gets back to the pre flop razor. So, we're already
+starting to build up a pot against the players we want to build up a pot against. What happens if we check? Well,
+generally the fish are going to naturally check over in flow to the pre- flop razor. And four ways here, a rag on
+the button is just going to be doing a ton of checking back. And even if they do have a strong hand here, like pocket kings or something like that, and they
+decide to bet, we are now in a precarious position because if we just call, well, we're not piling in more
+money with a very strong hand right now, which kind of sucks. And if we check raise, well, we're going to shut out the
+fish behind us with hands like 8x or pocket sevens or straight draws or whatever. And that kind of sucks as
+well. So you see here, if we just check and flow, we're just not going to have nearly as many good options if we just
+come out and donk multi-way ourselves. And you'll hear people say, "This is not a thing in equilibrium." Well, we're not
+playing in equilibrium. All right, the next situation where good poker sometimes looks ugly is the small bet on
+the river. So, let me show you this one. The cutoff opens. We three bet on the button and we are going to go to a flop here. King 105. Just cing my entire
+range in position. And the cutoff calls. Turn is a four giving us an open ender. We're going to start applying pressure
+here on this turn. Going with a big size. Our opponent calls again. Now the river is a deuce. And if you look at the
+SPR, maybe we made a slight mistake on this turn. Didn't leave behind that big boy chunky over bet on the river. Don't
+think our opponent is ever folding a king here if we go allin. But we could get our opponent to fold hands like ace
+high flush draws, hands like queen jack, hands like jack high or nine high flush draws here. And we don't need to go that
+big to do it. And if you look at equilibrium, the small bet in position on the river is in fact not a thing. But
+again, we are not playing in equilibrium. We're playing against Big Joe in the cutoff here. And if we can get Big Joe to fold an ace high flush
+draw by just betting quarter pot here on this river. Well, that's going to be the best option. Next example, we open with
+109 in the cutoff. Button calls, we go to a flop, which is 10 93. You guys know I am just a big fan of checking my
+entire range out of position because I believe live players tend to overstab and telegraph their hand strength with
+their sizing. So we are going to check our opponent stabs big which on a wet dynamic board means he likes his hand.
+We are going to check raise here to 8x which once again in equilibrium in this situation is probably not a size that is
+going to get used. But if we make a couple of assumptions here. Number one when our opponent stabs 40 they just have a strong range. They just have
+strong draws, strong top pair. maybe the occasional hand like pocket jacks. They just love their hand generally when they
+stab for a big size on a wet dynamic board and opponents just don't know how to respond to an 8x check race.
+Generally, no matter what size you check raise here on the flop, as long as it's not allin, they are going to call too
+wide because their range is too strong. Which means when we have a hand that can cooler their strong hands, we should just be piling in money here for value.
+Finally, next example. Let's say a rag opens from the lowjack going to fold around to us on the button. We've got ace king. Seems like a standard three
+bet. No. No. Look at the two blinds here. We've got two fish in the blinds. And these are the players we want to
+play against. The players who are going to make 100 big blind mistakes, 200 big blind mistakes post flop. So when a rag
+opens and we have multiple fish behind us, I'm going to play a polarized three bet strategy where I'm three betting the
+very very tip top of my range. Basically the hands that can cooler the rag's opening range and some of the worst
+hands that I may consider continuing with. So when a rag opens from the lowjack, my three bet range here may
+look like only aces, kings, and ace kings suited for value because those are the hands that can cooler his lowjack
+opening range. Then I may be three betting some bluffs here. Hands like ace4 suited, king 10 suited, 10 9 suited. Basically the bottom of my
+continuing range versus a lowjack open. Ace king going to be more in the middle. And remember, we don't want a three bet
+linear against a rag when there are fish behind. We want to three bet polar because we want to be doing quite a lot
+of calling here in this position because we want to let the fish in the pot. All right, the next lesson here. And if I
+could go back and give younger Mark just one piece of advice, this would be it.
+Lesson number four, be authentic. When I was first starting to play full-time and other players would say, "Oh, you must
+be a pro." I would say stuff like, "Oh, no, no, no, no. I I do music full-time. I'm just playing poker for fun." Which
+was [ __ ] right? I had already put music on the back burner and was definitely playing full-time hours and
+poker was my main source of income at the time, but I was so terrified to admit it and be outed as a pro. The
+reality is though, even the recreational players, they know who the pros are. They know who the strong players are, and by denying it, you just come across
+as slimy and inauthentic. Now, this doesn't mean you want to talk strategy at the table or share a hungry horse vid
+or be looking at solver outputs. No, no, no. It just means if people ask, it's not the worst thing in the world to be a
+poker pro. And I think actually leaning into it is much better than denying it. The funny thing is now the guys who have
+leaned into it the hardest, who have documented their entire journey and never shied away from it, Mariano,
+Rampage, Brad Owen, guys like that, they now have seats to all of the highstakes
+games, to all of the stream games. They've never denied being a pro or playing poker for a living. They've
+never shied away from documenting the process. And if I could go back and just give myself one little tiny tidbit of
+advice, the more open you are, the more public you are, the more you document
+the process and let people in, the more people are going to actually want to play with you. There are two ways to get
+access to big high stakes games. Number one, be a whale and be losing a bunch of
+money. Number two, be somebody other people want to play with. And recreational players are generally okay
+playing with pros. And the more open you are, the more public you are if you document the process and put everything
+just out there on YouTube or Instagram or social media, players are actually going to want to play with you more even
+though you are a pro. The crazy part is I was working my ass off to get a seat in high stakes games or to get a seat in
+stream games. And now these last two years, I've become very, very public, putting all my strategy out on the
+internet, making it known that I was a pro and all of the things I know about poker. The invites I get now to
+highstakes games and streams, I would have given a liver, a kidney, and half a lung 5 years ago to get access to these
+games. And now everybody knows I'm a pro, but I have more invites than ever. So, be authentic. Don't deny it.
+Document the process. Don't be scared to be public about who you are. and you will be surprised the doors and
+opportunities that open. All right, the next lesson. I call this the Carter 2 theorem. On the album The Carter 2 on
+the song Shooter, Lil Wayne said, speaking of southern rappers, "If we too simple, y'all don't get the basics." And
+I think this is a perfect encapsulation of how I think about poker. Basically, I
+was so concerned with learning the fancy stuff, learning new, learning more that
+if I would have just worked on the basics over and over and over and built those fundamentals, I would have gotten
+to where I am today much much quicker. So, what are those fundamentals? Number one, learn how to range. Number two,
+build yourself a set of defaults to save yourself some brain power in hands. And number three, build your repeatable
+thought process. Literally, everything else is noise. Until you can do this stuff subconsciously, everything else
+does not matter. So, let's start with ranging. How do we range villains? Number one, start with what they don't have, not with what they do have. The
+earlier in the hand, the bigger the buckets of hands we give them. On the flop, we don't want to start with, well, they have seven, six of diamonds. No,
+start with buckets. They have some low equity draws. They have some thick value, right? Start with buckets and
+then refine and sculpt from there. Next, broad strokes, not fine lines. is again,
+don't get too zoomed in on specific combos and be able to carry that thread from street to street. If we assign them
+a range on the flap, we want to be able to carry that range over to the turn and not start over from scratch. So, let me
+show you an example of how to do this. All right, so we are going to open seven six of diamonds on the button and villain is going to call in the big
+blind. So, right away we can eliminate parts of his range. We can eliminate maybe the bottom 25, 30, 40% of his
+range. Hands like seven deuce offsuit, 103 offuit, right? We can eliminate all that crap, but we can eliminate maybe
+the top parts of his range. Pocket aces, pocket kings, maybe ace king suited, right? We can eliminate the top, we can
+eliminate the bottom. We're thinking big. We're thinking in buckets. We go to the flop. Flop is jack n deuce. When our
+opponent checks it over, just going to c bet here. Our entire range on the flop. And when our opponent calls, once again,
+we can eliminate some hands. Now, we want to eliminate hands like jack n, pocket nines, pocket deuces, pocket
+jacks, right? The really strong hands are going to raise here at a high frequency. So, we can eliminate those
+hands from our opponent's range. Going to the turn when our opponent checks it over. What is our opponent's range? Well, well, it's going to be some draws,
+maybe some low equity draws like gut shots, some high equity draws like ace high flush draws. It's going to be some
+thick value, maybe some hands like Jack X. Going to be some thin value, maybe hands like 9x or pocket eights. So, that
+is our opponent's range getting to this turn. Remember, thinking in big buckets.
+So, we decide to bet big on this turn. We'll jump into the reasons why. When we go into defaults in just a minute, we go
+big on the turn. Our opponent calls. So, what is our opponent's range now? We can eliminate a lot of the thin value, we can eliminate a lot of the low equity
+draws on the turn. So, our opponent's range getting to this river is going to be some thick value hands like Jack X and some high equity draws that bricked
+that are now air. So, now we see here getting to this river, we only really have two buckets that our opponent has. Some top pair and some air. All right.
+After ranging, we have defaults. And defaults for me are just a set of shortcuts I use to guide us in the right
+direction. Basically, they help me come to faster decisions and save processing power in hand. So, let me show you a
+couple examples. In position on the flop, one of my defaults, the question I ask is, what size will they raise strong
+stuff and call weak stuff? So, usually in a single race pot, I find that size is around 1/2 pot. But sometimes there
+are boards where they will not raise strong stuff and call weak stuff. If that is the case, then I go with a big bet or check strategy. So, let me show
+you examples of both. All right, first we open pocket deuces. Opponent calls in the big blind. Look at that. We flop a
+set. Our opponent checks it over. And on this board, I would ask, what is a size where our opponent will raise their strong stuff and call with their weak
+stuff? Well, usually I default to about half pot here because if we go half pot, our opponent will raise and put in more
+money for us when they have a hand weak cooler like jack n. But also by going half pot here, our opponent will
+continue with a bunch of weak hands. So, we have dominated or drawing very, very thinly here. hands like pocket eights, pocket sevens, maybe some gut shots,
+maybe some ace highs with a back door flush draw. We don't want those hands to fold. So, we want to choose the size
+where they're going to put in more money for us when they have a hand like jack 9 and they're not going to fold when they have a hand like pocket eights that we
+have absolutely crushed here. So, I would bet around 25. If we look at this flop, however, when our opponent checks
+it over, what is a size where they would raise their strong stuff and call with their weak stuff? On this particular board, there may not be a size, right?
+Because if our opponent has a hand like king jack or if they have a hand like pocket fours, if we breathe on this pot,
+their weak stuff is probably going to fold. Even if we bet 15 or 20 here, the weak stuff probably folds. If they have
+a very strong hand, a hand like a7 here or ace deuce on this board, even if we
+bet small because the board is so static and so dry, our opponent's strong stuff may not put in more money for us. So
+when that is the case, when strong stuff won't raise and weak stuff won't call, even if we choose a small size, well, in
+that case, I generally just play an overb or check strategy. Our hand here wants to overb because our opponent is
+not going to fold a hand like ace5 or ace9, even if we bet over the size of
+the pot. Conversely, our opponent isn't calling with a hand like king jack, even if we bet 1/3 or quarter pot here. So,
+I'm just going to target the inelastic portion of our opponent's range, their AEX type holdings, and just start off with an overb here on the flop. All
+right, so now let's talk about turn defaults for in position. Open on the button, our opponent calls in the blind. Go and choose a half pot size here where
+our opponent will raise their strong stuff, call with their weak stuff. Our opponent calls, we get to a turn, which is an offshoot for. So, how do I play
+these turns? And for these, I like to use my handy dandy in position default flowchart. So, first I would ask here,
+what is our opponent's range? And on this particular board, they are capped because they would raise strong hands like Jack Nine or pocket deuces on the
+flop. The turn does not change the nuts. So, our opponent is capped here. Next, I would ask, do they have inelastic hands?
+Basically, meaning hands that just aren't going to fold even if we choose a huge size. Going back to the board here, well, yes, if our opponent has a hand
+like a spades or they have a hand like ace jack, those hands are never going to put in more money for us. If we bet
+small, those hands are never folding to a big bet. So, yes, they have inelastic hands. Next, I would ask what is our hand? In the spot, we have value. And
+you see here, when we have value, we are going to go big. So, with pocket nines in the spot, I would be putting in the big boy size, the overb size here on
+this turn, choosing the biggest size that a hand like ace jack or aex of spades would call. Maybe 120, maybe 150,
+but either way, we would go relatively big here. So, I use this flowchart for my defaults. You can come up with
+whatever works for you. But this is how I get to a shortcut very quickly. One more example. Let's say we have ace4 of
+spades here. We open on the button. Our opponent calls A7 deuce. What size do we bet? Where opponent will raise their strong stuff, call with their weak
+stuff. Well, on this board, there is no size like we talked about. So, I'm going to play a big bet or check strategy. Our hand is not good enough to go for three
+streets. Like, if we think about what our opponent's calling down, if we go big bet, big bet, bet, probably going to be hands like ace queen plus, maybe ace
+jack plus. So, our hand here on this flop, I would play as a check. We go to a turn. Our opponent checks to us. So, I
+would go to my handydandy flowchart. What is our opponent's range? Well, on this turn, they are capped. Why are they
+capped? because they have checked to us on the turn and generally if our opponent had a strong hand like two pair
+or a strong ace X or a set after we check back the flop they would just come out and bet. So next I would ask do they
+have inelastic hands back to this board? Well, not really. Not a bunch of draws out there. I think a lot of the acks
+would just come out and bet the turn and on top of that we're losing to almost all the ASXs anyway. We want to target
+hands that are worse than Aexs here. So going back to our chart, no, they don't have inelastic hands. What's our hand
+value? So we'd want to go small here. ensuring that a hand like queen X calls or maybe a Broadway gutshot calls on
+this turn. So we would go relatively small and again sizing is relative. $30
+even though it is 3/4 pot is a small size for a 25 game. So we go 30 trying to get a call from queen X and gutshots
+and stuff like that. How about a quick example from out of position now default. So we open in the cutoff button calls. We go to a flop jack nine deuce
+here. And now let's take a look at this flowchart and come up with a default for the flop here. So we see here on the
+flop, we would just ask, is it likely to get stabbed? Well, let's go back to this board. Jack, nine, deuce. The board is
+wet and dynamic. If our opponent has a jack, if they have a flush draw, if they have a straight draw, hell, even if they have a nine or pocket tens or something
+like that, they are just likely to stab. This board is going to get overstabbed. So, back to our chart here. If it's likely to get stabbed, we are just going
+to check. So, I would check my entire range here on the flop and let our opponent put in a stab at which point
+then we can, of course, go for the big boy checks. Next example, we open ace king here. Our opponent calls on the
+button. A7 deuce and we flop top pair, top kicker here. Back to our handydandy
+little chart for out of position on the flop. Is this board likely to get stabbed? Well, back to the board. A7
+deuce? Probably not. This board is static and dry. Opponents are going to stab this board way less frequently than
+a wet dynamic board like Jack 9 deuce with a flush draw. So, back to our chart. No. Is the SPR greater than 15?
+SPR simply means stack to pot ratio. Basically, is the amount of money left in our stack, the effective stack 975
+here, greater than the pot 57 * 15? Yes, it is. So, let's go back to our chart.
+The SPR is greater than 15. We see yes. And we're going to bet our thick value and check everything else. So, we go
+back to this board. What would we classify this hand as? This would be a thick value hand. So, for me, my default in this situation would just be to come
+out and bet. Once again, on this board, probably just going to use a big size. Our opponent's not going to float with hands like pocket fives no matter what.
+So, may as well just use a big size, target their ASAX, which isn't folding to a single bet, even for a large size,
+and try to get called here on the flap and go for three streets. Next up, we have repeatable thought process. And a repeatable thought process is just a
+list of questions we ask in every hand that help us come to the highest Eevee decision. Now, this should be customized for you, whatever works for you. But
+I'll give you an example of mine, and this is basically putting all the pieces together, putting the ranging, our opponents, putting the defaults, putting
+all of the pieces of the puzzle together very, very simply and consisely. So the RTP I might use in a hand, what is our
+opponent's range? What is the default? What happens if, and this just means going through every permutation, what happens if we check? What happens if we
+bet? Right? And then on rivers, I had one more question. What would I do with the inverse? So let me show you guys a couple examples of how to put these
+pieces together. All right, so we're going to open ace king on the button here. Our opponent calls in the big blind. Go to a flop. Queen 76. Our
+opponent checks it over to us. What is our opponent's range? With a called pre flop, we can eliminate the top of the
+range. The hands like kings, aces, queens, ace, kings, suited, we can lop those off. We can eliminate the bottom
+of the range. What is the default here? Well, the default is to choose a size where they're going to raise their strong stuff and call with their weak
+stuff. Is that possible on this board? Well, the board is wet and dynamic. So, yes. So, we're going to choose the size where we accomplish that usually around
+half pot. Next, I would ask what happens if? So, what happens if I choose a larger size here in this spot? Well, if
+I choose a larger size, our opponent's just going to fold a bunch of their weak stuff here, which we would like that stuff to call. and then we can get that
+stuff to fold later on the turn of the river. Also, if we go large, our opponent may not fast play as much. If they do have a hand like two pair or a
+set here, they're more incentivized to slow play. Don't really want to go large. What happens if we check back? Well, we don't get to define our
+opponent's range. So, I like going with the default here, which is going to be around half pot. Our opponent calls, we go to the turn, our opponent checks it
+over. What is our opponent's range in the spot? Well, our opponent is now uncapped. They can have some flushes
+getting to this turn. They're not going to have those hands like two pair and sets. Remember those would mostly raise on a flop, but they could have some
+straits here. They could have some flushes. They could have some top pair. So, what is the default here? Let's go
+to our handydandy flowchart. What is our opponent's range? They are uncapped. Will they fast play their strong stuff?
+Well, yes. If they have a flush here, I think they're going to fast play quite a large amount, especially if you choose a small size. So, yes. What is our hand?
+We have value. So, we are going to go small. That is the default. The default is to go small in this spot. So, what happens if we go small? Well, our
+opponents will raise their flushes at a pretty high frequency here. And they will also call with their weak stuff that we have drawing dead. Maybe hands
+like queen X, maybe hands like pocket eights or pocket 9ines or whatever. So if we go small, that works out pretty nicely. What happens if we go big here
+on this turn? Our opponents probably won't put in money for us all the time. When they have a flush, they'll start folding their top pair. They'll start
+folding the hands that we have drawn dead or dominated. So I like going small here on this turn. Our opponent puts in the call. Now we go to the river. What
+is our opponent's range? Not going to have flushes here on this river because those would mostly raise on the turn when we went big. not going to have two
+pair or sets because those would mostly raise on the flop. So, our opponent's range is going to be a lot of Queen X or
+weak holdings like pocket eights or pocket 9ines or stuff like that on this river. What is the default? So, let's go
+to our handydandy chart. What's their range? We see on this river they are capped. Do they have inelastic hands? Well, probably not. They're not going to
+have any draws. Their top pair is going to be elastic. So, no, they're not going to have inelastic hands. What is our
+hand? We have value. We want to go small here to make sure our opponent calls. So, the default is to go small on this
+river. I would ask what happens if if we go small, our opponent's probably going to call with hands like Queen X. Maybe
+we get a hero call occasionally from a hand like pocket 9ines or something like that if we go small enough. Queen X, of course, never folding for a small size.
+If we go large here, well, we're just going to fold hands like top pair, pock eights, pocket nines at a high
+frequency. And finally, I ask, what would I do with the inverse? If we got here with a bluff, if we got here with a
+hand like Jack 10 of hearts, what would I want to do on this river to get a hand like queen X to fold? Well, if we had
+Jack 10 of hearts, I think Queen X would start folding. If we went like 225, maybe 240. So, a small over bet on this
+river. I think we get Queen X to fold. Well, when we have ace king, we want Queen X to call. So, I would go slightly smaller than that. Maybe 150 on this
+river to try to get the call from Queen X. All right, one more example of RTP. We open ace queen on the button and our
+opponent calls. Flop comes jack nine deuce. And first we'd ask what is our opponent's range? They don't have top of
+range. They don't have bottom range. When they call in the big blind, what is the default here? Well, the default is choose a size where they're going to
+raise your strong stuff, call their weak stuff. What happens if we went through that last hand? So, we are just going to choose the size here. Half pot on the
+flop. Our opponent is going to raise here. And now I would ask, what is our opponent's range? Well, it's going to be
+some strong hands like jack nine, maybe pocket nines, maybe pocket deuces. Those hands are going to raise at a high
+frequency. Could occasionally be a combo draw. Maybe a hand like 108 of spades or
+a hand like king 10 of spades or something like that. Mostly going to be a very strong range here. What happens
+if Well, if we bet three bet here, our opponent is probably just happily getting in the money with a range that
+has us crushed quite a bit of the time. If we fold here, probably don't want to fold a hand with really good implied in
+position. So that's not an option. What if we just call here? Seems like the best option, especially in position. So we are going to call. We're going to go
+to a turn, which is a four of spades. Now our opponent checks on this turn. So what is our opponent's range? Well, we
+could probably start to eliminate flushes because what type of players are going to check raise a flush draw on the
+flap? Generally going to be more aggressive players are going to fast play their flush draws on the flap. And a more aggressive player when they [ __ ]
+on the turn, are they going to slow down? Probably not. A passive player may slow down here, but a passive player probably not going to check razor flush
+draws on the flop. So, we can start to eliminate a lot of the combos of flushes here. So, what is our opponent's range? Well, going to be a lot of hands like
+two pair in sets. Now, what happens if if we go small here, those hands are all going to call. They're never going to raise cuz they're scared of the flush.
+If we go big here on this turn, well, those hands are also going to call. What is the default? We don't have a default for this situation, but we walk through
+what happens if and going big when our opponent's range is just going to be two pair in sets. Seems very, very good here. We go big, our opponent calls, our
+opponent checks it over on the river. Again, the range is going to be two pair in sets. We don't have a default here. What happens if? Well, if we check back,
+that is idiotic. If we go all in, our opponent will most likely call here on the river with two pair in sets to a 60%
+pot-siz bet on the river. People then drive to the casino to fold sets and two pair for this size. What would I do with
+the inverse here? If I got to the spot with a hand like queen 10 of clubs, I would never bluff for an all-in size
+here because I think 90% of our opponent's range is two pair in sets. It's just never folding. So, I would give up with a bluff because I think our
+opponent is almost always calling here. So, therefore, when we have value, that means we want to put in the money. We go all in. Our opponent calls and we are
+good. The next lesson here, if I could have had this piece of advice when I started my poker career, I wouldn't have wanted to hear it at the time, but it's
+something I probably needed to hear. Poker is not freedom. It is work. So,
+what does that mean? I said this myself, and I hear so many players say it now that they want to play poker for the
+freedom. They don't want a boss. This is BS. Let me tell you why it's BS. If you want poker, because you don't want to
+have to report to a boss to make it to be successful in poker, you are going to have to be the strictest, most hard ass
+boss there is on planet Earth. Because there's not going to be somebody to tell you to show up on a Saturday after you
+just got crushed the last two nights for eight buyins. There's not going to be somebody to tell you to wake up Sunday
+morning to start your day of 8 hour study when you just played till 2 a.m. the night before. There's not going to
+be somebody that's going to tell you, "Hey, I know you've already made 15,000 this month and you're running good, but you still need to go into the casino
+today because you've only played 23 hours this week. You're going to have to be that person." And I wish I could tell myself this then. If you're looking for
+that freedom, if the freedom for you means you don't have to work as hard, poker just isn't going to work. In
+poker, when you are your own boss, you're going to have to work five times as hard for maybe two times the results
+that you would have working a 9 to5. Hard work is just the baseline. you're going to have to work your ass off. And
+in truth, freedom is the process, not the result. If you don't wake up every day and you're not excited to flick on
+your computer and start studying, if you're not excited to drive into the casino and play an 8 hour session, even
+after getting crushed the night before, if you're not excited to go drive to the casino and put in your 40 hours of
+volume, even though in the last week you're up enough to pay your bills for the next 3 months, it just isn't going to happen. You're not going to make it.
+And I had to learn this lesson over my first year or two the hard way. That freedom is the process, not the result.
+If you want easy, go work a 9 to-5. Nothing is handed to you in poker. Just because you don't have a boss doesn't
+mean it's going to be easy. The next lesson, when I realized this, my win rate took off. We are not the hero. So
+what do I mean by this? Basically, we are just an extra in everybody else's poker story. Our opponents are the main
+character, right? So they are not adjusting based on what you do. They are adjusting based on what happens to them.
+I see so many poker players say, "Well, this guy respects my game or this guy knows I'm a good player." No, they
+don't. They don't even know you're at the table with them, let alone respect your game or know what you're thinking
+about your strate. They're thinking about what happened to them on the day. They don't give a crap what has happened to you. They're not thinking about you.
+They are thinking about themselves. So, the questions I like to ask are always about my opponent. Are they up a lot of
+money? Are they tilted? Are they racking up and locking up a win? Did they just get a bluff windmilled in their face? my questions are about my opponent instead
+of about myself. So, let me show you an example. Let's say we are on the button here with seven six of clubs. We open
+the villain calls in the small blind. You see Lald Latimer is in the big blind and Lald Latimer is going to fold and we
+are going to run a bluff here. We see bet the flop. We pick up equity on the turn. We over bet. Our opponent calls. Get to the river and we think our
+opponent is capped. We think our opponent is just folding jack x. So, we jam. Our opponent tank calls and our
+opponent actually has three deuce of spades here and we lose this big pot.
+And now next orbit we open on the button and this time Latimer in the big blind calls and now we're going to see bet on
+the flop again. Lold calls. We get to the turn. We bet small to entice Larald to raise off his flushes and continue
+with his weak stuff. Lold calls. We get to the river here which is the innocuous deuce of diamonds. And a lot of players
+in the situation would think, well, you know what? I just bluffed off a stack last orbit. Maybe I should not bluff in
+this spot. And that is thinking about us. Again, we don't want to be thinking about us. We want to be thinking about Lald. Lald was not in the hand where we
+bluffed it all off. Lold was buying Pokémon cards on his phone. Lold is not even aware that we have run a bluff
+today, right? So, it is about Lald. It is not about us in this particular spot. It does not matter that we ran a bluff.
+It does not matter that we got caught. We should still be bluffing here because Lald is most likely not paying
+attention. And even if he was paying attention, he's already forgotten about it. He is thinking about what has happened to him today. He does not care
+that we ran a bluff earlier. Now, this is why we need to be paying attention to the table. Let's look at this hand. And in this hand, let's say the cutoff
+opens. We are on the button. We're just going to fold and we're going to play this hand from Lald Latimer's perspective in the big blind. And Lald
+has ace king. He three bets. He gets called. C bets on the flop, gets called, and on the turn, he bets again. And the
+imposition player jams. Larald is a recreational player, so we can't fold top pair, top kicker in a three bet pot here. He's going to call it off. River
+is a blank. The villain in the cutoff shows eight nine of spades and stacks
+Lald Latimer. So this is the situation where after this hand I would not be attempting to bluff Lol, right? Because
+something bad happened to him. He got in his eyes a bad beat. So he's going to be stuck. He's going to be on tilt. He's
+probably going to be calling too much. He's probably going to be trying to make up for his loss, trying to climb out of that hole. In this situation, something
+has happened to Larald. So I'm going to adjust my strategy because remember, he is the hero. We are not the hero. We
+need to look at things from his perspective, not our perspective. This is something important where I would turn down my bluffing frequency. Us
+getting caught bluffing against another player. That would not affect anything I do against Lald whatsoever, but this
+would. All right, this next lesson super important. Respect is expensive. What do
+I mean by this? Basically, in live poker, most players are weak and playing too much defense will cost us more than
+playing too much offense. What does this mean? Let me show you a quick example. So, we're going to open on the button
+here. And now a knit in the small blind is going to three bet. And when I was first starting to learn equilibrium, I
+was first starting to learn theory. I would think, well, you know what? This guy's tight. Maybe he's a little bit of a nit. But it's a button versus small
+blind configuration. And in equilibrium, I should be for betting a polar range here. And I think I can probably just
+fold out a lot of this guy's bluffs. This hand should just be for bet at a high frequency at this stack depth in this configuration. So, I'd put in the
+for bet here. And then, of course, the knit and the small blind would just go all in. and I would just light $225 on fire. In this situation,
+defense, playing a theorybased perspective here in the spot, would be for betting the ace three of diamonds.
+We're trying to stick to a baseline, an equilibrium baseline. We are playing defense in this spot. If we're playing
+offense in the spot, we would never for bet this hand because we would assume that our opponent is too tight, that they have too strong of a range. And
+yes, we're open to being exploited when we play offense. But which way lights more money on fire? By playing defense,
+by sticking to equilibrium against a player we know is playing too tight. By playing defense, we're actually lighting
+way more money on fire than playing offense. And I would argue that against 99% of the live player pool, this is
+going to be true. One of the biggest misconceptions I hear from players is, should we play GTO or exploit when they
+are two sides of the same coin? GTO is exploit and exploit is GTO. If you tell
+the solver how an opponent is playing, the solver will come up with a GTO strategy, which is also max exploit. And
+I think people don't understand this. There's a difference between playing an equilibrium strategy, which is GTO at equilibrium, which is baseline, and
+playing GTO against how your opponent is playing. So, if we're talking about GTO, GTO is exploit, exploit is GTO. Most
+live players call too much weak stuff, raise too much strong stuff, and under bluff. So, we want to assume 80 90% of
+live players are going to be playing this way. So, let's start off playing offense. And if we realize we're playing against the rare, strong player, then we
+can pull back the exploits. It's going to be cheaper for us, in my opinion, to start off playing offense, then start off playing defense. Now, let's talk
+about hard exploits, which I may be doing against the entire player pool, and then maybe some soft exploits, which if a player reveals himself to be a
+stronger player, maybe I'll adjust and pull it back and just do some softer exploits against that player. So, first hard exploits. Hard exploit would be,
+well, the population tendency is to massively underluff. What would be the exploit against the typical live player?
+We're going to overfold and we're going to put money in for them when we have a hand. So, let me show you a couple examples. All right, so we open pocket
+sixes. Wreck player three bets on the button. We are going to call 10 for deuce. We check. They see bet half pot.
+They could just be doing this with ace king, ace queen, whatever. So, we're going to call one time. Turn is a three. We check it over. Now, our opponent
+double barrels and generally opponents are under bluffing. So, our adjustment is to overfold. This is a hard exploit.
+Next, let's say same situation. We flop a set. our opponent's c bets. And generally, I just want to put the money
+in for our opponents when we have a strong hand because they're not going to barrel enough as a bluff. And especially
+early on in the hand, they just get a little bit too sticky. When they have strong hands here, like over pairs, top
+pair, they're just not going to be able to fold those hands. And if they have bluffs, well, they're not going to barrel for us on turns and rivers anyway. So, we may as well just pile in
+the money now when the pot is small, when our raise looks the least scary. So, putting in more money for our
+opponents when we have a strong hand. So we see here these are just cut and dry hard exploits. If they under bluff we
+overfold. If they underbluff we put in money for them when we have a hand. So now let's talk about how we can pull
+these back. Maybe if we're playing against a rag, if we are playing against a good player and we see how much more
+nuanced this gets very quickly. A rag may under bluff in tight configurations, ace high boards, four bet pots or when
+the money goes in. If we flip back, the population may just underbluff in 90% of spots. They just underbluff. But if
+we're playing against a stronger player, maybe they underb bluff in these specific spots. So it's a lot more nuance. So in these spots, maybe we
+overfold because these are going to be the specific spots. Even a stronger, more learned, more studied player is
+going to have a hard time finding enough bluffs in these specific spots. Maybe a rag over bluffs in wide configurations
+on double Broadway boards and single race pots or when the pot isn't huge. It's pretty easy to overdo it in these spots, even for a studied player, even
+for somebody who is putting in the work. Flipping back before, we see if the population is just underbluffing, we
+overfold and put the money in for them. Very, very easy. Against a rag though, against a stronger player, these softer
+exploits maybe overfold in spots they underbluffed. We talked about the four spots where they may underbluff. We
+overall in spots they overbluff. We talked about the four spots they overluff. Now, we fast play when they under bluff. Why do we fast play when
+they underbluff? They're probably just going to have too strong of a range and they're not going to put in more money for us with their bluff, so we may as well just pile in on you now. And we
+trap when they overbluff because they're just going to put in more money for us with their value. and their bluffs. So in those spots, maybe in wide
+configurations or when the pot is in huge single race pots, etc. Those are the spots we want to trap. We see here either way we're making exploits against
+the population, we're making the hard exploits. Against a stronger player, we're making the soft exploits. But
+either way, always, always, always playing offense and only starting to play defense once a player has revealed
+themsel to be very strong. Finally, the final lesson, and I wish I had this
+advice when I was playing full-time and going through the thick of it. Remember, the sky isn't falling. So, just
+remember, when everything feels terrible, when it feels like nothing is going our way, we need to zoom out and
+look at our long-term graph and just try to bring logic and rationale back into
+it. If we're a winning player, we're going to go through rough patches. My very first big downswing, and I mean
+major downswing, I had played at the $5 blind level for a year. I'd built up a very solid role. Made six figures my
+first year. Had very low expenses. So, I had a pretty hefty, healthy bankroll and
+I wanted to move up. I felt like I was ready to move up. However, most of the 510 games in LA except at one specific
+casino played with a straddle. So, most of the 510 played 51020. So, it was a big jump from 55 to 51020. And moving
+up, I went through a pretty hard-hitting downswing. I had a 600 or 700 hour break even stretch when I moved up when to
+that point I had never gone more than 150 or 200 hours without winning. And it hit me really hard. I remember talking
+to my girlfriend at the time who is now my wife and she told me, "You know what? All this time I've known you, when
+something gets hard, you tend to just quit. Music you did for a long time. It got hard and then you quit. Poker,
+you've had these amazing results and now it's gotten hard and you're complaining and you want to quit. I'm not going to
+let you quit because your personality is when you hit adversity, you tend to give up. And that hit me hard. I needed to
+hear that at the time. And what I did was to respond to that, to try to prove her wrong. I just showed up at the
+casino 70 hours a week. I would show up at the casino literally at 10:00 a.m. and start the 55 game. And I would play
+from 10:00 a.m. till 6:00 p.m. Then I would drive to another casino and go play from 7:00 p.m. till 11:00 p.m. or
+midnight. And I would do that 6 days a week playing 70 plus hours of poker to
+try to snap out of the downswing. And guess what? I came out of the other side. And to this day, I'm so so so so
+grateful that she did not let me quit. Just remember, in poker, you're going to be upstuck a majority of the time. What
+that means is almost all the time, you're going to have less money right now at this exact moment than when you've had at a previous time. Whether
+that's you lost a session today, so you have less money than you had two days ago. Whether it's you've lost three sessions this week, so you have less
+money than you had a month ago. Whether it's you just lost a big pot, so you have less money than you had an hour
+ago. And the reality is as poker players, we just have to make peace with it. The best advice I could have given
+myself, and it's so much easier to say than do, but the best advice I could have given myself is focus on the
+process and the results will come. I promise. All right, guys. Hopefully you enjoy these lessons and they help you
+get to a million and beyond much, much quicker than I did. I hope you turn into the biggest boy possible.

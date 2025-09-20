@@ -1,0 +1,333 @@
+Most poker players are terrified of one thing, looking stupid. So, they fold the
+hand that looks too loose, skip the raise that looks too crazy, and avoid the exact plays that would make them
+rich. I've coached over 250 players, and the biggest shifts don't come from studying more GTO. No, they come from
+playing without fear. Today, I'll show you 15 plays a solver might never recommend in theory, but in live games,
+they've earned our players millions. Because average players care how they look, but crushers care what they make.
+Turn Showdown Value into a Bluff
+All right, the first play that live poker players are terrified to make because they don't want to look stupid is turning showdown value into a bluff.
+So, let me show you this one. The button opens to 20. We're going to three bet in the small blind with ace 10 of diamonds.
+Button calls. Flop comes king 106. As you guys know, big fan of checking my entire range out of position to
+recreational players because they tend to overstab and telegraph their hand strength with their size. We check here. He goes 100. We've got second pair top
+kicker. So, we are going to call here on the flop with our showdown value hand. Turn is a four of spades. We check it
+over. And now at this point, the villain checks it back. We go to a river and the river is the four of diamonds. And on
+this river, I think our hand is too in between to bet here. If we are behind a hand like king queen or king jack suited
+or something like that, if we just come out and bet here, it doesn't really accomplish much. We're not getting better to fold a hand like king jack or
+king queen check back the turn so they could call on the river. And we're not getting worse to call, right? when the flush comes in on a king high board in a
+three bet pot. So just checking on this river and if the river goes check check we are going to be good a good percentage of the time. So we check but
+the villain does not check back he bets 150. And if I was going to rank the options from worst to best between
+calling, folding and raising calling would definitely be the worst here. This is going to be under bluffed. King high
+board three bet pot. Stab the flop check back the turn and then bet the river small. Going to be under bluffed pretty
+much all around here. So we can rule out calling and a lot of decent players in the spot would get to that point and
+they would rule out calling and they would just fold here which is fine. But I think the best decision here could
+just be check raising allin. Why? Because this villain is mostly going to be capped. Now could they have a hand
+like pocket sixes occasionally on this river that check back on the turn? Sure, but just not going to be very many
+combos of that. What we can eliminate from this villain's range? We can just say with a pretty high certainty here, they're not going to have flushes when
+they check back on the turn, right? Especially when they choose this small size on the river here. And this size is
+one of the keys. Is this the size they're going to choose with pocket sixes? Probably not. Is this the size they're going to choose with a flush
+that's checked back on the turn some small percentage of the time? Probably not. Why? Because players get greedy
+when they have good hands after trapping on one street. So, it's not going to be sixes. It's not going to be a flush.
+What is this going to be? It's going to be thin value hands like ace king, king queen suited, trying to squeak out a
+little bit more value on the river. And this is one of those plays where if we check raise allin, we are just going to
+be able to generate a ton of folds because of the actions this villain has taken in this hand by checking back the turn using a small size on the river.
+They're not going to have very good hands. They're not going to be able to withstand heat. This is going to look very, very, very strong from us here as
+the pre flop razor and we are just going to be able to generate a ton of folds. All right, next spot. We're looking
+Floating the Turn
+stupid. could actually generate the most money floating the turn super super wide. So let's jump in the button
+raises. We are going to call in the big blind with king four of clubs. We flop bottom pair. We are going to continue to a c bet. Turn is an ace. The button
+double barrels here in this spot. And you may be thinking well we should probably be folding here. And if you
+look at the spot in equilibrium you would be correct. King four of clubs is supposed to be a pure fold. We have a
+lot of better hands here to continue with. We make a bunch of two pair. We've got ace queen off in the big blind here. We've got Ace8 and Ace4 suited. We've
+got a lot of Ace X of hearts and plus we've got all of our queen X and 8X. So, we just have a lot better hands to
+continue with here. Well, I believe it's actually profitable to float here with bottom pair. What do we know about live
+poker players, especially when they are in position? They massively under triple barrel as a bluff. And let's look at
+just some of the hands that they're supposed to triple barrel with on this river. King seven of spades is supposed
+to be triple barreled. King seven of diamonds. King five, hands like Jack 7 and Jack Five and of course a lot of
+just the Jack 10, Jack N. Jack N off you see is just pure pure pure
+triplebarreled on this river. The reality here is though when we call they will give up on the river even with the
+hands that are obvious to be triple barrel bluffs. And if our opponents are under bluffing, what that means is we
+just get to call a lot wider on the turn because they're not going to triple
+barrel us off our equity on the river. So, we get to play fifth street chicken here and use our opponent's tendencies
+against them. The fact that they are not triple barreling enough and that they will just give up the river way too
+much. So, by calling on this turn, we get to a river and if our opponent bets on the river, we know they're under
+bluffing so we can fold. But too much of the time they're just going to check back with their bluffs. Allow us to
+realize and we just get to win with a hand like bottom pair here in this spot. If you are tired of studying and trying
+Crash Course
+to memorize theory that does not apply and does not win money in live games,
+you're ready to try something different. Check out our 7-day crash course built on over 50,000 hours of actual live
+data. This is the key to unlock win rates against real players in real games. If you're ready to take that next
+step, check out our crash course. We have a limited amount of seats. So, sign up today. I will see you there. All
+Small Bet in Position
+right, the next play you don't see players take advantage of enough because they don't want to look stupid is the small bet in position for value on the
+river. So, in this one, Cutoff opens. We three bet on the button. We are going to C bet on the flap with a flush draw. We
+are going to get called. Turn is a seven. I like to go small on these turns because our opponent will put in more
+money for us when they have a smaller flush and also it incentivizes them to continue with a bunch of weak stuff that we have drawing dead like king X. We go
+80 here, our opponent calls, we go to the river, which is the innocuous nine of clubs. And when our opponent checks
+it over, a lot of times what happens is players in our position with a hand like ace nine of hearts, we'll just go for a
+two-thirds pot sizing or a pot sizing here on this river. The problem with that is number one, three bet pot, king
+high board. Number two, our opponent is massively capped. If they had a hand like pocket fours or pocket sixes, they
+would have raised on the flop. And if they had a hand like a flush, they would have raised on the turn. So the best hand that our opponent gets to this
+river with a lot of times is a hand like king queen or king jack. And sure, if our opponent's a little bit more on the passive side, maybe they could have a
+hand like ace king occasionally, but we are targeting one pair hands on this river. Going small on the river in
+position is not a thing in theory. If you give the solver an option here to bet small, medium, big, or huge, it's
+going to choose all of those sizes except small. It's never going to choose the small size on the river because by betting small, we reopen the action and
+allow our opponents to just start putting in check raises thinly and as bluffs. The thing is in live poker that
+doesn't happen. These check raises don't just happen. And because we know our opponent has a weak range and the spot
+is most likely going to be overfolded. What hand did they put us on in this situation? Ace king. So what are they going to do on this river? a lot if we
+start putting a lot of money in. Well, they're just going to fold hands like king, queen, king, jack, king, 10. We don't want this to happen. So, this
+small bet in position with value when our opponent is capped, when the spot's going to be overfolded, can often be a
+very, very nice play that allows us to squeak out just a little bit more of money here. Never a thing in theory.
+Maybe some of the rags at the table will roll their eyes at you, but this is going to print money in live games. All
+Small Bet in Position as a Bluff
+right, next spot. Similar situation is actually using the small sizing in position as a bluff. So, this time we
+have eight seven of diamonds. We three bet. We are going to c bet small. Our opponent calls on this turn. Our
+opponent is capped. So, we're actually going to choose a big double barrel size here. We go to the river and the river
+is a king. And when our opponent checks it over on this river, what is their range? Well, our opponent's range is
+either going to be some king X, which now makes trips on this river, which is certainly not folding for $640 into 727.
+Or our opponent could have some draws here. Ace high, queen high, jack high, 10 high, heart draws. They could have
+the same hand as us. Maybe a hand like 78 that flopped a gutter and turned an open-ender. But their range is going to
+be bifurcated. I like that word bifurcated into two distinct categories. Either trips or air when we get to this
+river with eight high. We're not trying to make trips fold here on this river. All we really want to do is make sure
+the ace high, queen high, jack high, 10 high flush draws fold on this river. And to do that, we can pick a very small
+size. Maybe 200 gets the job done. Again, this is never going to be a thing in theory because our opponents would
+just exploit the crap out of us. But good thing for us, 99% of players who play live poker don't even know how to
+spell the word exploit. So, we can get away with this small bet here. Just try to get them to fold their flush draws
+Big Boy Bluff on the River
+and straight draws. The next play that may get a few of the rags in your game to roll their eyes at you sarcastically,
+but it still prints a lot of money. It's the big boy bluff on the river with bad
+blockers. This hand, we have king jack of clubs on the button. are going to open. Big blind defends. We are going to
+see bet on this flop. Villain just calls turn. Now villain is capped. So we're going to choose the over bet. We get to
+the river which is the innocuous seven of hearts. And when villain checks it over, what is their range? Well, they're
+not going to have queens. That hand would mostly three bet pre flop. They're not going to have tens or fours. Those hands would raise on the flop. They're
+not going to have a hand like queen 10 suited. That hand would mostly raise on the flop. It's going to be a lot of one
+pair hands. Besides for maybe a hand like five, six of clubs, our opponent is
+just not going to have any strong hands on this river. And in theory, hands like king jack of clubs are often times give
+ups in this spot because they block a lot of the hands that our opponent would have that would just autofold in this
+spot. But in theory at equilibrium, our opponent would also have way more strong hands getting to this river. They would
+flat on the flop with some of their two pair and their sets. That just doesn't happen. They would hero us down on the
+river for a 2x pot-siz bet. And if in equilibrium we'd lock them to raise all their two pair and sets on the flop that
+often happens live. Well then in equilibrium they would know that on the river their best hand is going to be ace queen king queen jack on the river and
+those hands would just never fold. But here's the thing. We're not playing in equilibrium. We're playing against big gym in seat 7. Will going allin with a
+hand like king jack of clubs win less money than going allin with a hand like
+8 n of spades? Yes, probably it's going to win less money than a hand that doesn't block our opponent having
+autofolds on this river. But that doesn't mean it's not going to win more money than just giving up. And I would
+argue in this position that king jack by going allin is printing a lot more money than by just checking back and giving up
+considering our opponents get to the river with such wide weak crippled ranges. So this may get the rags in your
+game to roll their eyes at you and say, "hm, I looked at GTO Wizard and this one is just a pure give up." But you know
+what? Let them be smug and you can be the one who wins the most money. All right, the next situation that looks
+Dontk Multiway
+stupid but absolutely prince is the donk multi-way with a strong hand when there are fish in between us and the pre flop
+razor. So, let me show you. We get a fish who limps, another fish who limps, a pro on the button, ISOs 230. We're going to call in the big blind. Both
+fish come along as well. Flop comes 10 six deuce. And this is one of those situations. Let's think what happens if
+if we check here. Both fish in general are just going to check and flow a lot of time over to the pre flop razor. and
+the pre- flop razer who is a pro multi-way with several fish in the pot. It's just not going to be monkey stabbing here even on the button. So,
+they're only going to bet their good hands. And let's say best case scenario, the pro does have a good hand. Well, if he bets here, they're mostly going to
+choose a smaller size multi-way. And then what's going to happen here? If we check raise, well, we're just going to
+shut out the fish. If we just call, well, we're not putting money in the pot with a nutted hand. We're not playing
+for stacks here. So, my preferred line in the spot when there are fish in between us and the pre flop razor is
+just come out and lead ourselves because now we're going to minimize fold equity. We're going to force the fish to call
+quite a bit in between us and the pre flop razor. And even if the pro on the button starts folding some strong hands,
+who cares who's going to win us the most amount of money in the spot? It's going to be fish one and fish two. Where we
+don't want to do this is say a pro opens from early position. Two fish call in the field and we are in the big blind.
+We come along. This is a situation we don't want to just come out and donk here because again, think about what happens if if we check, we are giving
+the pro a chance to bet. And even if the pro checks, both fish behind are now going to have a chance to stab at this
+pot where before they would just naturally check and flow to the pre- flop razor. So often times we'll see a situation like this where one fish will
+stab, another fish will call. Now we will be able to put in this big boy check raise and play a two street game
+with a nutted hand. So we don't want to don in this situation. We want to don when there are fish in between us and
+the pre flop razor. All right, next play that looks stupid but Prince is the 10x check raise. So, we're going to open
+Tenx Check Raise
+pocket 9ines here. Button's going to call. You didn't think I'd let this whole video go without the most beautiful flop in all of live poker, did
+you? We're going to check it over because I'm just checking my entire range out of position to live players and this guy's going to stab. And in
+this situation, a 10x or 12x check raise is just never a thing in equilibrium.
+Because when we check raise 10x, our opponent is basically supposed to fold jack x 100% of the time. They're
+supposed to fold jack n here. Some of the time they're just supposed to fold a ridiculous amount. But what happens in
+actuality is whether we check raise to 120 or we check race to 300, villains almost continue with the same range
+here. They are just inelastic. When they have a hand like ace jack here or an ace high flush draw or god forbid two pair,
+they are just never folding in a million years. And what's going to happen when you choose these large check race sizes,
+sometimes villains just going to flip over a weak top pair like Jack 10 or a hand like ace 9 or something like that
+and they're just going to muck it face up. And that's okay. We have to come to terms with we are going to win less
+medium pots. We're not going to get that dopamine spike nearly as often because the frequency of the medium pots that we
+win is going to go down. But the thing that's going to happen here that's beautiful, we are going to win many, many more large pots and we are going to
+play bigger pots when we have strong hands than anybody else at the table. We're just going to win stacks a lot
+more often. So if Dylan sometimes flips over jack 10 here and folds, that's okay. This check raise is still going to
+be super super profitable because live players respond horribly to these large check race sizes. they just get too
+sticky on flops and we can use that against them and play two straight games here when we flop very very strong
+Giant 3 Bet
+hands. Next situation that looks stupid but Prince is the giant giant three bet or four bet pre flop when the player
+we're playing against obviously just has a very strong hand and we can beat those strong hands. So we see a player named
+Limping Lonnie here open from under the gun to a huge size a 7x size and you guys all know a player like this. This
+guy's been limping up front when he has hands like pocket sevens, eights, nines, etc. And when he comes in for a raise,
+especially for 7x, this is just going to be very strong hands. Jacks, queens, ace king. So when it folds over to us on the
+button and we have pocket aces here, it would be an egregious air in this spot to three bet to a typical three or 4x
+raise. Limping Lonnie is screaming from the top of the mountain, I have a strong hand. So why in this spot would we three
+bet to three or 4x? How would you feel in the spot if we had a hand like 109 suited three betting this range? Not good. Would probably be a mistake. So if
+we're not doing that, if we don't think this guy is folding any of those hands and he's opening 7x from under the gun,
+we should just be going egregiously huge here. 235 again, not going to be a thing
+in equilibrium. But if this guy is never going to fold, we should be taking advantage of that when we wake up with
+premium hands and he has a strong range. And you know what? The rags at the table may be rolling their eyes because they
+know you have aces or kings. That's okay. limping. Lonnie doesn't he doesn't know anything. So just three bet huge in
+this spot. Similar situation. We open aces. Cautious carry is going to three bet us. And this is a player cautious
+carry who just doesn't really three bet unless she has top of range. We opened early. She three bet us to a big size.
+What is her range? You guys all know players like this? It's going to be jacks plus and ace king maybe, right? And when they have a range this strong,
+we should not be for betting to the typical 3x size from out of position, right? This is the situation to punish.
+Just use a huge size. Even if we're putting in a third of our stack and committing ourselves, they don't
+understand that. Just go big here. They are never folding. Choose a big size so we can go to the flop with less than a
+one SPR when a player has just telegraphed they have a strong hand and we can beat those hands. All right. This
+one is never a thing in theory, but I think it's really good. Let me explain. This is bluffing allin when our range is
+somewhat capped. So in this situation, pro is going to open under the gun. Couple fish call. We're in there with a suited king. We flop two pair. We check
+it over to the pro. Remember, we're not donking when the pre flop razor is in between us and the fish. So both fish
+are going to fold back around to us. And if a fish see bet here, I'd be raising 112% of the time. But when a pro se bets
+into multiple people here, I think a couple things are going on. Number one, the pro is going to have a strong range. And if they have a value hand, if we
+just call here, they're going to keep putting in money on the turn. If they have a high equity bluff here, they're also going to keep putting in money on
+the turn. And by raising here, we're just going to fold out hands like ace queen, ace jack, ace 10 from a pro that
+would just keep putting in more money for us if we check called here. So again, against a fish, I'd always be raising in the spot against a more aware
+pro. I like calling on this particular board with bottom two pair. We are going to call. Turn is a three. We check it
+over. Pro double barrels, big size. Everything going according to plan. We are going to call. River is a three of spades. At this point, we pretty much
+lose to everything. expecting this river to go check check quite a bit and not have the best hand here. But actually the pro is going to bet for a smaller
+size. Let's think about what is their range. Well, when they see bet on the flop into three other people, including
+two fish, probably going to be like ace 10, ace jack plus for value. So on this river, are they still going to be tripling a hand like ace jack or ace
+queen? Probably not. They are repping a range that is flushes and boats on this
+river. If they did get to this river with a hand like pocket sevens or pocket kings, is this the size they would
+choose? No, probably not. Because when they have pocket sevens or pocket kings on this river, what are they hoping to
+accomplish? They are hoping that we have made a flush on this river and they are going to get greedy. So pros are going
+to be less transparent with their sizing. Certainly pre flop on flops and on turns, but on the river even pros
+start to act like fish and split their sizings here. And when a pro uses this small size in position, really not going
+to be kings or sevens almost ever. Sure, occasionally it could be a hand like pocket aces with the ace of spades. We
+could run into that occasionally. I'm just thinking that we're just not going to have many strong hands here when they have all of the strong cards in their
+hand for the most part. What is this going to be on the river? It's going to be a lot of flushes. Ace of spades, queen x of spades, jackex of spades,
+hands like that. And if I was the pro in this situation and I had a hand, ace jack of spades on this river and I got
+called on the flop, called on the turn, and then a strong player check raised me on the river all in. If I'm the pro in
+this spot, I'd be thinking, "Holy [ __ ] this spot is massively under bluffed. I'm just going to be up against a hand
+like ace three here 100% of the time." If I was the pro in this spot, I would just be folding a flush all the time.
+And don't try this against fish because fish are never going to fold a flush here. against a pro, I believe this is
+going to be a good play because even pros let fear and greed drive their decisions. They're just a little bit
+less transparent about it. And when a pro chooses a size on the river, I think we can eliminate a lot of the boats. I think we can get the flushes to fold.
+And in this spot in equilibrium, Solver would be very wary about choosing this all-in size on the river because we just
+really can't have any of the strong hands. Can't have aces, can't have kings, can't really have sevens. So
+really the only strong hand we can have here on this river is Aceex of Spades and Ace3. So the solver just wouldn't
+really be running this. But but but but but the pro in this spot is opening
+themselves up by splitting their sizes quite a bit. And what the pro is going to say on this river when they have a
+six of spades will say, "Well, I have full houses here to call. I have better hands here to call with so I can fold
+the ace high flesh." But they don't know they don't actually have better hands here because their better hands would
+mostly just choose a bigger size. Not a thing in theory, but this play is going
+to print. All right, next stupid looking play. The prince donking on the river when we make a strong hand. Villain's
+Prince Donking
+going to open. We're going to defend in the big blind. We flop queen high flush draw. We are going to call on the flop. We are going to call on the turn. And
+now we make the nuts on the river. And a lot of players here would just instinctively check. But the problem is
+in live poker, 90 plus% of villains a don't value bet thinly enough. So even
+if we check to them and they have a set like pocket sevens or two pair, those hands are going to be terrified of the flush and they're going to check back.
+And b they just don't bluff enough. So if they get here with a hand like 10 nine of clubs or something like that,
+they just tend to give up when the flush gets there. So the problem is if they're not going to value bet thinly and
+they're not going to bluff by checking this river is just going to go check check almost all the time and we're not
+going to get value on the river from our flush. You changed our hand 10 nine of spades or something like that and you
+put a gun to my head and said Mark you have to come out and donk and make a hand like ace king or pocket eights or
+pocket sevens fold here on this river. I would say okay we would probably have to donk all in. We'd have to don huge on
+this river because donking is a line that minimizes fold equity. Even though they're not going to bet themselves, I don't think they're going to fold a
+strong hand. If we just come out and donk for pot or slightly over pot, and we're not missing out on money from their bluffs because their bluffs just
+aren't going to bluff enough anyway. So, by coming out and donking when we get there against live passive players, we are just going to be able to print even
+if this is a play that quote unquote looks a little bit stupid. All right, next play that looks stupid but prints
+Folding the Second Nuts
+is folding the second nuts on the river. So, we're going to call here in the big blind. We flop a combo draw. We are
+going to check raise. Opponent calls. Turn is a deuce. We got a lot of stack depth behind. Started this hand about 400 big lines effective. We're going to
+put in the big boy bet. Leaving ourselves behind that big boy jam on the river to try to get our opponent to fold
+over pairs here cuz I think we're deep enough to make that happen if we leave the over bet on the river. So, we're going to get to the river, but we
+actually get there. And now at this point, we shift into value mode. We're trying to get hands like pocket aces,
+pocket queens, pocket jacks to call here. And even if our opponent does have a hand like 87 suited for top two pair
+or a hand like pocket 10s that banked a set on this river, when the flush gets there, well, everything got there,
+right? The straight has gotten there, the flush has gotten there. We're not going to be able to just go all in on this river if we want to get paid by
+worse, right? We're trying to target over pairs, two pair, a sack. We're not going to be able to go allin at this
+stack depth and get called by those hands when we have check raised the flop, overb the turn, and now the flush
+comes in on the river right. We just can't get too greedy here. So, we're going to go half pot trying to get called by those two pair, the sets, the
+pocket aces, stuff like that. Our opponent is going to jam all in. And way too many players in our shoes here are
+just going to go, well, you know what? I'm top of range. This is the best hand I ever get here with. I have to call.
+I'll be exploited if I [ __ ] It's all [ __ ] If our opponent is never bluffing in a spot, let's give them a
+little credit. If our opponent is just sometimes bluffing, but they are under bluffing here. Every bluff catcher is
+still going to be more profitable as a fold than as a call. And in the spot, what are the bluffs? Is our opponent
+really turning pocket aces with the ace of clubs into a bluff? I doubt it. Just not a thing that happens in live poker
+when we have shown nothing but aggression. We check raise the flop. We over bet the turn. We barrel the river, right? We triple barreled here. We look
+strong, strong, strong. And that's when opponents under bluff, under bluff, under bluff. So many players in the spot are afraid to fold the second nuts
+because they just don't want to get a bluff windmilled in their face. If they call here, well, you know what? It's a
+bad beat. It happens. But this is not a bad beat. This is a situation where we should just be saving money knowing that
+our opponents are massively under bluffing in this node. So, the most profitable play here is a fold. Next
+situation that looks stupid, but Prince is betting ridiculously thin on the river. And this is based on a real hand
+I played. So, we're going to open king six of spades here. Villain. The big blind is going to call. Flop comes queen 83. We are going to see bet half pot.
+And a little live intangible tell here. As I bet 25, I saw the villain getting
+ready to automuck his cards and I said, "No, no, no, no, no. Please, please, please don't fold." This guy was
+genuinely going to fold and I am a weird psychopath. So, I talked him into a call
+because remember the best bluff is the bluff where they call the flop, call the turn, and then fold on the river. So,
+let's keep that in mind. He begrudgingly smiles and he puts in the call after looking like he was just going to
+automuck his hand here. Turn is a three. I think our opponent's generally capped here because a three is not going to
+just automal into a call. So our opponent doesn't really have trips here. If they
+had a three, they'd just be calling on the flop. But I don't want to go with a big size here because I think our opponent's going to be elastic, right?
+They're going to be capped, but they're going to be elastic. So I'm actually going to go small here on this turn. a deviation, which is why just memorizing
+a bunch of defaults is not good. We need to know the why always behind why we're doing what we're doing. So, I go small
+here. Our opponent's going to check raise. And look at this. The plan worked in this situation. I just know our opponent is full of [ __ ] We could just
+bet three bet on this turn and get our opponent to fold everything. They're never going to have a three when they were genuinely just going to automop.
+So, we can just get them to fold everything here. But I think the most profitable play here is actually going to be to call, keep in their bluffs, and
+then if our opponent bets on the river, we just jam over the top of that knowing they're never going to have a good hand.
+So that is the plan. We call here. River is a six. We actually make a pair here. So now I just think we're ahead of
+everything, right? Our opponent's not going to have a three for the reasons we talked about. They're never going to have an eight or a queen. Those hands wouldn't be thinking about just automing
+on the flop. At best, they're going to have a hand like ace high here some of the time. So our opponent comes out and checks on the river. And again, this is
+never a thing in theory going this this this this thin in this type of line on the river. We see bet the flop, our
+opponent check, raise a turn, and now checks the river. We're never going to be value betting a six here in theory.
+But because we know that our opponent just never has a better hand than a six. We're just free rolling. We are
+absolutely free rolling on this river. So, what we want to do, we just want to choose a disrespectfully small size that
+could either induce our opponent to sometimes call with a hand like ace high or induce our opponent to sometimes just
+spaz on the river and then we can just bet call. So, we are going to go $50 here into 342. Our opponent is going to
+put in the call. And of course, we are good with king six. All right. The next play that so many players are afraid of
+## Overbid
+making because it looks stupid is the overb on the turn after the flop goes check check. This one, we're going to open king jack of hearts. Get called by
+the button. We check it over to our opponent who's going to check it back. Now, we make the flush on the turn. And on blank turns, I like to do a lot of
+checking again because our opponent will generally just stab with their showdown value, stab with their air. But on these
+flushing turns, I think they actually get underststabbed. So when we have a good hand ourselves, I just like to
+start putting in money. And we think about these boards in ace high board. This board is more static. This is the one board where opponents will check
+back. Top pair hands, especially weak top pair, like hands like ace9 suited, a7 suited, ace five suited, this is the
+spot where they will check back. And if our opponent had an ace here, if they flipped over an ace, you put a gun to my head and said, "Mark, make an ace fold
+on this turn." We'd have to go egregiously large. And I think the mistake is too many players come out in this spot. They just bet half pot or
+two/3s pot. If our opponent has an ace, if our opponent has a hand like king queen with the queen of hearts, these
+hands are never folding. So, let's just go huge. We go 125 into 57 here, going
+more than 2x the size of the pot. Our opponent calls. Now, when we get to this river, we're going to have to size down slightly. Make sure that ASEX calls us
+on kind of a scary board. So, we go 250 on the river. Our opponent puts in the call and we are good. winning a pretty
+pretty hefty pot where I think a lot of players are just comfortable playing pot limit holdem. That's what everybody else
+does. You're not going to look stupid if you bet 2/3 pot or half pot on the turn. And I think by just going with the overbid here, we just get much more
+
+## Folding
+value. All right, next situation where players are afraid to look stupid is folding a very good bluff catcher. So in
+this one, we're going to open. We get called on the button. Just checking our range here. Opponent stabs. We have the
+best hand here a lot. This is borderline between calling raising for a small size. Maybe we get a wild hair up our
+ass. Go for the check raise here. We're going to get called. Turn is an ace of diamonds. At this point, our hands been downgraded from thick value to thin
+value. So, we're going to go ahead and check even though we pick up the flush draw. No real reason to keep betting here for value. If our opponent does
+have a hand like queen jack, queen 10, something like that. Not going to get two streets at this point. So, we check.
+And surprisingly, our opponent goes big here. 400 into 537. We've got second pair. We've got the nut flush draw. So,
+we're going to call here and see what transpires on the river. And we make trips. We check it over. And at this
+point, our opponent goes all in here on the river. So, what is their range? They
+stabbed on the flop. They called an 8x check raise. And now they're jamming on the river on an ace high board. They've
+kind of fought fire with fire here. They're using big sizes. This spot is going to be under bluff. What is their
+range? Well, it's going to be hands like pocket fours, pocket sevens, ace queen. And where are the bluffs coming from?
+Maybe five, six suited. Does five six suited always follow up and jam on the
+river? They're going to have three combos of sevens that play this way. They're going to have three combos of fours that play this way. Three combos
+of ace queen that play this way. They got nine value combos. How often are they finding the bluff here with five
+six suited? This spot just going to be under bluff. And we look at our hand and we're like, "Wow, we've got trips here." We block them having full houses. We
+block their value. It doesn't matter if they are under bluffing. Doesn't matter if we have a good bluff catcher. And in
+this spot, so many players are worried about looking stupid. I have the best hand I'll ever get here with when I
+check the turn and check the river. I can't fold this. Who says you can't fold this? Is someone at the table handcuffing you and making you put in
+the chips? If our opponent is under bluffing, it doesn't matter if we have the best bluff catcher in the world. Still going to be more profitable to
+Raising Small
+fold than call. All right. Finally, this one's one of my favorites. The play that looks stupid but just prints money is raising small C bets with air,
+particularly on wet dynamic boards. This one villain is going to open on the button. We defend in the big blind. Flop comes 854 and our opponent goes $15 into
+42. You need to be careful about this particularly when the board is more static. Right? If the board is A7 deuce,
+ace9 deuce, king 73, something like that, I'd be a little more careful about doing this. But when the board is wet
+and dynamic, live players just tend to telegraph their hand strength with their size. and particularly in a wide versus
+wide configuration when they're opening a ton of hands on the button, they just tend to massively overseat and split
+their sizes. So, what does that mean? When they just go 15 into 42 here, their range is going to be too weak. Now, this
+doesn't mean they never have a strong hand when they choose a size. It just means they probably don't have enough strong hands and their range is going to
+be put in a really shitty spot. If we just start check raising everything that doesn't have any showdown value here, we
+don't need to choose a big size because their range is going to be so weak. We can just choose a small size with a lot
+of hands, get a lot of stuff to fold here on the flop. And we could just go balls to the wall just knowing that
+they're seabbetting too much. The range is too wide. Too many of their good hands use a bigger size. And too many players are just scared of, hey, I need
+some equity. I need some backup. I'll just check raise next time when I've got back doors. Listen, if your opponent's
+se betting 80% of their hands on this flop, and when they see bet almost all of their hands that are good choose a
+bigger size, why does it matter if we have back doors? Why does it matter if we have equity? They're just going to fold so much. We are just going to print
+so much. Again, this spot makes money. All right, guys. Hopefully, this video convinces you to stop worrying about
+looking stupid and start worrying about how to make the most amount of money
+that is just there for the taking. As always, hope this turns you into the biggest boy possible. Thank you guys and
+have a gentle

@@ -1,0 +1,719 @@
+0:00
+Picture this. You flop top pair in a four-way pot and suddenly you're stuck. Do you check, bet, take your pants off,
+0:06
+and roll around on the floor? As one of our viewers astutely commented on a recent video, "Multi-way pots are 95% of
+0:12
+what we face, but most poker content only focuses on heads up." I think he's right. So, today we're going to fix
+0:18
+that. We're going to focus on multi-way. And in this video, you're going to learn when to bet or when to check as the pre
+0:23
+flop razor. You'll learn how to size correctly when you are multi-way. You'll learn when to bluff, when to don bet,
+0:29
+and maybe most importantly, the five biggest red flags that most players miss when they are playing multi-way pots.
+0:35
+This is the same system we teach our top students, some of whom are now earning over $100 an hour. But I want to make
+0:40
+clear, we don't make any income or win rate guarantees. These results are atypical, and you most likely won't achieve them because I can't sit behind
+0:47
+you and whisper in your ear what to do each hand. What we can do, though, is pass down the exact lessons that our
+0:52
+best students are using right now to crush multi-way pots. If you've ever been stuck in a bloated multi-way pot
+0:58
+with no plan, this is the video that gives you one. Let's jump in. All right, you guys know I'm a big fan of flowcharts. So, let's start with a
+Flowchart
+1:04
+flowchart. And when we are multi-way as the pre flop razor, the first question I like to ask is, is this flop likely to
+1:11
+get stabbed? When we look at what makes this a yes, what makes it more likely if the board is wet? Right? If there is a
+1:16
+flush draw out there, if there are a bunch of straight draws out there, it is going to be more likely to get stabbed. Also, more likely to get stabbed if the
+1:23
+board is dynamic. This is kind of a cousin of wet, but this just means are the nuts likely to change on the turn.
+1:28
+So, a dynamic board could be dry like 74 deuce rainbow, but if you look at this board, pretty much every card in the
+1:35
+deck except a seven is going to change the nut. But in general, the more wet and the more dynamic the board, more
+1:41
+likely it is to get stabbed. The final factor that makes it more likely to get stabbed is the amount of players left to act behind us as the pre flop razor. So,
+Examples
+1:49
+let's jump into a few examples and let's kind of put this flowchart into practice. So, we open pocket sixes from the lowjack, the cutoff, the button, and
+1:56
+the big blind are going to call. We flop middle set, and the big blind checks it over to us. So, is this board likely to
+2:02
+get stabbed? The flop is wet. There's a flush draw out there. There's a bunch of straight draws. The board is dynamic.
+2:08
+The nuts are likely to change, and there are two players behind us left to act. Going back to our flowchart, the only
+2:13
+thing we have to ask here is what is our hand on this board. I would say we have can play for stack, CPFS. This is an
+2:19
+acronym I just made up in the shower, but essentially this just means a hand that can cooler our opponent's strong
+2:25
+hands. Going back to this board, when we have pocket sixes, we can cooler our opponents having strong hands like pocket fours or 64 suited, right? That's
+2:32
+what can play for stacks mean. So, going back to our chart, can play for stacks here, would want to check. So, we would want to check in this position because
+2:38
+this board is very likely to get stabbed behind us. And if it does get stabbed when it folds back around to us, we can
+2:43
+just put in the big boy check raise and play a two street game here. All right, next example here. This time we open
+2:49
+pocket sevens from under the gun. We're going to get called by the button, the small blind, and the big blind. Flop comes A7 deuce and it checks over to us.
+2:56
+Is this board likely to get stabbed here? I would say no. This is much less
+3:01
+likely. Why? The board is dry, right? There are not a lot of draws out there, only a wheel draw. The board is static.
+3:07
+Pocket aces are going to be the nuts on the majority of turns. And there is only one player behind us left to act, right?
+3:14
+Because the board is so dry and so static, a player may check back asex at some frequency on this board cuz they're
+3:20
+just not scared of the nuts changing. So in this situation, we go back to our flowchart. Is it likely to get stabbed?
+3:25
+And here we would say no. And you see when the board is not likely to get stabbed, we are checking our thin value,
+3:30
+our low equity, and our air. And we're just betting our good stuff, right? Our can play for stacks, our thick value, and our high equity draws. Because this
+3:36
+board is not likely to get stabbed, we just bet our good hands and our good draws. Really simple here. So in this
+3:42
+situation, I would just come out and bet. All right, let's keep running through these till it makes sense. We open pocket eights. We're going to get
+3:47
+called by the cutoff and the button and the big blind. We are going four ways here to the flop. And when it checks
+3:53
+over to us, is this board likely to get stabbed? Well, it is wet. It is dynamic. There are two players behind us left to
+3:58
+act. So I would say yes. So going back to our chart, what do we have here? Well, we have a play for stacks hand, right? We got middle set. We can cooler
+4:05
+our opponent. When we do get in the money, we could be beating hands like pocket sevens, 78, jack eight, etc. So,
+4:10
+we do have a comp player for stacks hand. We want to check here. Our hand really, really benefits from going for a
+4:16
+check raise right now and piling in as much money as possible. So, we check. We see a couple of calls and we can just go
+4:21
+for the big boy check raise. And then if we get called here, we can quite easily jam most clean turns. Let's say we have
+4:28
+ace jack in the same spot. So, we open cut off button and the big blind call and the flop comes jack 87. So, in this
+4:34
+spot, is it likely to get stabbed? Well, yes. The board is still wet and dynamic and there are multiple players behind us. But let's go back to our chart here
+4:40
+and we see here we just want to bet when we have thick value. So this is one of the deviations I started making during
+4:47
+my $100 an hour challenge. If you haven't seen that series, I attempted to make a $100 an hour playing 55 low
+4:53
+stakes. In that series I started off where I was just checking all my hands from out of position when the board was likely to get stabbed. I would just
+4:59
+check ace jack here. And one of the deviations I started making when I did have a thick value hand like ace jack, I
+5:04
+would often just come out and go bet myself. While this hand is very very good if we go bet bet bet bet bet bet
+5:09
+bet bet bet bet bet bet bet bet bet bet bet bet bet bet bet and our opponents go call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call call when we start going for a check raise and piling in the money with this type of hand top
+5:15
+pair top kicker maybe an over pair multi-way in that situation a lot of times I found I was just value owning
+5:21
+myself in these spots and by just coming out and going bet I would often get called by worse in general I just do
+5:27
+come out and bet a lot of my thick value hands myself even if the board is likely to get stabbed all right let's look at one more this time we have pocket nines
+5:33
+and we get called by the button small blind and the big blind flop comes ace9 deuce here. And when we have pocket
+5:39
+nines, is this board likely to get stabbed? Well, the board is dry. It is static and there is only one player
+5:44
+behind us left to act. So, I would say no. This board is not likely to get stabbed. Going to our chart here. Is it likely to get stabbed? No. And we see
+5:49
+here we want to check kind of our weak hands, our thin value, our low equity draws, our air, and we just bet the good stuff oursel because we're not expecting
+5:55
+this board to get stabbed. You see, when the board is not likely to get stabbed, I just like to come out and bet my comp play for stacks and my high equity
+6:01
+draws, right? And the reason why I like to do that is because well the board is not likely to get stabbed. There's only one player in position. So we need to
+6:08
+start putting in the money ourself with our really good hands. Whereas when the board is likely to get stabbed I'm often
+6:13
+checking with my comp play for stacks hands and my big draws. Those hands kind of benefit from a check raise and trying
+6:18
+to pile in all the money. Right now our comp play for stacks just wants to cooler our opponents and our high equity draws want to go for that check raise
+6:23
+and maximize fold equity. And the high equity draws the way to generate that fold equity is actually to go for the check raise. So, in this situation on
+6:30
+this Ace9 deuce board, I'm just going to come out and bet my good stuff myself, my good hands, my big draws, because I
+6:35
+think this board is unlikely to get stabbed. All right, next I want to just briefly touch on hand strength,
+Hand Strength
+6:41
+multi-way versus heads up, and how it really, really differs. So, say we open king, jack on the button, big blind calls, jack, nine, deuce. Look at that
+6:47
+sweet baby there. This is a hand on this board, heads up. We're quite comfortable going for three streets here and often
+6:53
+three big streets. So, we choose the half pot size on the flop. We go with the overb on the turn. And getting to this river, we're just targeting jack
+7:00
+10, queen jack, jack eight suited, right? We're just targeting a bunch of weaker jack x. And we think on this
+7:05
+board when the flush draw bricks, our opponent's going to be doing a lot of calling as long as we don't choose some egregious all-in size. So, in this
+7:12
+situation, even though our opponent is capped, king jack is definitely a three street hand. I would for sure go for value on this river. Maybe 400, maybe
+7:19
+500. I go for a big size on this river, targeting weaker Jack X. But when we are multi-way, say someone limps, we ISO in
+7:26
+the cutoff and the blinds and the limper call when it checks over to us, we need
+7:31
+to be a little bit more cautious here because multi-way the threshold for what a thick value hand is, what a three
+7:38
+street hand is is going to raise drastically. And the more multi-way we are, the more that threshold raises. So,
+7:44
+while King Jack is a clear slam dunk, three street thick value hands up four ways against three other players, this
+7:51
+may be a thin value hand. This may be a hand we want to play for two streets. I may still bet this on the flop because
+7:57
+we are in position and we are four ways, but I would probably be doing a lot of checking either on the turn or on the
+8:03
+river in this situation. Heads up, I would just always be going for three clean streets of value. Now, the
+8:09
+situations where I would definitely only be going for two streets is if we see bet on this flop and maybe the small
+8:14
+blind called and everybody else folded. And the situations where I may may may consider going for three streets. We see
+8:20
+bet the small blind and the big blind fold and the lowjack limper calls last to act. We're going to talk about in
+8:25
+just a few minutes how to differentiate between players ranges in those situations when they call next to act
+8:31
+versus when they call last to act multi-way. And just briefly touching on hand strength when we do have draws. Same kind of thing here. If we have a
+8:38
+gut shot, like heads up, I'm just going for this. I'm emptying the clip almost all the time until the opponent tells
+8:43
+me, "Hey sir, please no more betting. I have a very strong hand." If they start check raising, I give up. Otherwise, I'm just going for this. I'm
+8:50
+often emptying the clip when I have just a naked gutshot here. I'm just going for it. I'm going to jam on this river.
+8:55
+Remember when we had king jack, we wanted to go 400, 500, something like that to get queen, jack, jack 10 to call. Probably would just go all in here
+9:01
+if I have eight high and try to get my opponent to fold heads up. However, multi-way once again, we need to be a
+9:08
+little bit more careful. So, if it checked over to me here in the cutoff multi-way with just kind of a crappy
+9:14
+gutshot here, I would just be checking. The more multi-way it is, the higher the
+9:20
+threshold for the draws that we are going to be betting. I like to have a good flush draw, a flush draw that can
+9:25
+cooler my opponents. A good straight draw or like maybe a combo draw, a pair plus flush draw, a straight draw plus
+9:32
+flush draw. Even if we had a flush draw here, but it was a shitty flush draw like five, six of spades or something like that, probably would not start
+9:37
+building up this pot and bloating at multiway right now because if we get action, we're going to be facing ranges
+9:43
+that are much stronger than heads up. Much more likely that we're facing say a flush draw that dominates us or two pair
+9:50
+or a set when we are four ways than when we are heads up. So, just be a little bit more careful with both the value
+9:55
+hands you bet and the draws you bet. The more multi-way you are, the more careful we should be. Now, I want to talk about
+10:00
+sizing a little bit. So let's say a villain limps in from the lowjack. We iso 10 nine of diamonds here. We're going to go four ways. And look at that.
+10:07
+We flap the nut. So it checks over to us. And generally when I have a comp play for stacks hand multi-way and the
+10:14
+board is wet in dynamic, I'm still going to choose a small size. Now if this was heads up, I'd probably go half pot. And
+10:20
+why am I choosing the small size when we have a comp play for stacks hand? Well, because in general, I like to choose a size, you guys know this, where
+10:26
+opponents will call with their weak stuff and raise their strong stuff. But when we are multi-way that size has to
+10:31
+be much smaller because the absolute size of the pot is much bigger. So in this situation I may go a third pot or I
+10:38
+may go 30% pot or a quarter pot or something like that because that is the size multi-way that's going to make our
+10:45
+opponents raise the strong stuff call with the weak stuff. Much much smaller than if we are in a heads up situation.
+10:51
+A lot of times though when I do have kind of a thick value hand. So let's say we have kings here. Kind of the same
+10:56
+situation. And we go four ways on this same type of board. And this would be a thick value hand. This would be a three
+11:01
+street hand here. We can get a lot of value here from hands like ace, queen, king, queen, queen, 10, top pair, plus a
+11:08
+gutter. When we do have a thick value hand, I may deviate here and just go with a big bet. I'm not all that
+11:14
+concerned about trying to get my opponents to raise their strong stuff in this situation. I'm just trying to
+11:20
+maximize value against hands like ace queen, ace high flush draws. If I do have a nutted hand like 10 9 suited
+11:27
+here, I'll choose a smaller size because I'm really incentivized to get our opponent to raise when they have queen jack or pocket eights or something like
+11:33
+that. Really, really good for us cuz we can just get in all the money right now. When I have kings, I'm not all that concerned about that. Sure, I'm going to
+11:38
+get value owned slightly more here. We get to maximize value against the flush draw and queen x portion of our
+11:44
+opponent's range. We're also bet small here when I have big draws. The only kind of exception I'm making is when I do have kind of a thick value hand that
+11:51
+doesn't really benefit from our opponents raising the strong stuff. So once again, can't really go wrong here.
+11:56
+If you just want to simplify and use a small size with everything, that is okay, too. But I've been kind of trying to push these tiny edges and doing
+12:04
+different things with different hands in my range based on what my specific hands incentive is. And you may be thinking,
+12:10
+"Well, Mark, aren't the players in my games going to exploit me?" And to that, I would say absolutely not. All right, I
+12:17
+want to jump into when we can start running these bluffs multi-way as the pre flop razor. We need to be very, very
+12:23
+careful. But there's kind of a couple things going on that will allow us occasionally to empty the clip and run a
+12:28
+big boy bluff multi-way. Number one, I'm only starting these bluffs when the board is not likely to get stabbed. This
+bluffs
+12:34
+doesn't mean that I don't run bluffs when I think the board is likely to get stabbed multi-way. That just means I'm going to check and generally go for a
+12:41
+check raise once I have a lot more information. But what I'm talking about here is betting ourselves as the pre flop razor. I'm really only starting
+12:47
+these bluffs when the board is not likely to get stabbed. Number two, and this is going to sound heretical. This
+12:53
+is going to sound crazy, but I like to have good blockers in my hand. I know, I
+12:58
+know I said the B- word, but let let me explain why in this situation that this actually matters, unlike 99% of every
+13:06
+other situation in poker where you can just throw blockers out the window and they just don't mean [ __ ] So, here's a
+preflop razer
+13:11
+situation where I think would be a really good spot to start running a multi-way bluff as the pre- flop razer. So, we see the cut off limbs, we ISO on
+13:17
+the button, big blind, and the cutoff call. And in this situation, it checks over to us. And yeah, the board is
+13:23
+pretty unlikely to get stabbed here if we check because we are the last player in position. We're on the butt. Why do
+13:28
+blockers matter in this spot? Well, this board is dry and static. And when the board is dry and static, do players slow
+13:34
+play more or do they slow play less? Well, I would say they slow play more because they are less afraid of the nuts
+13:39
+changing. And what are these super strong hands that we're terrified of our opponents having that they may slow play here? Maybe hands like pocket fives,
+13:46
+ace5, maybe hands like ace king. And if you look at what cards we have in our hand here, we've got a five, we've got a
+13:53
+king. We make it way less likely that our opponent has a super strong hand. Here's where most players completely
+13:58
+screw this up and blunder it. The cards that we don't want to have in our hand here are cards like Jack 10. Multi-way.
+14:04
+If we empty the clip here, I would guess with a very high certainty we're going to get most two five players to fold
+14:10
+hands like ace jack or ace 10 or stuff like that. So, we don't want to have a jack, a 10, a queen. Those are the hands
+14:17
+that we're trying to get the fold. The cards that we want to have in our hand are the cards that make it less likely that our opponent has a super nutted
+14:24
+hand that just isn't going to fold if we empty the clip. And those hands are pocket fives, ace five, ace king, right? So, having a hand like king five here,
+14:30
+really good to start this multi-way bluff. I would choose a big size here because the board is dry. It is static.
+14:36
+They're not going to fast play anyway. We want to get them to pile in the most amount of money with hands like ace jack, ace 10, ace8 right now because
+14:43
+they're going to do a lot of calling on the flop, calling on the turn, and folding on the river when we put all the money and they will not call you down in
+14:50
+this spot all that frequently when they do have a hand like ace jack or ace 10 because this looks so strong multi-way.
+14:56
+And also, it's hard for us to be bluffing here. And you may be thinking, "Well, Mark, there's this player in my game that's really sticky and he'll
+15:02
+never fold an ace." And to that I would ask, okay, when you have ace jack in this spot, if this
+15:07
+guy's never folding an ace, are you going bet over bet jam every time you have ace jack? Because if you're not,
+15:13
+then either one, you're leaving a [ __ ] ton of money on the table, or number two, you actually don't believe that.
+15:20
+You actually don't believe that he's he's he's going to call with ace jack, right? One of those things has to be
+15:26
+true. Let me show you one more example here. This time we open ace five of diamonds from under the gun. We get called by the cut off the button and the big blind and we go multi-way to this
+15:33
+flop. In this situation, remember our two kind of components for starting a multi-way bluff here is the board is not
+15:39
+likely to get stabbed and we've got good blockers. Well, I would say in this situation, we've got some pretty decent blockers make it unlikely our opponents
+15:46
+have hands like pocket fives or ace queen. But in this situation, I would say even though the board is dry, there
+15:53
+are multiple players behind us and the board is somewhat dynamic, the board is somewhat likely to get stabbed. And if the board is at all likely to get
+15:59
+stabbed, I just really don't like coming out and betting with pretty much anything except thick value in this
+16:05
+situation because what happens when we check? Well, either it checks through or players are going to start to bet. And
+16:11
+when they bet, they start to telegraph their hand strength with their size. They start to give us a clue of what they have. So if we check here and this checks through, bottom pair, we could
+16:17
+have the best hand, right? we could have the best hand and we just get to realize and see a turn for free. And if someone
+16:22
+bets, well, if they stab big multi-way, likely going to indicate strength and we could just get away from this and not
+16:28
+waste any money. And if they stab small, well, we can start considering actually turning bottom pair here into a bluff,
+16:34
+trying to get weak queen x, pocket 10s, 9x draws, all this stuff to fold. That's
+16:39
+why I don't like to just come out and see bet ourselves as a bluff. I like to kind of see what our opponents do when
+16:44
+the board is likely to get stabbed. If the board is not likely to get stabbed, like in this example where we had king five, that's where I just come out and
+16:51
+bet myself. Next, I want to jump into how we should play multi-way as the pre flop caller. We already talked about how we should play a bunch of spots as a
+16:57
+pre- flop razor. So, let's talk about the pre- flop caller next. I'm going to talk about when we should continue very, very tight, when we can consider
+preflop caller
+17:03
+pouncing and running these big bluffs as the pre flop caller, and when we should consider just coming out and donk
+17:08
+betting ourselves, coming out and leading as the pre flop caller on the flop. So, let's jump into it. So, when
+17:14
+should we continue? very very tight is the pre flop caller when in a wear player see bets multi-way. So let me
+when to call
+17:20
+show you this one. A good pro opens under the gun. If you guys have been watching this channel for a while when a strong pro opens early verse early I am
+17:27
+just three betting a polarized range. So the very top of my range hands like aces, kings, ace king suited and then the bottom my continue range which early
+17:33
+vers hands like king 10 suited, king jack suited, ace5 suited, hands like that. So pocket jacks squarely in the
+17:39
+middle of my range. Why do I want to be doing a lot of calling when a pro opens in general? Most of the table behind us
+17:44
+probably is not going to be pros and a lot of the table behind us is fish. We want to be doing a lot of flatting here
+17:50
+to let the fish into the pot. So in this situation, I'd be calling with pocket jacks. We are going to go multi-way
+17:55
+here. Four ways to the flop. Checks over to the pro who opened from under the gun when an aware player seeds four ways
+18:01
+into three other people. This is a spot I would just be continuing very very tight. Pocket jack slam dunk fold.
+18:07
+probably be even considering folding hands like queen jack suited or king queen suited here. Possibly this
+18:13
+multi-way because what is this pro betting four ways on this flop into us in two fish? It's probably going to be a
+18:20
+very strong range that consists of hands like king queen plus and big draws. So how is a hand like queen jack or king
+18:27
+queen doing against that range? Not all that great. When an aware player see bets multi-way run get out of the way.
+18:32
+Next example when we want to continue super tight when we see someone stab big multi-way. So we're going to call here
+18:38
+with eights on the button because a player named limping Larry open from under the gun and when players who have a limp range who are not limp razors but
+18:44
+guys who are just limping like pairs suited broadway stuff like that. When these guys open it's just going to be very very strong. So we call here with
+18:50
+pocket eights. We go four ways. And now this guy from under the gun into three other people is just going to c bet for
+18:57
+pot. And it looks like hey pretty safe flop for pocket eights. Right. We flopped an over pair. This is a situation I just be folding all the
+19:03
+time. When this guy opens from under the gun, a guy who has limping range, opens to 5x and then C bets into three other
+19:08
+people on this flop. He is just screaming at the top of his lungs. I got kings. I got queens. I got jacks. I'm
+19:14
+I'm scared. I'm terrified. I don't know what to do. Please, everyone fold so I can just take down this pot right now
+19:19
+and not have a bad beat. When a player CB bets multi-way with a big size, we just want to be continuing
+19:25
+very, very, very tight here. Next situation I want to be continuing very very tight when there is a CB bet and then a call next to act and then it's on
+19:31
+us. So we see a player opens from under the gun the button and we are going to call in the big blind along with the
+19:37
+button. We're going three ways to a flop here and now the under the gun pre- flop razor comes out and bets 50 and the
+19:42
+button calls next to act. So in this situation where you see a CBET multi-way and then a call next to act and then
+19:48
+it's on us. When a player calls next to act, when we jump into the red flag section, we're going to cover what this means exactly. But when a player calls
+19:54
+next to act, going to be a super strong range. When a player see bets multi-way, going to be a much stronger range than when they see that heads up. So already
+20:00
+we're against two pretty strong ranges here. I would just be considering folding top pair without anything else going on right here, right now on this
+20:07
+flop. Next, I want to talk about when we can pounce multiways the pre flop caller and how to really distinguish when
+20:13
+players are capped versus when they are uncapped multi-way. So let's jump into an example. In this one, lowjack is
+when to pounce
+20:20
+going to open. Cutoff button are going to call and we are in the big blind. We come along with ace do suited and look
+20:26
+at that sweet baby there. We check it over to the pre flop razor and the pre flop razer checks. And now at this point
+20:31
+the cutoff and the button check back. I want to point out the configuration here cuz this is very very very important.
+20:38
+When the cutoff and the button check back in this situation, they are now going to be capped. They didn't
+20:44
+naturally check over to the pre flop razor because they checked after the pre flop razer checked to them. So at this
+20:50
+point, if they have a strong hand, they have cart blanch, they have a green light to bet. In our situation, we are the only player left to act here who is
+20:57
+uncapped because in general, most players from our spot in the big blind are just going to check their entire
+21:02
+range over to the pre flop razor. So in this situation, we are uncapped. The rest of the table here is capped. Does
+21:07
+this matter? Are they thinking, "Oh my god, Mark is uncapped in the big blind." No, no, no, no. I just want to point out here who is capped and who is uncapped
+21:14
+on this board so you guys can start picking up in these same situations. Hey, the big blind us. If we weren't the
+21:20
+big blind, the big blind can still have some strong hands here. But the pre- flop razor, the cutoff, the button, they probably don't have all the strong hands
+21:27
+here. These players are capped. So going to a turn where I like to come out and pounce on these turns instead of just
+21:32
+coming out and betting here, which I think is a big mistake. A lot of players just come out do what I call is a monkey stab on this turn. We've got bottom
+21:38
+pair. We've got a smidge of showdown value even four ways. no real reason to come out and bet. If we check here and
+21:43
+it checks through, we just have the best hand a decent amount of the time here. If we check here and one of these
+21:48
+players stabs, now at this point, we know the cutoff would have stabbed his good hands on the flop, right? We know
+21:53
+if he had two pair or a set or something like that, he would probably just bet those hands on the flop. So, at this
+21:58
+point, we can start turning almost everything that doesn't beat second pair here into a bluff because we know the
+22:05
+cutoff just doesn't have the top of his range almost ever. So this is a situation we can pounce. I would go for
+22:11
+the check raise. The check raise actually maximizes fold equity. The check raise looks strong. The turn check
+22:16
+raise looks super strong. We know the cutoff doesn't have any good [ __ ] So we can just start piling money right here.
+22:21
+This is the situation where we can absolutely pounce and just print money multi-way. All right. So this next spot,
+22:26
+this is the sauce, right? This this spot I feel like a lot of players just don't know this or don't use it, but this can
+22:34
+really really really add a lot to your game. And look, this exact spot used to cost one of our boot camp students
+22:40
+thousands. Look, he was a pretty good player, right? He was playing 25, winning about 30 bucks an hour before boot camp. He was studying all the
+22:46
+videos on YouTube. He was putting in the work. But this spot used to always, always, always trip him up. Inside Boot
+22:52
+Camp, we broke down for him how to not just play this exact spot, but a bunch of spots like these, a bunch of little
+22:58
+tips like this that you're probably missing in your game. Two weeks later, one of these spots came up. He executed
+23:04
+perfectly. He did what I'm about to show you how to do in just a second and just earned a bunch more money that he would
+23:10
+not have earned before. So, why am I telling you all this? Well, this player already had a bunch of information. He had watched all of these videos. What he
+23:17
+needed was a system, a way to implement it, a way to put all of these pieces together when he was playing. And you
+23:23
+could try to piece all this together from YouTube. I I believe a lot of players do. And I genuinely believe, I'm
+23:29
+biased, I genuinely believe we're putting out better free [ __ ] than most people's paid content. So, you can learn
+23:34
+a ton from these YouTube videos, but that's the slow path. That's the trial and error path. That is the second
+23:40
+guessing path. And the player we talked about before, the guy who was earning 30 bucks an hour, he told me he had watched all the YouTube videos, but Boot Camp
+23:46
+made it stick. Boot camp made it all make sense. And the way I look at this is two ways. You can either pay with time trying to put all these pieces
+23:53
+together yourself, which to be fair, like a lot of players have done, you could probably figure out, or you could pay with cash, right? You could pay with
+23:59
+money, and you could speed up this whole process. That's what we can help with in boot camp. Because let's be honest,
+24:04
+paying with time trying to put all this together yourself, doing it the free way, usually ends up costing you more
+24:10
+because every session you play without a system, you are lighting thousands of dollars of EV on fire. So, if you're
+24:16
+just trying to become a winning player, if you're just trying to win, the free content, the YouTube videos, these are great. If you're trying to go from
+24:22
+winning to crushing, our 28-day boot camp is how you get there. All right, now let's jump back into this concept,
+24:28
+which I've teased for several minutes. I want to talk about when we should consider donking or coming out and leading ourselves as the pre flop
+24:34
+caller. So, let's jump in. All right, let's say a fish limps from the lowjack, a fish limps from the cutoff, a pro ISO
+when to donk
+24:40
+to 35 on the button. We're in there with pocket twos and both limpers come along. Flop comes jack 9 deuce. And at this
+24:46
+point, what most players do in the spot is they just naturally check, right? We're the pre flop caller. We should
+24:51
+just be checking here. We check. And the problem with this spot, if we look at fish one and fish two, what are these
+24:56
+players going to do 95% of the time? Well, they are also going to check it over to the pre flop razor and a pro
+25:02
+here on the button. How often is he going to bet here into two fish and us? Probably not all that often, right?
+25:08
+Unless he has a very strong hand. So, this is just going to get checked through a ton. And even if the pro does bet, we are now in a quandry because if
+25:15
+we check raise here, what we're going to do is we're going to shut out the two fish behind. So, it's almost like we
+25:20
+have no good option here on the flop. Instead, what I like to do in this spot when there are fish in between us in the
+25:26
+pre flop razor, I just like to come out and bet myself in this spot. If either of these guys has a jack or a nine or a
+25:33
+straight draw or a flush draw, they're not folding now. We have just minimized fold equity. Who cares if we don't get
+25:39
+the stab from the pro on the button who's going to be under stabbing anyway multi-way. It doesn't matter. This is how to maximize value against the two
+25:46
+fish in the hand. When there are fish in between us and the pre- flop razor, I just like coming out and donking my
+25:51
+very, very strong hands myself. The situation where I don't want to do this, let's look at this one. Let's say a pro
+25:57
+opens from under the gun and fish call on the cutoff and the button. We come along in the big blind. This is a
+26:02
+situation where I don't want to don because if we look at this, there are no fish in between us and the pre- flop razor. So, if we come out and check
+26:07
+here, what happens? Well, the pro has a chance to stab. Probably not going to be stabbing four ways all that much with
+26:13
+two fish behind him. Even if the pro checks, now the two fish have cart blanched to stab because the pre flop
+26:18
+razor is checked over to them. They are not in the situation where they're just naturally checking over to the pre flop razor. So if one of these guys stabs,
+26:24
+well, maybe another guy calls. Now we can put in the check raise. We've shut the pro out of the hand. Now we're just playing against the fish. When there are
+26:29
+fish behind the pre flop razor, this is where I like to check. This is where I like to go for a lot of the check raises. When there are fish in between
+26:36
+us and the pre flop razor, this is where I just like to come out and donk my strong hands myself. All right. Finally, I'm going to give you five red flags you
+26:43
+need to be watching for in multi-way pots. Number one, when a player calls next to act. So, I kind of hinted at
+next to act
+26:49
+this before. Let me show you an example. We ISO pocket 10s here versus a lowjack limp. Buttons in there and the big blind
+26:55
+and limp are in there as well. When it checks over to us at this point, I would ask, is this flop likely to get stabbed?
+27:00
+Well, the board is wet and dynamic, but there's only one player in position behind us. So, I would say no. This board is not likely to get stabbed. So,
+27:06
+in this situation, I would just want to bet my good stuff myself, right? our high equity draws, our thick value, our comp play for stacks, just come out and bet myself. So, I would come out and bet
+27:12
+myself here, choosing the smaller size because we do have a comp play for stacks hand. We would want to incentivize our opponents to raise when
+27:18
+they do have pocket fives or king 10 or something like that. So, I go $50. And now we see the button calls next to act.
+27:25
+This is a red flag. What does this mean? When someone calls next to act, they have a super strong range, right? So, if
+27:32
+we have a value hand here, one of the big mistakes I see players make just coming out and betting half pot or two/3s pot on this turn. No, when
+27:39
+players call next to act, it means they have something very very good. The one situation where players will trap even
+27:45
+on a wet dynamic board multi-way is when they are next to act. Going back to this flop, this is the situation where you'll
+27:51
+see guys flop with king 10 or pocket fives or something like that because they want to let the players in behind
+27:56
+them, the small blind and the big blind. So going to this turn, we want to just choose a monster size because yes, if we
+28:02
+go small here on this turn, our opponent would just unspring the trap now and raise if they had fives or king 10. Our
+28:07
+opponent has a lot of other hands as well. They just have hands like king queen, maybe even ace king, maybe combo draws, maybe ace high flush draws,
+28:14
+right? They just have very, very strong hands here. And against a strong range, when we have a hand that can cooler all
+28:20
+of that strong range, we should just be going with a big boy size here, setting up a clean, nice SPR for us to jam the
+28:27
+river. The correlary here is if we started a bluff on the flop with a maybe a hand like an ace high flush draw,
+28:32
+maybe a hand like ace nine of spades or something like that on this turn, I would be very cautious about proceeding.
+28:38
+The worst value hand our opponent's going to have on the button is going to be a king against a range that is very very strong and condensed to be good
+28:45
+draws, some traps, some top pair. If we did start a bluff with a high equity draw on the flop, when someone calls
+28:51
+next to act multi-way, this is the spot to shut it down. You guys know I don't like to shut down bluffs a but this is
+28:57
+the red flag, right? If we have value, pile in the money, they have a strong range, they're not folding. If we have a bluff, shut it down. This is not the
+29:03
+spot we're going to generate fold equity. All right, this one actually tripped me up a ton during my 55 challenge, and it's something I kind of
+29:08
+had to wrap my head around. So, let me explain this one. This red flag is when a player checks back multi-way, they're
+29:15
+not nearly as capped as when they check back heads up. So, we open 65 here and the cutoff button and big blind are
+check back
+29:21
+going to call. This board is likely to get stabbed. It's wet and dynamic. There's multiple players behind. So, I'm just going to check here everything
+29:26
+except thick value. So, I check and now the cutoff and button are going to check
+29:31
+it back. This is one of those situations where I think I was getting a little bit confused multi-way. This kind of tripped
+29:38
+me up a little bit. And I would think in this spot, well, the best hand that the cutoff or the button could have here
+29:43
+after they check back is going to be a hand like pocket 10s or pocket 9ines or 7x or something like that. Players on a
+29:49
+wet dynamic board are not going to check back a hand like king queen here when there's a flush draw. when they're straight draws, they just won't check
+29:54
+back those hands at a high frequency. But multi-way players will sometimes check back top pair. Players are more
+30:00
+careful about the hands that they start betting into three other people. We just have to be aware our opponents are a little bit less cap than they would be
+30:05
+heads up. The mistake I was making was just coming out and betting on turns like this, just going over bet. We get
+30:10
+called and I would think, oh great, this guy just has like pocket eights or 7x or something like that. So, I'm just going to go huge on this river. And I would
+30:16
+just, you know, 2x pot the river and then I get snapped off by like king queen or queen jack or something like that. I think I was just playing pock
+30:22
+control and was just planning on clicking call call. So instead, what I started doing is I would check again on
+30:27
+these turns. And I know it feels counterintuitive to check here when we have six high, but the really nice thing about checking, even though these guys,
+30:34
+the cut off in the button will sometimes check back queen X. They're not checking back sevens. They're not checking back fours. They will check back the top pair
+30:40
+sometimes, but they're not checking back super strong hands. If we just come out and bet, they have an easy decision. They can just click call call when they
+30:46
+have king queen. But if we check one more time here, now we can put that queen X in a blender cuz while the Queen
+30:51
+X is quite comfortable clicking call call even big sizes the turn check raise looks super strong. And now we can put
+30:57
+Queen X in a spot that it didn't want to play which is why Queen X didn't want to bet on the flop cuz Queen X doesn't want to play for all the money. And by coming
+31:03
+out and check raising here on the turn, we can make Queen X easily play for all the money. And I think this is the spot
+31:09
+when I started making this shift in the 55 challenge. I noticed I started getting a lot more folds and players
+31:15
+would often show me a hand like king queen or queen jack here and just snap fold it on the river. The check raise
+31:21
+generates much more fold equity in this spot. All right, next one I want to talk about multi-way is the flop donk bet. So
+flop dontk
+31:26
+we're going to open here from under the gun. We get called by a bunch of people. Now the villain in the small blind is just going to come out and donk. And a
+31:32
+lot of players are confused in this spot because donks can mean different things depending upon the situation. So a donk
+31:39
+bet is when a player is the pre- flop caller just comes out and leads into the pre- flop razor. So if we were heads up in the spot, lowjack versus big blind.
+31:45
+When a player comes out and donk small, it's full of [ __ ] almost always. But when they come out and donk multi-way or
+31:50
+when they come out and donk in a three bet pot, five times 10 times stronger than when they donk heads up, even if
+31:56
+they choose a small size, this is just going to be good hands. Good but vulnerable hands, right? It's going to
+32:02
+be Jack X. It's going to be combo draws. It's going to be ace high flush draws. Hell, it could even be two pair or a set
+32:08
+occasionally because they're scared when they come out and donk multiway. Much much much much stronger range than when
+32:14
+they don heads up. We should just be massively overfolding in this spot because the big blind has a strong
+32:19
+range. All right, next red flag is the check raise closing the action. So this time we have Kigglies. We open, we get called in three spots. Flop comes queen
+check raise
+32:26
+76 in this spot. Is the board likely to get stabbed? Well, yes. It's wet, dynamic. There's multiple players behind us. I would just be checking almost
+32:32
+everything except thick value. I may make that exception we talked about at the beginning of the video. May just come out and bet thick value. So I come out and bet big here and we are going to
+32:39
+get called. And now we see the big blind check raise closing the action. In my opinion here, this is just massively
+32:46
+under bluff. When the big blind does have decent draws here, when they do have an ace high flush draw, when they
+32:51
+do have an open-end straight draw, they can just call and see a turn. So when you see someone check raise and they are
+32:56
+last to act, they are closing the action. This is just massively, massively, massively under bluff. I
+33:01
+would just happily slide kings into the muck here 10 out of 10 times. Finally, this one is tricky, but it can save you
+33:08
+a ton of money. So, when you see someone call on the flop and then come out and donk lead on the turn. So, let me show
+33:13
+you. This is a big red flag. This time, we're going to have Kigley's again. We see the same flop. So, we're going to come out and see bet. And this time, we
+33:18
+get called by the big blind. And now the turn is a five. And the big blind just comes out and dons for a large size. When this happens, what does this mean?
+33:25
+In my opinion, this just means, hey, my hand has greatly improved or my hand was very strong and now I don't want to
+33:33
+see this turn get checked through because I have a very strong hand and I don't want my hand to shrivel up in value. This means the big blind generally has a
+33:39
+hand that is two pair plus, right? This is going to be straights, sets, two pair. When we see the call on the flop
+33:45
+and then a big donk lead on the turn, happily just throwing kings into the muck here. This is a huge red flag
+33:50
+multi-way signal strength all the time. All right, if you're watching this video, that means you're probably a winning player who wants to be a big
+33:56
+winning player. That is the demographic who watches this YouTube channel. And no doubt, if you put in the time and the
+34:02
+effort, you could get there on your own, a lot of players have. But if you want to speed this process up, if you want to
+34:07
+get there faster, our 28-day boot camp is for you. And to be clear, the boot camp is expensive because this is not
+34:13
+some course on how to play pocket jacks with a bunch of training videos and a PDF. No, this is intensive,
+34:19
+personalized, interactive coaching. And I wholeheartedly believe the reason we have grown so fast is because we
+34:25
+actually give a [ __ ] about players improving their games. And if boot camp was cheap, there's just no way we could
+34:31
+give the time, the energy, the personalized feedback. It just would not be able to happen sustainably. Anyway,
+34:36
+if this sounds at all interesting to you, if you have gotten value from the free content, I like to say our free
+34:42
+[ __ ] is better than most people's paid [ __ ] in my opinion, but our paid [ __ ] is way better than our free [ __ ] If you
+34:49
+have gotten value from any of these videos, the 28-day boot camp may be for you if you want to speed up the process
+34:55
+and get to your goals of crushing faster. All right, guys. Either way, hope this video on multi-way play makes you more confident and helps you make
+35:01
+better decisions at the table. As always, thank you guys and have a gentle

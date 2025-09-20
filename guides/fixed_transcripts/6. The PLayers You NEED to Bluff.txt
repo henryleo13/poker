@@ -1,0 +1,598 @@
+Which of these players is more
+profitable to bluff? The loose one who
+plays too many hands or the tight one
+who barely enters a pot? Most players
+think they know the answer, but they're
+dead wrong. After coaching over 250
+players, we started noticing a pattern.
+Almost everybody thinks about bluffing
+completely backwards. Today, I'll show
+you why and how to print money bluffing
+the right players while everybody else
+keeps torching in all the wrong spots.
+All right. So, first hand here and we're
+going to play this same spot against a
+loose player and a tight player. So, we
+see Luc Lani opens in the cutoff. We're
+going to three bet on the button and Luc
+Lani is going to call. And after Lucani
+calls this three bet, his range is going
+to look something like this. So, you see
+here we have him continuing just a bit
+wider than equilibrium. He's continuing
+with all these gapped suited connected
+cards, some partials of these offsuit
+broadways, and then he's for betting
+pretty much the queens plus sometimes
+the jacks as well and the ace king up
+here. So, kind of a typical loose live
+player continuing maybe a couple pips
+wider than optimal. All right, so we are
+going to go to a flop 1064. We flop a
+flush draw. He checks it over. We are
+going to see bet small here. Choosing
+the size where they raise their strong
+stuff, call with their weak stuff, and
+he is going to call. We go to a turn
+which is the innocuous deuce of
+diamonds. And now at this point, Lucani
+is capped, but he's going to be
+relatively inelastic. He's got a bunch
+of hands like 10x and flush draws. So,
+we choose the biggest size here on the
+turn. That still leaves us that big boy
+over bet behind on the river. Lucani is
+going to call. We go to a river, which
+is a seven. We brick everything. And now
+Lucani checks it over to us. So, a very
+loose player here. Should we be emptying
+the clip with a bricked king high flush
+draw? Now, let's say we play this exact
+same spot except it's against a tight
+player. We're going to call him Nitty
+Nedward and we're going to three bet
+here. He is going to call. So, let's
+take a look at Niti Nedward's range here
+after he calls a three bet. And Nitty
+Nedward as opposed to Lucani, he's just
+going to be a couple pips tighter. So,
+you see here, he's only got the best
+suited aces. He's got like this ace
+five, ace4 suited. He's folding kind of
+the garbage suited aces. He's folding
+the garbage king X. He's folding the
+garbage suited connectors. He's just not
+for betting quite as much with the top
+of his range. This player is on the
+nittier side. So, his range is going to
+look quite a bit tighter. So, on this
+river, who is the more profitable player
+to bluff? Is it Lucani or is it Nitty
+Nedward? Well, let's jump in. Let's do a
+little bit of digging and let's find
+out. So, we see with this pre flop
+range, Lucani gets to this river with
+about 78 combos. He has about 1.7 combos
+of sets that get here. Some 10, some
+sevens. The sixes and fours almost
+always raise on the flop or turn. He's
+got 2.9 combos of two pair here.
+Primarily the 76, some 107, 74, 64. He's
+got a couple combos of over pairs here.
+Primarily a couple combos of jacks that
+didn't for bet pre flop or raise on the
+flop or turn. And then he's got 25.7
+combos of top pair, the 10x here. So if
+we add all this up for Lucilani, the top
+pair, the over pairs, the two pair, the
+sets, 41% of his range on this river is
+going to be top pair plus. If we look at
+the exact same situation for Niti
+Nedward, he only has about 34.1 combos
+to get to the river. Remember, he was
+much tighter pre flop. And of those 34.1
+combos, let's look at how many are
+strong. So sets, he only has about.5
+sets here. Primarily pocket 10s and
+pocket sevens. two pair. He's only got
+about6 combos. 76 suited over pairs.
+He's got some more combos here. He's got
+some queens. He's got some jacks. So,
+he's got about 7.3 combos of over pairs.
+And then top pair here, his suited 10x.
+He doesn't have the offsuit variety
+because Nitty Edward is a little bit
+tighter pre flop. So, he has about 10.5
+combos of over pairs. So, overall, Nitty
+Edward actually has less strong hands in
+his range than Lucani, right? Well, kind
+of. But as a percentage of his range
+that gets to the river, Niti Edward's
+range is actually a lot stronger. 55% of
+Niti Edward's range on this river is
+going to be top pair plus as compared to
+Lucani. Only 41% of his range is going
+to be top pair plus. Bear with me for
+just one second because I promise I'm
+going to bring this back around and
+actually connect it to the real games
+that you play. Let's look at equilibrium
+for just a second. We see here loose
+Lonnie on this river when he has an over
+pair in equilibrium he's never supposed
+to fold. An over pair is calling 100% of
+the time. When he has top pair in
+equilibrium supposed to call about 75%
+of the time. And when he has second pair
+or third pair supposed to call about 40%
+of the time and 35% of the time
+respectively. This means if loose Lonnie
+starts folding top pair more than 25% of
+the time or starts folding second pair
+more than 60% of the time that our
+bluffs are going to print. I feel pretty
+good. Even if a player is loose, we
+don't have to get them to fold over
+pairs to have a profitable bluff here.
+We just have to get them to fold weak
+top pair, maybe a hand like jack 10, 10
+9, 10. We just have to get them to fold
+these hands more than 25% of the time to
+have a super profitable bluff on this
+river. When we compare this to Nitty
+Nward, because his range is so much
+stronger in equilibrium, he's supposed
+to make bigger folds. We see here, he's
+supposed to fold over pairs 20% of the
+time. He's supposed to fold top pair
+nearly 57% of the time. We compare this
+to Lucilani. Lucilani was never folding
+over pairs in equilibrium and he's only
+folding top pair 25% of the time. Nitty
+Edward here is supposed to fold top pair
+57% of the time. So going back to what
+this means in the real world, if we can
+get Lucilani to fold top pair more than
+equilibrium, which is just 25 26% of the
+time, we are going to print with our
+bluffs. as compared to Niti Nedward
+because he gets to this river with such
+a strong range. More than 50% of his
+range is going to be top pair. Plus, he
+actually in equilibrium is supposed to
+fold some strong hands on this river.
+He's supposed to fold over pairs. He's
+supposed to fold top pair nearly 60% of
+the time. I don't know about you, but I
+don't feel good about bluffing a guy
+when he's supposed to fold top pair 60%
+of the time in equilibrium. All right,
+let's make just a couple assumptions on
+this river. Let's say when we go all in,
+Lucani never folds over pairs. he calls
+with his top pair 75% of the time, which
+is just about equilibrium. And let's say
+when he has 7x or 6x, he only calls
+about 20% of the time on this river. And
+you see, when we make these assumptions,
+that just means our bluffs are going to
+be absolutely printing on this river. We
+look at our exact hand, king, queen of
+clubs here, and we're winning nearly $61
+by jamming on this river. Look at all
+these hands we're turning into a bluff.
+We're turning ace king off into a bluff.
+We're turning ace queen off into a
+bluff. We're turning ace queen of clubs
+into a bluff. Ace king of clubs into a
+bluff. Almost every hand in our range
+here except our value hands are just
+being turned into a bluff because Lucani
+is just getting here with too wide of a
+range. Now, let's make the exact same
+assumptions against Nyward. So, he's
+just never folding an over pair. He's
+calling with top pair 25% of the time,
+and he's calling with second and third
+pair 20% of the time. the exact same
+thing we did against Lucani. And now our
+range that goes all in on this river
+looks quite a bit different. You see
+with king queen of clubs here we're
+actually losing nearly $61. So we went
+from winning $60 plus dollars bluffing
+loose lani to losing $60 plus dollars
+bluffing nitty Nedward on this river.
+You see all of our value hands are just
+always jamming because his range is so
+strong that we think he's going to be
+underfolding. And you see here on this
+river we are pretty much just never
+jamming whenever we have a bluff. So, it
+seems a little counterintuitive at
+first, but the more profitable player to
+bluff on this river is actually going to
+be the loose player rather than the
+tight player. Because a loose player
+gets there with such a weak range, we
+just don't need to get him to fold that
+many strong hands to have a profitable
+bluff. Whereas, the tight player gets
+there with so many strong hands that we
+are counting on him folding top pair and
+some over pairs in order to have a
+profitable bluff. And I would feel a lot
+less good about getting somebody to fold
+over pairs and all their good top pair
+than just trying to get a guy to fold
+his weak [ __ ] Live poker is an
+extremely complex, beautiful game. If
+you want to actually crush the live
+poker games you play in, looking at
+equilibrium solver outputs just not
+going to get the job done. If you want
+more like this, if you want to learn
+what players to bluff all the time, what
+players that we should probably just not
+be bluffing all that much, if you want
+all the counterintuitive sauce and to be
+one step ahead of everybody you're
+playing against in your pool, check out
+our 7-day crash course. We are booking
+now for summer. Sign up. I will see you
+there. All right. Now, instead of loose
+versus tight, let's look at aggressive
+versus passive. All right. So in this
+hand, Aggro Agnes is going to open in a
+cut off. We're going to three bet on the
+button with ace three of hearts. And he
+is going to call. So this going to be
+Aggro Agnes' range going to the flop. We
+see he's just going to be pretty
+aggressive just for betting linear out
+of position. He's going to be for
+betting these jacks, queens, kings, ace
+queen suited, ace king, maybe some ace
+five suited as well. So a pretty
+standard close to equilibrium range.
+He's just going to be for betting rather
+aggressively. Cutoff versus Button here.
+And we're going to play the same spot
+against passive Pascal. And when we
+three bet, he is also going to call. And
+passive Pascal also going to continue
+with a very reasonable range to the flop
+here. But we see he's just not as
+aggressive with his for bets. Maybe he's
+still for betting some queens, kings,
+ace king, but he's not going to be as
+aggressive going linear. So we see he's
+not going to have the ace queen suited
+in there. Maybe not the jacks and tens.
+Maybe not the A5 suited as opposed to
+Aggro Agnes who's just going to have
+some more aggressive four bets in there.
+All right, going to the flop here. 1064.
+Once again, we are going to seb and
+Aggro Agnes is going to call. And on
+this flop, true to his name, we're going
+to have Aggro Agnes play aggressively.
+If he has a set like sixes, fours, or
+tens, he's going to raise around 80% of
+the time. If he's got top pair, maybe
+hand like ace 10 suited, he's going to
+raise about a quarter of the time. If
+he's got a big combo draw like seven,
+eight of clubs, he'll raise about 80% of
+the time. A naked flush draw like king
+queen of clubs will raise about a
+quarter of the time. An openin straight
+draw or a double gutter like 78 will
+raise about 25% of the time. And a gut
+shot like 89 suited will raise about 10%
+of the time. So overall playing
+relatively aggressively here on the
+flop, but nothing egregious, just
+relatively aggressively with both his
+value hands and his big draws. For
+passive Pascal, we're going to have him
+play just a little bit more passively.
+His sets are only going to raise 40% as
+opposed to 80%. His top pair is only
+going to raise 12.5% of the time as
+opposed to 25%. His combo draws will
+raise 40% of the time as opposed to 80%.
+The flush draws and the open enders will
+raise about 12.5% as well. And the gut
+shots will raise just 5% of the time. So
+he's not playing like a total nit, just
+a little bit more passive here on this
+flop. Now the deuce of clubs comes in on
+the turn. So the front door flush
+completes. Agro Agnes checks it over and
+we are going to continue for a small
+size here on this turn. And once again
+going to have Aggro Agnes stay true to
+his namesake. He's going to continue
+playing aggressively here. If he has a
+flush, he's going to raise about 80% of
+the time to the small one-/3 pot size on
+the turn. If he has a set that trapped
+on the flop, maybe those mostly call
+here, but they still raise 20% of the
+time. And he's going to have some bluffs
+here as well. If he has hands like ace
+queen with a club or king queen with a
+club, those type of blocker bluffs will
+start raising here on the turn about 20%
+of the time as well. Same turn for
+passive Pascal, but he's going to play a
+little bit more passively. So, he's just
+going to raise about half the time of
+Aggro Agnes. His flushes raise 40% of
+the time, his sets raise about 10% of
+the time, and his blocker bluffs raise
+about 10% of the time. So, those hands
+like ace king, ace queen, king, queen
+with a club here going to raise about
+10% of the time. So again, not super
+super nitty, just a little bit more
+passive than aggro Agnes. So we go to
+the river, which is the innocuous seven
+of spades. And now we are going to look
+at both of these players ranges on this
+river. Both Aggro Agnes and passive
+Pascal. First aggro Agnes, he's going to
+have about
+44.6 combos in his range getting to this
+river. And of those combos, 2.1 will be
+flushes, 2.8 combos of sets, and he's
+actually going to have zero combos of
+over pairs here getting to the river.
+Remember he was super super aggressive
+pre flop with his forat. So overall
+getting to this river aggro Agnes only
+11% of his range is going to be over
+pairs plus. He's just going to have a
+relatively weak range getting to this
+river that mostly consists of top pair
+and under pairs. Compared to passive
+Pascal, he's going to have 71.3 combos.
+So he's going to have more combos that
+get to this river than aggro Agnes. And
+he's actually going to have about nine
+combos of flushes here. He's got about
+6.9 combos of sets and he's got 7.9
+combos of overpairs still available in
+his range. So on this river passive
+Pascal 33% of his range is going to be
+over pairs plus and 22% of his range is
+going to be sets and flushes compared to
+Aggro Agnes only 11% of his range on
+this river was over pairs plus which
+player is going to be more profitable to
+bluff. If we look at Aggro Agnes first,
+when we jam for 2x pot on this river,
+he's supposed to never fold a set and
+never fold a flush in equilibrium. When
+he does have top pair here, he's
+supposed to call about 30% of the time
+on this river in equilibrium. As opposed
+to passive Pascal when he has a set
+here, he's only supposed to call about
+75% of the time. So, he's supposed to
+fold some sets here because he has so
+many flushes in his range. Also, his
+over pairs and his top pair are only
+supposed to call about 10% of the time.
+So, if he has an over pair like queens
+or jacks here, he's supposed to fold
+nearly 90% of the time in equilibrium,
+that means if he starts calling more
+than 10% of the time with his over
+pairs, or more than 75% of the time with
+his sets, our bluffs just aren't going
+to be profitable against this player.
+So, let's make a few assumptions on this
+river for Aggro Agnes and passive
+Pascal. Let's say when they have a set
+or a flush, they just never fold to a 2x
+pot size jam on this river. When they
+have an over pair, it's 50/50. They
+sometimes call, sometimes fold. And when
+they have top pair, they hero us about a
+quarter of the time when they have a
+hand like ace 10, king 10, jack 10,
+something like that. So we see here
+against aggro Agnes with ace three of
+hearts, we're winning nearly $105 by
+going for the 2x pots-iz jam on this
+river. See all of these hands in our
+range that are bluffing. We have a hand
+like ace king of hearts, ace king of
+spades, ace king of diamonds. These
+hands always bluffing. When we have ace
+king off, these hands almost always more
+profitable to jam the river as a bluff.
+Hell, when we have pretty much anything
+except a flush on this river, going to
+be more profitable to jam as a 2x potsiz
+bluff. We're just jamming as a bluff
+almost all the time on this river
+against aggro Agnes. Compare this to
+passive Pascal and ace three of hearts
+is losing $53 on this river by jamming.
+And you see here, we're just rarely
+rarely jamming on this river. And when
+we are, it is going to be for value. Our
+value hands like ace9 of clubs, like
+ace8 of clubs, king jack of clubs. These
+are the hands that are going to be more
+profitable to jam on this river. And we
+have a bluff like ace king of spades,
+king jack of diamonds. These hands are
+just never jamming because passive
+Pascal's range is so strong. He's
+probably going to be overalling relative
+to equilibrium. So once again, we can
+see kind of
+counterintuitive going to be more
+profitable to bluff the aggressive
+player than the passive player. Now,
+let's look at one more spot and I want
+to dig in when we are the pre flop
+caller against an aggressive player and
+a passive player and see one more time
+which is more profitable to bluff. All
+right, so this time we open in the
+cutoff. Agro Agnes going to three bet on
+the button and we are going to call.
+We're going to play the same hand
+against Agro Agnes and passive Pascal
+again. So, Agro Agnes going to have a
+wide three bet range on the button.
+Maybe something like this. And when we
+get three bet by passive Pascal here on
+the button, maybe his range looks more
+something like this. Just a little bit
+tighter. Still going to have some suited
+connectors, maybe some wheel aces still
+in there, but not nearly as aggressive
+as Agro Agnes. Now, we're going to go to
+a flop 1064. Once again, we're going to
+check it over. Both Aggro Agnes and
+Passive Pascal are going to see bet.
+We're just going to assume both of these
+players are kind of competent. They're
+just going to be nearly range seab
+betting on these flops. So, we are going
+to call. Turn is a deuce of diamonds. We
+check it over and Aggro Agnes and
+passive Pascal are both going to double
+barrel for a $200 size on this turn. So,
+what is their range double barreling
+here? Aggro Agnes is going to bet his
+over pairs 100% of the time on this wet
+dynamic board. Let's say he's betting
+top pairs, say 95% of the time. He's
+going to bet his draws here about 90% of
+the time as well. And this guy is
+aggressive, right? It's a three bet pot.
+He's super aggro. So, we'll say here
+when he has air that he's betting about
+70 75% of the time. The showdown value
+might just check back, but his complete
+whiffs here, hands like queen, jack of
+hearts or something like that. We'll say
+his air is betting about 75% of the
+time. Conversely, for passive Pascal,
+we'll say his over pairs are also
+betting 100% of the time here, but his
+top pair may be betting 75% of the time.
+He'll check back some of his weaker top
+pair here on the turn in a three bet
+pot. Maybe hands like jack 10 10 n
+suited, something like that would check
+back here some of the time. His draws
+are betting 50/50. He's probably betting
+his stronger draws, his combo draws, but
+he might check back with some gut shots
+or maybe some of his weaker flush draws
+here. And then his air, his hands like
+queen jack of hearts are only betting
+here about 25% of the time as opposed to
+75. So he's not a complete nit, but he's
+just going to be a little bit more
+passive than aggro Agnes. So for Aggro
+Agnes on this turn, let's look at his
+range. He's going to have about 109.3
+combos in his range that bet on this
+turn. Of that range, he's got about 22%
+over pairs, 14% top pair, and 3% set. So
+about 39% of his range that bets big on
+this turn is going to be top pair plus.
+Let's compare that to passive Pascal.
+He's going to have about 58.3 combos of
+his range that bet on this turn. Of that
+range, 41% is going to be over pair, 17%
+is going to be top pair, and about 5% is
+going to be sets. So, his range is going
+to be
+63% top pair plus that bets on this
+turn. Let's say we decide to check raise
+jam this turn as a bluff against aggro
+Agnes in equilibrium. He's supposed to
+call with top pair and over pairs 100%
+of the time. He's never supposed to fold
+when he has top pair plus. His flush
+draws are supposed to call about 40%.
+And his second and third pair, hands
+like pocket 96x 54 suited are supposed
+to call about 40% of the time here on
+this turn. As opposed to passive Pascal,
+if we check raise jam this turn, his
+over pairs are only supposed to call
+about 85% of the time. So he's supposed
+to fold over pairs 15% of the time. He's
+supposed to fold top pairs here 43% of
+the time. And he's supposed to fold
+second and third pair here 80% of the
+time here. And he's supposed to fold
+flush draws 90% of the time. So we see
+passive Pascal when we check raise jam
+here is just supposed to fold a lot
+stronger hands. Let's say we lock both
+of these players. Let's say aggro Agnes
+and passive Pascal. Let's say when we
+check raise jam and over pair never
+folds. If they have jacks plus they're
+just their hero calling us off 100% of
+the time. Let's say when they have top
+pair a hand like ace 10, king 10, queen
+10, they're calling 80% of the time. And
+let's say when they have a flush draw,
+they're calling about 40% of the time.
+So their strong flush draws call. Their
+combo draws call. Maybe their weak flush
+draws fold. And then when they have
+second or third pair, they're only
+calling about 20% of the time heroing us
+here. Here's our response to Aggro
+Agnes. We see 87 of diamonds is just
+printing nearly $21 here by check race
+jamming the turn. You see, we're raising
+the turn nearly 33% of the time here.
+We're turning hands like pocket fives
+into a bluff. 54 suited into a bluff. 6x
+is getting turned into a bluff here.
+Lots of flush draws. Hands like queen
+nine of clubs, king nine of clubs. All
+of these hands are printing by check
+raise jamming on the turn against aggro
+Agnes because his range is so wide and
+relatively weak. Now compare this to
+passive Pascal. Look, we're only raising
+6% of the time. What hands are we
+jamming? Our sets. We're jamming pocket
+10s, pocket sixes, pocket deuces, pocket
+fours. That is really it. If we look at
+8, seven of diamonds, we are losing
+$164 by check raise jamming on this
+turn. We are just never jamming as a
+bluff because passive Pascal's range is
+just too strong. And we are assuming
+here that because his range is so
+strong, he's probably going to underfold
+relative to equilibrium. Remember, in
+equilibrium, he's supposed to fold over
+pairs some of the time. He's supposed to
+fold top pair more than 50% of the time.
+And if those things just aren't going to
+be true, our bluffs are just not going
+to be profitable against this player.
+All right, guys. Hopefully, this video
+on which players are most profitable to
+bluff opened some eyeballs and changed
+some minds and most of all turned you
+into the biggest boy possible. Thank you
+guys and have a gentle

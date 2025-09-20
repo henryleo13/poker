@@ -1,0 +1,908 @@
+And if you're not making the money you
+should from poker, you're probably over
+complicating it. Because even one of the
+toughest spots to play out of position,
+you can crush your opponents by asking
+at most three simple questions. So
+today, by the end of this video, out of
+position play will hopefully feel easy.
+You ready? Let's jump in. All right, so
+we're going to start here on the flop.
+We open pocket 9ines and the cutoff
+button is going to call and the flop
+comes jack nine deuce. What do you know?
+So once again, we're going to pull up
+one of these beautiful flowcharts here.
+And the first question I would ask is,
+is this spot likely to be stabbed by the
+opponent if we check to them? And I
+would say our opponents are much more
+likely to stab if the board is dynamic
+and wet, and much less likely to stab if
+the board is static and dry. So let's
+tackle these first. We all probably know
+what a wet board looks like and what a
+dry board looks like. A wet board simply
+means there's a bunch of draws out
+there, right? So a board like Jack,
+nine, deuce with a couple of spades.
+This board is wet because a spade could
+come in on the turn bringing in a flush.
+A queen, a king, a nine, an eight, a
+seven could come in bringing in a
+straight. Conversely, a board like a
+seven deuce rainbow. This board is very,
+very dry. Not a lot of draws out there,
+only a real gutshot. So, wet versus dry
+simply means are there a bunch of draws
+out there? If yes, wet. If no, dry.
+Static versus dynamic. This is a little
+bit different, but I find it's probably
+even more important than wet versus dry.
+And this just simply means are the nuts
+likely to change on the turn. So, first
+let's look at a dynamic board. And a
+dynamic board can be either wet like
+jack nine deuce with a flush draw. This
+board is dynamic because the nuts are
+likely to change on the majority of
+turns. The board could also be dry. A
+board like seven three deuce rainbow.
+This board is dry. There's only really a
+straight draw out there. But pretty much
+every turn card changes the nuts except
+a seven. So this board is dynamic. And
+when we look at static, the board could
+be dry like our example before a seven
+deuce rainbow. This is a static dry
+board. Or the board could be wet like
+jack 10 deuce with three clubs. This
+board is static because the nuts in ace
+high flush is unlikely to change on the
+turn. But the board is wet because a lot
+of draws could come in on the turn. The
+more dynamic and wet the board, the more
+likely it is to get stabbed. The more
+static and dry the board, the less
+likely it is to get stabbed. And one
+final piece to this puzzle, when we ask
+is it likely to get stabbed, we have to
+consider who is the opponent we are
+playing against. If we are against kind
+of a more aggressive player, of course,
+it is more likely to get stabbed if we
+check to And if we are against a super
+super passive nitty player then in that
+case it is less likely to get stabbed.
+So when we consider this question is it
+likely to get stabbed we're considering
+a couple of variables all encapsulated
+in this one question. So let's put some
+concrete examples to this and make it
+make sense. All right so in our first
+example here where we open pocket nines
+from the cutoff and get called by the
+button and the board comes jack nine
+deuce. And in this particular scenario,
+because the board is so wet and so
+dynamic, I would generally say yes. This
+board is very, very likely to get
+stabbed if we check. Unless we're
+playing against the most passive Patty
+in the entire world. So, let's go to our
+chart here. Is it likely to get stabbed?
+I would say yes. My strategy here when
+the board is just very likely to get
+stabbed, I am just going to be checking
+my entire range. Why is that? Well,
+let's go back to the hand. when the
+board is super likely to get stabbed and
+we have a hand like pocket nines, we
+really really benefit from checking here
+because when our opponent stabs, we just
+get to put in a massive check race with
+super kind of nutted hands that can play
+for stacks like pocket nines here. We
+just get to play a twoeight game and
+pile in all the money across the flop
+and the turn. If we just bet ourselves,
+we wouldn't be able to get in all the
+money just by going bet when we start
+off this deep. Same thing here. If we
+had a hand like pocket kings on this
+flop, we would also want to check
+because our opponents tend to telegraph
+their hand strength with their sizing.
+And if our opponent stabs small, we can
+put in a giant check raise with kings
+and kind of play for stacks against
+their jacks, their straight draws, their
+flush draws, whatever. And if our
+opponent stabs big, well, we can kind of
+check call and see what they do on the
+turn. So, we get to kind of play
+perfectly with our thick value hands.
+Also, when we have a semi bluff here,
+like a flush draw like 8, seven of
+spades or when we just have air on this
+board like seven six of diamonds, we
+would also want to check because our
+opponent gives us so much information by
+the action they take. So, if our
+opponent stabs small and we have a flush
+draw, we can often just put in a check
+raise and try to maximize fold equity
+against a weak range. And if our
+opponent stabs large and we have a flush
+draw, well, we just know we don't have
+that much fold equity, they're going to
+have a very strong range and we can just
+check call here. And then if we have air
+and our opponent stabs here, well, we
+can just check fold. But the really cool
+thing here is if the flop goes check
+check and we have air, we just know
+because our opponents are overstabbing
+on this board so much, they just don't
+have very many strong hands at all. and
+we can just apply a lot of pressure
+against a range that can't withstand
+heat with kind of the zero equity
+portion of our range. So going back to
+our chart, you see here if it's likely
+to get stabbed, just a ton of benefits
+to checking our range here from out of
+position both when we have value and
+when we have bluffs, right? So what if
+the board is not as likely to get
+stabbed? Like in this example, we open
+ace king and the cutoff button calls and
+flop comes ace 7 deuce. So back to our
+chart here, this board is the most
+static and dry. So most typical
+opponents on this board will not be
+stabbing nearly as much. So the next
+question I would ask here is the SPR
+greater than 15. And SPR simply means
+stack to pot ratio. And we can get this
+number by dividing the effective stack
+size by the amount of money currently in
+the pot. So let's go back to the board
+here and we see here 975 divided by 57.
+Well, we don't need the exact number,
+but this is greater than 15. It's
+probably about 17, something like that.
+not the best at math, but we can see
+generally if we're starting 200 plus big
+blinds deep in a single race pot,
+generally the SPR is going to be greater
+than 15. And if we're starting 150 big
+blinds or less, then generally the SPR
+will be less than 15. So, back to our
+chart here. Yes, the SPR is greater than
+15. And we see here we want to bet when
+we have thick value and we want to check
+when we have hands that are can play for
+stacks, thin value, showdown value,
+draws, and air. And just a quick note,
+CPFS or can play for stacks. These are
+essentially hands that are just
+comfortable piling in all the money.
+They're fist pumping in all the money
+right now. So, these are the strongest
+of the strong hands in our range. So,
+let's go back to our board. And first,
+let's classify this hand. And I would
+say this is thick value. It's not
+necessarily a hand that can play for
+stacks. If we get raised on this board,
+we're not fist pumping the money in,
+right? We lose to a seven, ace de pocket
+sevens, pocket deuces. This is not a
+hand that can play for stacks, but
+definitely a thick value hand. the
+reason why we just want to come out and
+consider betting this hand ourselves. We
+already deduced that our opponents
+aren't going to be stabbing nearly as
+much on this board. And second of all,
+even if they are stabbing with their AX
+a high percentage of the time, this is
+not the situation and not the stack
+depth and not the hand type that we are
+going to be able to play for stacks. For
+example, if we would check to our
+opponent and if they would stab on this
+board and if we would check race, we
+would just generate a ton of folds from
+weaker ax. Even if our opponent has a
+hand like ace jack or ace 10 or
+something like that, if we check raise,
+bomb the turn, and jam the river, well,
+there's just not many draws out there
+that our opponent can put us on, and
+we're probably just going to be getting
+a lot of folds. So, my preferred line at
+this SPR is just taking a bet bet bet
+line with our hand and just betting the
+flop, betting the turn, and betting the
+river. And sure, we can't necessarily
+get in all the money this way,
+especially if we want to get called by a
+hand like ace jack or ace 10. But in
+some situations, even when we have a
+super strong hand, it is just not viable
+to be able to play for all of the money
+all of the time. Now, let's say same
+situation. Instead of having a thick
+value hand, we have a hand that can play
+for stacks. A hand like pocket sevens
+here. So, let's go back to our chart and
+we see here when we have sevens, which
+is can play for stacks hand, we want to
+check here. So, why do we want to check
+even if this board is not nearly as
+likely to get stabbed when we're just
+betting when we have a hand like ace
+king or ace queen? Well, the thing about
+having a hand like pocket sevens here is
+we can absolutely cooler our opponents
+when they also have a strong hand. If
+our opponent has a hand like a7 or ace
+deuce or pocket deuces or even a hand
+like ace king or ace queen that they
+just flatted with pre flop, which
+happens all of the time in live poker by
+checking here with the absolute top of
+our range, we just get to make sure when
+our opponent also has a very strong
+hand, we get to play for all of the
+money. And pocket sevens is a hand that
+is quite comfortable. when all the money
+goes in, we're just going to have the
+best hand 99.9% of the time. Whereas, if
+we have a hand like ace king or ace
+queen on this particular board, if all
+the money goes in, we are probably value
+owning ourselves at a high frequency.
+And then what if we had an airball here,
+a hand like Jack 10 of clubs or
+something like that on this flop? Well,
+let's go back to our chart. And you see
+here with our draws, with our air, we
+are also checking here because even if
+the board is not exceedingly likely to
+get stabbed, our opponents are still
+going to put in money when they have
+their super strong hands. their hands
+like two pair, their hands like sets,
+their hands like top pair, top kicker,
+top pair, good kicker. And yes, they'll
+occasionally check back a medium or weak
+top pair, but they're not going to have
+these super super super strong hands in
+the range most of the time when they
+check back, even on a board that is this
+dry and static. So when our opponents
+check back, we get a little bit more
+information with our bluffs, with our
+air, and then we can start applying
+pressure across turns and rivers knowing
+that we're just not going to run into
+the top of their range nearly as often.
+All right, let's look at one more
+example. Again, we open the cutoff
+button calls A7 deuce. And if you
+notice, this time we only start the hand
+500 effective. So let's go back to our
+chart. Is it likely to get stabbed? Once
+again, probably not as likely when the
+board is this static and dry. Is the SPR
+greater than 15? Back to the flop. And
+again, when we're looking at SPR, we're
+looking at the effective stack. So we
+want to be looking at the opponent's
+stack. And in this situation, no, the
+SPR is not greater than 15 because our
+opponent started off only 100 big blinds
+deep. So back to our chart here, we
+would say no. The SPR is not greater
+than 15. And in this particular
+situation, you see we're making a
+deviation here and we are also betting
+our comp play for stacks hands along
+with our thick value. We're still
+checking our thin value, our showdown
+value, our draws, and our air here.
+Those hands just benefit from checking a
+lot. But why are we checking our can
+play for stacks hands when the SPR is
+greater than 15 and betting our can play
+for stocks hands when the SPR is less
+than 15. As we go back to the board
+here, we see because of the SPR we
+started this hand with, we can just very
+easily go bet, bet, never putting in an
+overb, having less than a 75% potsiz bet
+on the river. We can just very, very
+easily get in all the money by going bet
+ourselves. We don't really have to worry
+about bad turn cards, bad river cards.
+We're just trying to make sure that our
+opponent's never going to fold a hand
+like ace jack, ace 10, ace 9, whatever.
+And if we go bet, that is the way to
+minimize fold equity. don't really need
+a check raise to get in all the money
+here. Okay, so what about this scenario
+when we have pocket nines on a board
+that is likely to get stabbed and we see
+here again our opponent starts off this
+hand relatively shallow only about 100
+big blind. So back to our chart and you
+see here when the board is likely to get
+stabbed we'd still be checking our
+entire range here even when our opponent
+is shallow. So why is that? Let's go
+back to this example here. And the
+reason is when the board is particularly
+wet and dynamic like this, even though
+we can get in all the money by going bet
+ourselves, when the board is just so
+exceedingly likely to get stabbed, it's
+just really nice to be able to put in a
+check raise and play either a one or two
+street game because if our opponent does
+have a hand like ace jack for top pair,
+top kicker, the turn could bring in a
+straight, it could bring in a flush. Our
+opponent could get a little bit more
+squeamish with their hand. And if we're
+trying to play a three- street game,
+they may just not put in all the money
+by the river. Same thing if our opponent
+has a draw here, an open-end strike draw
+or an ace high flush draw and we just go
+bet, we're probably not getting in all
+the money unless they get there, right?
+But by checking, even when our opponents
+are shallow, when the board is
+exceedingly likely to get stabbed, we
+often just get to play a one or two
+street game. You see here, we check
+raise big on the flop and we can just
+pretty much jam any turn here, easily
+get the money in, and not have to worry
+quite as much about bad cards coming
+where our opponents are going to fold
+hands that we have drawing very thinly.
+So you see here once again the big
+picture question we ask on a flap is is
+it likely to get stabbed and if yes we
+are just going to check our range and if
+no we ask is the SPR greater than 15 and
+if yes we're going to just be betting
+our thick value and checking everything
+else and if the SPR is low if we are
+more shallow with our opponents then
+we're just going to be betting our can
+play for stacks and our thick value and
+checking everything else. So this is how
+I think about flops and decide when to
+check and when to bet. Now, let's talk
+about playing flops after we have
+checked and our opponent stabs. All
+right, so the very first question I like
+to ask when we check to our opponent is
+a pre- flop razor and then they stab is
+just very simple. What size did they
+stab? Let's go into a couple examples. I
+will put this into practice. All right,
+so we open pocket eights in the cutoff.
+Button is going to call. Flop comes
+queen 84. And is this board likely to
+get stabbed? I would say yes. So, we're
+going to check our entire range here.
+Now, our opponent stabs for $40 into 57.
+Back to our handydandy chart here. What
+size did they stab? Well, this is a
+pretty big size over 2/3 pot on the
+flap. I would classify this as big. You
+see here we've got three actions. We can
+either check raise, check call, or check
+fold. And when they stab big, this just
+means our opponents in general have a
+range that is pretty pretty strong. Now,
+this doesn't mean they always have a
+strong hand and they never have a weak
+hand. But generally, when opponents stab
+big when we check to them, they're just
+going to have too much strong stuff in
+their range and not quite enough weak
+stuff. Even if it's just weighted 10,
+15, 20% too much strong stuff. I'm not
+saying they never have a weak hand or
+they always have a strong hand. It's
+just when they stab big, their range is
+going to be very strong. So you see
+here, we're check raising whenever we
+have a comp play for stacks hand or a
+combo draw. So back to our board here in
+a hand like pocket eight, definitely a
+hand that can play for stacks. So we
+would be check raising. Would also be
+check raising here if we had a hand like
+Jack 10 of hearts or 10 nine of hearts
+or 4x of hearts. if we had a combo draw
+on this board would also be check
+raising. Well, Mark, they have a super
+strong range here. Why are we check
+raising with a draw if they're just not
+going to fold? Good question. And the
+answer to that is because when we have a
+combo draw here, we just have so much
+equity in our hand against their range.
+Even if our opponent has a hand like ace
+queen here and we have a hand like jack
+10 of hearts, we are basically flipping
+with our opponent. The more equity in
+our hand we have, the less fold equity
+we need. So, even though we don't have a
+ton of fold equity when they stab big,
+even if we just have a shred of it,
+remember I said they don't always have
+strong hands when they stab big. It's
+just generally strong hands. Even if
+they fold 7, 8, 12, 15% of the time by
+the river, when we have a combo draw,
+we're absolutely printing because we're
+going to get there 40 45 50% of the time
+ourselves. And then if we can just pile
+on an additional 10 to 15% fold equity
+on top of that where we are just
+printing money with our big big draws
+here. You see here, going back to our
+chart, we're going to call here when we
+have thick value, thin value, or high
+equity draws. So, going back to this
+board, if I did have a thick value
+handto hand like king queen or something
+like that, I would be just check calling
+here because when our opponent chooses
+this big size, they're representing a
+super strong range. And if we just start
+piling money with king queen, we're
+going to be value owning ourselves
+probably a little bit too much for my
+liking. So, thick value with king queen,
+we just be calling here. We're going to
+see what our opponent does on the turn,
+they will generally be face up and we're
+going to be able to play perfectly. If
+we do have a thin value hand here, maybe
+a hand like Ace8, I would also be
+calling on this turn. Our opponent could
+still have some draws that we're ahead
+of. Once again, they're generally going
+to be more face up on the turn with
+their double barrel. So, our thin value
+hands, a hand like Ace8 here would
+probably just be calling once to see
+what happens on the turn. High equity
+draws like ace high flush draws. These
+hands have a little bit less equity than
+our combo draws. So, would just be check
+calling with these as well. Once again,
+the more equity in our hand we have, the
+less fold equity we need. In this
+particular case, even with an ace high
+flush draw, just don't think we have
+enough fold equity to make that a
+profitable check raise. Going back to
+our chart here, you see we're just check
+folding when we have showdown value or a
+low equity draw. So, back to the hand
+here, I would just be check folding if
+we had a hand like ace jack high or a
+hand like pocket fives or pocket sevens
+in this particular spot because when our
+opponent stabs big, their range is
+strong. So, we can just fold out the
+bottom of our range. All right, so we
+talked about what to do when our
+opponent stabs big. Now, what if our
+opponent stabs small? So let me give you
+a few examples. All right. So we open
+eight nine of hearts in the cutoff.
+Button calls. Flop comes 1065. We go
+back to our flowchart. Is it likely to
+get stabbed? Well, the board is wet and
+dynamic. This player is not particularly
+passive in my madeup example. So yes,
+the board's likely to get stabbed. We
+are just going to check here. And now
+our opponent stabs for 20 into 57. Back
+to our chart here. And when they stab
+small, the next question I ask is what
+is the board type? Well, going back to
+our board 1065 with a flush draw. This
+board is wet and it is dynamic. And you
+see here when the board is wet and
+dynamic and our opponent staff small, we
+are just putting in a ton of check
+raises. Our can play for stacks, our
+combo draws, our thick value, our high
+equity draws, and our low equity draws
+are all check raising here. So if we had
+a can play for stacks hand here, a hand
+like pocket sixes, we would be checking.
+Well, Mark, why are we checking when our
+opponent stabs small and they obviously
+have a weak range? And my answer to that
+is just because our opponent stabs small
+doesn't mean they don't have some
+inelastic hands in their range that just
+aren't folding to a check raise no
+matter what. Our opponent probably
+doesn't have a lot of top pair or over
+pairs or two pair or sets here when they
+stab small. Might they have a hand like
+an open straight draw? Might they have a
+hand like an ace high flush draw? Might
+they have a hand like 5x of diamonds?
+None of these hands are generally going
+to fold to a check raise. So we just
+want to maximize value against the
+inelastic portion of the range when we
+have a hand like pocket sixes here. And
+if our opponent stabs small and they
+have a hand like ace4 of hearts that
+they're just monkey stabbing or a hand
+like pocket fours, it doesn't matter.
+They're probably not putting in any more
+money no matter what we do. So we may as
+well check raise large here when we have
+a good play for stacks hand and maximize
+value against the inelastic portion of
+their range that is just going to call
+no matter what on this flop. When we
+have a combo draw here, a hand like
+eight seven of diamonds, we would also
+want to be check raising. This hand just
+has a ton of equity. And once again,
+we're going to have more fold equity
+when they stab small. And when we have
+eight high with the combo draw, that's
+pretty good for us. So, we want to
+maximize the fold equity across turns
+and rivers. We just want to be putting
+the check raise when we have a cobble
+draw. Now, if we have a high equity
+draw, a hand like ace three of diamonds,
+also want to be check raising because
+once again, the more fold equity we
+have, the less equity in our hand we
+need and we think we have a little bit
+more fold equity when our opponent stabs
+small. So, our high equity draws like
+ace three of diamonds or even our low
+equity draws, a hand like eight, nine of
+hearts here could also be check raising
+with these hands because we can just
+apply a lot of pressure and get a lot of
+fold specifically across turns and
+rivers. Going back to our chart, you see
+when we have thin value or showdown
+value, we're just check calling. And
+once again, when we have air, we are
+just check folding. All right, so this
+is how to play facing a stab when the
+board is dynamic and wet. But what about
+if the board is static and dry? All
+right, so this time we're going to open
+with six, five of diamonds, and the
+cutoff button is going to call king 84.
+And we're going to go to our initial
+chart here for our flop decision. Is it
+likely to get stabbed? I would say this
+board is more static and dry, so it's
+less likely to get stabbed. We don't
+know here just for shits and giggles. Is
+the SPR greater than 15? Well, yes. We
+started this hand 200 big blinds
+effective. So yes, we would see here we
+would check with pretty much everything
+in our range except our thick value. We
+have a draw here. So we would be
+checking. Back to the board. We check.
+And now our opponent stabs small. So now
+back to our flop facing a stab
+flowchart. Our opponent has stab small.
+What is the board type? Well, now the
+board is static and dry. And when the
+board is static and dry, you see here
+where only check raising can play for
+stacks and combo draws, which is very,
+very similar to what we do when they
+stab big. So why when the board is
+static and dry and they step small,
+we're being so so careful about the
+hands we check raise. Or when the board
+is dynamic and wet and they stab small,
+we are just check raising with impunity.
+And going back to our board here, the
+answer is the more static and dry the
+board, the less our opponents are going
+to telegraph the strength of their hand
+with their side. So on a board like
+this, king A4 rainbow, the board is
+super static. It's super dry. There's
+really only gut shots out there. Not
+much for our opponents to worry about.
+Our opponents just don't telegraph their
+hand strength with their sizing nearly
+as much. If our opponent does have a
+strong hand like ace king or pocket
+eights or pocket fours, they may well
+take the small size because generally
+fear drives players decisions and they
+are not fearful of a bad turn card
+coming in if they have a strong hand on
+this board. So when the board is static
+and dry, we just can't take as much
+information away from the size that our
+opponents use. Going back to our
+flowchart here, you see we're just check
+raising our comp play for stacks and
+combo draws. going to be a lot more
+careful on these static dry boards
+because our opponents can still just
+have a strong range. So, we don't want
+to go balls to the wall when we have low
+equity bluffs here when our opponent
+stabs small. All right, next let's talk
+about how to play turns after check
+calling the flop. So, let me show you an
+example. So, we're going to open 10 nine
+of hearts here in the cutoff. Opponent
+calls on the button. Flop comes king 94.
+And first, we want to start with our
+flop decision-making point here. You see
+here on the flop, we ask, is it likely
+to get stabbed? The board is wet and
+dynamic, so I would say yes. So, we are
+just checking our entire range here.
+Back to the board. We are going to
+check. Our opponent is going to stab big
+here for $40. Now, we're going to go to
+our flop facing a stab flowchart. We see
+our opponent has stabbed big. We are
+going to check call here when we have a
+thin value hand. And back to the board.
+10 nine of hearts. Second pair kind of a
+thin value hand. So, we are going to put
+in the call. Now, the turn is a deuce.
+We check it over to our opponent once
+again. And we face a double barrel. How
+do we play these turns after we check
+call on the flop? All right. So you see
+here on the turn, the question we're
+asking is what size did they stab on the
+flop? And generally because our
+opponents are going to put too many of
+their strong hands in the big size and
+too many of their weak hands in the
+small size. So this question often just
+as important or even more important than
+what size did they double barrel on the
+turn is what size did they initially
+stab? We see here in this particular
+example, if we go back to the flop here,
+you see here our opponent stabbed big.
+We go to a turn and now our opponent is
+going to double barrel. So back to our
+flowchart here, what size did they stab
+on the flap? Well, they stabbed big. So
+you see here on the turn, we are pretty
+much only check raising once again top
+of range our comp play for stacks and
+our combo draws. We're going to check
+call with our thick value, our thin
+value and our high equity draws. And we
+are just check folding our showdown
+value and our low equity draws. So we
+are just continuing relatively tight
+here on the turn. So going back to this
+particular example, going to be very
+hard for us to turn and play for stacks
+hand. If we had a hand like king deuce
+or something like that and we turn to
+pair, you get the point. combo draw.
+Maybe we turn a hand like ace five of
+diamonds, ace three of diamonds, ace
+deuce of diamonds, something like that.
+When we have so much equity in our hand,
+we just don't need a [ __ ] ton of fold
+equity. So, we would just put in the
+check raise when we have a combo draw.
+We also just put in the check raise when
+we have a can play for stacks hand. We
+have thick value, a hand like king,
+queen, pocket aces, we are just check
+calling once again on this turn. And if
+we have thin value now, I would say our
+hand 10 nine of hearts, maybe thin value
+on the flop, but facing a big stab on
+the flop, a double barrel on the turn, I
+would downgrade a hand like 10 nine of
+hearts, maybe to showdown value. Maybe a
+thin value hand on this turn would be a
+hand like king 10 or king six suited,
+maybe a weak weak top pair, something
+like that. So 10, nine of hearts
+probably downgraded to showdown value on
+this turn. And as we see here, going
+back to our chart, our showdown value
+and our low equity draws are just going
+to be folding on the turn. Another
+example here. We open ace4. Our opponent
+calls. Going to our initial flowchart
+here. Is it likely to get stabbed? Yes.
+So, we are going to check our opponent
+stab small and going to our facing a
+stab on the flop flowchart. When our
+opponent stabs small, we are calling
+with kind of our showdown value hands,
+which is what we have here. So, we are
+going to call. The turn is a four. And
+now, before we act on this turn, let's
+go over to our flowchart once again. So,
+you see here when our opponent stabs
+small on the flop, we have an additional
+option here on the turn. And I've just
+put in here the option to just come out
+and lead ourselves when we have strong
+hands, when we have can play for stacks,
+and when we have thick value hands. You
+see here, when our opponent stabs big on
+the flop, I'm just never coming out and
+leading. But when our opponent stabs
+small, I'm just coming out and putting
+in money ourselves when we have a hand
+that is thick value or can play for
+stacks. Why might we just want to come
+out and bet when we [ __ ] trips here on
+the turn after opponent stabs small on
+the flop? Because the board is wet and
+dynamic and our opponent stabs small,
+they just don't have nearly as many
+strong hands in their range. If our
+opponent did have a hand like ace,
+queen, king, queen, queen jack, they
+would probably just come out a bit
+bigger on the flop a lot of the time. If
+our opponent does have a draw, oftent
+times on these turns, because live
+players are more passive, if they have a
+straight draw, if they have a flush
+draw, if they just have a hand like
+pocket 10s or something like that,
+they're just going to check back quite
+often on this turn after they stab the
+flop small. So when we have a hand that
+is can play for stacks or thick value, a
+hand like Ace4 here, we just want to
+come out and lead ourselves because even
+though our opponent would check back
+here often if they had a hand like
+pocket 10s or a flush draw or an
+open-end straight draw, that doesn't
+mean they're folding to a single bet.
+And the way to minimize fold equity is
+often just to come out and bet ourselves
+when we bank a very strong hand on the
+turn after check calling on the flop.
+Okay, but what if we open a hand like
+jacked 10? We check on the flop. Our
+opponent's stab small. We just going to
+call with a low equity draw. And now we
+hit a combo draw on the turn. Well, back
+to our flowchart here. You see here,
+we're check raising when we have these
+combo draws on the turn. And the reason
+behind this is the way to maximize fold
+equity, particularly against a weaker
+range, which our opponents are going to
+have when they step small on the flop,
+is to put in the check raise. The way to
+minimize fold equity is just to come out
+and bet ourselves, the way to maximize
+fold equity is to go for the check
+raise. And going back to our hand here,
+when we have a combo draw, when we have
+jack high, our goal is to generate as
+many folds as possible. So, the way to
+do that would be to check on the turn,
+let our opponents stab, put in that big
+boy check raise, and we can just
+generate a lot of folds. And I know you
+may be saying, "Well, Mark, you said our
+opponents aren't going to be double
+barreling on the turn all that often
+when they choose a small size on the
+flap." That is true. One of two things
+happen here on this turn. Number one,
+our opponent does double barrel. We get
+to check raise the turn, apply a ton of
+pressure, and just get a lot of folds.
+Number two, our opponent checks back,
+which means we just get to realize our
+equity for free. And if we hit on the
+river, we can bet. And even if we miss
+on the river, we can often just bluff
+small, get our opponent to fold a bunch
+of their weak stuff like gut shots that
+beat us or ace high flush draws or
+whatever. By checking here with our
+combo draws, a lot of good things happen
+for us. And again, going back to our
+flowchart, why would our opponent stab
+big on the flop? Do we just want to
+check again when we have our can play
+for stacks hands on the turn and not
+just come out and lead? Well, let's look
+at this example. We open ace4 of clubs
+in the cutoff. Opponent calls on the
+button. King 94. We check. Our opponent
+stabs big. We call here on the flop. Now
+the turn is a four. So why would we want
+to check here again instead of just
+coming out and donking? Because when our
+opponent stabs big on the flop, they are
+just going to have a stronger range,
+which means they're much more likely to
+double barrel here and put in money for
+us. When our opponent stabs big on the
+flop, that means they're going to have
+hands like ace king, king queen, king
+jack, maybe some ace high flush draws,
+maybe some combo draws. And sure, check
+raising maximizes fold equity, but when
+our opponent has a very strong range,
+number one, we expect them to just put
+in more money for us almost all the time
+when we check here. And number two, we
+just don't expect them to fold all that
+much even to a check raise when they
+have a strong range. So by checking here
+on the turn, our opponent's often going
+to bet for us after they stab on the
+flop. we can put in a check raise and
+we're just able to pile in all the money
+across the turn and the river and often
+times play for stacks and get all the
+value from our opponents when we know
+that they have a strong range. Okay, so
+you see here on the flop with our
+initial decision when we are facing a
+bet on the flop and after check calling
+on the flop, we can often come to a very
+very good answer by asking just three
+questions or less. So we've also built
+out very very beautiful simple
+flowcharts for what to do after we check
+raise on the flop and now we are on the
+turn. And my favorite part, why this
+strategy is so so so profitable. How do
+we play turns after the flop goes check
+check. So if you want all of the sauce
+and all of the beautiful flowcharts,
+consider joining one of our 28-day boot
+camps or 7-day crash courses and you
+will get it all. But hopefully these
+three flowcharts we've discussed and how
+to come to a very effective answer by
+asking just three questions or less
+gives you a running head start and turns
+you into the biggest boy possible. Thank
+you guys and have a gentle

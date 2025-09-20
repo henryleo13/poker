@@ -1,0 +1,771 @@
+The most common bet size in poker is
+also the worst. Let me tell you about
+Alex, one of our early students. He was
+struggling and making about $35 an hour
+until we banned him from using any
+normal bet size between 1/3 to full pot
+on any turn in river. After a month, his
+win rate doubled. And over the next
+year, he had his first six figure year
+playing poker. Today, I'll show you the
+nine spots where medium bet sizes kill
+your win rate and also the four rare
+exceptions to the rule. If you're still
+defaulting to half pot, you are leaving
+piles of money on the table. All right,
+so the first example here is going to be
+as the pre flop razer facing a large
+stab on the flop. So we're going to open
+in the cutoff button calls. Flop comes
+jack 98. And as you guys are probably
+familiar with, I'm a big fan of doing a
+lot of checking out of position because
+live players tend to overstab and
+telegraph their hand strength with their
+size. We check here and now our opponent
+goes with the big boy size for $50 here.
+And I see a lot of players in this spot.
+They do put in the check raise, which is
+good. It's better than just calling
+here. But so many players here, they
+will just check raise as a default to 3x
+or 4x going 150 or 200 in this spot.
+Let's talk about why I think using this
+medium check race size is such a huge
+mistake. So, let's pull up the
+handydandy solver. We've given our
+opponent the option to choose three
+actions here. Either a big bet for 50
+bucks, a small bet for 25 bucks, or a
+check back. And if we plug in here just
+the part of our opponent's range that is
+top pair, two pair, sets, and straits.
+Essentially top pair less. Here we see
+our opponent is choosing this big size
+about 21% of the time, the small size
+about 24% of the time, and they check
+back 55% of the time. That means in
+equilibrium, when our opponent has top
+pair plus, they're choosing a small size
+or checking back nearly 80% of the time
+on this board. Is that a reality in live
+poker? All right. Instead, let's adjust
+this conservatively. Let's say when our
+opponent has top pair plus, they bet big
+half the time. They bet small 25%. They
+check back 25%. I still think this is
+conservative. I would say when our
+opponents just have a good hand on a wet
+dynamic board, they probably just bet
+big 70 80% of the time, but we'll give
+them a little bit of credit here. But we
+still see here when our opponent bets
+50, when they bet big, we're still using
+this large check race size to 6x to 300
+bucks. Never. The solver doesn't use
+this size. Here's why. When we check
+race to 300 here, the solver actually
+folds two pair, top pair, and fluster
+65% of the time to this big check raise.
+Because our opponent's range is so
+strong when they choose this big staff,
+they're supposed to make some huge folds
+when we check race to 6x. Do we think
+this happens? No. What if our opponent
+instead folds top pair, two pair, and
+flush draws only 40% of the time or 45%
+of the time? So, we just bump this down
+slightly. They're still making some big
+folds. They're still folding top pair
+quite a bit, but they're just not
+folding their combo draws or their ace
+high flush draws or two pairs. So, we
+just adjust this slightly. And would you
+look at that sweet baby there. Now, the
+solver can get behind this $300 big boy
+raise on the flop. Zooming out here, the
+reason why it's a punt to make a small
+raise when our opponent stabs big is
+because live players are going to be
+unbalanced. And when they stab big,
+their range is just too strong. Let me
+ask you, when a player stabs for 50 or
+60 on this board, how would you feel
+about bluffing them with a low equity
+draw or air? Probably not very good,
+right? It would probably be a punt cuz
+you're thinking, well, they're probably
+not folding when they bet this big
+because they have a strong hand. If we
+don't feel good about making their range
+fold, we are just lighting money on fire
+by choosing this medium check race size
+to $150 to $200, which I see so many
+rags do. When your opponent tells you,
+"Excuse me, I have a very strong hand
+and you have a strong hand that can
+cooler their strong hands, don't use a
+medium size. Put in the big boy check
+raise and win a lot more money." All
+right, next example here. When our
+opponent stabs small when we're the pre
+flop razor. So, we open pocket eights.
+Our opponent calls. We flop a set. We
+check it over. And now our opponent
+stabs for 25 here. And you may be
+thinking,
+"Well, Mark, when they stab big, they
+just have strong hands. So, when they
+stab small, don't they have weak hands?"
+Yes. Pretty good thinking. So, I know
+you said we don't want to use a medium
+size. Don't we want to check raise small
+here with pocket eights cuz our opponent
+has a weak range? No, probably not. And
+here's why. A couple of points. First,
+just because our opponent stabs small
+doesn't mean they're going to have zero
+strong hands in the range. It just means
+their range is going to be a little bit
+weaker. Now, if our opponent is monkey
+stabbing here with a hand like pocket
+nines or ace jack or something like
+that, if we just breathe on this check
+raise, they're going to fold. If we
+raise to 60 or 70, whatever, they are
+folding all of these hands no matter
+what. So, we're not going to get more
+value against hands like pocket 9ines or
+pocket sevens or whatever godforsaken
+combo that they may be stabbing with
+here. Now, they probably don't have a
+lot of pocket sixes and they probably
+don't have any pocket queens in their
+range the way this hand is played out,
+but they still have some draws when they
+stab small. They still have some top
+pair. And in general, live players are
+going to be a little bit too inelastic,
+meaning they're going to be a little bit
+too sticky, too price insensitive, when
+they do have a good hand here. So, if
+our opponent does have a hand like of
+clubs or 75 suited or they do end up
+with a queen here that took the small
+size, they are going to be inelastic.
+And if they're just monkey stabbing with
+a hand like pocket sevens, they're
+folding no matter what. So, we may as
+well go with the big boy size here
+because they're going to make a ton of
+mistakes versus this size. And in
+general, what I found in my experience,
+now this may differ for you, you may
+disagree, whether we check raise to 75
+or 100 here or whether we check raise to
+250 or 275, opponents are generally
+going to call too much. And if they're
+going to call too much, use the bigger
+size and punish them for calling too
+much. What's going to happen here some
+of the time is your opponent's going to
+flip over a hand like queen nine suited
+and they're going to shrug and they're
+going to throw it in the muck. But you
+will play many more large pots than the
+players in your pool. And sometimes
+you'll be surprised they will just spaz
+here when they have an ace high flush
+draw or when they have a hand like king
+queen or queen jack and they'll either
+call or put the money in. You're going
+to play many less medium-sized pots
+because they'll sometimes fold top pair
+or sometimes fold a weak flush draw. But
+you're going to play a lot more big pots
+because they're going to be too
+inelastic overall. They're going to make
+a lot of mistakes versus this big size
+even if their range is weak. The weak
+range is folding even if we check very
+small. So, we may as well go big and
+target the hands that are going to
+continue or punt to this huge size. All
+right, next example where we don't want
+to use this medium in between size four
+bets on an ace high board. So, let me
+explain. In this one, we are going to
+open in the cutoff. The button is going
+to three bet and we are going to four
+bet with the second best hand in poker.
+Flop comes ace 9 deuce. And this is a
+spot where we don't want to go medium.
+Actually, the size I like to choose here
+is very, very small. Somewhere around
+10% pot. Why do I like to go 10% pot
+here? If our opponent has a hand like
+kings, queens, jacks, tens, those hands
+are going to be forced to continue for a
+very small bet. Whereas, if we choose a
+standard size here, like 1/3 pot or
+something like that, even quarter pot, a
+lot of those hands will fold. And if our
+opponent has the last ace in their hand,
+we're stacking that hand anyway. So, we
+may as well try to ek out one tiny
+streak against kings, queens, jacks,
+tens. And if those hands call, best case
+scenario, maybe they can hit a set and
+we can cooler them. But at least we got
+one street. So, I really, really like
+this small size here when we have value.
+When our opponent calls on this flop, I
+like to do a lot of checking. Now,
+what's our opponent going to do if they
+have ace king or aceex of clubs on this
+turn? Well, they are going to bet and we
+can just put the money in. Once they bet
+on the turn, they're going to commit
+themselves and we can just stack them.
+And if our opponent does check back on
+the turn, what does that mean? Well,
+they probably have a hand like pocket
+queens or pocket jacks or something like
+that. So, when we get to the river, we
+just go very, very small. We choose the
+size on this river that a hand like
+pocket kings, queens, jacks is going to
+be forced to call. and we still end up
+getting two streets against the very
+very weak portion of their range. This
+also works out really nicely when we
+have a bluff. You see, we bet this very
+small size on the flop, keeping their
+range wide and weak. We check on the
+turn and if they stab on the turn, we
+just fold here knowing that they're most
+likely going to have an ace. They're not
+going to monkey stab all that often on
+this turn. When they have a hand like
+pocket queens or pocket jacks, they're
+just going to check back. So, if they do
+check back, we go to the river. And
+remember, we were betting 125 here when
+we had aces trying to get called by a
+hand like kings, queens, jacks. So, we
+just go a little bit bigger than that.
+Maybe 225, maybe 250. And we just get
+all of the jacks, tens, kings, queens. I
+don't know why I said them in that order
+on this river to fold, which is very,
+very nice when we are bluffing. All
+right, next spot. We don't want to use
+the medium bet. Three bet pot in
+position as the pre flop razor. So, we
+three bet jack 10 on the button here.
+Our opponent calls and we flop the nuts.
+You guys may have heard me talk about
+this. I like to choose the size where
+our opponents are going to raise their
+strong stuff and call with the weak
+stuff. And usually in three bet pots,
+that's going to be a smaller size than
+in a single race pot. Because two live
+players, the absolute size of the bet
+matters a lot more than the relative
+size of the pot. Why do we want to go
+$50 here? When we choose this small
+size, our opponent is going to check
+raise. When they have a hand like 98
+suited, pocket 9ines, pocket eights,
+queen nine, they're going to put in more
+money for us when they have the top up
+their range. And when they have weak
+hands, maybe we could get a hand like
+pocket sevens or pocket sixes with a
+spade or ace8 or something like that to
+continue here. If we go small where if
+we go big, we would just blow these
+hands off and they would fold, which is
+not very good for us when we flop the
+nuts. This also works nicely when we
+have a bluff because when our opponent
+raises, well, we just get let off the
+hook very cheaply. But the really cool
+thing is when our opponent calls,
+especially on blank turns, our opponent
+is now capped. We know with a pretty
+high degree of certainty that they won't
+have hands like queens, nines, eights,
+jack 10, 98 suited. All of these strong
+hands are going to raise quite a bit
+when we choose a small size, especially
+when they are out of position,
+especially when the flap is wet and
+dynamic. So beware of this. When players
+are in position, they will fast play
+less and trap more. And when the board
+is dry and static, players will fast
+play less and trap more. But on these
+wet dynamic boards where the nuts can
+change, when draws can come in, when our
+opponents are out of position, this is
+when they fast play a ton. and these
+small bets to get them to raise their
+strong stuff and call with their weak
+stuff work to perfection. And one final
+note, you may be thinking, well, when we
+have showdown value, don't we want to
+check back? And no, not necessarily. I
+also like to bet with kind of my
+middling thin value, showdown value
+hands because it funnels our opponents
+into the best line in poker, my favorite
+line in poker, where I believe they make
+a ton of mistakes. So, when we have a
+showdown value, thin value type hand
+like ace9 here, I like to see bet quite
+a bit on the flop. Again, if we get
+checked, we can just fold because our
+opponents are under check bluffing. When
+our opponents call, I like to check back
+a lot of turns. What happens on the
+river? Well, they floated the flop too
+wide. They raised off too much of their
+strong stuff when we bet small. So, they
+get to the river with a wide and weak
+range. What did they do with all of
+those hands that brick? When we get to
+the river, they come out and bet half
+pot. We hero call and we are good. We
+end up getting two streets against the
+very weak portion of the range with the
+middling kind of showdown value portion
+of ours. All right, next example where I
+don't like to choose a medium size is on
+blank turns where our opponent is going
+to be in elastic. So, we open pocket
+sixes. Our opponent calls, we flop a
+set. We see bet on the flop. Our
+opponent calls, we go to a turn, which
+is a deuce. And when our opponent checks
+it over. All too often, I see players
+use a size like $60 or $75 here on this
+turn, and it makes me just want to go.
+When our opponent check calls on this
+flop on a wet dynamic board from out of
+position, what is their range? It's
+going to be relatively capped because
+they're going to raise hands like pocket
+four, 64 suited. All of these strong
+hands are going to get raised quite a
+bit on the flop. So, you may be
+thinking, well, if they have kind of a
+weak range, shouldn't we choose a small
+size? And again, the answer is no. The
+range is not necessarily weak. It is
+just cap. What does that mean? They
+don't really have the two pair and the
+sets in their range, but they still have
+a ton of king, queen, ace, queen, queen,
+jack, ace of hearts, 75, 4x of hearts,
+two sex of hearts. Are these hands
+folding even for a massive size? No. So,
+we are lighting money on fire by
+choosing a 2/3 to 3/4 or pot size bet on
+this turn. Queen X would call a lot
+more. Flush draws would call a lot more.
+Straight draws would call a lot more.
+And by choosing this $75 or $80 size,
+what we're essentially doing, there
+aren't many hands that are going to call
+75. They're going to fold to 125 or 150.
+So, we may as well choose the big boy
+size. By going 75, you're going to fold
+out the pocket fives or 6x anyway. So,
+you may as well go for the big boy size
+here. The medium size does not get the
+job done. And you may be thinking, what
+about when we're bluffing on the turn?
+Same [ __ ] We want to use this big size.
+Why do we want to use this big size? The
+more money we can get them to pile in
+with our bluffs, the more profitable
+that bluff is going to be on the river
+when we get our opponents to fold. Now,
+beware. This is a tightwire act, we need
+to make sure our opponents are actually
+capped, that we can't run into brick
+walls. But if the strongest hand our
+opponent is going to have after calling
+this turn, getting to the river, is
+going to be hand like queen X, and we're
+going to have $800 behind in a $400 pot,
+I feel pretty damn good about getting
+Queen X to fold. So, let's pile in more
+money now. So, we win a bigger pot later
+when we get our opponent to fold. Next
+example, we're going medium is silly on
+a nutchanging turn card. So, let's talk
+about it. We see bet on this flop with
+bottom set. Our opponent calls. Now, a
+nine comes on the turn. And you may be
+thinking, well, what size do we want to
+go here? Or at least I I hope you're
+thinking that because that's what I'm
+going to talk about now. Again, we don't
+want to choose the medium size on this
+turn. And this is a situation where I
+actually like to choose a small size.
+So, let's talk about what happens when
+we choose this small size. If our
+opponent does bank trips on this turn, a
+hand like 9x, what are they going to do
+when we choose a small size? They're
+going to raise. So, the top of our
+opponent's range puts in more money for
+us. We also want to make sure that we
+keep in our opponent's straight draws,
+their gut shots, their flush draws, and
+those draws get a little bit more
+elastic, meaning they get more price
+sensitive when the board pairs.
+Recreational players don't like to chase
+draws when the board pairs because they
+think,
+"I don't know if I'm going to be good or
+not when I get there."
+We need to choose a smaller size, making
+sure those draws stick around because we
+want the draws to hit their hand when we
+have a super nutted hand like a full
+house here. And by choosing the size,
+the 9X raises, the king X sticks around,
+the draws stick around, and we just win
+the most amount of money against their
+range. If we start choosing this medium
+size, maybe $60, $70, the 9X is going to
+slow play quite a bit more, not put in
+more money for us, and the draws are
+going to start folding, which is an
+absolute disaster. All right. Next
+situation where we don't want to use the
+medium size is the big boy bluff on the
+river. So, let me explain. We are going
+to open on the button. Our opponent
+calls. We see bet here. We're just
+cbetting range in position. We get to a
+turn, which is a nutchanging turn, which
+we just talked about. On these
+nutchanging turns, I like to once again
+choose a small size, get our opponent to
+raise their flushes, and also continue
+with a bunch of weak stuff. Like if they
+call here with pocket eights with a
+spade, that is great for us when we have
+a bluff because we have a wider, weaker
+range to fold on the river. If we just
+go really big on the turn, our opponent
+may start trapping or slow playing with
+their flushes and they'll start folding
+hands like 10 jack of diamonds or pocket
+sevens with a spade. We would love for
+those hands to stick around because we
+think we can get them to fold on the
+river. So, we go small. Our opponent
+calls, we get to the river. And going to
+this river, we've kept our opponent's
+range wide and weak. By choosing the
+small size on the flop, they would raise
+hands like nines, fours, king n suited.
+By choosing the small size on the turn,
+they would raise hands like flushes. So
+getting to this river, the best hand
+they're going to have with a high
+frequency is going to be one pair, top
+pair for king X. So what size should we
+bluff on this river? If I was value
+betting here and I wanted a hand like
+king, queen to call, we'd probably have
+to go relatively small. Look, so I'm a
+magic poker wizard. Look, we have ace
+jack of spades. What size do we want to
+go to get king queen to call? Probably
+something like a medium size value wants
+to go less than pot here because we're
+trying to get king queen king jack to
+call. This is the point to run the big
+boy bluff when we have six high. We can
+go 1.5 2x pot here and just get our
+opponent to fold 90 95% of their range.
+Don't choose the medium size with the
+bluff when our opponent is super capped
+getting to the river. So we talked about
+when we want to choose the big boy size
+with the bluff on the river. What about
+the big boy size with value? So, let me
+show you. And this time, we're going to
+three bet pocket queens on the button.
+Our opponent's going to call. We see bet
+on the flop. Our opponent calls. We bank
+a queen on the turn. And on this turn,
+we're going to choose a small size
+because we'd love for our opponent to
+continue with 10 x with ace five, ace4,
+pocket jacks, pocket nines, those type
+of hands. We're going to choose a small
+size here. Our opponent calls. We get an
+ace on the river. And when our opponent
+checks it over, what is our opponent's
+range? Well, they're going to have two
+distinct portions of their range.
+keeping it very very elementary. They're
+going to have weak stuff, 10 n suited
+and pocket nines and pocket jacks and
+those hands aren't going to call if we
+breathe on this pot. But they're also
+going to have a ton of strong stuff on
+this river, right? They're going to have
+hands like ace 10, ace five suited, ace4
+suited, right? We chose a small size on
+the turn, so those hands would stick
+around. So, they're going to have a lot
+of two pair getting to this river. The
+weak stuff is going to fold if we
+breathe on it. The strong stuff is not
+folding no matter what. We can run into
+some brick walls here. If we were
+bluffing, we'd be thinking, "Oh, I would
+hate to go big here because we can just
+run into ace 10, ace five, ace4."
+Therefore, with value, this is the spot.
+Put in all the money, get called, and we
+are going to win with pocket quickly.
+All right, next spot where we don't want
+to use these medium sizes facing a check
+raise and then a check on a nutchanging
+turn. That's a that's a mouthful, but
+I'll I'll explain. So, we open ace
+queen. Our opponent's going to call. We
+see bet with a nut flush draw. Our
+opponent check raises. We're going to
+call and now the turn is a seven, and
+our opponent checks it over. So, what is
+our opponent's range when they check
+raise on the flop and then check on this
+turn? It's mostly going to be two pair
+and sets. Why is that? Why aren't they
+going to have a lot of flushes here on a
+wet dynamic board like 954? What does
+our opponent fast play all of the time
+when we choose a small size and they're
+out of position? Pocket fives, pocket
+fours, 54 suited, pocket 9ines. These
+hands probably get check raised 80 90%
+of the time. How often do they check
+raise flush draws? Well, let's give them
+credit. Let's say maybe 10 15% of the
+time. So going to the turn, they've got
+90% of their value combos, two pair
+plus, they've got 10% of their flush
+draws. Now the flush completes on the
+turn. The type of player who's going to
+be aggressive and check raise a flush
+draw on the flop. What are they going to
+do when the flush gets there on the
+turn? Mostly bet, right? So we see here
+on the turn that they just don't have
+many flushes in their range, but they
+have a whole [ __ ] ton of two pair and
+sets. So what size do we want to go on
+this turn? Not medium. I like to choose
+a very egregiously large size here,
+something like 400. Why? because I don't
+think players are going to fold two pair
+and sets just because the flush came in.
+Going small doesn't make sense because
+they're not going to raise two pair and
+sets when the flush came in and they
+don't have many flushes in their range
+that are going to put in the raise for
+us. Remember we talked about why and
+going medium doesn't make sense because
+we're not winning the maximum amount of
+value against their two pair in sets.
+Choose the biggest size here that two
+pair and sets are going to call. If
+you're against a more sticky player, you
+may be able to go bigger than this. If
+you're against a more nitty tight
+player, you may have to go around 300.
+Don't choose the middle size. That is a
+mistake in my not so humble opinion.
+Finally, let's talk about four
+exceptions to the rule where it is okay
+to choose the medium size. Number one,
+when we see bet as the pre flop razor in
+a single race pot. So, we're going to
+open here on the button. Our opponent
+calls Jack nine deuce. And as you guys
+like to know, I like to choose the
+medium size here. It's not really about
+the size being half pot. It's more about
+what size will they raise the strong
+stuff and call with the weak stuff. And
+in a single race pot, we can get away
+with half pot because the absolute size
+of the pot is smaller. Remember, in a
+three bet pot, we were going something
+like 1/3 pot. If we went multi-way, we'd
+have to go a little bit smaller because
+the absolute size of the pot's going to
+be bigger. We're in a three- bet pot, we
+got to go a little bit smaller. But
+usually in these single race pots, I
+start off somewhere around half pot
+because to me, that has been kind of the
+magical elixir point where opponents
+will do exactly what we want, raise the
+strong stuff, call out the weak stuff.
+Of course, there are exceptions. There
+are some boards where this is not true.
+There are some players where this is not
+true, but a lot of the time, this is
+going to be my breadand butter starting
+point. Exception number two, where I do
+like to use the medium bet in four bet
+pots on low low boards. So, let me show
+you this one. We are going to face an
+open at three bet. We cold for four bet
+with the second best hand in poker.
+We're going to get called by the cutoff.
+And on these low low boards, I actually
+like to choose this medium size, which
+is a big size in a four bet pot, right?
+I like to choose this medium size
+because if our opponent has a hand like
+nines, tens, jacks, queens, kings,
+they're not folding no matter what on
+this board. So, let's maximize value
+against the portion of our opponent's
+range that's going to be super super
+super inelastic here. And yes, we're
+going to lose some value if they have a
+hand like ace king or ace queen suited.
+That's okay because we just get to play
+a two street game against our opponents
+when they do have a hand like pocket
+queens and they're probably not going to
+fold if we can get in the money before
+scary cards come before the nuts change
+before an overcard comes. So I like to
+play two street games. Choose this
+medium size maybe two/3 pot. But it's a
+big absolute size. Maybe something like
+$200, $250 in a 25 game on the flop.
+This is one of the exceptions where I
+think the medium size is pretty pretty
+good. All right, another exception where
+our bluffs want to go medium. But I'm
+not going to start off with our bluff.
+I'm going to start off with kind of a
+thick value hand. So this one we're
+going to open sixes. Our opponent's
+going to call. We're going to see bet
+with bottom set. They call. We're going
+to over bet on this blankish turn. Can
+our opponent have some straits? Yes. But
+they're mostly capped. So we're going to
+choose the big size. We go to a river,
+which is an ace. And when our opponent
+checks it over, we've seen kind of a
+similar example to this. On this ace
+river, our opponent can have some two
+pair. They can have some ace queen, ace
+six of spades, ace four of spades. they
+could just have a strong ace of spades
+like ace jack of spades or ace 10 of
+spades or something like that. So our
+opponent has a lot of strong hands with
+our thick value with a hand like sixes
+here. I would want to choose the big boy
+size targeting those strong hands. And
+if we did have a thin value hand like ax
+on this river now I wouldn't be
+targeting the strong hands. We can just
+target hands like queen jack or queen
+king on this river. So I'd want to go
+very very small here. Maybe one/3 pot,
+maybe slightly bigger. Whatever we think
+queen jack, queen king will call on this
+river. So thick value wants to go very
+very big. Thin value wants to go pretty
+pretty small. And if we get to this
+river with the bluff, that's where we
+want to choose the medium size. Why?
+Because our thick value wanted to go
+very big to target hands like ace queen,
+a6, ace4, etc. Our thin value, ace five
+of spades, wanted to go very, very small
+to make sure a hand like queen jack or
+queen king would call. That means the
+medium size we don't lose our entire
+stack when our opponent does end up with
+a strong hand on this river like ace
+queen. And the medium size we can get
+hands like queen king, queen jack, queen
+10, queen n suited. we can get all of
+these hands to fold. This is one example
+where the medium size with a bluff may
+be very good when our value wants to go
+either very very big or very very small.
+Sometimes the bluff wants to choose this
+medium size. It's a rare exception. It
+doesn't happen a whole lot but it does
+happen. So I'm not going to say never
+ever use the medium size. This is one of
+the examples where I think having it in
+your arsenal could be pretty good.
+Finally, last example. We open 8 n of
+diamonds here and we're going to see
+bet. We are going to double barrel here
+for the big size on this turn. Now we
+get to the river and this is one of
+those spots where our bluff wants to
+either go very very small here on this
+river and the goal with this small size
+would be can we just fold their draw. So
+small here with the bluff could be an
+option. Alternatively, if we're against
+a player who we think has a reasonable
+fold button, big here could also be an
+option, right? because we're just not
+really going to run into really any
+brick walls on this river with the
+exception of maybe ace three of clubs.
+The best hand they're going to get here
+with a high frequency is going to be
+hand like ace 10. And if we think we can
+get king 10, queen 10, jack 10, 10 nine,
+we think we can get these hands to fold
+for an all-in size, then the all-in big
+boy size with the bluff here may be
+another viable option. So with value,
+where does that leave us? Not too big,
+not too small, just right. This is the
+one exception with value where we may
+want to choose this medium size. And by
+medium, you see I'm still going over
+pot, right? I'm still choosing a bigger
+size than pot because I think 10x is
+going to call for slightly bigger than
+pot here. But it is the medium size of
+the three options. So the last exception
+here when bluffs want to go either very
+very big or very small. Sometimes the
+value wants to go right smack dab in the
+middle. All right, guys. Hopefully this
+video on when to eliminate the medium
+size from your game helps you level up
+and become the biggest boy possible.
+Thank you guys and have a gentle

@@ -1,0 +1,563 @@
+the ultimate guide to playing out of
+position so before we jump in I want to
+talk about a big picture concept making
+the most amount of money playing poker
+is essentially just putting your
+opponents in situations where they make
+the biggest mistakes so keep that in
+mind because that concept is basically
+the entire Crux of this out of position
+strategy so without further Ado let's
+Jump Right In we're playing 25 800
+effective here and we open up the cut
+off to $20 with a couple of mystery
+cards the button who's going to be the
+villain in this hand calls and we're
+going to go to a flop so here's our
+strategy and this is complex so you may
+want to take notes when we flop a set
+we're going to check when we flop top
+pair we're going to check when we flop a
+draw we're going to check but when we
+flop air here well uh we're we're also
+going to check we're going to check our
+entire range why in live poker players
+in position generally make more mistakes
+versus a check than versus a bet what
+mistakes did they make number one they
+just stab way too much for protection
+when they have Jack X they just almost
+always bet here on a wet Dynamic board
+and if they have a hand like 9x or
+pocket 10 they just bet at way too high
+of a frequency trying to protect their
+hand the second mistake they make is
+they Telegraph their hand strength with
+their bet sizing now this doesn't
+correlate perfectly one to one but in
+general they just have way too many
+strong hands when they bet big and way
+too many weak or marginal hands when
+they bet small or medium the third
+mistake they make they don't protect
+their checkback range they almost never
+check back monsters like Jack n suited
+or pocket Deuces or pocket 9es on this
+board and when they do check back this
+is going to mean our Bluffs are going to
+be insanely profitable across turns and
+rivers so we're going to check our
+entire range how do we respond when they
+stab first let's talk about what we do
+when they stab big so we check here and
+they stab 35 into 47 pretty easy
+strategy here when they stab big we're
+just going to raise our very best hands
+and our very best draws our very best
+hands may be hands like Jack n suited
+pocket NES pocket Deuces just
+essentially hands that can cooler them
+and then our best draws here well we're
+going to have some combo draws we could
+have Queen 10 of Spades King Queen of
+Spades King 10 of Spades 10 eight of
+spades we're just going to call here
+with our good hands hands like pocket
+queens or Jack X we're also going to
+call with our decent hands hands like 9x
+and we're going to call with the rest of
+our draws that aren't combo draws so
+hands like Ace High flush draws maybe
+open in straight draws and then we're
+going to fold pretty much everything
+else so all of our low Equity draws
+hands like King Queen of Diamonds here
+our Showdown value hands like pocket
+sevens pocket fours those hands would
+just get folded here and then our
+Complete Air of course that is folding
+as well hands like seven six of clubs so
+that's how we play against the big stab
+what about if they stab small here like
+$20 in 247 versus a small stab we're
+still going to raise our very best hands
+but now we're going to raise our good
+hands as well so hands like pocket kings
+pocket Queens pocket aces maybe Ace Jack
+plus here and now we're going to raise
+all of our draws right because when they
+stab small they just have too much weak
+and marginal crap that just can't hold
+on so a hand like king queen of hearts
+here two overs in a gut shot that would
+be raising a hand like Queen 10 of
+diamonds here that would be raising a
+hand like 8 seven of diamonds just a
+naked gut shot here that would be
+raising all of our draws are going to be
+raising so that's a difference versus
+the small stab we're just going to have
+a lot more raises also against the small
+stab we're going to call anything with
+Showdown value now hands like pocket
+sevens pocket fours would be called hell
+even a hand that has good ace high
+Showdown value a hand like Ace Queen off
+we may call here and then pretty much
+the only thing we're folding here is
+pure air everything else here is pretty
+much getting called or raised when they
+stab small and just keep in mind when
+they stab small here they just have so
+many more weak hands and marginal hands
+and the more fold Equity we have the
+actual less equity in our hand we need
+so we can get away with just raising our
+draws quite a bit more because we're
+just going to generate so many more
+folds so what size do we check RS when
+they stab and this is where our strategy
+deviates pretty wildly I think from
+everything else out there because we
+recommend using ridiculous check Ray
+sizes somewhere between 6 to 10x so why
+do we recommend these ridiculously huge
+check R sizes well in a vacuum our
+opponents just play worse against these
+huge sizes than they do against the
+standard 3 to 4X check rays and remember
+we want to put our opponents in nodes
+where they make the biggest mistakes
+essentially they are inelastic here with
+their good hands and good draws whether
+we go 3x or whether we go 10x they're
+calling to one raise one time no matter
+what let me give an example to show just
+how big of mistakes they're making let's
+say this board was A7 Deuce rainbow and
+they stabbed for $20 and we check raised
+adex to $160 and let's say the button
+flatted here with a hand like Ace King
+or Ace Queen to our cut off open how
+often do you think they're supposed to
+fold Ace King or Ace Queen Queen on this
+board to an 8X check raise maybe
+sometimes right maybe 25 30 40 maybe 50%
+right they are supposed to fold Ace King
+and Ace Queen here pure to an adex check
+raise 100% of the time in equilibrium
+and I think you can agree my grandmother
+could agree that just doesn't happen
+they're not folding Ace King or Ace
+Queen on this board what about a hand
+like ace deuce top and bottom pair how
+often are they supposed to fold that
+maybe 10% 20% the board is rather dry
+hard for us to be bluffing I don't know
+maybe 33% no they're supposed to fold
+Ace Duce more than 50% of the time what
+about pocket deuces are they supposed to
+fold a set to an adx check raise yes
+they're supposed to fold a set 25 to 30%
+of the time when we check rais to 8X I
+think we can all agree that just isn't
+happening so let's put in the huge check
+raises and punish them and make them
+make mistakes in a line that they are
+completely unfamiliar with so 6 to 10x
+is a big Continuum how do we decide
+whether to go 6X or whether to go 10x we
+can go bigger if the board is wet and
+dynamic or if we are super deep we
+probably want to lean towards that
+smaller 6X size if the board is dry or
+static or if we are a bit more shallow
+now there is a case to be made here for
+also having a small check Ray size and
+just getting them to fold their random
+BS stabs the problem is I believe that a
+simple strategy executed well is always
+going to outperform a complex strategy
+executed mediocrely we are humans we are
+not computers we make mistakes I like to
+simplify because my brain gets garbled
+but if this strategy is easy for you and
+you want to try implementing both a
+small check R size and a big check R
+size go ahead so let's talk about how to
+play turns after we check rise let's say
+we checked them on the Flop they stab
+small we check raise big and they call
+how do we play turns first let's
+separate our hands into three different
+categories low Equity Bluffs High Equity
+Bluffs and value hands so low Equity
+Bluffs would be draws that have less
+than eight outs to make our hand maybe
+like a gutshot so what are we doing on
+the turn with low Equity draws in
+General we're just going to give up
+because we think yes they do have mostly
+a weaker range medium strength hands
+that they're just protecting when they
+bet small but now we check raised to 8
+to 10x right so once they call that
+check raise well we have to reassess
+what their range is now their range is
+just going to be much stronger right so
+with our low Equity draws remember the
+less fold Equity we have the more equity
+in our hand we need and we think after
+they call this big check raise well we
+have a little bit less fold Equity now
+they probably have a better hand and we
+just don't have that much Equity to
+improve if we have less than eight outs
+to make our hand so with our low Equity
+Bluffs we are just going to be giving up
+on turns that doesn't mean we're giving
+up on the entire hand if the turn goes
+check check we still have options we can
+obviously Bluff the river but in general
+we're not going to Barrel off here so
+now let's talk about our high Equity
+draws here draws with eight or more outs
+to improve so maybe a flush draw or a
+combo draw something like that here how
+do we decide if we're going to keep
+barreling the turn well first of all we
+are just going to give up on a couple
+turns if the turn pairs the board or the
+turn brings in a oneliner to a straight
+we are just going to check and give up
+it doesn't mean we're giving up on the
+hand if our opponent checks back we have
+some options on the river if our
+opponent bets small we can call and try
+to realize Etc but these are going to in
+general be bad cards for us to continue
+barreling when the board pairs now our
+opponent can have trips they can have
+full houses and they just get a little
+bit more in elastic with top pair hands
+they just fall in love with those a
+little bit more because their hand looks
+stronger and it's harder for us to have
+a very strong hand but that's going to
+be very few turns so most turns we are
+going to continue barreling with our
+high Equity draws in general with our
+high Equity draws when we're going to be
+continuing on turns the goal is to
+maximize fold Equity so we need to
+decide if we're playing a three Street
+game or a two Street game and the way to
+decide that is after we check raise this
+flop are we going to have enough behind
+if we bet this turn again for a Big
+River Bluff and when we have a bluff I
+like to make sure that on the river we
+have at least an overb behind because we
+want to maximize that fold equity on the
+river and no matter what size we bet
+here on this turn even if we bet say 150
+bucks here on this turn we're not going
+to have enough to have that big overb
+behind so in general A good rule of
+thumb here is if the spr is less than
+two I like to play a two Street game so
+here the spr is less than two so I'm
+just going to jam and try to maximize
+fold Equity try to get weak Jack X hands
+to fold and just go for it here on this
+turn because we're not going to have
+enough behind on the river well when can
+we play a three Street game with our
+Bluff well let's say we start this hand
+1,400 effective instead of 800 effective
+so here we check raise the Flop we go to
+a turn and now in this situation we can
+decide with our high Equity Bluff to
+play a three Street game because the
+best Bluff remember we talked about this
+before the best Bluff is a bluff where
+they call the Flop Call the turn and
+fold the river and we can choose a size
+here on the turn where they're going to
+continue with their Jack X they're going
+to continue with their draws and then we
+can get a lot of that stuff to fold on
+the river because we're going to have
+that big scary overb behind so on this
+turn here if we bet say 200 and our
+opponent calls well look the pot is
+going to be 847 going to the river and
+we're going to have nearly a thousand
+behind and that's going to be a very
+scary bet for them if they have a hand
+like Queen Jack or Jack 10 and besides
+that we're just going to get the instant
+folds from their flush draws their open
+and straight draws that call the turn
+and fold the river so we want to play a
+three Street game if we can structure
+the spr to have that big scary overb
+behind on the river with our high Equity
+draws finally let's talk about value and
+value is going to be pretty simple we
+want to go big if our hand needs
+protection and we want to go small if
+our hand is kind of invulnerable let's
+look at an example here where we check
+raised the Flop and notice here on the
+Flop just a small Nuance here when we
+have value when we have a hand like
+pocket NES or pocket Deuces I'm already
+thinking about the turn spr here so we
+started this hand 800 effective I may go
+a little bit bigger notice here with a
+value on the flap I went 10x and with my
+Bluffs I went 8X that doesn't
+necessarily mean that I'm going smaller
+with Bluffs or bigger with value I'm
+just thinking about how I'm going to
+structure the spr on the turn and with
+my value here I want to structure the
+spr on a lot of brick turns to be close
+to 1: one because that's just going to
+get called more and with my Bluffs I
+want to structure the spr on the turn to
+be closer to 2 to one because in that
+specific scenario we're just going to
+get more folds because the bluff size is
+going to be more scary for that 2x overb
+Jam but if we go 200 here well now going
+to the turn with pocket NES we just have
+a small overb going to the turn just a
+little subtle Nuance but I think always
+keeping in mind what you're trying to
+accomplish what your goal is with your
+hand so in this particular situation
+with a hand like pocket nines or a hand
+like pocket Deuces our hand does need
+protection and let's be real if they
+have a hand like a combo draw or an ace
+high flesh draw they're probably not
+going to fold even a hand like Ace Jack
+is probably not folding here when we Jam
+for just slightly over pot so at this
+point we probably just want to put the
+money in before bad cards run out our
+hand does need protection so let's just
+put the money in now with pocket nines
+however let's say the turn card was this
+deu of diamonds here and on this turn
+card we would ask is our hand
+invulnerable with pocket NES yeah Ace
+Jack is almost drawing dead right they
+just has two outs against us and a hand
+like a flush draw or a straight draw is
+drawing dead against us so it would be a
+tragedy here if we just jammed and they
+folded a flush draw or a straight draw
+one thing to keep in mind is live poker
+players in general are going to get much
+more elastic with their draws when the
+board pairs because now they can't make
+the nuts so if we want to keep in their
+draws when the board pairs we're going
+to have to choose slightly smaller sizes
+so in this specific example our value is
+not vulnerable so we would want to go
+small here one more example if we did
+check raise this flop with a hand like
+King Queen of Spades or queen 10 of
+Spades and we hit the flush on the turn
+this this is another example of where we
+want to go small is our hand vulnerable
+well of course a flesh could roll off
+right a four flesh could roll off and
+they could make a better hand but in
+general our hand is not that vulnerable
+here and it would be a tragedy if they
+folded a hand like Ace Jack or King Jack
+here which is drawing dead or if they do
+have a spade very very thinly against us
+so we would consider our hand
+invulnerable and we would want to go
+small again to make sure that they don't
+fold hands like Jack X here on this turn
+all right so now we know how to play
+turns if they bet the Flop and we check
+raise but what if the Flop goes check
+check right what if they check back so
+let's talk about my favorite part of
+this strategy what happens when the Flop
+goes check check so we check to them on
+the Flop they check back turn is a blank
+so let's think about what their range is
+when they check back this flop Showdown
+value type hands hands like pocket sixes
+pocket fives pocket eights maybe some 9x
+pocket 10 or they're going to have a
+bunch of of air so let's think about
+what happens if well if we start betting
+here they're going to call with their
+Showdown value and fold their air but
+what happens if we check well if we
+check they're going to stab a lot of the
+time with their Showdown value because
+people think if they have pocket sixes
+here what does it look like we have it
+looks like we have a hand like Ace King
+so they're just going to start stabbing
+a lot to protect their hand if they
+didn't stab on the Flop so their
+Showdown values going to stab here at a
+high frequency and their air well if
+they did check back the Flop with
+complete air with a complete whiff they
+checked back because they didn't want to
+start like a three Street Bluff well now
+we've just given them even more rope so
+if we check this turn a lot of the range
+to check back flop is now going to stab
+their air is going to stab and their
+Showdown value is going to stab at a
+high frequency so on turn blanks we are
+going to want to do a lot of checking so
+let's say we check to them they stab on
+this turn what are we going to do with
+all of our hands well pretty simple our
+good hands are just going to be raising
+so top pair top kicker plus Ace Jack
+pocket Queens pocket NES pocket Deuces
+Jack n suited now all of our draws here
+are going to be raising so whether we
+have a combo draw like Queen T of Spades
+or King Queen of Spades or whether we
+just have a naked gut shot we are going
+to be raising all of our draws here on
+this turn why well when they check back
+the Flop they just don't have any super
+super strong hands like Jack n suited
+pocket 99's pocket Deuces occasionally
+they could have a hand like pocket 3's
+but besides pocket 3s here when we check
+raise the turn and Pile in all the money
+on the river they just don't have many
+hands that can call us down so remember
+when we have a draw the more fex Equity
+we have the less equity in our hand we
+need and we may not have a ton of fold
+equity on the turn but we're going to
+have a bunch of fold equity on the river
+and the best Bluff is the bluff where
+they call the turn and then fold the
+river and then with our decent hands in
+Showdown value here we're just going to
+be check calling so if we have a weak
+top pair maybe a 9x maybe pocket eights
+pocket sevens pocket sixes hands like
+that we are just going to be check
+calling on this turn and then when we
+have complete air like seven six of
+clubs we are going to be folding so
+that's a strategy on a blank turn what
+about a nut changing turn like let's say
+the three of space here we only have
+time to cover so much in one video if
+you want all of the sauce we have
+defaults built out for almost every
+single scenario so what if the turn is
+an ace what if the turn is a Broadway
+card what if the turn is straightening
+or board pairing what if the turn is a
+joker you want the answers we've got
+most of them if you're a serious cash
+game player consider joining one of our
+live poker boot camps and we can help
+you become one of the biggest winners in
+your entire player pool finally let's
+talk about playing turns after we check
+call The Flop this is the final node
+we've got to play right so we checked
+them on the Flop they stab we call how
+do we play the turns first let's talk
+about when they stab big flop so let's
+say we checked them on the Flop they
+step 35 into 47 here we call turn is a
+blank and we check and they double
+barrel how are we going to continue here
+well let's just keep it pretty simple we
+are going to continue with top pair plus
+here and we're going to continue with
+our high Equity draws remember we're not
+raising our non-combo draws when they
+stab big on the Flop we're also not
+raising our over pairs or Jack X when
+they stab big on the Flop we're only
+raising our best hands and our best
+draws so we just have a lot of pretty
+good hands to continue with here so
+we're just going to continue with top
+pair plus and our good draws so now
+let's talk about what happens when they
+stab small on the Flop how do we play
+the turns let's go to the turn the turn
+is a blank and now when they double
+barrel on this turn we're just going to
+continue with middle pair plus we're not
+going to have a bunch of draws because
+when they stab small on the Flop we're
+going to raise off a bunch of our draws
+but if we somehow do get to this turn
+with a draw we are going to continue to
+double barrel and finally one more bit
+of nuance let's say we do check call the
+big stab on the Flop we check call the
+turn here with maybe an ace high flush
+draw and now the flush comes in on the
+river this is a situation where I'd
+recommend being super exploitative and
+just donking when we hit with our draws
+here and the reason why I would do that
+because in general live poker players
+make a couple of mistakes number one
+they don't bet Rivers thinly enough and
+number two they don't triple barrel
+Bluff enough so if we check here and
+they do have a hand like a Jack they're
+not going to bet themselves and if we
+check here and they do have a hand like
+king queen or queen 10 that missed
+they're probably also not going to bet
+themselves we just should be donking
+here when we hit on this River because
+they're not going to fold a hand like
+Jack X if we donk for the right size
+here and if we checked they would never
+bet that hand themselves and we're not
+necessarily missing value from a bluff
+that would bluff if we checked here
+because in general live poker players
+massively under triple barrel the only
+way I would deviate here is if you are
+playing against a strong player who is
+capable of value betting thinly and is
+capable of bluffing I would not be
+donking my draws here when I get here on
+the river but against most live poker
+players in general I would just be
+donking myself on this River to Target a
+hand like Jack X which I don't think is
+folding to a single bet as long as we
+choose a reasonable size so I hope you
+guys enjoyed this out of position
+strategy guide and just keep in mind
+that one concept that we talked about
+making the most amount of money playing
+live poker is putting your opponents
+into the nodes where they make the
+biggest mistakes thank you guys and have
+a gentle day

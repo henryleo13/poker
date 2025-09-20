@@ -1,0 +1,378 @@
+Have you ever noticed the biggest winners in your player pool are always making moves you can't quite explain,
+but they always seem to work? I'm going to show you the secret top winners know that most players completely miss. How
+to turn seeing your opponent's cards at Showdown into your biggest edge. I've
+made over seven figures playing poker and I've helped hundreds of players go from winners to crushers. Today, I'll
+show you how to weaponize showdowns to massively exploit your opponents and just as importantly, how to avoid
+drawing the wrong conclusions so you don't make a costly mistake. All right, so showdown number one. Let's say we're
+playing against a player who slow played on the flop with a nutted hand even on a wet dynamic board. So, let me show you
+an example. So, we open on the button here with ace queen of spades. Our opponent calls in the big blind. Flop
+comes 965. We see bet half pot. our opponent calls, we go to a turn, which
+brings in the flush and gives us the nuts. And usually on these nutchanging cards, I'm just going to bet small
+because generally our opponents are going to fast play all their strong stuff on the flop, their pocket nines, their sixes, their fives, their straits,
+their 65 suited. And then on the turn, by betting small, well, it encourages our opponent to call with hands that are
+drawing dead, like 9x, and to raise when they themselves have a worse flush. So,
+we go small here on the turn. Our opponent calls again. We go to the river, which is a four. And at this
+point, there's a oneliner to a straight out there. We think our opponent would raise when they have flushes on the turn at a high frequency. In general, we're
+mostly just targeting one pair of hands. Hands like ace 9, king 9, queen nine, maybe occasionally a river to pair, but
+we're not going to be able to go egregiously huge here because we just think most of our opponent's range is relatively weak and we would like them
+to call. So, we go pot on this river. We don't go with an overb. We're trying to get our opponent to call with that aformentioned range of hands. Our
+opponent puts in the call and much to our surprise, our opponent has 8, seven of diamonds here. So they trapped on the
+flop. So just from seeing this showdown, what can we say? Well, number one, we could say that our opponent is going to
+be uncapped on blank turns. If our opponent is slow playing a straight on the flop on a wet dynamic board, they're
+also probably slow playing hands like sets and two pair at a decent frequency. So on blank turn cards, unlike the
+typical opponent at this stake, our opponent is going to be uncapped. They're still going to have strong hands in the range. What conclusions can we
+not make? What we can't say is their check raise range is going to be too bluff heavy. Just because they're not
+raising their nutted hands on the flop does not necessarily mean that when they do check raise that they're just going
+to be check raising draws. Now, they could be check raising draws. Or they could just be the type of player who check raises top pair top kicker or an
+over pair to find out where they're at, but they slow play when they have their nutted hands. So, in this situation, I
+think one of the most important things we can do is find what is the inverse. What can we take away when the opposite
+is true? So our takeaway here was when they called they're going to be uncapped on blank turns. The inverse here then
+would be when they check raise they just don't have enough of the nuts in their check raise range. You see the subtle
+delineation here. We can't say that the check raise range is too bluff heavy because we don't know that. But we do know that when they check raise they're
+just going to be mostly trapping when they have their nutted top of range hands. So when they do check raise their check raise range will not include those
+hands. Let's talk about a few exploits we can make against this particular player after seeing this showdown.
+Number one, we want to go large on nutchanging turns with value and maybe consider checking our bluffs. So, let me
+show you. So, same situation here. We open on a button, our opponent check calls when we see bet on the flop. We get to a nutchanging card which
+conveniently gives us the nuts. And normally, like we talked about, my default here on these cards is just to go small to encourage our opponent to
+raise when they do have a flush themselves and to call with a bunch of their weak stuff. But a couple things are different here. Number one, our
+opponent is still going to have some straights, some two pair, some sets in the range because we're playing against a trappier player. Number two, because
+we are against a trappier player. Even if our opponent did have a king high, jack high 10 high flush here, they may not raise even if we bet small because
+they are trappy. So my deviation here is when we make a strong hand, we should just be putting the money in for them. I
+may just go with an over bet here on this turn, not expecting them to fold when they have two pair, a set, a
+straight, or a smaller flush themselves. And if we do get to this spot with a bluff, say a seven of diamonds here,
+normally again I would bet small because our opponents will raise a lot of their strong stuff now and our opponents are
+capped getting to this turn. But that is not the case here. The problem is if we go small, our opponents may trap on this
+turn with their flushes and they still might get to the river with a bunch of strong hands like sets and two pair because those hands trap on the flop. So
+against a trappy player who's not going to put in more money for us with our bluffs here, I may just consider
+checking back on this turn. And what's going to happen on the river is if our opponent has a hand like 9x or 67 or 57
+or something like that, they're generally just going to check again with their showdown value. And if our opponent does have a flush or a
+straight, they're generally just going to come out and bet because even passive trappy players, once we see bet small
+and check back the turn, at some point generally they're going to put in more money. So, we can't really define our
+opponent's range ourselves by betting on the turn. So, checking back the turn allows them to define that range for us
+on the river. And if our opponent comes out and bets, well, we just fold. And if our opponent checks, well, now we can get creative. Come out with the over bet
+here and just choose the size that gets 9x 6x 5x to fold here on this river.
+Explate number two, we may want to go small on blank turns to recap our
+opponents. So, what does this mean and how is this different from nutchanging turns? Let me explain. All right, so let's say we get a two of clubs here on
+the turn instead of a deuce of spades and our opponent checks it over. Generally, my default when we get a
+blank turn is just to overb here because I think our opponent is cap. They don't have sets, straights, two pair, etc. But
+I don't think they're folding flush draws or 9x. So I generally just put the money in for them against a more passive
+player. I may deviate here and choose a smaller size here on the turn, thus giving our opponent a chance to raise
+one more time when they do have those hands that trap the flop. One of the general heristics I've noticed is even super passive trappy players cannot
+resist the temptation to start putting in more money on these wet dynamic boards if they are given a chance twice.
+Let me ask you guys, how often have you seen in your games where a player check calls on the flop and then check raises
+on the turn? What do they generally have in that situation? Well, they just almost always have the nuts, right? Even
+passive players can't resist. if we give them a chance twice. They're probably going to start putting in more money
+here with hands like straights, sets, and two pair. So on these blank turns, I would go small to give our opponent
+another chance to raise for us with both our value and our bluffs here on this
+turn. And when we have a value hand here, I would also want to go small because again, if our opponent's trapped
+on the flop with sets or two pair, by going small on the turn, we're giving them another chance to raise here.
+turns. Both our value and our bluffs prefer going small on these blank turns. And the reason why this is different
+from the two of spades turn is because if our opponent has a flush, we haven't given them two chances to raise their
+strong hand. They've just made the strong hand on the turn. So generally, they're going to check call on the turn and then raise on the river because
+they're passive. If they did have a hand that flopped a straight or a set or two pair or something like that, their hand
+has now been downgraded. So even if we bet small, they don't feel comfortable necessarily raising that hand. Now when
+the flush has come in, on the flushing turns, I like to generally go big. And on the blank turns, I generally like to
+go small, which is the complete opposite of how I usually play against the live player pool. So these exploits are
+great, but this is just the tip of the iceberg. If you want to learn how to exploit every single player in your game
+to the max, just like the top crushers do, check out our 28-day boot camp or 7-day crash course. We are booking now
+for the summer. So, sign up now and we will see you there. Finally, explate number three. And this one is my
+favorite. This is just pulling that thread and asking, okay, we know that they're going to have a lot of traps when they check call. So, what does that
+mean when they check raise? When they check raise, we want to consider bet three betting with our bluffs and calling with a bunch of our nutted
+hands. So, why would we do this? Let me explain. So, let's say we see it with 10 seven of diamonds here on this flop and
+our opponent check raises. Well, here I would strongly be considering putting in a bet three bet because we know this is
+the type of opponent with an inclination to trap with hands like straights and sets. So, what does that mean when our
+opponent check raises the flop? Well, some draws. It could be some bluffs. They could just have like top pair. We
+don't really know exactly what their check raise range is, but we know what it's not. We know it does not include the top of their range at a reasonable
+frequency. So, their check raise range is just not going to be able to withstand heat here. So, if we do have a hand like 10 high, maybe some equity,
+some type of backup here, I'd just be considering bet three betting knowing they don't have the absolute strongest
+hands in their range and just applying a ton a ton a ton of pressure here. And conversely, if we did have a nutted hand
+like 87 of diamonds here, I would be considering just flatting here to their check raise on the flop, just knowing
+that their check raise range is going to be somewhat crippled, that they're not going to have top of range and probably
+not going to want to play for stacks when they do check race. All right, example number two. Let's say we see a showdown where our opponent seb a very
+good hand for a big size multi-way. So let me show you an example playing 25
+again and our opponent opens in the cutoff button is going to call. We're in there in the big blind with queen eight of diamonds. We flop a flush draw. Check
+it over to the cutff. He goes big. He goes 50 into 62 and two other people and we are going to call here. Four on the
+turn. We check it over. He goes big again. We picked up additional equity here. So we've got a gut shot to go
+along with our flesh draw. So we're going to call. Now the river is an eight. We make second pair here. We
+check it over in flow. Our opponent checks back and our opponent actually has ace5 suited here for two pair. So
+first, what can we say? Well, we can say that the big CB bet size may be too
+strong. He chose a large sebat size multi-way when he floped two pairs. So we can say the big C bet. What can't we
+say? Well, we can't say that the big C bet has no weak hands. We don't necessarily know that. So we don't want
+to draw the wrong conclusion. Next, let's look at the inverse. What kind of conclusions can we take away when they don't use the big C bet size? Well, here
+we could say when they use a small sebat size multi-way, they probably don't have enough strong hands. So, we want to be
+careful with this wording. This doesn't mean they can't have any strong hands. But, if you're generally choosing a big size with a big hand, that means if you
+see them choose a small size as a CBT multi-way, especially on a board that's wet, that probably means that they don't
+have enough strong hands in that range that chooses the small size. What type of exploits could we make against this
+player? Number one, pretty easy. We overfold to the big C bet. So, let me show you. When our opponent goes 50 here
+on the flop, if we have a hand that's worse than top pair, good kicker, we should probably just be considering folding right now. Now, of course, we're
+going to want to call with all of our draws with good implied odds against a super strong range. So, I'd rather call here with a gutshot, a hand like 89
+suited than I would a hand like king 7 or ace three or something like that. So, we should just be massively overfolding
+on this flop. Exploit number two. We want to fast play our nutted hands to the big CB bet size. So, let me explain.
+Let's say we now have pocket sixes for top set. Our opponent goes $50. There is absolutely no reason to slow play here
+in a million years. Just start piling in money. If we know that our opponent's range is too strong when they choose
+this size, well, generally the point of trapping is when our opponents are going to put in more money for us with their bluffs and their value. And if they just
+don't have enough bluffs here and their range is so strong that they're probably not folding value a whole lot, just pile
+in money right now while we can. So, I would just choose a massive check raise size here, exploiting our opponent for
+having too strong of a range. And most live opponents to a single check raise on a wet dynamic board aren't going to
+be able to fold hands like over pairs. And certainly not hands like two pair or sets. And finally, exploit number three.
+When they choose a small cet size multi-way, we want to attack this size with a bunch of bluffs. So, let me show you. Say our opponent goes 25 instead of
+50 here. This is a great exploit to just start attacking our opponent. Remember, we don't know that our opponent just has only weak hands when they choose the
+small size. But we do know if they're splitting their range here and we've seen them use the big size with good hands, they probably just don't have
+enough good hands in the small size. So, this is just going to work enough to be super profitable. Just check raising
+right here, right now. Anything with a shred of equity when they choose this small size. All right, example number three. Let's say we see an opponent who
+cold called a three bet with a hand like pocket queens. So, let me show you an
+example. So, in this hand, Cutoff is going to open. We're going to three bet on the button with pocket kigglies. And now the opponent's going to cold call in
+the big blind. Flop comes seven for deuce. We end up going bet on this board and our opponent calls down with pocket
+queens. So what does this mean? Well, first of all, we can say that the cold call range includes some strong hands.
+Again, we want to be very careful with our wording here. What we can't say is the cold call range is only strong
+hands. Just because our opponent cold called with queens doesn't mean they're necessarily folding sixes or sevens. 10
+n suited. We also can't say that the cold call range is capped. If we haven't seen them cold four bet, they could
+possibly just be cold calling three bets when they do have a hand like kings or aces as well. So, we want to be very
+careful with what we can say and can't say. Now, now the inverse here is where we get the gold. If we do see them start
+cold for betting, this probably means that their cold for bet range is going to skew to pocket kings and pocket aces
+pretty much only because we've seen them cold call with a hand like pocket queens. So what are the exploits? Number
+one, we want to dial down the bluffs post flop when they cold call. So let's say we have ace king and we three bet
+here on the button. Opponent cold calls in the big blind. Flop comes seven for deuce and it checks over to us. Probably
+want to dial down the bluffs in this spot because even if our opponent has a hand like pocket eights, pocket 9ines, pocket 10s, a slightly weaker hand here,
+they're probably just not going to plan on doing a lot of folding. Generally opponents who are cold calling three bets are not the type I would try to get
+to fold an over pair in a four bet pot. And if they are cold calling with hands like suited broadways and ace queen
+suited or stuff like that, well, we are ahead of that range. I would just dial down the bluffing here. Probably not
+trying to get this opponent type to fold a hand like pocket 10s or pocket jacks. Exploit number two. We want to size up
+on low low boards when we have hands like queens plus. So let me show you. So again, we got kings on this low low
+board and pretty much I would consider this any board nine high or under in a four bet pot. When we have a hand like
+kings or aces here, we just think our opponent's going to have hands like queens, jacks, tens, nines, etc. Those
+hands are not going to be folding even for a large bet here on this flop. We lose some value against hands like ace
+queen. But I think we more than make up for that because we just get to stack hands like pocket 10s or pocket jacks
+here almost all the time when we size up here on the flop. So we go 100 on the flop and this just allows us to get the money in very very easily over three
+streaks and we are going to get all of the money. Finally, exploit number three. If we see them cold for bet run.
+So let's say we've got Quiggles this time. Cutoff opens, we three bet and now they cold for bet out of the big blind.
+Well, in this particular situation, right, we've seen them cold call when they had a hand like queens. So
+generally what does that mean when they cold for bet? Probably up against a range that is kings, aces. When an
+opponent does cold call with hands like queens and jacks and stuff like that, when they put in the cold for bet, I am
+just massively, massively overfolding, we know their range is way too strong. Queens is not doing good against the range is probably just kings plus. So I
+would just fold here in this situation. All right, example number four. We see a showdown where an opponent checked back
+a nutted hand on the flop as the pre flop razor. So let me show you. All right, so we are in the big blind here.
+Opponent's going to open on the button. We defend with ace 10. Flop comes 1064. We check. They check it back. Turn is a
+jack. We check it over. Our opponent goes threequarters pot. We call. River is a four pairing the board. Well, lots
+of draws have bricked here. When our opponent bets $80 on this river, the diamonds have missed. The 89 has missed,
+the king queen has missed, etc. So, we are going to bluff catch on this river. And our opponent shows pocket sixes here
+for a full house. So, again, what can we say? What can't we say? And what is the inverse? Number one, we can say that
+they are uncapped when they check back the flop. They can still have very, very strong hands. What we can't say is that their sebat is over bluffed. Just
+because they're not sebetting their nutted hands at some frequency on the flop does not necessarily mean that when
+they do see bet that it is overbluffed. They could just only be sebetting top pair plus or big draws. Right? We don't
+know that necessarily. But what is the inverse? What do we actually know here that when they do see bet they don't
+have the absolute top of their range? We saw them check back a set on a wet
+dynamic board. What are the exploits? Number one, attack their sebats mercilessly. So, let me show you. So, we
+check it over to our opponent. They see bet for half pot and pretty much anything with equity here. I am going to
+attack this sebat. We don't know that their sebat is over bluffed, but what we
+do know is that they probably don't have tippy top of range. They probably don't have 10, sixes, fours, maybe 64 suited
+here. So, they are going to be relatively capped here. And I would just start trying to apply a bunch of
+pressure to that range by just check raising a ton. And normally I'm just a fan of the big check raise sizes, but in
+this spot where I'm just check raising maybe 30 40 50% of my range whenever they see bet, I may just go with the
+small check raise size here on the flop and then figure out how to play turns if they do call. Exploit number two, we're
+going to want to overfold to delayed lines. So what does this mean? I'll show you. When our opponent does check back
+the flap and starts putting in money on the turn, we should just be overfolding
+knowing that our opponent has probably a stronger range than they should because they are checking back their nutted
+hands on the flop. So, probably wouldn't fold this right here, right now on the turn. Getting to the river here.
+Generally, this is a bluff catch spot against most players when the flop goes check check because most players just see bet all of their good stuff and
+check back a lot of their showdown value and weak stuff. But against this particular player, we may be able to just make some hero folds here on turns
+and rivers, even with hands that look like strong bluff catchers in a vacuum. Finally, exploit number three. When the flop checks through, consider playing an
+over bet or check strategy on the turn. Let me explain why we want to do this. Okay, so let's say we have eight seven
+of diamonds again. Our opponent checks back on the flop. We [ __ ] the nuts on the turn. In this spot, the reason I want to play over bet or check is
+because I think our opponent is still going to have top of range here on this turn. Hands like sixes, fours, tens,
+etc. doesn't really make any sense to come out and bet like $30 or 3/4 pot here because if our opponent does have a
+super strong hand, we are just missing out on a whole whole lot of value against the top of their range that we
+know absolutely cooler. So therefore, my preferred strategy on this turn may just be to do a lot of checking. And if our
+opponent bets here, especially when we have a nutted hand like this, just start piling in money when we have the nuts
+here, right? because our opponent is not folding hands like sets or two pair in a million gears, go for the big boy check
+raise. Our opponent's range is going to be strong in this delayed line. So, pile in money right now. The other option, and I may not use this in this
+particular scenario, but maybe in a situation where the turn's a little bit more scary, maybe like a nine of hearts or something like that. And we have a
+flush. Just go for the over bet here on this turn. We go 2x pot, 3x pot. Again, our opponent is not folding two pair in
+sets. And then once again, we could go big on the river. So, because the turn check raise does generate a little bit
+more fold equity, I may use that when the turn is not quite as scary, when it's maybe an offsuit nine, and I may
+just go for the overb, the 3x pot, 2x pot myself, when the turn brings in a more obvious draw, like maybe the nine
+of hearts or something like that. All right, example number five. Let's say we see a showdown where our opponent triple
+barrel bluffed with a combo that should probably be a pure give up when the draws brick. So, let me show you. All
+right, so this one our opponent's going to open from the lowjack here. We're going to flat on the button with ace queen because we do have a couple of big
+fish in the blinds and maybe this is a stronger player, maybe a winning player who opened from the lowjack. So, we call
+here. Unfortunately, both fish are going to fold. Flop comes queen 10 four. Our opponent see bets. We call. Turn is a six. Our opponent doubles. We call. Now
+the river pairs the board. Our opponent triples. We've got top pair, top kicker. So, we put in the call and our opponent
+actually flips over. Ace king of spades here. probably a hand that should be
+given up at a high frequency because they do have a smidge of showdown and
+also in equilibrium don't really love to jump into this all that much. But ace king of spades does kind of block our
+auto folds here on the button, but our opponent decided to run it here with that particular combo. What we can say
+is our opponent might be overbluffing. They're probably over bluffing if they're choosing combos that should be
+giveups here. What we can't say is they don't have value in this line, right? Just because they're over bluffing
+doesn't mean they can never have value. So we want to be careful about how we phrase this in the conclusion we take away. What is the inverse? Well, we know
+when they bet they're probably over bluffing. So what does that mean when they check? So when they check on the river, it probably means their range is
+too strong. Let's kind of unpack this. Why might their range be too strong? Because if they're just over triple
+barreling with their bluffs, what does that mean when they check? Well, they probably just don't have a lot of
+giveups in that range because they're putting hands that should be giveups into the bet river line. So when they
+check, they just don't have as many give ups as they should in that line. What type of exploits can we make? Number
+one, don't fold strong bluff catchers to triple barrels, right? We just saw this pretty obvious. If we have a hand like
+top pair, top kicker, obviously we're not folding. Exploit number two, give them a bit more rope. The type of
+players we want to generally give a little bit of rope to and not fast play as much are players are going to put in more money for us with their value and
+put in more money for us with their bluffs. If we're against a player that we can deduce is probably over bluffing
+in a certain line, we are generally way less incentivized to fast play our strong hands because our opponent's just
+going to put it in for us with their bluffs anyway. Against typical live passive players, I'm a big advocate of
+fast playing because they generally massively under bluff and they have a hard time folding early in hands, but
+they're much more open to folding later on in the hands. So, I like to pile in money early against passive players. but
+against a player who's going to be aggressive against a player who's going to be bluffing at an appropriate frequency or going to be over bluffing.
+Generally, we just want to fast play way less and let that player put in money for us. Finally, explate number three.
+When they do check the river, we want to size up with value, dial down our
+bluffs, and fold almost everything to a check race. So, let me explain. So, let's say we get to the sixth river now,
+and our opponent checks. Well, remember our conclusion here was when our opponent checks, their range is probably
+too strong because they just don't have as many give ups in this line. So, generally, I would be incentivized just
+to size up here. When we had a hand like ace queen, knowing our opponent is not
+going to have as many folds as they should when they check here on this river because their bluffs are just
+going to bet. So, I would just size up on this river, maybe going for an overb when we do have ace queen. If we do have
+a brricked draw, maybe a hand like king jack or something like that, we just need to be careful about overdoing it
+with the bluffs if our opponent's going to be calling too much. So, generally, if I think our opponent is calling too much, if I had a hand like king jack on
+this river, I just go for the very small size, maybe 80, 75, just trying to get
+our opponent to fold their ace high draws, their king high draws, etc. But if our opponent is generally just barreling with those brick draws, well,
+we're not going to be able to have a cheap efficient bluff on this river. So if we are going to run the bluff with a
+hand like king jack or jack n suited or something like that, we just want to be cognizant that maybe going for the small
+size is not going to be efficient. So we should either be giving up or if we think our opponent is maybe open to
+folding hands like queen X, then maybe the allin size here when we do have jack high or king high is good, but we just
+need to be pretty confident in that assumption to make that bluff profitable. All right, example number six. We see a showdown where our
+opponent donked on the river with the nuts when the obvious draw came in. So let me show you. We open on the button
+flap middle set. We see bet. They call. Turn is a blank. So in general against the average live player, my default
+strategy here is just to over bet on this turn. Our opponent calls. Flush comes in on the river. Our opponent leads for half pot. Well, we've got a
+set. So we flick in the call and our opponent shows a seven of diamonds and
+we lose on this river. First of all, what can we say? Well, we can say that river dons from this opponent are going
+to include strong hands. Pretty obvious. What we can't say is that they're folding when they check the river. So,
+we want to be sure that we're not making the wrong conclusions. That may be a wrong conclusion. The right conclusion that we can make from the inverse here
+is when they check on the river, their range is a lot more cap. So, we can't say they're folding when they check on
+the river. But, we can say their range is more capp if they're just leading with their strong hands on this nutchanging river. What type of exploits
+can we make? Number one, the obvious one, we can just overfold when our opponent goes check, call, check, call, and then dons on a nut-changing river.
+If we know our opponent is not balanced with their donking range on the river, which hint hint, they're not, we can
+just be folding even when we have hands as strong as sets. Exploit number two, we want to bet much more thinly for
+value when they check on the river. So, let me show you. All right, six diamonds on this river and now our opponent checks. Well, if we know that they're
+going to be leading flushes here, we can make that inference. We saw them lead a flush on a nutchanging river. Even when
+we overbet on the turn, we just go much more thinly on this river, targeting hands like queen X or two pair. And we
+can just bet thinly for value with impunity, knowing that our opponent doesn't have enough flushes in their
+range to really punish us for this on this river. Exploit number three, we can just worry way less with bluffs about
+running into brick walls when they check on nutchanging rivers. So, let me show you. All right, so this time we have 10
+nine of clubs. We see bet on the flop. We over bet on the turn, picking up an open ender. We get to the river, which
+brings in the front door flush. And now our opponent checks here. Well, just like with value, we know that we can bet thinly because our opponent doesn't have
+enough flushes in their range. What does this mean when we have a brick draw on this river? Well, our opponent just probably doesn't have enough flushes in
+their range. And if our opponent isn't going to adjust and start hero calling us with one pair on this river, which
+hint hint, most opponents are not going to hero call you with one pair when the flush comes in on a river. What does
+this mean? Well, it means their range is kind of crippled and they have to make up for having a crippled range by
+calling with a bunch of weak hands. I just don't think that's happening. So, what we can do on this river when our opponent does not don is just apply the
+big boy overb bluffs knowing that they're not going to be able to hang on all that often. All right, next example.
+Let's say we see a showdown where our opponent checks back on the river where they have absolutely no showdown value and they even have a pretty good bluff
+combo. So, what does this mean? Let me show you. All right, so our opponent is going to open on the button. We defend queen nine of hearts. We flop a flush
+draw here. Our opponent see bets. We call. Turn pairs the board. We check. Our opponent goes big. So we just call
+here once again. River is a three. We check it over. Our opponent checks back.
+We flip over our hand and our opponent shows eight six of spades here. So they just give up on the river with eight
+high in the spot with a pretty good hand to run it with. What does this mean? Well, what we can say is that they are
+probably under bluffing on rivers, right? What we can't say is that they're overfolding or overalling if we bet. We
+don't necessarily know that. But the inverse here, we know they're under bluffing when they check back. So, what
+does that mean when they bet? When they bet the river, that means they are probably way too strong because they
+don't have enough bluffs in their range. So, what type of exploits can we make? Number one, when we check to them on the
+river and they bet, we should just be massively overfolding. pretty easy, right? They just don't have enough
+bluffs in the range. Number two, though, this is the interesting one. When we do have value, we should just be don leading ourselves. So, let me show you.
+Ace three of hearts in this spot. We defend. King 54. Our opponent C bets. For some reason, we're just playing
+super passive today. So, we call. Turn is a four. Pairing the board. Our opponent doubles big. We call and we
+make a straight on the river. So, in this spot, I would just be donk leading for a large size. And the reason why I
+would just be donk leading here is because our opponent is not going to put in money for us when they're bluffing.
+We saw them give up with eight high, that means they're under bluffing. So therefore, if we dunk and our opponent's
+going to call us with their value hands like king X. And if we check and our opponent is going to bet their value
+hands like king X, we're not losing value here from the bluffing parts of our opponent's range because our
+opponent's massively under bluffing. And the really cool thing here is number one, we can use a bigger size than what
+our opponents would use if we check to them and they bet. Well, they may just go like 150 or 200 here if they had a
+hand like aces or ace king or something like that. And if we check raise, well, I guess we could do that. But check raising actually maximizes fold equity.
+The other thing is if we check to our opponent and they're the type who's under bluffing, maybe they just check back sometimes with a hand like king
+queen or king jack or king 10 or something like that. But they would never fold if we just come out and donk
+the river ourselves when the draws brick. Against an opponent who is under bluffing, we kind of want to take
+control ourselves. And when we hit our hand, we just put in more money for them because generally they're not going to be putting in money for us enough. All
+right, there's one more exploit here, which I think is an interesting takeaway, which is not at all obvious. So, we can just be overalling, meaning
+calling way, way, way too much in a vacuum on turns when we have showdown value. So, what does this mean and why
+can we do it? 75 of diamonds. Our opponent opens. We call same flop. We call the C bet with middle pair. Turn is
+a deuce. We check. Our opponent goes a 100. And on this turn, we can be calling much more than equilibrium in a vacuum
+knowing that our opponent is not going to blow us off our equity on the river because they are under bluffing rivers.
+And if our opponent is under bluffing rivers, we know that if we call this turn, we check to our opponent and they
+bet on the river. Well, we just have clairvoyance. That means they probably just have a value hand. their range is going to be too strong and our
+opponent's going to allow us to realize when they have a bluff. So, we could just be calling on this turn way way way
+more than we should in a vacuum if we didn't have this exploit because our opponent's going to let us get to
+showdown way too much when they don't have showdown value themselves. So, we call here on the turn. River is a king.
+We check. Our opponent checks back and we are good here with 75 of diamonds. All right, next example. Let's bend the
+rules a little bit. Let's say we've seen a couple showdowns from this player and we've seen them just be super super aggro on the flop. They've checked on
+the flop both when they've had value and when they've had draws as well. So let me show you. So we open queen 10 off
+here on the button. This opponent defends in the big blind. Flop comes king 87. We see bet our opponent check raises. We've seen them check raise in a
+spot both when they have strong hands like 78 suited and maybe when they just have an open-end straight draw like 65
+of hearts or something like that. We've seen them be super super aggressive with both their value and their bluffs. So,
+what can we say here? Well, we can say our opponent is going to be more capped on turns in general. Both blank turns
+like the general player population. The general player population is capped on blank turns because they just fast play their value too much. But also on
+nutchanging turns, when straights come in, when fleshes come in, this player is going to be much more capped than the average player even on nutchanging turn
+cards because they play their draw so aggressively. What we can't say is that this player is going to overfold to triple barrels because they'll be
+capped. Well, they may just call too much. We don't know that, right? But what is the inverse? And this is always the most interesting takeaway for me.
+When they do check call on the flop, their range does not have enough draws in it. So what kind of exploits can we
+make? Number one, we can just consider not see betting our range. I may adjust against this particular player and maybe
+try to just give ourselves a really easy decision on the flop and see bet hands that are a very easy call to a check
+raise and see bet hands that are a very easy fold to a check raise. So maybe don't want to see bet those hands in the
+middle. So let me show you. So, if you have an ace high hand here, something with showdown like ace jack, or we have
+like an 8x hand here, a hand like ace8 or something like that, may consider just checking those back because those hands are kind of in a precarious spot
+in between calling and folding when we do get check raised. I'd be cbetting our strong hands all the time. Hands like
+king X, hands like two pair, etc. Very easy decision. If we get check raise, we call. I'd also be seating our super strong draws like our ace high flush
+draws or combo draws or stuff like that. Again, very easy decision. We can just call when they check raise. And then maybe some just air balls like this this
+queen 10. This may be a pretty good hand to see bet as well because if our opponent does check raise, well, we have
+a very easy decision. We fold. What we don't want to do is give ourselves a tough decision here with a hand that's kind of in between. I just make my life
+easy. Se bet the hands that are easy bet calls. Se bet the hands that are easy bet folds. Exploit number two. We could
+consider sizing up on nutchanging cards with both value and bluffs. So let me show you. So we see bet with queen 10
+here on the flop. Our opponent just check calls. Turn is a six of clubs. And against this particular opponent, I may
+just consider going with the big size here on this turn, knowing that our opponent is somewhat likely to check
+raise their strong flush draws, their straight draws, their combo draws on the flop. So, when we get to this flushing
+turn, they are just going to have way less flushes in their range than the typical player. And this player is way
+more capped than the typical live passive player. So, I may just be sizing up on these turns to start applying a
+ton of pressure right now to hands like king X 8x with a straight draw and then we can just plan on emptying the clip on
+a lot of rivers. Explate number three. When they do check raise, consider just calling with nutted hands. So, let me
+explain. Open sevens here. This time, we're going to get the same flop. We flop bottom set. We're going to see bet. Our opponent check raises. And this may
+be a spot I would consider just calling because our opponent is going to have a lot of bluffs in their range. Hands like
+open and straight draws, hands like flush draws. And sure, our opponent may just never fold if they have a combo draw here if we bet three bet. They may
+never fold if they have an ace high flush draw. But what about their hands that are just gut shots or six high straight draws or just the stiff ace of
+clubs with something else going on, right? against an aggressive player who's capable of putting in more money
+for us. We generally want to fast play less and just let them put in the money for us with both their value and their
+bluffs. So, I would consider just calling here. We're against a typical live player who's going to be raising too much of their strong stuff. I would
+just put in the bet three bet. All right, next example. And once again, we've seen a couple showdowns from this player to gather data on this particular
+player. We've seen them sebat the flop both when they have value and when they've completely missed, but they've
+checked back when they have a showdown value type hand. So, let me explain. All right, so this player opens on the
+button. We defend in the big blind with king jack. You didn't think I was going to let this video go the whole time without this flop, did you? We check it
+over. Our opponent checks back. Turn is a four. We put in the over bet. Our opponent calls for value. Rivers a
+deuce. Once again, we go big for value. Our opponent calls and our opponent has ace9 suited here in this spot. So, what
+we can say is our opponent's CB bet range is more polarized because they're just cbetting their value and their
+bluffs, but they are checking back when they have showdown value. What we can't say is that they're unbalanced towards
+value or bluffs. We don't necessarily know this just from seeing a couple showdowns. We know that they're checking back their showdown value. That's it.
+the inverse here. What we can say is when they do check back, their range is somewhat crippled. Because if they are
+cbetting their value on the flop, that means when they check back, well, their range is just going to be showdown
+value. It is super well- definfined and it is crippled because they just don't have the strongest hands in their range. So, what type of exploits can we make?
+Well, number one, when they see bet, we want to check raise the top of our range absolutely huge. So, let me explain why.
+So, we've got deuces here. Our opponent opens and we flop bottom set. Of course, we check it over. Our opponent see bets.
+And this is the spot where I would just go for the huge check raise cuz when we think about our opponent's range, if they're going to be checking back
+showdown value, what does that mean when they bet? They have hands like value and they have hands like air. Well, their air is not calling even if we check
+raise 2x or 3x, right? We're not going to be able to get the air to call. So, let's just target these strong inelastic
+portions of their range, their over pairs, their nut flush draws, their top pair top kicker, their combo draws, etc.
+Right? Target that portion of the range. go for the huge check raise. Exploit number two, we want to be careful about
+check raising in general, knowing that the range is going to be more polar on the flop. So, we want to let our semiluff check raises be led by equity,
+right? So, we're going to check raise our nutted or our super high equity draws, right? Our combo draws, kind of
+our draws that can cooler them if we do hit. So, our ace high flush draws, our big combo draws, our pair plus flush
+draws, etc. Be careful about overch checkck raising with the semibluffs in this spot because our opponent's range
+is more polar. Finally, explain number three. When the flop goes check check, we probably want to play an over bet or
+check strategy with no in between. So, let me show you. So, we've got king jack again, jack nine, deuce. Our opponent
+checks back. And on this offuit for turn, I'd be playing over bet or check.
+So, where would I over bet and where would I check? Well, generally on blank turns, I would go for the check here because if our opponent does have a hand
+like pocket 10s or 9x or something like that, they are generally going to start putting in money for us here. We can go
+for the check raise and just try to play a big pot against an opponent who's not going to believe us when we check twice.
+If the turn was a four of spades or something like that, I'd probably just come out and overb this hand ourselves.
+Our opponent is not going to just start monkey stabbing when they have 9x or pocket eights when the turn brings in
+the obvious draw. So by checking, our opponent's just going to check back a lot. We want to target their showdown value which check back the flop to call
+at least one bet. So if the turn was a flushing card, I may just come out and over bet myself. The important thing
+here is what we don't want to do is just come out and bet half pot or 3/4 pot, right? Why is that a mistake? Because
+when our opponent has a range that is just primarily showdown value, they check back the flop because they're not
+planning on folding the turn. So, either let them put in the bet themselves and go for the big boy check raise or put in
+an overb. It doesn't matter if we bet 15, 20, or 65 here. Our opponent isn't folding pocket 10s and ace9 even to a
+big bet. don't choose this half pot or 3/4 pot size on the turn after our opponent checks back and we know their
+range is showdown value. All right, guys. Hopefully, this video was illuminating and showed you how you can start exploiting the players in your
+player pool just by seeing one or two showdowns. Hope this turns you into the biggest boy possible. Thank you guys and
+have a gentle day.
