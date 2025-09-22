@@ -1,0 +1,223 @@
+{
+  "bet_sizing_rules": [
+    {
+      "rule_id": "flop_fast_play_sizing",
+      "source": "3. You're Sizing Bets Wrong",
+      "condition": "when opponents will fast play their strong hands",
+      "action": "choose the largest bet size that gets opponents to raise their strong hands and call with their weak hands",
+      "reasoning": "This allows you to get maximum value from your value bets and information from your bluffs.",
+      "street": "flop",
+      "priority": "high",
+      "examples": [
+        "example1",
+        "example2"
+      ]
+    },
+    {
+      "rule_id": "flop_capped_range_sizing",
+      "source": "3. You're Sizing Bets Wrong",
+      "condition": "when opponents won't fast play and their range is capped",
+      "action": "go large with value hands to target the bottom of their strong range, while mostly checking with bluffs to avoid running into a capped range on later streets",
+      "reasoning": "This divergent sizing allows you to get maximum value from your strong hands while avoiding getting exploited by their capped range.",
+      "street": "flop",
+      "priority": "high",
+      "examples": [
+        "example1",
+        "example2"
+      ]
+    },
+    {
+      "rule_id": "turn_fast_play_sizing",
+      "source": "3. You're Sizing Bets Wrong",
+      "condition": "when opponents will fast play their strong hands",
+      "action": "choose the largest size that gets them to raise their strong stuff and call with their weak stuff, for both value hands and bluffs",
+      "reasoning": "This allows you to get maximum value and information.",
+      "street": "turn",
+      "priority": "high",
+      "examples": [
+        "example1",
+        "example2"
+      ]
+    },
+    {
+      "rule_id": "turn_capped_range_sizing",
+      "source": "3. You're Sizing Bets Wrong",
+      "condition": "when opponents won't fast play but their range is capped",
+      "action": "target the bottom 10% of their strong range with large bets for both value and bluffs",
+      "reasoning": "This divergent sizing allows you to get maximum value from your strong hands while avoiding getting exploited by their capped range.",
+      "street": "turn",
+      "priority": "high",
+      "examples": [
+        "example1",
+        "example2"
+      ]
+    },
+    {
+      "rule_id": "turn_uncapped_range_sizing",
+      "source": "3. You're Sizing Bets Wrong",
+      "condition": "when opponents won't fast play and their range is uncapped",
+      "action": "use divergent sizing - value bets go large while bluffs mostly check to gather more information before committing",
+      "reasoning": "This allows you to target the bottom of their strong range with value while avoiding getting exploited by their uncapped range with bluffs.",
+      "street": "turn",
+      "priority": "high",
+      "examples": [
+        "example1",
+        "example2"
+      ]
+    },
+    {
+      "rule_id": "river_bluff_big_value_small",
+      "source": "3. You're Sizing Bets Wrong",
+      "condition": "when your bluffs want to go big, your value wants to go small, targeting weaker hands that will fold to aggression",
+      "action": "size your bluffs large and your value bets small",
+      "reasoning": "This divergent sizing allows you to maximize folds from your bluffs while still getting value from weaker hands.",
+      "street": "river",
+      "priority": "high",
+      "examples": [
+        "example1",
+        "example2"
+      ]
+    },
+    {
+      "rule_id": "river_bluff_small_value_big",
+      "source": "3. You're Sizing Bets Wrong",
+      "condition": "when your bluffs want to go small, your value wants to go big, targeting hands that won't fold to pressure",
+      "action": "size your bluffs small and your value bets large",
+      "reasoning": "This divergent sizing allows you to maximize value from your strong hands while still getting folds from your bluffs.",
+      "street": "river",
+      "priority": "high",
+      "examples": [
+        "example1",
+        "example2"
+      ]
+    },
+    {
+      "rule_id": "deep_stack_river_overbet",
+      "source": "3. You're Sizing Bets Wrong",
+      "condition": "when playing very deep-stacked",
+      "action": "consider going for massive river overbets with the nuts",
+      "reasoning": "Due to diminishing returns on smaller sizing, massive river overbets can sometimes be the most profitable play in deep-stack situations.",
+      "street": "river",
+      "priority": "medium",
+      "examples": [
+        "example1",
+        "example2"
+      ]
+    }
+  ],
+  "flop_guidelines": [
+    {
+      "guideline_id": "flop_fast_play_wet",
+      "source": "3. You're Sizing Bets Wrong",
+      "board_type": "wet",
+      "opponent_tendency": "fast_play",
+      "sizing_strategy": "choose the largest bet size that gets opponents to raise their strong hands and call with their weak hands",
+      "value_bluff_relationship": "same_size",
+      "position_considerations": "no position-specific adjustments needed"
+    },
+    {
+      "guideline_id": "flop_capped_range_dry",
+      "source": "3. You're Sizing Bets Wrong",
+      "board_type": "dry",
+      "opponent_tendency": "capped",
+      "sizing_strategy": "go large with value hands, mostly check with bluffs",
+      "value_bluff_relationship": "different_sizes",
+      "position_considerations": "no position-specific adjustments needed"
+    },
+    {
+      "guideline_id": "flop_multiway_pot_sizing",
+      "source": "3. You're Sizing Bets Wrong",
+      "board_type": "any",
+      "opponent_tendency": "any",
+      "sizing_strategy": "use smaller bet sizes in multi-way pots to incentivize opponents to raise and call",
+      "value_bluff_relationship": "same_size",
+      "position_considerations": "no position-specific adjustments needed"
+    }
+  ],
+  "turn_guidelines": [
+    {
+      "guideline_id": "turn_fast_play_scenario",
+      "source": "3. You're Sizing Bets Wrong",
+      "scenario": "opponents will fast play their strong hands",
+      "key_question": "will opponent fast play?",
+      "recommended_action": "choose the largest size that gets them to raise their strong stuff and call with their weak stuff, for both value hands and bluffs",
+      "size_guideline": "largest size that achieves desired response",
+      "multiway_considerations": "no additional multiway adjustments needed"
+    },
+    {
+      "guideline_id": "turn_capped_range_scenario",
+      "source": "3. You're Sizing Bets Wrong",
+      "scenario": "opponents won't fast play but their range is capped",
+      "key_question": "is opponent's range capped?",
+      "recommended_action": "target the bottom 10% of their strong range with large bets for both value and bluffs",
+      "size_guideline": "large bet sizes",
+      "multiway_considerations": "no additional multiway adjustments needed"
+    },
+    {
+      "guideline_id": "turn_uncapped_range_scenario",
+      "source": "3. You're Sizing Bets Wrong",
+      "scenario": "opponents won't fast play and their range is uncapped",
+      "key_question": "is opponent's range uncapped?",
+      "recommended_action": "use divergent sizing - value bets go large, bluffs mostly check",
+      "size_guideline": "large value bets, mostly check bluffs",
+      "multiway_considerations": "no additional multiway adjustments needed"
+    }
+  ],
+  "river_guidelines": [
+    {
+      "guideline_id": "river_bluff_big_value_small",
+      "source": "3. You're Sizing Bets Wrong",
+      "scenario_type": "bluff_big_value_small",
+      "opponent_range": "weak",
+      "sizing_strategy": "size bluffs large, value bets small",
+      "stack_depth_factors": "no additional stack depth considerations"
+    },
+    {
+      "guideline_id": "river_bluff_small_value_big",
+      "source": "3. You're Sizing Bets Wrong",
+      "scenario_type": "bluff_small_value_big",
+      "opponent_range": "strong",
+      "sizing_strategy": "size bluffs small, value bets large",
+      "stack_depth_factors": "no additional stack depth considerations"
+    },
+    {
+      "guideline_id": "river_medium_sizing",
+      "source": "3. You're Sizing Bets Wrong",
+      "scenario_type": "medium_sizing",
+      "opponent_range": "capped/uncapped",
+      "sizing_strategy": "value bets medium, bluffs medium",
+      "stack_depth_factors": "no additional stack depth considerations"
+    },
+    {
+      "guideline_id": "river_deep_stack_overbet",
+      "source": "3. You're Sizing Bets Wrong",
+      "scenario_type": "deep_stack",
+      "opponent_range": "any",
+      "sizing_strategy": "consider massive river overbets with the nuts",
+      "stack_depth_factors": "deep stack allows for profitable overbets"
+    }
+  ],
+  "general_principles": [
+    {
+      "principle_id": "align_value_bluff_sizing",
+      "source": "3. You're Sizing Bets Wrong",
+      "principle": "Align your value and bluff sizing based on your read of how your opponents will play their hands",
+      "application": "Adjust your sizing for value hands and bluffs based on whether opponents will fast play or have capped/uncapped ranges",
+      "exceptions": "None"
+    },
+    {
+      "principle_id": "divergent_sizing_for_value_bluffs",
+      "source": "3. You're Sizing Bets Wrong",
+      "principle": "Use divergent sizing for value hands and bluffs when opponents won't fast play and have capped or uncapped ranges",
+      "application": "Go large with value bets, small with bluffs when facing capped ranges; go large with value, check with bluffs when facing uncapped ranges",
+      "exceptions": "When opponents will fast play, use similar sizing for value and bluffs"
+    },
+    {
+      "principle_id": "smaller_sizing_multiway",
+      "source": "3. You're Sizing Bets Wrong",
+      "principle": "Use smaller bet sizes in multi-way pots to incentivize opponents to raise and call",
+      "application": "Adjust your flop and turn bet sizing smaller when facing multiple opponents",
+      "exceptions": "No exceptions, this principle applies generally"
+    }
+  ]
+}

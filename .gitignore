@@ -27,7 +27,7 @@ venv/
 .venv*/
 ENV/
 env/
-
+.venv312/*
 # UV
 .uv/
 

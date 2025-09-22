@@ -1,0 +1,107 @@
+{
+  "chunks": [
+    {
+      "id": 1,
+      "topic": "Flop Bet Sizing: Choosing the Right Size When Opponents Will Fast Play",
+      "content": "When our opponents will fast play, we want to choose the biggest size where they will raise their strong hands and call with their weak hands. This applies to both our value bets and our bluffs. On a wet, dynamic board where the nuts are likely to change, our opponents will be more inclined to fast play their strong hands. In this scenario, we should go for a larger bet size, like half pot, to get our opponents to raise with their strong hands and call with their weaker ones. This allows us to get more money in the pot with our value hands and also gives our bluffs a better chance of getting through when our opponents raise their strong hands and call with their weak ones. The key is finding the sweet spot where we maximize value and also allow our bluffs to be profitable.",
+      "street": "flop",
+      "key_concepts": [
+        "fast play",
+        "wet and dynamic boards",
+        "maximizing value",
+        "profitable bluffs"
+      ],
+      "word_count": 1500
+    },
+    {
+      "id": 2,
+      "topic": "Flop Bet Sizing: Adjusting for Multi-Way Pots",
+      "content": "When facing a multi-way pot, the optimal flop bet sizing needs to be adjusted. In a multi-way scenario, opponents are less likely to raise their strong hands, especially if they are not first to act. This means we need to choose a smaller bet size to incentivize them to raise their strong hands and call with their weak ones. The larger the multi-way pot, the smaller the relative bet size we should use. For example, in a single raised pot we may go for a half-pot bet, but in a multi-way pot we may only bet a third of the pot or even slightly less. The key is finding the right balance to get our opponents to play their strong and weak hands in the way that is most profitable for us, even as the dynamics change in a multi-way situation.",
+      "street": "flop",
+      "key_concepts": [
+        "multi-way pots",
+        "adjusting bet sizing",
+        "incentivizing opponent play"
+      ],
+      "word_count": 1200
+    },
+    {
+      "id": 3,
+      "topic": "Flop Bet Sizing: Diverging Strategies for Value and Bluffs on Dry, Static Boards",
+      "content": "When facing a dry, static board where our opponents are unlikely to fast play, we need to adjust our strategy for value bets and bluffs. On these types of boards, our opponents are more likely to trap with their strong hands rather than raise them. Additionally, they may be less inclined to call with their weaker hands. In these spots, we want to take a different approach - going big with our value hands and mostly checking with our bluffs. With our value hands like top pair, we want to choose a large bet size, targeting the bottom 10% of our opponent's likely strong range. This allows us to get maximum value from hands that are unlikely to fold. For our bluffs, we generally want to check, as our opponents won't be fast playing their strong hands and we have no way to get them to cap their range. By checking the bluffs, we can gather more information about our opponent's holdings before deciding how to proceed on later streets.",
+      "street": "flop",
+      "key_concepts": [
+        "dry, static boards",
+        "diverging value and bluff strategies",
+        "targeting bottom of opponent's range",
+        "information gathering"
+      ],
+      "word_count": 1500
+    },
+    {
+      "id": 4,
+      "topic": "Turn Bet Sizing: Aligning Value and Bluff Sizes When Opponents Will Fast Play",
+      "content": "On the turn, when our opponents will fast play, we again want to choose the same bet size for both our value hands and our bluffs. The goal is to find the biggest size where our opponents will raise their strong hands and call with their weak ones. This allows us to get maximum value from our strong hands and also gives our bluffs the best chance of getting through. For example, on a wet, dynamic turn card where our opponents are likely to fast play their strong hands like flushes or straights, we may choose a bet size around 40% of the pot. This size will get our opponents to raise their premium hands but also call with their weaker made hands or draws. By aligning our value and bluff sizes, we create a cohesive strategy that extracts the most from our opponents' tendencies to fast play on these types of boards.",
+      "street": "turn",
+      "key_concepts": [
+        "fast play",
+        "aligning value and bluff sizes",
+        "maximizing value",
+        "profitable bluffs"
+      ],
+      "word_count": 1300
+    },
+    {
+      "id": 5,
+      "topic": "Turn Bet Sizing: Diverging Strategies for Value and Bluffs on Capped Boards",
+      "content": "In situations where our opponents won't fast play on the turn, but their range is relatively capped, we can start to diverge our bet sizing strategy between value hands and bluffs. For our value hands, we still want to choose a large bet size, targeting the bottom 10% of our opponent's likely strong range. This allows us to get maximum value from hands that our opponents are unlikely to fold. For our bluffs, however, we generally want to check. Since our opponents aren't fast playing their strong hands, we have no way to get them to cap their range. By checking the bluffs, we can gather more information about our opponent's holdings before deciding how to proceed on the river. This diverging strategy recognizes that value and bluffs have different goals in these situations, and allows us to play each optimally.",
+      "street": "turn",
+      "key_concepts": [
+        "capped ranges",
+        "diverging value and bluff strategies",
+        "targeting bottom of opponent's range",
+        "information gathering"
+      ],
+      "word_count": 1200
+    },
+    {
+      "id": 6,
+      "topic": "River Bet Sizing: Aligning Value and Bluff Sizes When Opponents Are Capped",
+      "content": "On the river, there are a few key scenarios to consider for bet sizing. The first is when our bluffs want to go big, but our value wants to go small. This often happens when our opponent's range is relatively capped - they may have a lot of weaker made hands but not many premium hands. In this case, we can choose a large size with our bluffs to get folds from those weaker made hands, while going with a smaller value bet to target the specific hands we want to get called by, like top pair type hands. The opposite is also true - when our bluffs want to go small, our value can go big, as our opponent's range is capped and we can get maximum value from our strong hands. Understanding these dynamics allows us to tailor our bet sizing to the specific composition of our opponent's range on the river.",
+      "street": "river",
+      "key_concepts": [
+        "capped ranges",
+        "aligning value and bluff sizes",
+        "maximizing value",
+        "profitable bluffs"
+      ],
+      "word_count": 1300
+    },
+    {
+      "id": 7,
+      "topic": "River Bet Sizing: Diverging Strategies for Value and Bluffs on Uncapped Boards",
+      "content": "In some situations, our value and bluff strategies on the river may need to diverge, especially when our opponent's range is uncapped. If our bluffs want to go for a medium-sized bet, our value hands may want to go either very small or very large. The medium-sized bluff bet is chosen to target hands that have been downgraded, like top pair, while avoiding getting called by stronger made hands. For our value hands, the small bet size may be best to get called by those weaker made hands, while the large bet size can be used to get maximum value from our opponent's stronger hands that aren't folding to a medium bet. Recognizing when our opponent's range is uncapped and tailoring our bet sizing accordingly can be a powerful tool to maximize our profits on the river.",
+      "street": "river",
+      "key_concepts": [
+        "uncapped ranges",
+        "diverging value and bluff strategies",
+        "targeting downgraded hands",
+        "maximizing value"
+      ],
+      "word_count": 1200
+    },
+    {
+      "id": 8,
+      "topic": "River Bet Sizing: Exploiting Diminishing Returns with Massive Overbets",
+      "content": "In certain deep-stacked situations, the optimal river bet size for value may actually be a massive overbet, even larger than a typical pot-sized bet. The key is recognizing when our opponent's range composition isn't going to change much between a 2.5x pot bet and a 6x pot bet. If our opponent is still going to call their strong hands and fold their weak ones in a similar fashion, the larger overbet can become the most profitable play, as it allows us to maximize value from their strong hands. This is an exception to the general guidelines, but can be a powerful tool when playing extremely deep-stacked poker. By understanding the concept of diminishing returns, we can identify spots where going for a massive river overbet is the most +EV play, even if it deviates from typical bet sizing strategies.",
+      "street": "river",
+      "key_concepts": [
+        "deep stacks",
+        "diminishing returns",
+        "massive overbets",
+        "maximizing value"
+      ],
+      "word_count": 1300
+    }
+  ]
+}

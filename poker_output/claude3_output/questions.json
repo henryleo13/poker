@@ -1,0 +1,126 @@
+[
+  {
+    "id": "1",
+    "source_transcript": "Flop Bet Sizing: Choosing the Right Size Based on Opponent Tendencies",
+    "source_chunk_id": 1,
+    "question_type": "scenario",
+    "street": "flop",
+    "question": "You have a value hand on the flop and your opponent is known to fast-play their strong hands. What is the optimal bet size to get them to raise their strong hands and call with their weak hands?",
+    "scenario": {
+      "position": null,
+      "stack_size": null,
+      "board": null,
+      "action": null,
+      "hero_hand": null
+    },
+    "correct_answer": "You want to choose the largest bet size that will get your opponent to raise their strong hands and call with their weak hands. This allows you to get maximum value from your value bets and information from your bluffs.",
+    "key_concepts": [
+      "fast play",
+      "capped vs uncapped ranges"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "2",
+    "source_transcript": "Flop Bet Sizing: Choosing the Right Size Based on Opponent Tendencies",
+    "source_chunk_id": 1,
+    "question_type": "concept",
+    "street": "flop",
+    "question": "What is the key difference in flop bet sizing between a heads-up pot and a multi-way pot?",
+    "scenario": {
+      "position": null,
+      "stack_size": null,
+      "board": null,
+      "action": null,
+      "hero_hand": null
+    },
+    "correct_answer": "In a multi-way pot, smaller bet sizes are often better to incentivize opponents to raise and call, compared to a heads-up pot where larger bet sizes may be more appropriate.",
+    "key_concepts": [
+      "heads-up vs multi-way pots"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "3",
+    "source_transcript": "Turn Bet Sizing: Aligning Value and Bluff Sizing When Opponents Fast Play or Are Capped",
+    "source_chunk_id": 2,
+    "question_type": "scenario",
+    "street": "turn",
+    "question": "Your opponent is known to fast-play their strong hands on the turn. What is the optimal bet sizing strategy for both your value hands and your bluffs?",
+    "scenario": {
+      "position": null,
+      "stack_size": null,
+      "board": null,
+      "action": null,
+      "hero_hand": null
+    },
+    "correct_answer": "When opponents will fast play their strong hands, you want to choose the largest size that gets them to raise their strong stuff and call with their weak stuff - both for value hands and bluffs. This allows you to get maximum value and information.",
+    "key_concepts": [
+      "fast play",
+      "aligning value and bluff sizing"
+    ],
+    "difficulty": "intermediate"
+  },
+  {
+    "id": "4",
+    "source_transcript": "Turn Bet Sizing: Aligning Value and Bluff Sizing When Opponents Fast Play or Are Capped",
+    "source_chunk_id": 2,
+    "question_type": "concept",
+    "street": "turn",
+    "question": "Explain the difference in turn bet sizing strategy when your opponent's range is capped versus uncapped.",
+    "scenario": {
+      "position": null,
+      "stack_size": null,
+      "board": null,
+      "action": null,
+      "hero_hand": null
+    },
+    "correct_answer": "When opponents won't fast play but their range is capped, you can use a similar approach, targeting the bottom 10% of their strong range with large bets for both value and bluffs. However, when opponents won't fast play and their range is uncapped, your value and bluff sizing needs to diverge - value bets go large while bluffs mostly check to gather more information before committing.",
+    "key_concepts": [
+      "capped vs uncapped ranges",
+      "aligning value and bluff sizing"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "5",
+    "source_transcript": "River Bet Sizing: Leveraging Divergent Goals for Value and Bluffs",
+    "source_chunk_id": 3,
+    "question_type": "application",
+    "street": "river",
+    "question": "You have a strong value hand on the river, but your opponent's range is uncapped. What is the optimal bet sizing strategy?",
+    "scenario": {
+      "position": null,
+      "stack_size": null,
+      "board": null,
+      "action": null,
+      "hero_hand": null
+    },
+    "correct_answer": "When your bluffs want to go big, your value wants to go small, targeting weaker hands that will fold to aggression. This is the optimal strategy when your opponent's range is uncapped, as you want to target the bottom of their range with your value bets while using larger sizes to get the most folds from your bluffs.",
+    "key_concepts": [
+      "divergent value and bluff sizing",
+      "capped vs uncapped ranges"
+    ],
+    "difficulty": "advanced"
+  },
+  {
+    "id": "6",
+    "source_transcript": "River Bet Sizing: Leveraging Divergent Goals for Value and Bluffs",
+    "source_chunk_id": 3,
+    "question_type": "concept",
+    "street": "river",
+    "question": "Explain the concept of using massive river overbets with the nuts when playing deep-stacked.",
+    "scenario": {
+      "position": null,
+      "stack_size": null,
+      "board": null,
+      "action": null,
+      "hero_hand": null
+    },
+    "correct_answer": "When playing very deep-stacked, going for massive river overbets with the nuts can sometimes be the most profitable play, due to diminishing returns on smaller sizing. This allows you to extract the maximum value from your strongest hands.",
+    "key_concepts": [
+      "deep-stack river overbet sizing"
+    ],
+    "difficulty": "advanced"
+  }
+]

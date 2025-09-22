@@ -23,7 +23,7 @@ class Indexing(Pipeline):
     embedding_model = Parameter(
         "embedding-model",
         help="The model to use for generating embeddings.",
-        default="gemeni/text-embedding-004"
+        default="gemini/text-embedding-004"
     )
 
     @step
@@ -46,12 +46,12 @@ class Indexing(Pipeline):
             parts = relative_path.parts
             section = parts[0] if len(parts) > 1 else ""
 
-            file.append(
+            files.append(
                 {
                     "file": str(relative_path),
                     "content": text,
                     "section": section,
-                    "type": "markdown" if f.suffix == ".md" else "python",
+                    "type": "txt" if f.suffix == ".txt" else "python",
                 }
             )
 
@@ -64,7 +64,7 @@ class Indexing(Pipeline):
 
     @step
     def prepare_documents(self):
-        """Prepare the documents taht we'll add to the vector store."""
+        """Prepare the documents that we'll add to the vector store."""
         from langchain_core.documents import Document
 
         # Let's go through every entry in the DataFrame and create a Document object
@@ -72,12 +72,12 @@ class Indexing(Pipeline):
         self.documents = [
             Document(
                 page_content = d.content,
-                metadata = {"file":d.file, "section": d.section, "type": d.type),}
+                metadata = {"file": d.file, "section": d.section, "type": d.type}
             )
             for d in self.data.itertuples(index=False)
         ]
 
-        # To index the documents in the vector store, we neded to generate unique
+        # To index the documents in the vector store, we needed to generate unique
         # identifiers for each document. We can use the file path for this purpose
         # to ensure these identifiers are consistent across different runs.
         self.ids = [
@@ -98,10 +98,74 @@ class Indexing(Pipeline):
         # using LiteLLM
         self.custom_embedding_model = CustomEmbeddingModel(self.embedding_model)
 
-        #Since we don't know beforehand which embedding model we'll be using,
+        # Since we don't know beforehand which embedding model we'll be using,
         # let's infer the dimensions by generating an embedding and checking
         # it's length.
         self.embedding_dimensions = len(
             self.custom_embedding_model.embed_query("dimensions")
         )
-        
+
+        self.logger.info("Embedding dimensions: %d", self.embedding_dimensions)
+
+        self.next(self.create_vector_index)
+
+    @step
+    def create_vector_index(self):
+        """Create the vector store and index the list of documents."""
+        import faiss
+        from langchain_community.docstore.in_memory import InMemoryDocstore
+        from langchain_core.vectorstores import FAISS
+
+        self.logger.info("Creating FAISS vector store...")
+
+        # Let's create a FAISS vector store using the custom embedding model
+        # and the dimension of the index
+        self.vector_store = FAISS(
+            embedding_function=self.custom_embedding_model,
+            index=faiss.IndexFlatL2(self.embedding_dimensions),
+            docstore=InMemoryDocstore({}),
+            index_to_docstore_id={},
+        )
+
+        # Now, we can add the list of documents we prepared before.
+        self.vector_store.add_documents(
+            self.documents,
+            ids=self.ids,
+        )
+
+        self.next(self.similarity_search)
+
+    @step
+    def similarity_search(self):
+        """Perform a similiarity search to ensure everything works."""
+        query = "polarized"
+        self.logger.info('Similarity search: "%s"', query)
+
+        # Let's perform a similarity search and return the top 2 Markdown documents
+        results = self.vector_store.similarity_search(
+            query,
+            k=2,
+            # filter={"type": "markdown"},
+        )
+
+        for result in results:
+            self.logger.info(
+                "* File: %s. Section: %s. Type: %s", 
+                result.metadata["file"],
+                result.metadata["section"],
+                result.metadata["type"],
+            )
+
+        self.next(self.end)
+
+    @step
+    def end(self):
+        """Save the vector store to a local directory."""
+        # Let's save the index to a folder with the name of the embedding model. That
+        # way, we can have multiple versions of the index for different models.
+        self.vector_store.save_local(f"data/index/{self.embedding_model}")
+
+        self.logger.info("Indexing complete")
+
+if __name__ == "__main__":
+    Indexing()

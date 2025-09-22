@@ -25,5 +25,4 @@ root_agent = Agent(
     description="Agent that provides weather & time info",
     instruction="I can answer questions about weather or time in a city.",
     tools=[get_weather, get_current_time],
-    api_key="env:GOOGLE_API_KEY",
 )

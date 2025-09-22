@@ -3,7 +3,7 @@ name = "poker"
 version = "0.1.0"
 description = "Poker trainer and transcript processing application"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.12"
 dependencies = [
     "typing==3.7.4.3",
     "treys==0.1.8",
@@ -15,4 +15,6 @@ dependencies = [
     "python-dotenv>=1.0.0",
     "litellm>=1.57.0",
     "langchain-community>=0.3.0",
+    "metaflow>=2.18.7",
+    "asyncio>=4.0.0",
 ]
